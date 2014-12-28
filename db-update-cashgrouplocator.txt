@@ -1443,3 +1443,6 @@
 
 1040,-,Shell Tankstelle,Dargersdorfer Str. 69a,Templin,17268,53.1128600,13.5142000
 
+1041,-,Shell Tankstelle,Quintusstr. 75,Walsrode,29664,52.8664100,9.6094500
+1042,+,Shell Tankstelle,Teutopark 2,Lengerich,49525,52.201979,7.814598
+
