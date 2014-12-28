@@ -1,0 +1,402 @@
+# DB update file for Fast Food Restaurants
+# 
+# remarks:
+#   * latest db version in code: 23
+#
+#
+
+# file version
+1
+
+# number of records
+0
+
+24,+,McDonalds,Rothenburger Str. 72,Oberasbach,90522,49.434905,10.96675
+25,+,McDonalds,Mercatorstraße 17,Duisburg,47051,51.430063,6.773435
+26,+,Subway,Helvetiastraße 2,Groß-Gerau,64521,49.909768,8.497914
+27,+,Burger King,Helvetiastraße 1,Groß-Gerau,64521,49.910292,8.497549
+
+28,+,Nordsee,Marzahner Promenade 1,Berlin,12679,52.543183,13.542912
+29,+,Pizza Hut,Marzahner Promenade 1,Berlin,12679,52.542679,13.542535
+30,+,Imbiss,Marzahner Promenade 1,Berlin,12679,52.542666,13.542663
+31,+,Subway,Marzahner Promenade 1,Berlin,12679,52.542691,13.542438
+
+32,-,Pizza Hut,Märkische Allee,Berlin,12679,52.54361,13.54322000000002
+
+33,+,Kochloeffel,Lange Straße 57,Nienburg,31582,52.639795,9.20596
+
+34,+,Imbiss,Königsberger Straße 1,Berlin,12207,52.428544,13.324466
+
+35,+,McDonalds,Debyestraße 39,Aachen,52078,50.759695,6.153362
+
+36,-,Subway,Marburger Straße 79-81,Kreuztal,57223,50.9617,7.998299999999972
+37,-,Subway,Bruchstraße 39,Olpe,57462,51.02338,7.844439999999963
+
+38,+,Subway,Kammerforststraße 15,Bruchsal,76646,49.138189,8.56366
+
+39,+,KFC,Julius-Moser-Straße 6,Pforzheim,75179,48.901637,8.660504
+
+40,+,Subway,Friedrich-Ebert-Strasse 29,Wangen,88239,47.686472,9.838672
+
+41,+,Burger King,Lorcher Straße 141,Schwäbisch Gmünd,73529,48.793344,9.7742
+
+42,-,KFC,Ernestinenstraße,Essen,45141,51.46753,7.045219999999972
+
+43,+,Subway,Marktplatz 2,Heilbronn,74072,49.142259,9.218036
+44,+,Subway,Bahnhofstraße 30,Heilbronn,74072,49.142722,9.208425
+
+45,+,McDonalds,Bahnhofsplatz 12,Oldenburg,26122,53.144174,8.223255
+46,+,McDonalds,Wilhelmshavener Heerstraße 25,Oldenburg,26125,53.171685,8.229408
+
+47,-,Subway,Spandauer Straße,Falkensee,14612,52.56013,13.128079999999954
+48,+,Burger King,Lange Straße 89,Oldenburg,26122,53.142586,8.213237
+
+49,-,Subway,Kölner Straße 259,Gummersbach,51645,51.00377,7.576649999999972
+
+50,+,McDonalds,Spenrather Weg 11,Köln,50829,50.980359,6.845822
+51,+,Burger King,Venloer Str. 1379,Köln,50829,50.980535,6.845885
+
+52,-,Burger King,Kölner Straße 451A,Mülheim,45481,51.36343,6.863319999999931
+53,-,Burger King,Mellinghofer Straße 83-110,Mülheim,45473,51.44492,6.88456999999994
+
+54,+,Imbiss,Hauptstraße 11,Heubach,73540,48.791215,9.93477
+
+55,+,Croque Paris,Wasbeker Straße 74,Neumünster,24534,54.071025,9.972743
+56,+,McDonalds,Pastor-Schulze-Str. 4,Bad Zwischenahn,26160,53.182546,8.000005
+57,-,McDonalds,August-Moralt-Straße 1,Bad,83646,47.74819,11.565399999999954
+58,+,McDonalds,August-Moralt-Straße 1,Bad Tölz,83646,47.74819,11.565399999999954
+59,+,Burger King,Sachsenkamer Straße 29,Bad Tölz,83646,47.759915,11.57437
+
+60,-,Croque Paris,Hansaring 35,Neumünster,24534,54.07138,9.972690000000057
+61,-,Nordsee,Hohe Straße 1A,Wesel,46483,51.65746,6.621120000000019
+
+62,+,McDonalds,Bahnhofstraße 10,Wilhelmshaven,26382,53.519288,8.118245
+
+63,-,Subway,Am Sande 8-9,Lüneburg,21335,53.24735,10.409400000000005
+64,+,Subway,Altenbrückertorstr. 7,Lüneburg,21335,53.247843,10.417346
+
+65,-,McDonalds,Otto-Schmirgal-Straße 3,Berlin,10319,52.49765,13.522420000000011
+
+66,+,Burger King,Römerstraße 2a,Dingolfing,84130,48.63946,12.477218
+
+67,+,McDonalds,Zum Lappentascher Hof 18,Homburg,66424,49.328898,7.320499
+68,+,McDonalds,Talstraße 63,Homburg,66424,49.321821,7.338395
+69,+,Burger King,Zweibrücker Straße 67,Homburg,66424,49.314996,7.336121
+
+70,+,McDonalds,Werner-Voß-Damm 62,Berlin,12101,52.474651,13.366327
+
+71,+,KFC,Scheinfelder Str. 17,Geiselwind,96160,49.767871,10.47055
+
+72,-,Subway,Kohlmarkt 1,Lübeck,23552,53.86595,10.685069999999996
+
+73,-,Imbiss,Wittbräucker Straße 397,Dortmund,44267,51.4637,7.5236600000000635
+
+74,+,Subway,Äppelallee 116,Wiesbaden,65203,50.04361,8.210966
+
+75,-,Nordsee,Am Treptower Park 73,Berlin,12435,52.4912,13.45826999999997
+
+76,-,Subway,Elisabethenstraße 21,Darmstadt,64283,49.87025,8.650820000000067
+
+77,+,Imbiss,Hunsrück-Höhen-Straße 3,Nörtershausen,56283,50.237377,7.511644
+78,+,Imbiss,Moselufer,Brodenbach,56332,50.225139,7.437371
+79,+,Nordsee,Rasthof Katzenfurt,Ehringshausen,35630,50.62072,8.36242
+
+80,-,McDonalds,Warschauer Straße 85A,Berlin,10243,52.51481,13.454230000000052
+81,-,Subway,Schrannenplatz 5,Erding,85435,48.3062,11.907889999999952
+82,-,Nordsee,Teltower Damm 12-14,Berlin,14169,52.43354,13.259760000000028
+83,-,Burger King,Teltower Damm 35,Berlin,14169,52.43133,13.25936999999999
+
+84,+,Subway,Spitalweg 3,Dingolfing,84130,48.628963,12.499553
+
+85,+,KFC,Dircksenstraße 117,Berlin,10178,52.520703,13.412783
+
+86,-,KFC,Am Spörkel 2,Dortmund,44227,51.47852,7.428779999999961
+
+87,+,KFC,Hansestraße 83,Braunschweig,38112,52.310653,10.505998
+88,-,McDonalds,Münsterkirchhof 1,Hameln,31785,52.10192,9.35600999999997
+
+89,+,McDonalds,Zum Hansa-Center 4,Holdorf,49451,52.59803,8.117834
+
+90,+,KFC,Blaubeurerstr. 40,Ulm,89077,48.401929,9.973059
+
+91,+,Imbiss,Königsberger Straße 30-33,Berlin,12207,52.430647,13.316277
+
+92,+,Burger King,Europaplatz,Tübingen,72072,48.516392,9.056393
+
+93,-,Kochloeffel,Brückstraße 19,Neustadt,23730,54.10703,10.811950000000024
+94,-,Subway,Bei der Lohmühle 54,Lübeck,23554,53.87823,10.669370000000072
+
+95,+,Imbiss,Blutstraße 8,Parchim,19370,53.426884,11.846649
+
+96,+,Subway,Europaplatz 3,Tübingen,72072,48.516537,9.058506
+
+97,-,Burger King,Industriestraße 17,Rheinberg,47495,51.53607,6.60627999999997
+
+98,+,Burger King,Albaxer Straße 65,Höxter,37671,51.786818,9.387855
+
+99,+,McDonalds,Burgdorfer Straße 106,Lehrte,31275,52.387705,9.972885
+
+100,-,Nordsee,An der Autobahn 1,Greding,91171,49.04215,11.341819999999984
+101,-,Nordsee,E45,Greding,91171,49.04564,11.337880000000041
+102,+,Nordsee,An der Autobahn,Greding,91171,49.043167,11.341752
+103,-,McDonalds,An der Autobahn 1,Greding,91171,49.04215,11.341819999999984
+104,+,McDonalds,An der Autobahn,Greding,91171,49.042907,11.342975
+
+105,+,Burger King,Autobahnring,Feldkirchen,85622,48.123175,11.759801
+
+106,+,Nordsee,Theaterplatz 12,Bonn,53177,50.683958,7.154028
+
+107,+,Subway,Dr.-Seeling-Straße 22-24,Weiden,92637,49.663496,12.152592
+
+108,-,McDonalds,Friedrichstraße 6,Fürth,90762,49.47318,10.991049999999973
+
+109,-,KFC,Elly-Beinhorn-Straße 8001,Augsburg,86167,50.13612,8.557479999999941
+
+110,-,Pizza Hut,Bahnhofplatz 15,Ulm,89073,48.399,9.983799999999974
+
+111,-,Burger King,Großbeerenstraße 2-4,Berlin,12107,52.43918,13.381349999999998
+
+112,+,Burger King,An der Lutter 22,Göttingen,37075,51.556154,9.939309
+
+113,-,Burger King,Elisabethenstraße 23,Darmstadt,64283,49.87022,8.650629999999978
+114,+,Pizza Hut,Elisabethenstraße 23,Darmstadt,64283,49.870274,8.650694
+115,+,Subway,Elisabethenstraße 21,Darmstadt,64283,49.870292,8.65072
+
+116,-,Burger King,Winsener Stieg,Hamburg,21075,53.42183,9.981499999999983
+
+117,+,Burger King,Carl-Benz-Straße 1,Bornheim,53332,50.760965,7.027982
+
+118,+,Burger King,Am Eifeltor 1,Köln,50997,50.887795,6.924626
+119,+,Nordsee,Hürth Park Theresienhöhe,Hürth,50354,50.879014,6.873171
+120,+,Subway,Hürth Park Theresienhöhe,Hürth,50354,50.878677,6.875175
+
+121,+,McDonalds,Kölner Straße 200,Frechen,50226,50.914851,6.832385
+122,+,Burger King,Ville Ost BAB 1,Hürth,50354,50.857134,6.806137
+123,+,KFC,Dürener Straße 421,Köln,50858,50.919556,6.85189
+
+124,-,Subway,Höhne 20,Wuppertal,42275,51.26994,7.199600000000032
+125,-,McDonalds,August-Bebel-Damm,Magdeburg,39126,52.17185,11.663990000000013
+126,-,McDonalds,Körbelitzer Straße 1,Magdeburg,39126,52.17119,11.663360000000011
+
+127,-,Nordsee,Wilhelmsruher Damm 121,Berlin,13439,52.59674,13.356739999999945
+128,-,Subway,Westernstraße 45,Paderborn,33098,51.71565,8.74685999999997
+
+129,+,McDonalds,Am Katzenbaumerschlag 2,Schifferstadt,67105,49.385989,8.392149
+
+130,+,Subway,Nikolaus-Fässler-Straße 2,Hohberg,77656,48.440325,7.927558
+
+131,-,Pizza Hut,Gustav-Böhrnsen-Straße,Hamburg,20359,53.11115,8.75121999999999
+132,+,Pizza Hut,Martinistraße 72-74,Bremen,28195,53.078307,8.800834
+133,+,Pizza Hut,AG-Weser-Straße 3,Bremen,28237,53.111471,8.750819
+134,+,McDonalds,Bahnhofplatz 1,Koblenz,56075,50.350556,7.58928
+
+135,+,McDonalds,Im Breitspiel 28,Heidelberg,69126,49.359635,8.688149
+
+136,+,KFC,Am Schindberg 1,Bischofsheim,65474,49.975997,8.377029
+
+137,+,KFC,Merkurstraße 23,Kaiserslautern,67663,49.44278,7.726176
+138,-,McDonalds,L236,Seibersbach,55444,49.92432,7.826249999999959
+139,+,McDonalds,Auf dem Stein 2,Waldlaubersheim,55444,49.925287,7.823477
+
+140,+,Subway,Ottoplatz 2,Köln,50679,50.93934,6.97443
+141,+,Nordsee,Münchener Straße 36,Rosenheim,83022,47.853458,12.121991
+
+142,+,Subway,Kulmbacher Straße 5,Himmelkron,95502,50.054075,11.616454
+
+143,+,Subway,Erwitter Straße 113,Lippstadt,59557,51.657106,8.343928
+144,+,Imbiss,Beckumer Straße 2,Lippstadt,59555,51.679155,8.340315
+145,+,Imbiss,Nordstraße 56a,Lippstadt,59555,51.678774,8.341004
+146,+,Imbiss,Cappelstraße 48,Lippstadt,59555,51.673377,8.343069
+147,+,Imbiss,Cappelstraße 31,Lippstadt,59555,51.674358,8.343139
+
+148,-,Burger King,Kortumstraße 48,Bochum,44787,51.47888,7.217020000000048
+
+149,-,McDonalds,Weststraße 40,Hamm,59065,51.68071,7.815330000000017
+
+150,+,McDonalds,Nollesweg 2,Niederkrüchten,41372,51.212415,6.134442
+
+151,+,Subway,Oststraße 2,Leipzig,04317,51.331973,12.395845
+
+152,-,Subway,Weierstraße 100,Oberhausen,46149,51.52075,6.830010000000016
+
+153,+,KFC,Bei der Lohmühle 84,Lübeck,23554,53.878858,10.671305
+154,-,Subway,Roßmarkt 8-10,Aschaffenburg,63739,49.976,9.14873
+155,-,Burger King,B44,Büttelborn,64572,49.91077,8.497989999999959
+156,-,McDonalds,Melchiorstraße 2A,Frankfurt,65929,50.10106,8.549229999999966
+157,+,Burger King,Burgstraße 7,Rotenburg,27356,53.107405,9.39761
+
+158,+,Subway,Pommernstraße 4,Neutraubling,93073,48.982498,12.190992
+159,-,Burger King,Bahnstraße 5,Düren,52355,50.78832,6.469119999999975
+
+160,-,Pizza Hut,Hebelstraße 3,Heidelberg,69115,49.3972,8.682500000000005
+161,+,Pizza Hut,Hebelstraße 3,Heidelberg,69115,49.3972,8.68249000000004
+
+162,-,Subway,Holtenauer Straße 54,Kiel,24105,54.32996,10.132119999999986
+
+163,+,Imbiss,Dorlarer Str. 5a,Lahnau,35633,50.585008,8.55281
+
+164,-,Imbiss,Marktweg 10,Faßberg,29328,52.90112,10.17062999999996
+
+165,-,KFC,Waisenhausstraße 8,Dresden,01067,51.04625,13.735050000000001
+
+166,-,Subway,Werner-von-Siemens-Straße 1,Traunreut,83301,47.9662,12.589889999999968
+
+167,+,Burger King,Borsigstrasse 16,Neu-Ulm,89231,48.395413,10.0162
+
+168,+,McDonalds,Wendenschloßstr. 2,Berlin,12559,52.447823,13.593015
+169,-,Pizza Hut,Hauptstraße 10A,Neuenkirchen,17498,54.10501,13.34782999999993
+
+170,+,Kochloeffel,Gerberstr. 28,Landau,76829,49.197396,8.114194
+
+171,-,McDonalds,Großflecken 35,Neumünster,24534,54.07177,9.986830000000054
+
+172,+,KFC,Schiffenberger Weg 109a,Gießen,35394,50.572055,8.690118
+
+173,-,Subway,Harmoniestraße 35,Mönchengladbach,41236,51.16622,6.44353000000001
+174,-,Subway,Hindenburgstraße 69,Mönchengladbach,41061,51.19404,6.4368899999999485
+
+175,+,KFC,Flomersheimer Str. 17,Ludwigshafen-Oggersheim,67071,49.491086,8.354756
+176,+,KFC,Möhlstraße 3,Mannheim,68165,49.475946,8.488201
+
+177,-,Pizza Hut,Hebelstraße 3,Heidelberg,69115,49.3972,8.68249000000004
+
+178,+,McDonalds,Dr.-Seeling-Straße 11,Weiden,92637,49.665307,12.154022
+
+179,-,Subway,Gabelsbergerstraße 77,München,80333,48.14934,11.56167000000005
+
+180,-,Nordsee,Hohe Straße 81,Köln,50667,50.93741,6.9562100000000555
+181,-,Nordsee,Schildergasse 114-118,Köln,50667,50.93647,6.950180000000046
+182,-,Nordsee,Rathausgasse 44,Freiburg,79098,47.99619,7.8478000000000065
+183,-,Nordsee,Joseph-von-Eichendorff-Gasse 1,Berlin,10785,52.50756,13.374580000000037
+184,-,Nordsee,Wilmersdorfer Straße 117,Berlin,10627,52.50783,13.30639999999994
+185,-,Nordsee,Frankfurter Allee 53,Berlin,10247,52.51491,13.465090000000032
+186,-,Nordsee,Wustrower Straße 10,Berlin,13051,52.56494,13.504400000000032
+187,-,Nordsee,Kinzerallee 16,Berlin,12555,52.45455,13.576009999999997
+188,-,Nordsee,Sonnenstraße 17,München,80331,48.13674,11.56529999999998
+189,-,Nordsee,Bahnhofplatz 7,München,80335,48.14054,11.561320000000023
+190,-,Nordsee,Franzstraße 1,München,80802,48.161,11.586430000000064
+191,-,Nordsee,Lackerbauerstraße 5,München,81241,48.13947,11.465979999999945
+192,-,Nordsee,Thorner Straße 12,München,80993,48.18672,11.520099999999957
+
+193,+,Nordsee,Spitalgasse 9,Coburg,96450,50.259056,10.964752
+194,+,Nordsee,Maximillianstr. 24,Speyer,67346,49.317485,8.437239
+195,+,Nordsee,Hertzstr. 1,Heidelberg,69126,49.36752,8.68531
+196,+,Nordsee,Gerber-/Ecke Kronstr. 26,Landau,76829,49.19707,8.1136
+197,+,Nordsee,Wormser Str. 5a,Frankenthal,67227,49.5361,8.354174
+198,+,Nordsee,Robert-Schumann-Straße,Viernheim,68519,49.527057,8.566903
+199,+,Nordsee,Hauptstr. 20,Heidelberg,69117,49.41006,8.69555
+200,+,Nordsee,Hauptstr. 40,Heidelberg,69117,49.41023,8.69688
+201,+,Nordsee,Rathausplatz 20,Ludwigshafen,67059,49.484608,8.443008
+202,+,Nordsee,Im Zollhof 4,Ludwigshafen,67061,49.484398,8.448867
+203,+,Nordsee,Willy-Brand-Platz 15-17,Mannheim,68161,49.487459,8.466039
+204,+,Nordsee,Mannheimer Str. 111,Bad Kreuznach,55543,49.84367,7.85994
+205,+,Nordsee,Europa-Allee 6,Frankfurt,60327,50.109067,8.649574
+206,+,Nordsee,Nidacorso 8,Frankfurt am Main,60439,50.110922,8.682127
+207,+,Nordsee,Tituscorso 6,Frankfurt,60439,50.110922,8.682127
+208,+,Nordsee,Borsigallee 26,Bergen-Enkheim,60388,50.142218,8.752692
+209,+,Nordsee,Große Marktstr. 15,Offenbach,63065,50.104281,8.763015
+210,+,Nordsee,Markt im Bahnhof,Frankfurt,60329,50.110922,8.682127
+211,+,Nordsee,Domstr. 9-11,Frankfurt,60311,50.111766,8.684181
+212,+,Nordsee,Hasengasse 23,Frankfurt,60311,50.113935,8.683462
+213,+,Nordsee,Louisenstr. 38,Bad Homburg,61348,50.22798,8.61441
+214,+,Nordsee,Hohenfelder Str. 22,Koblenz,56068,50.35757,7.59104
+215,+,Nordsee,Casinostraße / Luisenstraße,Koblenz,56068,50.357326,7.5962
+216,+,Nordsee,Aachener Strasse 1253,Köln,50858,50.938024,6.836157
+217,+,Nordsee,Kalker Hauptstr. 55,Köln,51103,50.937516,6.99772
+218,+,Nordsee,Schildergasse 110,Köln,50667,50.93657,6.950283
+219,+,Nordsee,Apostelnstr. 2,Köln,50667,50.93698,6.945303
+220,+,Nordsee,Kaiserstr. 2a,Siegburg,53721,50.797706,7.20827
+221,+,Nordsee,Neuer Markt 1,Villingen-Schwenningen,78052,48.08251,8.49802
+222,+,Nordsee,Wilhelm-Str. 8,Reutlingen,72764,48.494131,9.209738
+223,+,Nordsee,Tilsiter Str. 15,Sindelfingen,71065,48.7035,9.03168
+224,+,Nordsee,Stern-Center,Sindelfingen,71063,48.707456,9.004405
+225,+,Nordsee,Leonberg Str. 98-108,Leonberg,71229,48.796045,9.009571
+226,+,Nordsee,Pliensaustr. 33,Esslingen,73728,48.738784,9.304786
+227,+,Nordsee,Arnulf-Klett-Platz 2,Stuttgart,70173,48.7838,9.18035
+228,+,Nordsee,Schulstr. 10a,Stuttgart,70173,48.77589,9.17722
+229,+,Nordsee,Rathausgasse 40,Freiburg,79098,47.996165,7.847934
+230,+,Nordsee,Salzstr. 1,Freiburg,79098,47.994677,7.850429
+231,+,Nordsee,Grunerstr. 20,Berlin,10179,52.51998,13.41475
+232,+,Nordsee,Alte Potsdamer Str. 7,Berlin,10785,52.50823,13.37473
+233,+,Nordsee,Wilmersdorfer Str. 46,Berlin,10627,52.509274,13.304722
+234,+,Nordsee,Frankfurter Allee 111,Berlin,10247,52.513962,13.474046
+235,+,Nordsee,Prerower Platz 1,Berlin,13051,52.520007,13.404954
+236,+,Nordsee,Bahnhofstr. 33-38,Berlin,12555,52.457985,13.578773
+237,+,Nordsee,Döberitzerweg 3,Dallgow,14624,52.542086,13.059062
+238,+,Nordsee,Babelsberger Strasse,Potsdam,14473,52.392738,13.067438
+239,+,Nordsee,Nuthestrasse,Potsdam,14480,52.381009,13.100611
+240,+,Nordsee,Chausseestr. 1,Wildau,15745,52.315092,13.605916
+241,+,Nordsee,Logenstr. 8,Frankfurt/Oder,15230,52.34212,14.55184
+242,+,Nordsee,Am Elbepark 1,Hermsdorf,39326,52.18008,11.48168
+243,+,Nordsee,Olvenstedter Graseweg 37,Magdeburg,39128,52.15946,11.6091
+244,+,Nordsee,Ernst-Reuter-Allee 11,Magdeburg,39104,52.1298,11.63921
+245,+,Nordsee,Leopoldstr. 82,München,80802,48.16106,11.5867
+246,+,Nordsee,Pasinger Bahnhofsplatz 5,München,81241,48.14896,11.461819
+247,+,Nordsee,Bäckerstr. 7,München,81241,48.147466,11.461513
+248,+,Nordsee,Riesstraße 59,München,80993,48.183367,11.53671
+
+249,-,Nordsee,Prerower Platz 1,Berlin,13051,52.520007,13.404954
+250,+,Nordsee,Prerower Platz 1,Berlin,13051,52.563465,13.505069
+
+251,-,Subway,Josef-Schregel-Straße 3-5,Düren,52349,50.80556,6.482729999999947
+
+252,-,Burger King,Im Gewerbegebiet 2,Brandenburg,14778,52.28967,12.465109999999981
+
+253,-,Nordsee,Alter Markt 17,Kiel,24103,54.32299,10.139369999999985
+
+254,-,Subway,Elisabethstraße,Düsseldorf,40217,51.2083,6.776849999999968
+
+255,-,Pizza Hut,Gänsemarkt 45,Hamburg,20354,53.5554,9.988299999999981
+256,-,Pizza Hut,Kirchenallee 35,Hamburg,20099,53.553,10.008299999999963
+
+257,+,KFC,Glockengießerwall 8-10,Hamburg,20095,53.552908,10.005701
+
+258,-,Subway,Friedrichsring 28,Mannheim,68161,49.48677,8.475590000000011
+
+259,-,Subway,Gewerbestraße 23,Varel,26316,53.39888,8.12148000000002
+
+260,+,Subway,Auf dem Linnes,Erlensee,63526,50.182232,9.006245
+261,+,McDonalds,Auf dem Linnes,Erlensee,63505,50.182483,9.007766
+
+262,+,McDonalds,Piepengraben 9,Bremen,28239,53.137912,8.741060
+263,+,Subway,Schragestraße 4,Bremen,28239,53.138204,8.742430
+
+264,-,Subway,Bürgermeister-Smidt-Straße 2,Bremerhaven,27568,53.54142,8.580339999999978
+265,-,Subway,Johannes-Gutenberg-Straße,Cuxhaven,27472,53.86125,8.697630000000004
+
+266,-,Subway,Bäckerstraße 41,Hameln,31785,52.10216,9.35597000000007
+
+267,+,Subway,Bodenseestraße 238,München,81249,48.143048,11.422921
+268,+,Subway,Bahnhofsplatz 4,Germering,82110,48.129406,11.364204
+269,+,Subway,Pasinger Bahnhofsplatz 5,München,81241,48.148964,11.461880
+
+270,-,Burger King,Hauptstraße 515A,Krefeld,47809,51.31156,6.632429999999999
+271,+,Imbiss,Ribnitzer Straße 24,Berlin,13051,52.569957, 13.496158
+
+272,+,Subway,Hans-Bredow-Straße 9,Bremen,28307,53.051814,8.961166
+
+273,-,Subway,Robert-Bosch-Straße 2-4,Münster,48153,51.933487,7.631794
+
+274,+,McDonalds,Robert-Bürkle-Straße,Ismaning,85737,48.231539,11.688291
+
+275,+,Subway,Regensburger Straße 75,Schwandorf,92421,49.312547,12.097544
+
+276,+,McDonalds,Am Bühlfeld 1,Giengen,89537,48.615006,10.206157
+
+277,+,Subway,Steinheimer Straße 3,Heidenheim an der Brenz,89518,48.679337,10.126677
+
+278,+,Subway,Großer Graben 7,Walsrode,29664,52.861244,9.589431
+
+279,+,Subway,Haunstetter Straße 2,Königsbrunn,86343,48.292644,10.897720
+
+280,-,Burger King,L61,Mechernich,53894,50.58969,6.6638399999999365
+
+281,-,McDonalds,Annaberger Straße 315,Chemnitz,09125,50.79657,12.920619999999985
+
+282,-,Subway,Pferdemarkt 7,Bottrop,46236,51.52151,6.922919999999976
+
+283,-,McDonalds,Zusestraße,Kirchseeon,85614,48.04211,11.661190000000033
+284,+,McDonalds,Zusestraße 3,Brunnthal,85614,48.04211,11.661190000000032
+
+285,+,Imbiss,Osloer Str. / Ecke Prinzenallee,Berlin,13359,52.555953,13.384034
+

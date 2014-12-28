@@ -1,0 +1,1445 @@
+# DB update file for Cash Group Automaten
+# 
+# remarks:
+#   * latest db version in code: 23
+#
+#
+
+# file version
+1
+
+# number of records
+0
+
+24,-,Postbank,Ernst-Kamieth-Str. 2b,Halle a.d. Saale,06112,51.4754,11.9867
+25,-,Hypovereinsbank,Fürstenrieder Str. 62,München,80687,48.1379,11.5192
+26,-,Postbank,Görzallee 189-223,Berlin-Steglitz,14167,52.4527,13.3308
+
+27,-,Commerzbank,Stresemannstr. 4,Bielefeld,33602,52.0248,8.53285
+28,-,Commerzbank,Hauptstr. 53,Bielefeld,33647,51.9884,8.51346
+
+29,-,Postbank,Blaue Wiese 20,Barth,18356,54.3578,12.7157
+
+30,-,Commerzbank,Bürgermeister-Smidt-Str. 41-43,Bremerhaven,27568,53.5434,8.57946
+
+31,-,Postbank,Webergasse 1,Dresden,01067,51.0309,13.7481
+32,-,Postbank,Alter Markt 4,Stralsund,18439,54.3166,13.0902
+33,-,Postbank,Müllerstr. 127,Berlin,13349,52.5527,13.3476
+
+34,-,Commerzbank,Franz-Mehring-Str. 23,Frankfurt (Oder),15230,52.3423,14.5462
+
+35,-,Commerzbank,Joachim-Gottschalk-Weg 21,Berlin,12353,52.4228,13.4752
+
+36,-,Deutsche Bank,Bachstr. 4,Geseke,59590,51.6412,8.51061
+37,-,Commerzbank,Hofweg 96,Hamburg,22085,53.5743,10.0142
+
+38,-,Commerzbank,Brückengasse 12,Wertheim,97877,49.76,9.51659
+
+39,-,Postbank,Ostseestr. 107-111,Berlin,10409,52.5465,13.4431
+
+40,-,Deutsche Bank,Scheurenstr. 59,Düsseldorf,40215,51.2148,6.78713
+41,-,Postbank,Lietzenburger Str. 93-95,Berlin,10719,52.4996,13.3199
+42,+,Berliner Bank,Augustenburger Platz 1,Berlin,13353,52.54234,13.34827
+
+43,+,Deutsche Bank,Jasmunder Straße 7,Binz,18609,54.40019,13.609045
+44,-,Commerzbank,Bahnhofstr. 8,Wesseling,50389,50.825,6.98127
+45,-,Shell Tankstelle,Lüssumer Str. 9,Bremen,28779,53.1841800,8.5787200
+46,+,Shell Tankstelle,Tübinger Str. 130,Neckartailfingen,72666,48.606483,9.257665
+47,-,Commerzbank,Myliusstr. 5,Ludwigsburg,71638,48.8937,9.18737
+
+48,+,Deutsche Bank,Residenzstr. 115-116,Berlin,13409,52.565082,13.363988
+
+49,-,Commerzbank,Eschstr. 28a,Bünde/Westf.,32257,52.1978,8.58421
+50,-,Shell Tankstelle,Schöneicher Allee 1,Fredersdorf,15370,52.5142100,13.7458600
+
+51,-,Shell Tankstelle,Stendaler Str. 176,Berlin,12627,52.543988,13.603574
+
+52,+,Shell Tankstelle,Am Kiesgraeble 2,Langenau,89129,48.493056,10.107931
+
+53,-,Postbank,Karl-Liebknecht-Str. 138,Potsdam-Babelsberg,18482,52.3884,13.1216
+54,+,Postbank,Karl-Liebknecht-Str. 138,Potsdam-Babelsberg,14482,52.391473,13.090773
+55,-,Commerzbank,Theaterplatz 5,Bonn-Bad Godesberg,53177,50.6835,7.15427
+56,-,Commerzbank,Tauentzienstr. 9,Berlin,10789,52.5039,13.3377
+
+57,-,Commerzbank,Torgauer Str.,Eilenburg,04838,51.4608,12.6372
+58,-,Postbank,Am Anger 1-2,Eilenburg,04838,51.4572,12.6332
+59,-,Commerzbank,Georgiring 3,Leipzig,04103,51.3401,12.3827
+
+60,-,Commerzbank,Am Bahnhof 1,Bad Soden,65812,50.1432,8.50303
+
+61,-,Shell Tankstelle,Lisdorfer Str.,Saarlouis,66740,49.3106500,6.7550400
+
+62,-,Commerzbank,Kaiser-Friedrich-Ring 3-5,Saarlouis,66740,49.3126,6.75343
+63,-,Deutsche Bank,Galerie Kleiner Markt 1,Saarlouis,66740,49.314,6.75315
+64,-,Shell Tankstelle,Hauptstr. 1,Wallerfangen,66798,49.3278400,6.7208000
+
+65,-,Commerzbank,Heusenstammer Str. 33,Obertshausen,63179,50.0696,8.84753
+66,+,Shell Tankstelle,Oslebshauser Tor 5,Bremen,28239,53.137226,8.740619
+67,+,Postbank,Waller Heerstraße 259,Bremen,28219,53.107759,8.775096
+
+68,-,Commerzbank,Brüderstr. 16,Soest,59494,51.5737,8.10603
+69,-,Postbank,Kartäuserwall 26-28,Köln,50678,50.9238,6.95484
+70,+,Postbank,Kartäuserwall 7-17,Köln,50678,50.92206,6.958355
+71,+,Postbank,Lindenstr. 11-13,Bitterfeld,06749,51.623552,12.322822
+
+72,-,Commerzbank,Lockwitzer Str. 9,Dresden,01219,51.0263,13.7609
+73,-,Shell Tankstelle,Neue Nördlinger Str. 10,Bopfingen,73441,48.8585500,10.3564500
+74,+,Postbank,Nebelhornstr. 51-53,Oberstdorf,87561,47.406609,10.284952
+
+75,-,Commerzbank,Klenzestr. 51,München,80469,48.1299,11.5732
+
+76,-,Postbank,Kantstr. 46,Berlin,10625,52.5066,13.3117
+
+77,-,Deutsche Bank,Barbarossaplatz 7,Köln,50674,50.929257,6.941382
+
+78,-,Commerzbank,Wittener Str. 220,Bochum,44803,51.4718,7.24612
+
+79,-,Commerzbank,Kurhausplatz 1,Wiesbaden,65189,50.0852,8.24731
+80,-,Commerzbank,Theodor-Heuss-Allee 100,Frankfurt,60486,50.1151,8.62998
+81,-,Postbank,Bürgermeister-Smidt-Str. 50-64,Bremerhaven,27568,53.544,8.57801
+
+82,-,Commerzbank,Oststr. 61-65,Hamm,59065,51.6831,7.82466
+
+83,-,Postbank,Holzhäuser Str. 110,Leipzig,04299,51.3192,12.4251
+
+84,-,Commerzbank,Olbernhauer Str. 5,Chemnitz,09125,50.7947,12.9222
+85,-,Shell Tankstelle,Nymphenburger Str. 57-59,München,80335,48.1495300,11.5480000
+86,-,Commerzbank,Nymphenburger Str. 158,München,80634,48.1529,11.5345
+
+87,-,Postbank,Winthirstr. 4-6,München,80639,48.1533,11.5314
+88,+,Postbank,Winthirstr. 4-6,München,80639,48.1533,11.531519
+
+89,-,Shell Tankstelle,AH Albert Schaffhauser Straße 17,Hüfingen,78183,47.9217400,8.4911200
+90,-,Hypovereinsbank,Marktplatz 9E,Neufahrn,85375,48.3168,11.6602
+91,-,Deutsche Bank,Fritz-Reuter-Allee 173,Berlin,12359,52.438,13.4474
+92,-,Commerzbank,Bramfelder Chaussee 264,Hamburg,22177,53.615,10.0763
+
+93,-,Commerzbank,Stuttgarter Str. 10,Böblingen,71032,48.6863,9.01567
+94,-,Postbank,Otto-Lilienthal-Str. 8-16,Böblingen,71034,48.6859,8.99195
+
+95,-,Postbank,Dammtorstr. 14,Hamburg,20354,53.5573,9.98838
+96,-,Hypovereinsbank,Landsberger Str. Str.,München,80687,48.1379,11.5192
+97,-,Hypovereinsbank,Landsbergerstr. 494,München,81241,48.1468,11.4599
+98,+,Hypovereinsbank,Landsberger Str. 300,München,80687,48.143661,11.502426
+
+99,-,Hypovereinsbank,Amsterdamerstr. 2,Jena,07747,50.8772,11.6205
+
+100,-,Deutsche Bank,Friedrich-Ebert-Allee 67,Bonn,53113,50.7099,7.12818
+
+101,-,Shell Tankstelle,Chemnitzer Str. 79,Ehrenfriedersdorf,09427,50.6577900,12.9690800
+
+102,-,Commerzbank,Residenzstr. 33,Berlin,13409,52.5674,13.362
+
+103,+,Shell Tankstelle,Justus-von-Liebig-Straße 25,Dietzenbach,63128,50.002793,8.793791
+
+104,+,Shell Tankstelle,Torgauer Str. 308,Leipzig,04347,51.365362,12.456012
+
+105,-,Commerzbank,Kolpingplatz 4,Forchheim,91301,48.9563,8.29005
+106,+,Commerzbank,Kolpingplatz 4,Forchheim,91301,49.71521,11.060499
+107,-,Shell Tankstelle,Provinzialatr.2,Saarbrücken,66130,49.2470800,6.9105200
+108,+,Shell Tankstelle,Provinzialstr. 2,Saarbrücken,66130,49.205239,7.056025
+109,-,Deutsche Bank,Bahnhofsvorplatz 1,Köln,50667,50.9426,6.95704
+
+110,-,Bankhaus Neelmeyer,Hoebelstr. 25-27,Bremerhaven,27572,53.5219,8.58025
+
+111,-,Commerzbank,Altlöhrtor 40,Koblenz,56068,50.3583,7.59522
+
+112,-,Commerzbank,Holm 27,Flensburg,24937,54.7846,9.43528
+
+113,-,Commerzbank,Kölnische Str. 9-11,Kassel,34117,51.3171,9.49246
+
+114,-,Shell Tankstelle,Wittbräucker Str. 190,Dortmund,44269,51.4754100,7.5431500
+
+115,-,Shell Tankstelle,Mürwiker Str. 120,Flensburg,24943,54.7794900,9.4725000
+116,+,Shell Tankstelle,Mürwiker Str. 120,Flensburg,24943,54.80322,9.456404
+
+117,-,Commerzbank,Ludwigstr. 13,Passau,94032,48.5744,13.4595
+
+118,-,Deutsche Bank,Berliner Str. 119,Wuppertal,42275,51.2751,7.21673
+
+119,+,Shell Tankstelle,Breite Straße 47,Marl,45768,51.645209,7.078033
+
+120,+,Berliner Bank,Prenzlauer Promenade 41-42,Berlin,13089,52.559618,13.4286
+
+121,-,Deutsche Bank,Von-Vincke-Str. 9,Münster,48143,51.9594,7.63375
+122,-,Commerzbank,Dachauer Str. 9A,München,80335,48.1427,11.5602
+123,+,Postbank,Walterscheid-Müller-Straße 14,Lohmar,53797,50.838163,7.204755
+124,-,Shell Tankstelle,Industriestr. 9,Alzenau,63755,50.0917700,9.0485800
+125,-,Shell Tankstelle,Höhne 82,Wuppertal,42275,51.2711300,7.2049400
+
+126,-,Deutsche Bank,Bahnhofplatz 2,Wehr (Baden),79664,47.625,7.90448
+127,+,Deutsche Bank,Bahnhofplatz 2,Wehr,79664,47.625,7.90448
+128,-,Commerzbank,Fürther Str. 162,Nürnberg,90429,49.4563,11.0398
+129,+,Berliner Bank,Hohenzollernplatz 6,Berlin,14129,52.43095,13.194022
+
+130,+,Postbank,Königstr. 27-28,Berlin,12105,52.446529,13.38437
+131,-,Deutsche Bank,Potsdamer Str. 140,Berlin,10783,52.4953,13.3611
+
+132,-,Commerzbank,Krefelder Str. 1,Essen,45145,51.4492,6.97309
+
+133,-,Berliner Bank,Rudower Chaussee 12,Berlin,12489,52.4337,13.5356
+
+134,+,Shell Tankstelle,Parkallee 3,Weilerswist,53919,50.747729,6.851421
+135,-,Commerzbank,Rüttenscheider Str. 93,Essen,45130,51.4378,7.00562
+
+136,-,Shell Tankstelle,Pritzwalker Str. 20,Havelberg,39539,52.8398000,12.0833000
+
+137,-,Postbank,Daniel-Eckhardt-Str. 7,Essen,45356,51.4924,6.96943
+
+138,-,Berliner Bank,Rudower Str. 12a,Berlin,12351,52.4417,13.4568
+
+139,-,Shell Tankstelle,Hauptstr. 201,Kappel-Grafenhausen,77966,48.2803400,7.7774900
+
+140,-,Commerzbank,Castroper Hellweg 20,Bochum,44805,51.4968,7.2575
+
+141,-,Commerzbank,Adenauerallee 32,Oberursel,61440,50.2006,8.58298
+
+142,-,Commerzbank,Westl.-K.-Friedr.-Str. 31,Pforzheim,75172,48.8901,8.68219
+143,+,Hypovereinsbank,Bahnhofstr. 11,Pforzheim,75172,48.892716,8.700498
+144,-,Postbank,Im Götzmann 6,Lahr,77933,48.3341,7.84636
+
+145,-,Commerzbank,Lanzerather Str. 38,Neuss,41472,51.1757,6.6431
+
+146,-,Deutsche Bank,Roeckstr. 44,Lübeck,23568,53.8757,10.7004
+
+147,-,Commerzbank,Carl-Schurz-Str. 35,Berlin,13597,52.5375,13.2031
+
+148,-,Shell Tankstelle,Friedrichshafener Str.,Ravensburg,88214,47.7378400,9.5980400
+149,+,Shell Tankstelle,Am Schwimmbad 32,Wiesloch,69168,49.288742,8.680269
+150,+,Shell Tankstelle,Baiertaler Str.18,Wiesloch,69168,49.29671,8.706749
+
+151,-,Deutsche Bank,Johannisstr. 70,Nürnberg,90419,49.4597,11.0597
+
+152,-,Postbank,Giesinger Bahnhofplatz 1,München,81539,48.1103,11.5962
+
+153,-,Deutsche Bank,Rathausgasse 2/4,Jena,07743,50.9639,11.6025
+154,+,Deutsche Bank,Rathausgasse 2/4,Jena,07743,50.928309,11.586915
+
+155,-,Shell Tankstelle,Moerser Str. 229,Duisburg,47198,51.4495700,6.6901000
+
+156,-,Commerzbank,Hauptstr. 17,Berlin,10827,52.4875,13.3576
+157,+,Shell Tankstelle,Mittelstr. 84,Sprockhövel,45549,51.330142,7.268169
+
+158,+,Shell Tankstelle,Rheinallee 2,Eltville,65347,50.014055,8.063594
+
+159,-,Postbank,Im Stadtwald,Saarbrücken,66125,49.2411,7.0223
+
+160,+,Postbank,Von-Bocholtz-Straße 25,Nettetal,41334,51.306388,6.273509
+161,-,Commerzbank,Kölner Str. 23,Remscheid,42897,51.1913,7.25725
+
+162,-,Bankhaus Neelmeyer,Leher Heerstr. 48-50,Bremen,28359,53.1007,8.87303
+163,-,Postbank,Ludwigshafener Str. 6,Mutterstadt,67112,49.4424,8.35593
+164,-,Shell Tankstelle,Binger Str. 27,Mainz,55131,49.9979200,8.2565200
+165,-,Shell Tankstelle,Saarstr. 6,Mainz,55122,49.9976400,8.2521200
+166,-,Commerzbank,Rudolf-Renner-Str. 55,Dresden,01159,51.0433,13.6945
+167,-,Commerzbank,Rudolf-Walther-Str. 1,Dresden,01156,51.0374,13.637
+
+168,+,Shell Tankstelle,Wittenerstr. 51,Dortmund,44149,51.507796,7.421513
+
+169,-,Commerzbank,Benderstr. 33,Düsseldorf,40625,51.2372,6.85646
+
+170,-,Deutsche Bank,Weißestr. 3,Leipzig,04299,51.3219,12.4182
+
+171,-,Deutsche Bank,Lange Str. 33,Nienburg,31582,52.6387,9.20517
+172,+,Deutsche Bank,Lange Str. 12,Nienburg,31582,52.6387,9.20517
+
+173,-,Commerzbank,Huberstr.,Bielefeld,33607,52.0212,8.55326
+174,-,Commerzbank,Heeper Str. 205,Bielefeld,33607,52.0244,8.56566
+175,-,Postbank,Eckendorfer Str. 222,Bielefeld-Heepen,33609,52.0396,8.59925
+176,+,Postbank,Feilenstr. 10-12,Bielefeld,33602,52.027461,8.5319
+
+177,-,Deutsche Bank,Relaisstr. 41-43,Mannheim,68219,49.436,8.52531
+
+178,-,Commerzbank,Fackenburger Allee 25a,Lübeck,23554,53.8872,10.6853
+179,-,Shell Tankstelle,Jüderstr.,Würselen,52146,50.8434400,6.1185300
+
+180,-,Hypovereinsbank,Kontumazgarten,Nürnberg,90429,49.4532,11.0676
+
+181,-,Commerzbank,Kurfürstenstr. 10,Herford,32052,52.092,8.65007
+182,+,Commerzbank,Kurfürstenstr. 10,Herford,32052,52.118503,8.667341
+
+183,-,Commerzbank,Vor dem Hagentor 1,Nordhausen,99734,51.5054,10.7942
+
+184,-,Commerzbank,Großer Markt 5-7,Wesel,46483,51.6568,6.61126
+
+185,-,Commerzbank,Planetenring 25-27,Garbsen,30823,52.4178,9.59761
+
+186,-,Postbank,Gartenstr. 20,Neu-Ulm,89077,48.3985,9.97965
+187,+,Postbank,Gartenstr. 20,Neu-Ulm,89077,48.392454,10.000064
+
+188,-,Shell Tankstelle,Rielingshäuser Str. 32,Murr,71711,48.9639000,9.2830500
+
+189,-,Postbank,Lehrer-Götz-Weg 2,München,81825,48.1216,11.6542
+190,+,Postbank,Lehrer-Götz-Weg 2,München,81825,48.123352,11.668465
+
+191,+,Postbank,Lübecker Str. 113,Magdeburg,39124,52.156992,11.636533
+
+192,-,Commerzbank,Ringstr. 2,Siegburg,53721,50.7966,7.20464
+193,-,Commerzbank,Warnowallee 31a,Rostock,18107,54.1584,12.0054
+
+194,+,Shell Tankstelle,Nördlinger Str. 7,Rothenburg,91541,49.368585,10.183578
+
+195,-,Berliner Bank,Alt-Moabit 98,Berlin,10559,52.5319,13.3483
+196,-,Commerzbank,Lindenallee 3A,Arnstadt,99310,50.8316,10.9518
+
+197,-,Postbank,Kalkofenstr. 7,Herrenberg,71083,48.5938,8.85994
+
+198,-,Deutsche Bank,Rathausstr. 1,Ludwigsfelde,14974,52.3006,13.2613
+199,+,Deutsche Bank,Potsdamer Str. 51,Ludwigsfelde,14974,52.303965,13.25434
+
+200,-,Deutsche Bank,Kronsforder Allee 40d,Lübeck,23560,53.8504,10.6869
+201,-,Postbank,Marktwinkl 6,Miesbach,83714,47.7878,11.8314
+
+202,-,Postbank,Gewerbegebiet Katzenberg,Mayen,56727,50.3223,7.19339
+203,+,Postbank,Gewerbegebiet Katzenberg,Mayen,56727,50.32612,7.253307
+204,-,Commerzbank,Uhlenhorst 1,Kleinmachnow,14532,52.4169,13.226
+
+205,+,Shell Tankstelle,Washingtonstr. 40,Dresden,01139,51.067264,13.688361
+206,+,Postbank,Peschelstr. 33,Dresden,01139,51.085679,13.696926
+207,-,Postbank,Markt 29,Sankt Augustin,53757,50.7589,7.20122
+208,+,Postbank,Markt 29,Sankt Augustin,53757,50.777345,7.186263
+
+209,-,Shell Tankstelle,Im Fuhlenbrock 137,Bottrop,46242,51.5315300,6.8916600
+
+210,-,Commerzbank,Listplatz 1,Reutlingen,72764,48.496,9.2102
+
+211,+,Postbank,Caspar-Schulte-Str. 1,Rudolstadt,07407,50.719096,11.33299
+212,+,Shell Tankstelle,B 95,Penig,09322,50.921025,12.716407
+
+213,-,Postbank,Plöner Str. 10,Hamburg,22769,53.5663,9.9471
+
+214,-,Deutsche Bank,Am Hafenmarkt,Esslingen,73728,48.7419,9.30857
+
+215,-,Commerzbank,Geschwister-Scholl-Platz 2,Wuppertal,42275,51.2718,7.20265
+216,-,Commerzbank,Mittelstr. 3,Gevelsberg,58285,51.3197,7.34209
+
+217,+,Postbank,Schützenbahn 22,Schöningen,38364,52.136583,10.970935
+218,+,Postbank,Im Kreuzfeld 20,Ratingen,40885,51.336422,6.832451
+219,+,Shell Tankstelle,Speestraße 45,Ratingen,40885,51.336867,6.834683
+
+220,-,Shell Tankstelle,Manchinger Str. 84,Ingolstadt,85053,48.7532600,11.4512200
+
+221,-,Hypovereinsbank,Georg-Schumann-Str. 175,Leipzig,04159,51.3653,12.3524
+
+222,-,Commerzbank,Bahnhofstr. 36,Witten,58452,51.4383,7.33274
+223,+,Shell Tankstelle,Hoiersdorfer Straße 6,Schöningen,38364,52.136297,10.953326
+
+224,-,Commerzbank,Ludwigstr. 36,Friedberg,61169,50.3357,8.75805
+
+225,-,Commerzbank,Speichergasse 3,Regensburg,93047,49.0183,12.1006
+226,+,Shell Tankstelle,Detmolder Straße 485,Bielefeld,33605,51.99623,8.595037
+227,-,Commerzbank,Bahnhofstr. 28,Esslingen,73728,48.7412,9.30375
+
+228,-,Postbank,Grabengasse 16,Heidelberg,69117,49.4103,8.70609
+
+229,-,Postbank,Untere Hauptstr. 103-105,Herxheim,76863,49.1476,8.22039
+
+230,-,Commerzbank,Krämerstr. 25-27,Wismar,23966,53.8932,11.465
+231,-,Commerzbank,Jacobistr. 3-5,Düsseldorf,40211,51.2284,6.78721
+232,-,Postbank,Liesegangstr. 24,Düsseldorf,40211,51.2253,6.78683
+233,-,Shell Tankstelle,Oberstdorfer Str. 13,Kempten,87435,47.7060900,10.3118000
+234,-,Deutsche Bank,Siemensdamm 43-49,Berlin,13629,52.5355,13.2763
+235,+,Shell Tankstelle,Braunschweiger Heerstr. 58,Celle,29221,52.611228,10.097943
+
+236,-,Commerzbank,Beethovenstr. 13,Obertshausen,63179,50.077,8.86257
+237,-,Postbank,Am Stadtweg 2,Eisenach,99817,50.9991,10.3122
+238,-,Shell Tankstelle,Linkenheimer Landstr. 102a,Karlsruhe,76149,49.0340800,8.3947800
+
+239,+,Commerzbank,Beethovenstr. 13,Obertshausen,63179,50.070207,8.845448
+240,+,Postbank,Bahnhofstr. 12,Pfullendorf,88630,47.925172,9.252457
+
+241,-,Deutsche Bank,Manhagener Allee 5,Ahrensburg,22926,53.6669,10.2463
+242,+,Deutsche Bank,Manhagener Allee 5,Ahrensburg,22926,53.672496,10.239926
+
+243,-,Commerzbank,Kölner Str. 78,Troisdorf,53840,50.8155,7.1558
+
+244,-,Shell Tankstelle,Im Hagen 23,Saarburg,54439,49.6097000,6.5536600
+245,-,Commerzbank,Georgenstr. 31,Amberg,92224,49.4445,11.8544
+
+246,-,Postbank,Herrenkellergasse 20,Ulm,89073,48.4,9.99308
+
+247,+,Bankhaus Neelmeyer,Hastedter Heerstr. 34,Bremen,28207,53.069088,8.8592
+248,+,Postbank,Pfalzburger Str. 41,Bremen,28207,53.063385,8.870167
+249,-,Deutsche Bank,Pöltner Str. 25,Weilheim,82362,47.8371,11.1416
+250,+,Deutsche Bank,Münchner Str. 7,Weilheim,82362,47.841547,11.142293
+
+251,-,Bankhaus Neelmeyer,Hastedter Heerstr. 34,Bremen,28207,53.069088,8.8592
+252,-,Hypovereinsbank,Rankestr. 36,Berlin,10789,52.5039,13.3353
+
+253,-,Shell Tankstelle,Münsterstr.,Paderborn,33102,51.7428400,8.7075700
+
+254,-,Postbank,Heidelbergerstr. 2/1,Sandhausen,69207,49.3422,8.6463
+255,+,Postbank,Heidelbergerstr. 2/1,Sandhausen,69207,49.344366,8.658777
+
+256,-,Shell Tankstelle,Möllner Landstr. 19,Reinbek,21465,53.5511400,10.2459700
+
+257,-,Commerzbank,Neumarktstr. 48,Wuppertal,42103,51.2573,7.14173
+258,-,Deutsche Bank,Friedrich-Ebert-Str. 86-94,Wuppertal,42103,51.2539,7.13413
+259,-,Postbank,Weißenseer Weg 112,Berlin,10369,52.5276,13.4682
+
+260,-,Commerzbank,Suhrenkamp 71-77,Hamburg,22335,53.6208,10.0161
+261,-,Commerzbank,Erdkampsweg 29,Hamburg,22335,53.6279,10.0247
+
+262,-,Commerzbank,Düsseldorfer Str. 39,Leverkusen,51379,51.0683,7.00204
+
+263,+,Hypovereinsbank,Am Hauptbahnhof 18,Frankfurt am Main,60329,50.108583,8.663243
+264,-,Postbank,Virnsberger Str. 24,Nürnberg,90431,49.4446,11.0113
+265,-,Postbank,Marktplatz 1,Pattensen,30982,52.2466,9.74924
+
+266,-,Commerzbank,Königinstr. 107,München,80802,48.1564,11.5883
+267,+,Shell Tankstelle,Wilferdinger Straße 2,Pforzheim,75179,48.896417,8.686852
+
+268,-,Commerzbank,Humannstr. 8-12,Essen,45276,51.4485,7.07655
+269,-,Deutsche Bank,Baumwall 7,Hamburg,20459,53.5444,9.98111
+270,-,Hypovereinsbank,Schaartor 1,Hamburg,20459,53.5457,9.98223
+271,-,Commerzbank,Am Baumwall 11,Hamburg,20459,53.5453,9.97873
+272,-,Postbank,Bahnhofstr. 27,Öhringen,74613,49.2067,9.52006
+273,+,Postbank,Bahnhofstr. 27,Öhringen,74613,49.202806,9.502224
+
+274,+,Shell Tankstelle,Karl-Marx-Str. 40,Müncheberg,15374,52.504634,14.12458
+
+275,-,Postbank,Kurt-Huber-Ring 5,Fürstenfeldbruck,82256,48.1619,11.2259
+
+276,-,Commerzbank,Turmstr. 83-84,Berlin,10551,52.5263,13.3377
+277,-,Berliner Bank,Marienfelder Allee 149,Berlin,12279,52.4111,13.3488
+278,+,Berliner Bank,Marienfelder Allee 149,Berlin,12279,52.413076,13.363168
+
+279,-,Postbank,Eisenbahnstr. 55,Ravensburg,88212,47.7801,9.63171
+280,+,Postbank,Eisenbahnstr. 55,Ravensburg,88212,47.784276,9.606924
+
+281,-,Commerzbank,Fritz-Reuter-Str. 33,Warnemuende,18119,54.1719,12.0632
+282,-,Commerzbank,Markt 10,Altenburg,04600,50.9852,12.4345
+283,+,Shell Tankstelle,Friedrichsgaber Str. 19,Quickborn,25451,53.750119,9.934033
+284,+,Postbank,Caspar-Hoffmann-Platz 1,Bad Camberg,65520,50.296529,8.25533
+
+285,-,Commerzbank,Friedensallee 254,Hamburg,22763,53.5591,9.91482
+
+286,-,Shell Tankstelle,Kappelner Str. 2,Süderbrarup,24392,54.6356000,9.7772300
+287,-,Commerzbank,Calwer Str.,Sindelfingen,71059,48.705,8.98618
+
+288,-,Postbank,Langener Landstr. 237-239,Bremerhaven,27578,53.5949,8.61973
+
+289,-,Postbank,Lister Meile 85,Hannover,30161,52.3881,9.74932
+290,-,Postbank,Von-Kieffer-Str. 14a,Ludwigshafen,67065,49.4496,8.40827
+291,-,Commerzbank,Blankeneser Landstr. 2,Hamburg,22587,53.5633,9.81166
+
+292,-,Shell Tankstelle,Friedrichshafener Str. 10,Eriskirch,88097,47.6310100,9.5294600
+293,-,Commerzbank,Schanzstr. 5,Friedrichshafen,88045,47.6505,9.47932
+294,-,Shell Tankstelle,Königswinterer Str. 289,Königswinter-Ittenbach,53639,50.6799800,7.2702800
+
+295,-,Deutsche Bank,Turmstr. 3,Kirchheim,73230,48.6699,9.37341
+296,-,Postbank,Fabrikstr. 12,Meißen,01662,51.165,13.49
+297,-,Commerzbank,Gerbergasse 5,Meißen,01662,51.1638,13.474
+298,-,Postbank,Schwieberdinger Str. 224,Stuttgart-Zuffenhausen,70435,48.8426,9.13847
+299,-,Commerzbank,Weserstr. 1,Berlin,12047,52.4882,13.4253
+
+300,-,Postbank,Bundesallee 104-105,Berlin,12161,52.4657,13.3287
+
+301,-,Commerzbank,Rheinstr. 55,Berlin,12159,52.4712,13.3344
+302,+,Commerzbank,Rheinstr. 2-3,Berlin,12159,52.471193,13.334717
+
+303,-,Commerzbank,Sodinger Str. 7,Herne,44623,51.5364,7.22912
+
+304,-,Shell Tankstelle,Inneboltstr. 101,Neukirchen-Vluyn,47506,51.4337900,6.5459900
+
+305,-,Postbank,Rosenthaler Weg 74,Berlin,13127,52.6077,13.4277
+
+306,-,Postbank,Bahnhofplatz 1a,Landshut,84032,48.5472,12.1384
+307,-,Commerzbank,Jacobistr. 12,Burg,39288,52.2705,11.8534
+308,+,Commerzbank,Magdalenenplatz 1,Burg,39288,52.270853,11.852507
+
+309,-,Postbank,Hafenstr. 1,Datteln,45711,51.7046,7.37639
+310,+,Postbank,Hafenstr. 1,Datteln,45711,51.655386,7.346286
+
+311,-,Shell Tankstelle,Waghäuseler Str. 124,Waghäusel,68753,49.2458900,8.5349000
+
+312,+,Deutsche Bank,Ferdinand-Braun-Platz 1,Düsseldorf,40549,51.235714,6.732655
+
+313,+,Shell Tankstelle,Bahnhofstr. 168-174,Herne,44629,51.548897,7.216407
+
+314,-,Postbank,Robert-Bosch-Str. 8,Regensburg,93041,49.0004,12.1457
+315,-,Commerzbank,Bahnhofstr. 39,Buxtehude,21614,53.472,9.6918
+316,+,Commerzbank,Siemensstr. 19,Landshut,84030,48.556621,12.153077
+
+317,+,Postbank,Sterndamm 67,Berlin,12487,52.447099,13.507162
+
+318,-,Commerzbank,Erfurter Str. 1,Gotha,99867,50.9501,10.7057
+319,-,Postbank,Hans-Seidel-Platz 3,München,81737,48.1005,11.6481
+
+320,-,Hypovereinsbank,Marzellen Str. 12-14,Köln,50668,50.9422,6.95597
+
+321,-,Postbank,Breitscheidstr. 6,Stuttgart,70174,48.7794,9.16789
+322,-,Commerzbank,Rathausstr. 90-92,Stolberg,52222,50.7745,6.22529
+
+323,+,Postbank,Partnachstr. 6-8,München,81373,48.117538,11.525885
+324,-,Postbank,Höltystr. 8,München,81369,48.1122,11.5244
+
+325,-,Postbank,Derfflinger Str. 5,Köln,50737,50.9805,6.94946
+
+326,-,Shell Tankstelle,Münchner Str. 87,Dachau,85221,48.2455100,11.4483500
+
+327,-,Hypovereinsbank,Kumpfmühler Str. 65,Regensburg,93051,49.0008,12.0802
+328,-,Deutsche Bank,Westenfelder Str. 203,Bochum,44867,51.4706,7.14524
+
+329,-,Commerzbank,Haag 15,Luckenwalde,14943,52.0906,13.1718
+330,-,Shell Tankstelle,Hochstr.,Bexbach,66450,49.3520900,7.2663700
+331,-,Hypovereinsbank,Mühlenstr. 56,Güstrow,18273,53.7987,12.1558
+
+332,-,Commerzbank,Große Schmiedestr. 14,Stade,21682,53.5998,9.47717
+
+333,-,Shell Tankstelle,Aral,Worms,67550,49.7042200,8.3339200
+334,-,Commerzbank,Werkstr. 2a,Eisenhüttenstadt,15890,52.1448,14.6696
+335,-,Shell Tankstelle,Horsterstr. 269,Gladbeck,45968,51.5506200,7.0080100
+336,-,Commerzbank,Schloßstr. 8,Hamburg,22041,53.5755,10.0807
+337,+,Commerzbank,Schloßstr. 8,Hamburg,22041,53.571269,10.065676
+338,+,Postbank,Westerwaldpark 7,Oberhonnefeld,56587,50.562189,7.525182
+
+339,-,Commerzbank,Hansaring 40-50,Köln,50670,50.9476,6.94903
+
+340,+,Postbank,Chausseestr. 1,Wildau,15745,52.315018,13.605868
+
+341,-,Postbank,Karl-Bösch-Platz 4,Wittmund,26409,53.5779,7.78229
+
+342,-,Hypovereinsbank,Vetschauer Str. 65,Cottbus,03048,51.7479,14.3128
+
+343,+,Postbank,Osterstr. 3,Wittmund,26409,53.575716,7.783735
+
+344,-,Berliner Bank,Steglitzer Damm 13,Berlin,12169,52.4513,13.3387
+
+345,-,Hypovereinsbank,Georg-Brauchle-Ring 23-25,München,80992,48.1761,11.5374
+
+346,-,Postbank,Anklamer Landstr. 1,Greifswald,17491,54.074,13.4269
+347,-,Deutsche Bank,Ernst-Thälmann-Ring 4c,Greifswald,17491,54.0791,13.413
+
+348,-,Shell Tankstelle,Hauptstr. 40,Bad Nenndorf,31542,52.3374000,9.3835100
+
+349,-,Commerzbank,Dalbergstr. 14,Frankfurt,65929,50.1015,8.54258
+
+350,-,Postbank,Bahnhofsplatz 2,Ebersberg,85560,48.0754,11.9704
+
+351,-,Shell Tankstelle,Nordstr.,Steinbergkirche,24942,54.7543200,9.7606500
+
+352,-,Postbank,Blankenburger Str. 86-92,Berlin-Pankow,13156,52.5841,13.4182
+353,-,Commerzbank,Rudolf-Breitscheid-Str. 2,Aue,08280,50.587,12.7024
+354,-,Shell Tankstelle,Bröhltalstr.,Hennef,53773,50.7735500,7.3003000
+355,+,Shell Tankstelle,Gewerbepark A61/B262,Mendig,56743,50.38249,7.270014
+
+356,-,Postbank,Ernst-August-Platz 2,Hannover,30159,52.3771,9.73784
+357,-,Hypovereinsbank,Beim Grünen Jäger 17,Hamburg,20359,53.5581,9.96295
+
+358,-,Postbank,Bergmannstr. 2,Zwickau,08056,50.5914,12.7043
+
+359,-,Commerzbank,Friedrichstr. 88-89,Berlin,10117,52.5179,13.3893
+360,-,Hypovereinsbank,Universitätsstr. 31,Regensburg,93053,49.0005,12.0925
+361,-,Hypovereinsbank,Pirckheimerstr. 77,Nürnberg,90409,49.4609,11.0843
+362,-,Shell Tankstelle,Lübecker Str. 25,Grevesmühlen,23936,53.8498100,11.1740400
+
+363,-,Postbank,Georgenstr. 12,Berlin,10117,52.519983,13.3904
+
+364,-,Postbank,Heinkelstr. 1-11,Ludwigsburg,71634,48.9209,9.1489
+
+365,-,Commerzbank,Schulstr. 26-28,Elmshorn,25335,53.7539,9.6481
+366,+,Commerzbank,Schulstr. 26-28,Elmshorn,25335,53.755302,9.655737
+
+367,-,Commerzbank,Rathausplatz 12,Paderborn,33098,51.7174,8.75298
+368,-,Deutsche Bank,Am Rodelberg 10,Mainz,55131,49.9817,8.26796
+
+369,-,Postbank,Mainzer Str. 26,Sömmerda,99610,51.1562,11.1429
+
+370,-,Shell Tankstelle,Im Mühlenbruch,Königswinter,53639,50.7031500,7.1760400
+371,-,Commerzbank,Hauptstr. 29,Bad Honnef,53604,50.6463,7.22485
+372,-,Commerzbank,Warenerstr. 7,Berlin,12683,52.5189,13.565
+373,-,Shell Tankstelle,König Ludwig Str. 2,Schwangau,87645,47.5792900,10.7418200
+
+374,-,Berliner Bank,Heinsestr. 32-36,Berlin,13467,52.6171,13.3074
+375,-,Berliner Bank,Wilhelmsruher Damm 138,Berlin,13439,52.5971,13.354
+376,-,Hypovereinsbank,Königstr. 49,Lübeck,23552,53.8677,10.688
+377,-,Hypovereinsbank,Raiffeisenstr. 2,Sauerlach,82054,47.9719,11.6546
+
+378,+,Shell Tankstelle,Industriegebiet Süd A 5,Alzenau,63755,50.047293,9.047509
+
+379,-,Hypovereinsbank,Frohmestr. 46,Hamburg,22457,53.6323,9.92102
+
+380,+,Deutsche Bank,Barbarossaplatz 7,Köln,50674,50.929161,6.940856
+381,-,Postbank,Georgenstr. 32-36,Darmstadt,64297,49.8203,8.64356
+382,-,Commerzbank,Johannisallee 20,Leipzig,04317,51.3288,12.4032
+383,+,Commerzbank,Johannisallee 20,Leipzig,04317,51.332609,12.395166
+
+384,-,Hypovereinsbank,Rosenheimerstr. 42,München,81669,48.1291,11.593
+385,-,Hypovereinsbank,Finkenwe. Norderdeich 115,Hamburg,21129,53.5416,9.80071
+386,+,Hypovereinsbank,Finkenwerder Norderdeich 115,Hamburg,21129,53.533895,9.872859
+
+387,-,Hypovereinsbank,Bahnhofstr. 7,Gemünden,97737,50.054,9.69379
+388,-,Hypovereinsbank,Am Hohen Tore 4,Braunschweig,38118,52.2617,10.5107
+
+389,-,Deutsche Bank,Lange Str. 119,Bad Driburg,33014,51.7338,9.02513
+
+390,-,Postbank,Danziger Str. 14,Wolfenbüttel,38302,52.1759,10.5646
+391,-,Commerzbank,Königstr. 13,Duisburg,47051,51.4336,6.7665
+392,-,Shell Tankstelle,Haßbergstr. 36,Baunach,96148,49.9901600,10.8455100
+393,+,Shell Tankstelle,Am Autobahnzubringer 1b,Kronau,76709,49.224422,8.611138
+
+394,-,Commerzbank,Markt 14,Bonn,53111,50.7357,7.10228
+395,+,Commerzbank,Lockwitzer Straße 9,Dresden,01219,51.026577,13.760772
+396,-,Berliner Bank,Pichelsdorfer Str. 90,Berlin,13595,52.5077,13.1917
+397,-,Commerzbank,Neue Str. 20,Braunschweig,38100,52.264,10.5186
+398,-,Commerzbank,Sack 5,Braunschweig,38100,52.2645,10.5207
+399,-,Commerzbank,Steinweg 18,Braunschweig,38100,52.2659,10.5293
+
+400,-,Commerzbank,Fehrbelliner Platz 5,Berlin,10707,52.4907,13.3128
+401,-,Commerzbank,Schweriner Str. 27,Hamburg,22143,53.6049,10.1614
+402,+,Shell Tankstelle,Schiffbauerstraße 30,Beeskow,15848,52.167944,14.259143
+
+403,-,Commerzbank,Epplestr. 23,Stuttgart,70597,48.7473,9.17044
+404,+,Shell Tankstelle,Obere Weinsteige 41,Stuttgart,70597,48.753675,9.172168
+
+405,+,Postbank,Kirchenplatz 3,Rostock,18119,54.176543,12.08484
+
+406,-,Commerzbank,Dr.-Kurt-Schumacher-Str. 1-7,Nürnberg,90402,49.4492,11.0742
+
+407,-,Postbank,Am Plärrer 14,Nürnberg,90429,49.4512,11.0526
+408,+,Postbank,Am Plärrer 14,Nürnberg,90429,49.448625,11.063369
+
+409,-,Commerzbank,Dr.-Külz-Ring 12,Dresden,01067,51.0473,13.7356
+410,+,Deutsche Bank,Bachstraße 4,Geseke,59590,51.641218,8.510244
+
+411,-,Commerzbank,Oldentruper Str. 236,BI-Oldentrup,33719,52.011,8.59421
+412,-,Hypovereinsbank,Rheingönheimer Str. 106,Ludwigshafen,67065,49.4614,8.42818
+
+413,-,Shell Tankstelle,Tempelhofer Ufer 33-35,Berlin,10963,52.5000400,13.3771800
+
+414,-,Commerzbank,Lockwitzer Straße 9,Dresden,01219,51.026577,13.760772
+
+415,-,Hypovereinsbank,Hainichener Dorfstr. 1,Zeitz,06712,51.0372,12.1641
+
+416,-,Commerzbank,Heegbarg 40,Hamburg,22391,53.641,10.0824
+417,+,Commerzbank,Heegbarg 40,Hamburg,22391,53.655515,10.093442
+
+418,-,Commerzbank,Eberstädter Str. 20,Pfungstadt,64319,49.8036,8.5977
+
+419,-,Postbank,Hermann-Ehlers-Str. 2,Düsseldorf,40595,51.1432,6.89507
+420,+,Postbank,Heinrich-von-Brentano-Platz 1,Düsseldorf,40595,51.142636,6.895543
+421,-,Postbank,Urdenbacher Allee 5,Düsseldorf,40593,51.1613,6.87463
+422,-,Commerzbank,Nürnberger Str. 49,Erlangen,91052,49.5904,11.0063
+
+423,-,Postbank,Hauptstr. 17,Neuwied,56566,50.4476,7.54536
+424,-,Postbank,Rotenburger Str. 19,Melsungen,34212,51.1293,9.54633
+425,-,Shell Tankstelle,Nürnberger Str. 46,Melsungen,34212,51.1215400,9.5392700
+426,+,Postbank,Kassler Str. 52,Melsungen,34212,51.134561,9.541609
+427,+,Postbank,Langener Landstraße 237-239,Bremerhaven,27578,53.586982,8.597279
+428,-,Commerzbank,Mainzer Landstr. 277-293,Frankfurt,60327,50.1028,8.64269
+
+429,-,Commerzbank,Detmolder Str.,Paderborn,33102,51.7264,8.76128
+430,-,Hypovereinsbank,Edlmairstr. 68,Deggendorf,94469,48.8337,12.9606
+431,-,Commerzbank,Thyssen Krupp Allee 1,Essen,45143,51.4628,6.97876
+
+432,-,Shell Tankstelle,Heedfelder Str.,Lüdenscheid,58509,51.2293300,7.6119000
+433,-,Commerzbank,Schweinauer Hauptstr. 41,Nürnberg,90441,49.433,11.0468
+434,-,Hypovereinsbank,Schwabacher Str. 108,Nürnberg,90439,49.4363,11.0494
+
+435,-,Oldenburgische Landesbank,Donnerschweer Str. 94,Oldenburg,26123,53.1481,8.22444
+436,+,Oldenburgische Landesbank,Donnerschweer Str. 210,Oldenburg,26123,53.150867,8.236559
+
+437,-,Commerzbank,Berliner Str. 124,Hagen,58135,51.3477,7.42436
+438,-,Deutsche Bank,Vollbrinkstr. 1,Hagen,58135,51.3459,7.42508
+
+439,-,Postbank,Berliner Str. 6,Weißwasser,02943,51.5042,14.6377
+
+440,-,Shell Tankstelle,Lenzener Str. 34a,Kuhblank,19322,52.9980500,11.7347700
+
+441,+,Postbank,Bahnhofstraße 17,Herrenberg,71083,48.593618,8.863473
+
+442,-,Commerzbank,Leonhard-Moll-Bogen 1-3,München,81373,48.1295,11.5313
+
+443,+,Shell Tankstelle,Neureuter Straße 14,Karlsruhe,76185,49.024721,8.357738
+
+444,-,Postbank,Schiffbeker Weg 230,Hamburg,22119,53.5643,10.1209
+
+445,-,Hypovereinsbank,Nürnberger Str. 47,Dresden,01187,51.033,13.7249
+
+446,+,Hypovereinsbank,Prager Straße 2,Dresden,01069,51.041755,13.73498
+
+447,-,Deutsche Bank,Unterländer Str. 41,Stuttgart,70435,48.8322,9.17136
+
+448,+,Commerzbank,Lockwitzer Str. 9,Dresden,01219,51.026564,13.760845
+
+449,-,Shell Tankstelle,Karlstr. 38,Ulm,89073,48.4051100,9.9909400
+
+450,-,Postbank,Waidmannsluster Damm 190,Berlin-Reinickendorf,13469,52.6059,13.3231
+
+451,-,Postbank,Baumschulenstr. 30,Berlin,12437,52.4644,13.4858
+
+452,-,Hypovereinsbank,Hansastr. 136,München,81373,48.1202,11.5345
+453,-,Deutsche Bank,Albert-Roßhaupter-Str. 2,München,81369,48.1167,11.5286
+454,+,Deutsche Bank,Albert-Roßhaupter-Str. 2,München,81369,48.117003,11.538737
+
+455,+,Deutsche Bank,Mittelstraße 26,Gevelsberg,58285,51.319652,7.33954
+
+456,-,Hypovereinsbank,Westendstr. 170,München,80686,48.1356,11.5241
+457,+,Deutsche Bank,Am Rodelberg 10,Mainz,55131,49.981337,8.26841
+458,-,Shell Tankstelle,Göttinger Str. 57,Northeim,37154,51.6965400,9.9909700
+459,+,Commerzbank,Dr.-Külz-Ring 12,Dresden,01067,51.047048,13.736147
+460,-,Commerzbank,Brucknerstr. 2-4,Dresden,01309,51.0516,13.8073
+461,-,Shell Tankstelle,Bundesstraße,Nordholz,27637,53.7750200,8.6372000
+462,-,Commerzbank,Stuttgarter Str. 86,Bietigheim-Bissingen,74321,48.951,9.1362
+463,-,Shell Tankstelle,Nenndorfer Str. 85,Ronnenberg,30952,52.3401800,9.6581900
+464,-,Shell Tankstelle,Nürnberger Str. 41,Cadolzburg,90556,49.4635800,10.8597400
+465,-,Shell Tankstelle,Eurener Str. 92,Trier,54294,49.7451800,6.6146200
+466,+,Hypovereinsbank,Potsdamer Straße 105,Berlin,10785,52.500167,13.363543
+467,-,Commerzbank,Bergstr. 8,Weinheim,69469,49.5522,8.66676
+468,-,Postbank,Schloßstr. 2,Dresden,01067,51.0514,13.7381
+469,-,Postbank,Schwarzerlenweg 57,Frankfurt,65933,50.0952,8.60806
+470,+,Postbank,Schwarzerlenweg 57,Frankfurt,65933,50.094905,8.607564
+471,-,Commerzbank,Prinzregentenstr. 3,Bad Kissingen,97688,50.1989,10.0781
+472,-,Hypovereinsbank,Leipziger Str. 27,Frankfurt,60487,50.1217,8.64764
+473,-,Shell Tankstelle,Grünberger Str. 53,Alsfeld,36304,50.7469100,9.2628000
+474,-,Commerzbank,Münsterstr. 31,Lünen,44534,51.6173,7.52554
+
+475,+,Hypovereinsbank,Mühlenstraße 56,Güstrow,18273,53.793755,12.177749
+
+476,-,Commerzbank,Steubenstr. 15,Weimar,99423,50.9772,11.3255
+477,+,Postbank,Horner Heerstraße 29,Bremen,28359,53.096933,8.872106
+478,+,Bankhaus Neelmeyer,Horner Heerstraße 29,Bremen,28359,53.096981,8.872229
+
+479,+,Berliner Bank,Alt-Moabit 98,Berlin,10559,52.524584,13.346339
+480,-,Shell Tankstelle,Thomas-Müntzer-Str. 74,Merseburg,06217,51.3526400,11.9803700
+
+481,-,Hypovereinsbank,Elisabethstr. 37,Görlitz,02826,51.1538,14.9897
+
+482,+,Shell Tankstelle,Thüringerstraße 4,Dorsten,46286,51.721259,7.039559
+
+483,-,Postbank,Otto-Schmidt-Str. 4,Wolfen,06766,51.642,12.2765
+
+484,-,Commerzbank,Steinweg 3,Mühlhausen,99974,51.21,10.456
+
+485,+,Postbank,Westertor 5,Wildeshausen,27793,52.894594,8.43298
+486,-,Berliner Bank,Oberhofer Weg 2,Berlin,12209,52.4276,13.3267
+
+487,-,Hypovereinsbank,Bahrenfelder Steind. 109,Hamburg,22761,53.5637,9.91926
+
+488,-,Hypovereinsbank,Sulzbachtalstr. -69,Sulzbach,66280,49.3008,7.06602
+
+489,-,Postbank,Glemsgaustr. 15,Stuttgart-Weilimdorf,70499,48.8151,9.11129
+490,+,Postbank,Löwen-Markt 2,Stuttgart,70499,48.814445,9.11362
+491,-,Postbank,Raiffeisenstr.,Korntal-Münchingen,70825,48.8511,9.10923
+
+492,-,Hypovereinsbank,Schleißheimer Str. 142,München,80797,48.1602,11.5634
+
+493,-,Deutsche Bank,Lange Hecke 8,Salzgitter,38239,52.1927,10.4631
+
+494,+,Deutsche Bank,Mühlendamm 1,Kiel,24113,54.313647,10.100764
+495,-,Commerzbank,Bahnhofstr. 1b,Lübbecke,32312,52.3034,8.61446
+496,-,Commerzbank,Strubbergstr. 4,Lübbecke,32312,52.3033,8.60239
+497,-,Shell Tankstelle,Osnabrücker Str. 107-109,Lübbecke,32312,52.30243,8.59619
+498,+,Postbank,Niederwall 3,Lübbecke,32312,52.306183,8.621059
+499,-,Commerzbank,Hattinger Str. 373,Bochum,44795,51.4524,7.19255
+500,+,Postbank,Große Weilstraße 18,Hattingen,45525,51.397938,7.182953
+
+501,-,Shell Tankstelle,Trinkbornstr.,Emmelshausen,56281,50.1593300,7.5896300
+
+502,-,Berliner Bank,Bülowstr. 25-26,Berlin,10783,52.4974,13.3623
+
+503,-,Commerzbank,Stuttgarter Str. 2,Kirchheim,73230,48.6497,9.44594
+504,-,Shell Tankstelle,Heisinger Straße,Dietmannsried,87460,47.8064600,10.2964000
+505,-,Hypovereinsbank,Fischerstr. 25,Kempten,87435,47.7266,10.315
+
+506,+,Postbank,Ehrenfelsstr. 42-44,Berlin,10318,52.482195,13.527037
+507,-,Shell Tankstelle,Auf Der Heide,Weiskirchen,66709,49.5514000,6.8268100
+508,-,Postbank,Dammweg 13,Schwedt,16303,53.0706,14.2591
+509,+,Postbank,Alfred-Bucherer-Straße 4,Bonn,53115,50.726897,7.075472
+
+510,-,Postbank,Meistersingerstr. 77,München,81927,48.1607,11.6407
+511,-,Commerzbank,Schloßstr. 26,Berlin,13507,52.5909,13.2824
+512,+,Postbank,Georgenstr. 21,Berlin,10117,52.519581,13.385802
+
+513,-,Hypovereinsbank,Finkenwerder Norderdeich 115,Hamburg,21129,53.533895,9.872859
+514,-,Commerzbank,Karl-Liebknecht-Str. 13,Berlin,10178,52.5223,13.4074
+515,-,Shell Tankstelle,Rostocker Chaussee 4,Güstrow,182773,53.80635,12.1856
+
+516,+,Postbank,Nürnberger Straße 7,Erlangen,91052,49.593612,11.004097
+
+517,-,Deutsche Bank,Waitzstr. 8,Hamburg,22607,53.5597,9.88599
+518,-,Postbank,Gabelsberger Str. 4,Duisburg,47137,51.4666,6.76993
+519,-,Postbank,Friedrichstr. 41,Berlin-Prenzlau,17291,53.3166,13.8603
+520,+,Postbank,Friedrichstr. 41,Prenzlau,17291,53.3166,13.8603
+521,-,Hypovereinsbank,Ernst-Bergeest-Weg 57,Hamburg,21077,53.4405,9.96076
+522,+,Postbank,Puschkinstraße 17,Templin,17268,53.117505,13.499498
+523,+,Shell Tankstelle,Stotternheimer Straße 41,Erfurt,99086,51.019637,11.035616
+
+524,+,Postbank,Köln-Aachener-Straße 192,Bergheim,50127,50.938806,6.687243
+
+525,+,Postbank,Dohnaer Straße 246,Dresden,01239,50.996131,13.799686
+526,+,Shell Tankstelle,Breiter Weg 1a,Gerwisch,39175,52.18094,11.754751
+527,-,Commerzbank,Großer Zimmerhof 30,Wolfenbüttel,38300,52.1625,10.5337
+528,+,Deutsche Bank,Fischemäkerstraße 13,Goslar,38640,51.906962,10.428417
+
+529,-,Commerzbank,Am Hallenbad 3,Stadtallendorf,35260,50.828,9.0149
+
+530,+,Postbank,Bahnhofstraße 1,Stadtallendorf,35260,50.827599,9.016921
+531,-,Hypovereinsbank,Landgrabenstr. 39-41,Nürnberg,90443,49.4396,11.0678
+532,-,Commerzbank,Breite Herzogstr. 23,Wolfenbüttel,38300,52.1493,10.5617
+533,+,Commerzbank,Breite Herzogstr. 23,Wolfenbüttel,38300,52.163324,10.540115
+
+534,-,Hypovereinsbank,Wismarsche Str. 2-3,Rostock,18057,54.0878,12.1231
+
+535,-,Shell Tankstelle,Münchner Str. 11a,Neufahrn,85375,48.3179900,11.6914700
+
+536,-,Commerzbank,Lindenthalgürtel 103,Köln,50935,50.9273,6.90889
+
+537,-,Shell Tankstelle,Friedrich Engels Str. 2,Waldbröl,51545,50.8901800,7.6479400
+538,+,Shell Tankstelle,Brölstraße 27-33,Waldbröl,51545,50.872735,7.609577
+
+539,-,Commerzbank,Lüneburger Str. 47,HH-Harburg,21073,53.4603,9.98227
+
+540,-,Shell Tankstelle,Rühler Str. 23,Bodenwerder,37619,51.9712400,9.5163000
+
+541,-,Berliner Bank,Grunewaldstr. 46,Berlin,10825,52.4889,13.3409
+542,-,Berliner Bank,Nürnberger Str. 13,Berlin,10789,52.5028,13.3386
+
+543,-,Commerzbank,Gumbertstr. 94,Düsseldorf,40229,51.2026,6.83627
+544,-,Commerzbank,Am Gut Wolf 2,Aachen,52070,50.7911,6.09962
+
+545,-,Commerzbank,Muehlheimerstr. 119,Duisburg,47058,51.4811,6.8629
+546,+,Commerzbank,Muehlheimerstr. 119,Duisburg,47058,51.433087,6.790096
+
+547,-,Commerzbank,Muehlheimerstr. 119,Duisburg,47058,51.433087,6.790096
+
+548,-,Commerzbank,Linggstr. 1,Kempten,87435,47.725,10.3142
+
+549,-,Postbank,Holsterhauserstr. 64,Essen,45147,51.4412,6.98673
+550,-,Hypovereinsbank,Bahnhofplatz 5,Ulm,89073,48.3997,9.98458
+551,-,Postbank,Darmstädter Str. 66-68,Ober-Ramstadt,64372,49.8265,8.74813
+
+552,+,Shell Tankstelle,Wilhelm-Hale-Straße 55,München,80639,48.148948,11.519961
+
+553,-,Shell Tankstelle,Limburger Str. 51-53,Elz,65604,50.4049200,8.0392100
+
+554,-,Shell Tankstelle,Am Wörth 3,Lauda-Königshofen,97922,49.5710100,9.7058700
+555,-,Hypovereinsbank,Carl-Theodor-Str. 13,Frankenthal,67227,49.5345,8.35648
+
+556,+,Shell Tankstelle,Rogätzer Straße 61,Magdeburg,39106,52.148324,11.654572
+557,-,Hypovereinsbank,Grüneburgplatz 1 - Geb. 4,Frankfurt,60323,50.1269,8.66996
+
+558,-,Commerzbank,Schilderstr. 8-9,Goslar,38640,51.9085,10.4257
+
+559,-,Postbank,Heitkämperstr. 2,Rödermark,63322,49.9781,8.82741
+
+560,-,Postbank,Hauptstr. 95,Kehl,77694,48.5714,7.81326
+
+561,-,Postbank,Domplatz 7,Eichstätt,85072,48.891,11.2037
+562,+,Postbank,Domplatz 7,Eichstätt,85072,48.892032,11.184648
+563,+,Shell Tankstelle,Sigmundstraße 104,Nürnberg,90431,49.452807,11.014614
+
+564,-,Hypovereinsbank,Kurt-Leucht-Weg 11,Nürnberg,90471,49.4276,11.1237
+
+565,-,Commerzbank,Osdorfer Landstr. 216,Hamburg,22549,53.5732,9.84799
+566,-,Postbank,Bornheide 45,Hamburg,22549,53.5872,9.85102
+567,-,Postbank,Kirchvordener Str. 50,Peine,31228,52.3418,10.1869
+
+568,+,Commerzbank,Carl-August-Allee 15,Weimar,99423,50.989582,11.326093
+
+569,+,Deutsche Bank,Münchner Straße 35,Holzkirchen,83607,47.88097,11.698105
+570,-,Deutsche Bank,Promenadeplatz 15,München,80333,48.0697,11.6642
+571,+,Shell Tankstelle,Weteritzer Landstraße 6,Gardelegen,39638,52.52561,11.380977
+
+572,-,Hypovereinsbank,Ochsenweg 19B,Flensburg,24941,54.7563,9.40137
+
+573,-,Shell Tankstelle,Mannheimer Str. 147,Kaiserslautern,67657,49.4452800,7.7936900
+
+574,+,Shell Tankstelle,Frederikshavner Straße 97,Bremerhaven,27572,53.496886,8.624873
+
+575,+,Shell Tankstelle,Gewerbegebiet Eula West,Borna,04552,51.15437,12.506485
+576,-,Hypovereinsbank,Schüfflerstr. 1,Kelheim,93309,48.9186,11.8722
+
+577,-,Commerzbank,Elsaßstr. 1-5,Aachen,52068,50.7739,6.1157
+578,+,Commerzbank,Elsaßstr. 1-5,Aachen,52068,50.772256,6.1135
+
+579,-,Shell Tankstelle,Hörder Str. 345,Witten,58454,51.4704200,7.3704700
+580,+,Postbank,Olvenstedter Straße,Magdeburg,39108,52.134249,11.618264
+581,-,Commerzbank,Königstr. 9,Stuttgart,70173,48.7795,9.17949
+
+582,-,Commerzbank,Nelkenstr. 1,Nürnberg,90439,49.439,11.0519
+
+583,-,Commerzbank,Storkower Str. 160,Berlin,10407,52.5303,13.4571
+
+584,+,Berliner Bank,Wollankstraße 132,Berlin,13187,52.568892,13.400204
+
+585,-,Deutsche Bank,Mehringdamm 48,Berlin,10961,52.492,13.387
+
+586,-,Deutsche Bank,Fischerstr. 89,Duisburg,47055,51.4021,6.76076
+
+587,-,Oldenburgische Landesbank,Donnerschweer Str. 210,Oldenburg,26123,53.150867,8.236559
+588,-,Oldenburgische Landesbank,Alexanderstr. 113,Oldenburg,26121,53.1557,8.20933
+589,-,Oldenburgische Landesbank,Ofener Str. 32,Oldenburg,26121,53.1423,8.19667
+590,-,Oldenburgische Landesbank,Gottorpstr. 28,Oldenburg,26122,53.1406,8.218
+591,-,Oldenburgische Landesbank,Hauptstr. 37-39,Oldenburg,26122,53.1331,8.19764
+592,-,Oldenburgische Landesbank,Lange Str. 83,Oldenburg,26122,53.1423,8.21328
+593,-,Oldenburgische Landesbank,Nadorster Str. 125/127,Oldenburg,26123,53.1555,8.21957
+594,-,Oldenburgische Landesbank,Großer Kuhlenweg 21A,Oldenburg,26125,53.1591,8.24339
+595,-,Oldenburgische Landesbank,Scheideweg 100,Oldenburg,26125,53.1682,8.21503
+596,-,Oldenburgische Landesbank,Weißenmoorstr. 297,Oldenburg,26125,53.1856,8.20166
+597,-,Oldenburgische Landesbank,Alexanderstr. 330-332,Oldenburg,26127,53.1694,8.19757
+598,-,Oldenburgische Landesbank,Bloherfelder Str. 155,Oldenburg,26129,53.1413,8.16742
+599,-,Oldenburgische Landesbank,Edewechter Landstr. 34,Oldenburg,26131,53.1319,8.18294
+600,-,Oldenburgische Landesbank,Cloppenburger Str. 287,Oldenburg,26133,53.1136,8.21247
+601,-,Oldenburgische Landesbank,Cloppenburger Str. 2-4,Oldenburg,26135,53.1315,8.2218
+602,-,Oldenburgische Landesbank,Elmendorfer Str. 8,Bad Zwischenahn,26160,53.1924,7.98376
+603,-,Oldenburgische Landesbank,Im Doorgrund 2,Bad Zwischenahn,26160,53.17,7.99846
+604,-,Oldenburgische Landesbank,Peterstr. 8-10,Bad Zwischenahn,26160,53.1859,8.00518
+605,-,Oldenburgische Landesbank,Am alten Hafen 4,Friesoythe,26169,53.0191,7.85666
+606,-,Oldenburgische Landesbank,Kirchstr. 7,Friesoythe,26169,53.021,7.8601
+607,-,Oldenburgische Landesbank,Oldenburger Str. 259,Rastede,26180,53.2491,8.19742
+608,-,Oldenburgische Landesbank,Wilhelmshavener Str. 213,Rastede,26180,53.291,8.16358
+609,-,Oldenburgische Landesbank,Friedrichsfehner Str. 26,Edewecht,26188,53.1248,8.09351
+610,-,Oldenburgische Landesbank,Hauptstr. 57,Edewecht,26188,53.1268,7.98353
+611,-,Oldenburgische Landesbank,Wildeshauser Str. 13,Großenkneten,26197,52.8999,8.21442
+612,-,Oldenburgische Landesbank,Oldenburger Str. 250,Wardenburg,26203,53.0613,8.19653
+613,-,Oldenburgische Landesbank,Bahnhofstr. 13,Hatten,26209,53.0528,8.25748
+614,-,Oldenburgische Landesbank,Hauptstr. 18,Wiefelstede,26215,53.2575,8.11469
+615,-,Oldenburgische Landesbank,Bahnhofstr. 15,Bösel,26219,53.0022,7.95215
+616,-,Oldenburgische Landesbank,Drostenstr. 7,Varel,26316,53.3965,8.13857
+617,-,Oldenburgische Landesbank,Edo-Wiemken-Str. 50,Varel,26316,53.4473,8.11771
+618,-,Oldenburgische Landesbank,Wiefelsteder Str. 67,Varel,26316,53.3763,8.10352
+619,-,Oldenburgische Landesbank,Ohrbült 7,Zetel,26340,53.4179,7.97371
+620,-,Oldenburgische Landesbank,Am Markt 5,Bockhorn,26345,53.3927,8.0134
+621,-,Oldenburgische Landesbank,Tiergartenstr. 26,Jade,26349,53.3356,8.18812
+622,-,Oldenburgische Landesbank,Bismarckstr. 210,Wilhelmshaven,26382,53.5285,8.09664
+623,-,Oldenburgische Landesbank,Markstr. 74-82,Wilhelmshaven,26382,53.5215,8.11275
+624,-,Oldenburgische Landesbank,Virchowstr. 34,Wilhelmshaven,26382,53.5206,8.11846
+625,-,Oldenburgische Landesbank,Zedeliusstr. 17,Wilhelmshaven,26384,53.5299,8.12513
+626,-,Oldenburgische Landesbank,Werdumer Str. 96,Wilhelmshaven,26386,53.5544,8.09502
+627,-,Oldenburgische Landesbank,Kniprodestr. 1,Wilhelmshaven,26388,53.5866,8.10253
+628,-,Oldenburgische Landesbank,Posener Str. 48,Wilhelmshaven,26388,53.5741,8.09113
+629,-,Oldenburgische Landesbank,Am Markt 8,Wittmund,26409,53.5748,7.78328
+630,-,Oldenburgische Landesbank,Menkestr. 21/23,Schortens,26419,53.539,7.94843
+631,-,Oldenburgische Landesbank,Vor dem Drostentor 2,Esens,26427,53.6438,7.61219
+632,-,Oldenburgische Landesbank,Bismarckstr. 2a,Wangerland,26434,53.6622,7.91689
+633,-,Oldenburgische Landesbank,Goldstr. 18,Wangerland,26434,53.6854,8.01182
+634,-,Oldenburgische Landesbank,Mühlenstr. 1,Jever,26441,53.5729,7.90579
+635,-,Oldenburgische Landesbank,Wangerländische Str. 17,Jever,26441,53.5799,7.90707
+636,-,Oldenburgische Landesbank,Hauptstr. 64,Sande,26452,53.5005,8.01452
+637,-,Oldenburgische Landesbank,Barkhausenstr. 1,Langeoog,26465,53.7471,7.47902
+638,-,Oldenburgische Landesbank,Norddeich Mole,Norden,26506,53.6243,7.15881
+639,-,Oldenburgische Landesbank,Osterstr. 14,Norden,26506,53.5963,7.2075
+640,-,Oldenburgische Landesbank,Haupstr. 59,Hage,26524,53.6027,7.2837
+641,-,Oldenburgische Landesbank,Rosenstr. 7,Marienhafe,26529,53.522,7.27338
+642,-,Oldenburgische Landesbank,Am Markt 25,Grossheide,26532,53.5864,7.34519
+643,-,Oldenburgische Landesbank,Strandstr. 3,Norderney,26548,53.7055,7.1424
+644,-,Oldenburgische Landesbank,Bahnhofstr. 3,Dornum,26553,53.6466,7.43139
+645,-,Oldenburgische Landesbank,Dornumer Str. 2,Westerholt,26556,53.5915,7.45742
+646,-,Oldenburgische Landesbank,Am Kurplatz,Juist,26571,53.6774,6.99455
+647,-,Oldenburgische Landesbank,Esenser Str. 82,Aurich,26603,53.4791,7.48831
+648,-,Oldenburgische Landesbank,Osterstr. 8-12,Aurich,26603,53.4691,7.48335
+649,-,Oldenburgische Landesbank,Marktstr. 10,Südbrookmerland,26624,53.4765,7.37115
+650,-,Oldenburgische Landesbank,Postweg 32,Großefehn,26629,53.4015,7.60416
+651,-,Oldenburgische Landesbank,Friesenstr. 209,Ihlow,26632,53.395,7.34939
+652,-,Oldenburgische Landesbank,Hauptstr. 175,Wiesmoor,26639,53.4156,7.73759
+653,-,Oldenburgische Landesbank,Hermannsplatz 1,Westerstede,26655,53.258,7.92862
+654,-,Oldenburgische Landesbank,Westring 2a,Westerstede,26655,53.2031,7.88523
+655,-,Oldenburgische Landesbank,Ostertorstr. 47,Uplengen,26670,53.3052,7.74728
+656,-,Oldenburgische Landesbank,Ammerländer Str. 16,Barßel,26676,53.1703,7.74796
+657,-,Oldenburgische Landesbank,Veilchenstr. 1a,Saterland,26683,53.1028,7.67501
+658,-,Oldenburgische Landesbank,Hauptstr. 181,Apen,26689,53.2191,7.80739
+659,-,Oldenburgische Landesbank,Mühlenstr. 6,Apen,26689,53.2007,7.79464
+660,-,Oldenburgische Landesbank,Auricher Str. 153A,Emden,26721,53.3854,7.20644
+661,-,Oldenburgische Landesbank,Bismarckstr. 20,Emden,26721,53.3684,7.20401
+662,-,Oldenburgische Landesbank,Petkumer Str. 283,Emden,26725,53.3409,7.22719
+663,-,Oldenburgische Landesbank,Burgstr. 7-9,Krummhörn,26736,53.3746,7.0193
+664,-,Oldenburgische Landesbank,Georg-Schütte-Platz 4,Borkum,26757,53.5875,6.66263
+665,-,Oldenburgische Landesbank,Hauptstr. 9,Leer,26789,53.2365,7.49454
+666,-,Oldenburgische Landesbank,Heisfelder Str. 221,Leer,26789,53.2469,7.4576
+667,-,Oldenburgische Landesbank,Mühlenstr. 80,Leer,26789,53.2303,7.45856
+668,-,Oldenburgische Landesbank,Dr.-Warsing-Str. 205,Moormerland,26802,53.3091,7.50415
+669,-,Oldenburgische Landesbank,Bahnhofstr. 9,Westoverledingen,26810,53.1662,7.45016
+670,-,Oldenburgische Landesbank,Rhauderwieke 6,Rhauderfehn,26817,53.1369,7.57364
+671,-,Oldenburgische Landesbank,Bahnhofstr. 1,Weener,26826,53.1648,7.3494
+672,-,Oldenburgische Landesbank,Kirchring 55,Bunde,26831,53.1842,7.26978
+673,-,Oldenburgische Landesbank,Sielstr. 13,Jemgum,26844,53.3154,7.28211
+674,-,Oldenburgische Landesbank,Ziegeleistr. 1,Jemgum,26844,53.2681,7.38526
+675,-,Oldenburgische Landesbank,Große Str. 61,Aschendorf,26871,53.0516,7.33108
+676,-,Oldenburgische Landesbank,Deverweg 39-45,Papenburg,26871,53.085,7.38366
+677,-,Oldenburgische Landesbank,Hauptkanal links 48,Papenburg,26871,53.0812,7.39216
+678,-,Oldenburgische Landesbank,Splitting links 12,Papenburg,26871,53.0761,7.4403
+679,-,Oldenburgische Landesbank,Hauptstr. 53,Dörpen,26892,52.9669,7.33402
+680,-,Oldenburgische Landesbank,Industriestr. 1,Rhede,26899,53.0691,7.22919
+681,-,Oldenburgische Landesbank,Hauptstr. 3,Lorup,26901,52.9247,7.6442
+682,-,Oldenburgische Landesbank,Waldstr. 1,Börger,26904,52.9126,7.53301
+683,-,Oldenburgische Landesbank,Kirchstr. 6,Neulehe,26909,53.003,7.41469
+684,-,Oldenburgische Landesbank,Bahnhofstr. 29,Brake,26919,53.3285,8.4803
+685,-,Oldenburgische Landesbank,Rittersweg 4,Elsfleth,26931,53.2354,8.4605
+686,-,Oldenburgische Landesbank,Marktstr. 1,Stadland,26935,53.4025,8.45432
+687,-,Oldenburgische Landesbank,Meerkircher Str. 23,Ovelgönne,26939,53.2646,8.31178
+688,-,Oldenburgische Landesbank,Bahnhofstr. 16,Nordenham,26954,53.4846,8.48489
+689,-,Oldenburgische Landesbank,Butjadinger Str. 25,Nordenham,26954,53.4798,8.44745
+690,-,Oldenburgische Landesbank,Fährstr. 8,Nordenham,26954,53.5308,8.53407
+691,-,Oldenburgische Landesbank,Martin-Pauls-Str. 104,Nordenham,26954,53.4928,8.44788
+692,-,Oldenburgische Landesbank,Bahnhofstr. 16-18,Bassum,27211,52.8473,8.73508
+693,-,Oldenburgische Landesbank,Am Markt 2,Twistringen,27239,52.7994,8.63913
+694,-,Oldenburgische Landesbank,Burgstr. 8a,Harpstedt,27243,52.9093,8.58762
+695,-,Oldenburgische Landesbank,Bahnhofstr. 1-2,Delmenhorst,27749,53.0498,8.62924
+696,-,Oldenburgische Landesbank,Bremer Str. 78-82,Delmenhorst,27751,53.0535,8.64685
+697,-,Oldenburgische Landesbank,Oldenburger Str. 152,Delmenhorst,27753,53.0494,8.61486
+698,-,Oldenburgische Landesbank,Stedinger Str. 81,Delmenhorst,27753,53.0595,8.63113
+699,-,Oldenburgische Landesbank,Hasporter Damm 127,Delmenhorst,27755,53.0367,8.6478
+700,-,Oldenburgische Landesbank,Mühlenstr. 4,Ganderkesee,27777,53.0315,8.545
+701,-,Oldenburgische Landesbank,Schönemoorer Landstr. 6,Ganderkesee,27777,53.0742,8.62201
+702,-,Oldenburgische Landesbank,Ahlhornerstr. 67,Wildeshausen,27793,52.8884,8.40645
+703,-,Oldenburgische Landesbank,Westerstr. 44,Wildeshausen,27793,52.8956,8.43454
+704,-,Oldenburgische Landesbank,Dr.-Gustav-Thye-Str. 2,Hude,27798,53.1125,8.45751
+705,-,Oldenburgische Landesbank,Lange Str. 15,Berne,27804,53.1848,8.47785
+706,-,Oldenburgische Landesbank,Stedinger Str. 45,Lemwerder,27809,53.1611,8.61318
+707,-,Oldenburgische Landesbank,Blockener Str. 8,Stuhr,28816,53.0267,8.74891
+708,-,Oldenburgische Landesbank,Syker Str. 34,Stuhr,28816,53.0087,8.78979
+709,-,Oldenburgische Landesbank,Bahnhofstr. 4,Weyhe,28844,52.9826,8.84721
+710,-,Oldenburgische Landesbank,Hauptstr. 62,Syke,28857,52.9148,8.81695
+711,-,Oldenburgische Landesbank,Bahnhofstr. 12,Bad Bentheim,48455,52.3054,7.16022
+712,-,Oldenburgische Landesbank,Markt 5,Schüttorf,48465,52.3219,7.22264
+713,-,Oldenburgische Landesbank,Hauptstr. 44,Spelle,48480,52.3652,7.47202
+714,-,Oldenburgische Landesbank,Markt 30,Emsbüren,48488,52.3922,7.29357
+715,-,Oldenburgische Landesbank,Bentheimer Str. 3,Nordhorn,48529,52.4337,7.06978
+716,-,Oldenburgische Landesbank,Gildehauser Weg 88,Nordhorn,48529,52.4128,7.06835
+717,-,Oldenburgische Landesbank,Große Str. 27,Osnabrück,49074,52.2748,8.04616
+718,-,Oldenburgische Landesbank,Johannisstr. 136/137,Osnabrück,49074,52.266,8.0539
+719,-,Oldenburgische Landesbank,Schillerstr. 11,Osnabrück,49074,52.2758,8.05093
+720,-,Oldenburgische Landesbank,Natruper Str. 123,Osnabrück,49076,52.2865,8.0274
+721,-,Oldenburgische Landesbank,Mindener Str. 336,Osnabrück,49086,52.2676,8.12599
+722,-,Oldenburgische Landesbank,Große Str. 28,Wallenhorst,49134,52.3509,8.01482
+723,-,Oldenburgische Landesbank,Lindenstr. 25,Bad Essen,49152,52.3196,8.34077
+724,-,Oldenburgische Landesbank,Bremer Str. 24,Bohmte,49163,52.3631,8.31128
+725,-,Oldenburgische Landesbank,Osnabrücker Str. 6,Hagen a. T. W.,49170,52.1976,7.98117
+726,-,Oldenburgische Landesbank,Mühlenstr. 16,Melle,49324,52.203,8.33928
+727,-,Oldenburgische Landesbank,Lange Str. 18,Diepholz,49356,52.6068,8.37043
+728,-,Oldenburgische Landesbank,Große Str. 36,Vechta,49377,52.7276,8.28518
+729,-,Oldenburgische Landesbank,Hauptstr. 1,Vechta,49377,52.7848,8.25512
+730,-,Oldenburgische Landesbank,Marktstr. 33,Lohne,49393,52.6651,8.23465
+731,-,Oldenburgische Landesbank,Kirchstr. 2,Damme,49401,52.5457,8.27853
+732,-,Oldenburgische Landesbank,Mühlenstr. 13,Damme,49401,52.522,8.19493
+733,-,Oldenburgische Landesbank,Bahnhofstr. 1,Barnstorf,49406,52.7089,8.50679
+734,-,Oldenburgische Landesbank,Am Markt 4,Dinklage,49413,52.6621,8.12399
+735,-,Oldenburgische Landesbank,Oppenweher Str. 14-16,Wagenfeld,49419,52.5501,8.58213
+736,-,Oldenburgische Landesbank,Hauptstr. 21,Goldenstedt,49424,52.7861,8.43031
+737,-,Oldenburgische Landesbank,Hauptstr. 31,Visbek,49429,52.8367,8.31179
+738,-,Oldenburgische Landesbank,Große Str. 13,Neuenkirchen-Vörden,49434,52.51,8.06861
+739,-,Oldenburgische Landesbank,Große Str. 42,Steinfeld,49439,52.5878,8.21838
+740,-,Oldenburgische Landesbank,Große Str. 23,Holdorf,49451,52.5849,8.12506
+741,-,Oldenburgische Landesbank,Mühlenweg 17,Bakum,49456,52.7402,8.19411
+742,-,Oldenburgische Landesbank,Am Markt 4,Bramsche,49565,52.4078,7.98085
+743,-,Oldenburgische Landesbank,Fichtenstr. 1a,Bramsche,49565,52.408,7.97923
+744,-,Oldenburgische Landesbank,Schleptruper Kirchweg 1,Bramsche,49565,52.4095,8.02135
+745,-,Oldenburgische Landesbank,Alfons-Schulte-Str. 1,Ankum,49577,52.5418,7.86308
+746,-,Oldenburgische Landesbank,Hauptstr. 48,Ankum,49577,52.5434,7.86857
+747,-,Oldenburgische Landesbank,Große Str. 14,Fürstenau,49584,52.5168,7.67564
+748,-,Oldenburgische Landesbank,Hauptstr. 39,Merzen,49586,52.4783,7.82937
+749,-,Oldenburgische Landesbank,Lindenstr. 20,Neuenkirchen,49586,52.4183,7.83857
+750,-,Oldenburgische Landesbank,Bramscher Str. 8,Bersenbrück,49593,52.5543,7.94818
+751,-,Oldenburgische Landesbank,Friedrichstr. 26,Quakenbrück,49610,52.6738,7.94629
+752,-,Oldenburgische Landesbank,Lange Str. 25,Quakenbrück,49610,52.6757,7.95631
+753,-,Oldenburgische Landesbank,Poststr. 13,Löningen,49624,52.7345,7.75907
+754,-,Oldenburgische Landesbank,Lange Str. 59,Essen,49632,52.719,7.93904
+755,-,Oldenburgische Landesbank,Hauptstr. 57,Badbergen,49635,52.6345,7.98192
+756,-,Oldenburgische Landesbank,Hauptstr. 22,Nortrup,49638,52.6159,7.859
+757,-,Oldenburgische Landesbank,Mühlenstr. 1,Cloppenburg,49661,52.8455,8.04334
+758,-,Oldenburgische Landesbank,Hauptstr. 30,Garrel,49681,52.9575,8.0246
+759,-,Oldenburgische Landesbank,Clemens-August-Str. 15,Emstek,49685,52.8328,8.15158
+760,-,Oldenburgische Landesbank,Am Marktplatz 3,Lastrup,49688,52.7963,7.86475
+761,-,Oldenburgische Landesbank,Cloppenburger Str. 12,Molbergen,49696,52.8582,7.92385
+762,-,Oldenburgische Landesbank,Kirchstr. 7,Lindern,49699,52.8455,7.7825
+763,-,Oldenburgische Landesbank,Bahnhofstr. 17,Meppen,49716,52.6953,7.29505
+764,-,Oldenburgische Landesbank,Marienstr. 11,Meppen,49716,52.6928,7.27373
+765,-,Oldenburgische Landesbank,Neuer Markt 9,Haren,49733,52.7921,7.23856
+766,-,Oldenburgische Landesbank,Neustadtstr. 34,Haselünne,49740,52.674,7.4891
+767,-,Oldenburgische Landesbank,Am Markt 1,Sögel,49751,52.8407,7.52213
+768,-,Oldenburgische Landesbank,Hauptstr. 24-26,Werlte,49757,52.8509,7.67787
+769,-,Oldenburgische Landesbank,Schmiedestr. 9,Lathen,49762,52.8628,7.31381
+770,-,Oldenburgische Landesbank,Neuer Markt 5,Herzlake,49770,52.6834,7.60435
+771,-,Oldenburgische Landesbank,Schulstr. 4,Lähden,49774,52.7364,7.61969
+772,-,Oldenburgische Landesbank,Meppener Str. 78,Lingen,49808,52.5317,7.30848
+773,-,Oldenburgische Landesbank,Neue Str. 4-8,Lingen,49808,52.5209,7.31559
+774,-,Oldenburgische Landesbank,Georgstr. 24,Lingen,49809,52.5221,7.32981
+775,-,Oldenburgische Landesbank,Rheiner Str. 115,Lingen,49809,52.5053,7.32131
+776,-,Oldenburgische Landesbank,Hauptstr. 19,Emlichheim,49824,52.6056,6.84998
+777,-,Oldenburgische Landesbank,Veldhausener Str. 12,Neuenhaus,49828,52.4985,6.96666
+778,-,Oldenburgische Landesbank,Markt 4,Freren,49832,52.4868,7.54489
+779,-,Oldenburgische Landesbank,Hauptstr. 64,Wietmarschen,49835,52.4963,7.2284
+780,-,Oldenburgische Landesbank,Am Markt 4,Uelsen,49843,52.495,6.88832
+
+781,-,Shell Tankstelle,Andreas-Bräm-Str. 30,Neukirchen-Vluyn,47506,51.45152,6.58035
+782,-,Commerzbank,Leineweberstr. 18-20,Mülheim/Ruhr,45468,51.4266,6.8786
+
+783,-,Shell Tankstelle,Bonner Str. 1,Bornheim,53332,50.7564800,7.0083400
+784,-,Postbank,Gewerbegebiet Katzenberg,Mayen,56727,50.32612,7.253307
+
+785,-,Postbank,Bleichenstr. 23,Wunstorf,31515,52.427,9.4296
+786,+,Postbank,Bleichenstr. 23,Wunstorf,31515,52.458664,9.364823
+
+787,-,Commerzbank,Lilienthalallee 100,Geilenkirchen,52511,50.9519,6.04915
+
+788,-,Hypovereinsbank,Eibacher Hauptstr. 45,Nürnberg,90451,49.4025,11.0503
+789,+,Hypovereinsbank,Eibacher Hauptstr. 45,Nürnberg,90451,49.405113,11.035422
+
+790,-,Commerzbank,Am Dreieck 1,Kaarst,41564,51.2289,6.61938
+791,-,Deutsche Bank,Frankfurter Allee 113,Berlin,10365,52.5138,13.4751
+792,+,Deutsche Bank,Frankfurter Allee 113,Berlin,10365,52.513989,13.477084
+
+793,-,Hypovereinsbank,Marktstr. 20,Gerolzhofen,97447,49.9023,10.3476
+
+794,+,Shell Tankstelle,Feldstraße 11,Unna,59423,51.531493,7.671273
+
+795,-,Hypovereinsbank,Winterhuder Marktplatz 10,Hamburg,22299,53.5949,10.0005
+
+796,-,Shell Tankstelle,Kohlenstr. 51,Trier,54296,49.7458300,6.6903500
+797,-,Deutsche Bank,Basler Str. 17,Grenzach-Wyhlen,79639,47.5531,7.659
+
+798,-,Postbank,Sudetenstr. 26,Neutraubling,93073,48.9919,12.196
+
+799,-,Commerzbank,Breite Str. 83-87,Lübeck,23552,53.8667,10.6857
+800,-,Commerzbank,Ostendstr. 61,Stuttgart,70188,48.7857,9.20796
+
+801,+,Shell Tankstelle,Am Spitzacker 2,Karben,61184,50.243147,8.748739
+
+802,-,Postbank,Osloer Str. 18,Berlin,13359,52.5563,13.3836
+803,-,Shell Tankstelle,Würzburger-Str. 64,Hardheim,74736,49.6114300,9.4864200
+
+804,-,Berliner Bank,Müllerstr. 32,Berlin,13353,52.5411,13.3509
+805,+,Berliner Bank,Müllerstr. 32,Berlin,13353,52.548079,13.356633
+806,-,Commerzbank,T-Online Allee 1,Darmstadt,64295,49.8652,8.62617
+
+807,-,Hypovereinsbank,Horstfeldweg 9,Bispingen,29646,53.0832,9.99806
+
+808,-,Hypovereinsbank,Eckernförder Chaussee,Gettorf,24214,54.4169,9.97515
+809,-,Postbank,Möllner Landstr. 47-49,Hamburg,22117,53.5487,10.1388
+810,-,Hypovereinsbank,Billstedter Haupstr 34,Hamburg,22111,53.54,10.099
+811,+,Postbank,Rathausplatz 4,Bad Friedrichshall,74177,49.228700,9.209934
+
+812,-,Hypovereinsbank,Sendlinger Str. 15,München,80331,48.1355,11.5712
+813,-,Hypovereinsbank,Sendlinger Str. 15A,München,80331,48.1355,11.5712
+814,-,Postbank,Budapester Str. 2-3,Berlin,10787,52.507,13.347
+
+815,-,Postbank,Altenbrückstr. 9-11,Düsseldorf-Reisholz,40599,51.1813,6.86463
+816,-,Hypovereinsbank,Olsdorfer Str 1,St.Peter-Ording,25826,54.3039,8.6381
+817,-,Postbank,Karl-Liebknecht-Str. 138,Potsdam-Babelsberg,14482,52.391473,13.090773
+
+818,-,Shell Tankstelle,Körler Str. 13,Floh,98593,50.7552800,10.4746000
+
+819,-,Deutsche Bank,Kaiserslauterer Str. 18,Saarbrücken,66123,49.2396,7.01792
+
+820,-,Postbank,Obere Str. 17,Holzminden,37603,51.7755,9.49885
+
+821,-,Shell Tankstelle,Altenaer Str. 33,Lüdenscheid,58507,51.2220100,7.6316200
+
+822,-,Hypovereinsbank,Marktstr. 46,Bad Tölz,83646,47.7617,11.5646
+823,-,Shell Tankstelle,Schweinfurter Str. 44,Würzburg,97076,49.7995100,9.9565400
+
+824,-,Shell Tankstelle,Hoffmannallee 69,Kleve,47533,51.7786200,6.1249600
+825,-,Commerzbank,Stechbahn 20-22,Kleve,47533,51.7867,6.13556
+
+826,+,Shell Tankstelle,Erich-Herion-Straße 33,Fellbach,70736,48.814663,9.259607
+
+827,-,Postbank,Bolzstr. 3,Stuttgart,70173,48.7827,9.18286
+828,+,Postbank,Bolzstr. 3,Stuttgart,70173,48.780093,9.177904
+829,-,Shell Tankstelle,Rövershäger Chaussee 5,Rostock,18146,54.1006600,12.1791700
+830,-,Commerzbank,Lange Str. 1,Rostock,18055,54.0839,12.1666
+831,+,Commerzbank,Lange Str. 1,Rostock,18055,54.090015,12.131022
+832,-,Commerzbank,Berg-am-Laim-Str. 47,München,81679,48.1312,11.6148
+833,-,Commerzbank,Luxemburger Str. 255,Köln,50939,50.9168,6.92897
+
+834,-,Postbank,Hofmannstr. 15,München,81379,48.0961,11.535
+835,+,Postbank,Hofmannstr. 15,München,81379,48.100400,11.529427
+
+836,-,Shell Tankstelle,Nordring 62,Goch,47574,51.6839700,6.1520500
+
+837,-,Commerzbank,Emsstr. 36,Rheine,48431,52.2786,7.44079
+
+838,-,Deutsche Bank,Südwestkorso 17,Berlin,12161,52.4729,13.3211
+839,-,Postbank,Wilhelmstr. 4,Tettnang,88069,47.6739,9.58959
+840,-,Postbank,Dr.-Alfred-Herhausen-Allee,Duisburg-Asterlagen,47228,51.43,6.69838
+841,-,Commerzbank,Adenauerallee 87,Bonn,53113,50.7272,7.11069
+842,-,Commerzbank,Frankfurter Allee 24-26,Berlin,10247,52.515,13.4598
+843,+,Commerzbank,Frankfurter Allee 13-14,Berlin,10247,52.516120,13.457218
+
+844,-,Commerzbank,Duisburger Str. 229,Duisburg,47166,51.4939,6.77299
+845,-,Deutsche Bank,Hauptstr. 77,Mannheim,68259,49.4871,8.52827
+
+846,-,Berliner Bank,Skalitzer Str. 71-72,Berlin,10997,52.5004,13.4334
+847,-,Commerzbank,Mehringdamm 35,Berlin,10961,52.4933,13.3883
+848,+,Deutsche Bank,Mehringdamm 35,Berlin,10961,52.493246,13.388306
+
+849,-,Commerzbank,Hauptstr 121-123,Frechen,50226,50.9096,6.80721
+
+850,-,Deutsche Bank,Bilker Allee 19,Düsseldorf,40219,51.2114,6.7644
+
+851,-,Deutsche Bank,Berner Heerweg 179,Hamburg,22159,53.6059,10.1193
+852,+,Shell Tankstelle,Christian-Ritter-von-Langheinrich-Straße 2a,Bayreuth,95448,49.963014,11.610764
+
+853,-,Hypovereinsbank,Universitätsstr. 150,Bochum,44801,51.4452,7.26048
+
+854,-,Shell Tankstelle,Darmstädter Landstr.,Egelsbach,63329,49.9700800,8.6760300
+
+855,-,Deutsche Bank,Meßberg 2,Hamburg,20095,53.5478,10.001
+856,-,Commerzbank,Burchardplatz 5,Hamburg,20095,53.5489,10.0023
+857,-,Commerzbank,Luruper Hauptstr. 162,Hamburg,22547,53.5927,9.87103
+
+858,+,Shell Tankstelle,Sachsenallee 1,Wilsdruff,01723,51.035133,13.583965
+859,-,Commerzbank,Frankfurter Allee 13-15,Berlin,10247,52.5156,13.4572
+860,-,Deutsche Bank,Hauptstr. 4,Titisee-Neustadt,79822,47.912,8.2139
+
+861,-,Berliner Bank,Wollankstraße 132,Berlin,13187,52.568892,13.400204
+
+862,-,Shell Tankstelle,Sögeler Str. 9,Werlte,49757,52.8561300,7.6939900
+
+863,+,Deutsche Bank,Neustädter Straße 1,Grömitz,23743,54.151746,10.955333
+864,-,Shell Tankstelle,Provinzialstr. 2,Saarbrücken,66130,49.2055700,7.0553500
+
+865,-,Hypovereinsbank,Markt 9,Tönning,25832,54.316,8.93992
+866,-,Deutsche Bank,Dudoplatz 1,Saarbrücken,66125,49.2767,7.03358
+
+867,-,Commerzbank,Breite Str. 24,Berlin,13187,52.5721,13.4127
+868,-,Hypovereinsbank,Riedinger Str. 21,Bayreuth,95448,49.9606,11.6023
+869,-,Deutsche Bank,Ruhrstr. 23,Meschede,59872,51.3478,8.28197
+
+870,+,Shell Tankstelle,Augustusberg 72,Nossen,01683,51.036684,13.296377
+871,-,Deutsche Bank,Rathausplatz 1,Kiel,24103,54.323,10.1319
+872,+,Postbank,Vennhofallee 63,Bielefeld,33689,51.947894,8.581407
+873,-,Postbank,Anderter Str. 43,Hannover,30629,52.3865,9.85944
+
+874,-,Hypovereinsbank,Breite Str. 80,Wernigerode,38855,51.8357,10.7906
+875,-,Commerzbank,Osterstr. 76,Hamburg,20259,53.5754,9.95499
+
+876,-,Deutsche Bank,Barbarossaplatz 7,Köln,50674,50.929161,6.940856
+
+877,-,Shell Tankstelle,Dorndorfer Str. 3 5,Dornburg,65599,50.5028500,8.0178000
+878,-,Postbank,Georgenstr. 21,Berlin,10117,52.519581,13.385802
+
+879,-,Bankhaus Neelmeyer,Pappelstr. 67,Bremen,28199,53.0503,8.78275
+880,+,Postbank,Weitlingstraße 36,Berlin,10317,52.507756,13.496718
+
+881,-,Hypovereinsbank,Niederfrohna Weg 1,Hartmannsdorf,09232,50.8943,12.7879
+882,+,Postbank,Markt 9,Coesfeld,48653,51.945715,7.168104
+
+883,-,Commerzbank,Luitpoldplatz 3,Bayreuth,95444,49.9458,11.5756
+884,-,Hypovereinsbank,Maximilianstr. 8,Bayreuth,95444,49.9441,11.5765
+885,-,Deutsche Bank,Steeler Str. 145-147,Essen,45138,51.4507,7.03129
+
+886,+,Postbank,Albert-Schweitzer-Straße 78,München,81735,48.106277,11.646036
+
+887,-,Hypovereinsbank,Drosselstieg 77,Stade,21682,53.5955,9.41837
+888,-,Postbank,Berliner Platz 12-16,Braunschweig,38102,52.2549,10.5401
+889,-,Postbank,Bismarkstr. 12,Steinfurt,04714,52.1502,7.34383
+890,+,Postbank,Bismarkstr. 12,Steinfurt,48565,52.1502,7.34383
+
+891,-,Commerzbank,Moritzstr. 27,Wiesbaden,65185,50.0736,8.23856
+
+892,+,Commerzbank,Fritz-Reuter-Straße 33,Rostock,18119,54.175546,12.084210
+893,-,Shell Tankstelle,Alter Teichweg 71,Hamburg,22049,53.5849100,10.0603500
+
+894,-,Deutsche Bank,Hermannstr. 256-258,Berlin,12049,52.4855,13.4242
+
+895,+,Shell Tankstelle,Müller-Breslau-Straße 48,Essen,45130,51.436248,7.020711
+
+896,-,Commerzbank,Heinrich-Nordhoff-Str. 51,Wolfsburg,38440,52.4277,10.7878
+
+897,-,Hypovereinsbank,Einsteinstr 104,München,81675,48.136,11.6087
+898,+,Shell Tankstelle,Hauptstraße 82,Guntersblum,67583,49.800464,8.344006
+
+899,+,Shell Tankstelle,Margarete-Steiff-Straße 2,Rutesheim,71277,48.810890,8.927180
+900,-,Shell Tankstelle,Rostocker Chaussee 37,Stralsund,18437,54.3057500,13.0578000
+901,-,Commerzbank,Triebseer Str. 20,Stralsund,18439,54.3109,13.0867
+
+902,-,Commerzbank,Theodor-Heuss-Allee 44-46,Frankfurt,60486,50.1143,8.64579
+
+903,-,Hypovereinsbank,An der Frauenkirche 1,Dresden,01067,51.0518,13.7412
+904,-,Hypovereinsbank,Felix-Dahn-Str. 1,Würzburg,97072,49.7821,9.93597
+905,-,Commerzbank,Badener-Tor-Str. 13,Ettlingen,76275,48.9277,8.39892
+
+906,-,Postbank,Leopoldstr. 43-47,Ettlingen,76275,48.9277,8.39892
+907,+,Postbank,Leopoldstr. 43-47,Ettlingen,76275,48.940139,8.408226
+
+908,-,Hypovereinsbank,Neustadt 45,Flensburg,24939,54.798,9.42523
+909,-,Postbank,Gottlieb-Daimler-Str. 5,Gießen-West,35398,50.5845,8.64991
+910,-,Shell Tankstelle,Grünthaler Str. 109,Olbernhau,09526,50.6507500,13.3662500
+
+911,-,Hypovereinsbank,Ollenhauser Str. 6,München,81737,48.1012,11.6435
+912,+,Hypovereinsbank,Ollenhauerstraße 6,München,81737,48.1012,11.6435
+913,-,Postbank,Haupstr. 28a,Neubiberg,85579,48.0751,11.6655
+914,+,Postbank,Hauptstr. 28a,Neubiberg,85579,48.0751,11.6655
+
+915,+,Postbank,Bahnhofstraße 7,Weyhe,28844,52.983026,8.849135
+
+916,-,Postbank,Nebelhornstr. 51-53,Oberstdorf,87561,47.406609,10.284952
+
+917,-,Commerzbank,Hannoversche Str. 86,Hamburg,21079,53.4572,9.98881
+
+918,-,Postbank,Segeberger Str. 101,Bad Segeberg,23795,53.9189,10.3216
+
+919,-,Postbank,Südring 100,Bielefeld-Brackwede,33647,51.9739,8.51496
+
+920,-,Shell Tankstelle,Süstrastr. 63,Selfkant,52538,50.9966900,5.9377200
+
+921,-,Postbank,Limmerstr. 63,Hannover,30451,52.3739,9.70572
+
+922,+,Postbank,Provinzialstraße 399,Dortmund,44388,51.520349,7.325639
+
+923,+,Commerzbank,Uhlenhorst 1,Kleinmachnow,14532,52.416868,13.225981
+924,-,Postbank,Spitalstr. 7,Grafenau,94481,48.8542,13.3957
+
+925,+,Postbank,Scheffelstraße 43,Zwickau,08066,50.735094,12.506446
+
+926,+,Shell Tankstelle,Auf dem Pfingstrasen 2,Breitenworbis,37339,51.413183,10.439360
+
+927,-,Commerzbank,Martin-Luther-Platz 18,Ansbach,91522,49.3032,10.5705
+
+928,+,Shell Tankstelle,Rheinische Straße 199,Dortmund,44147,51.511709,7.430376
+929,-,Deutsche Bank,Luruper Hauptstr. 103,Hamburg,22547,53.5886,9.87574
+
+930,-,Shell Tankstelle,Hunsrückhöhen Str.,Thalfang,54424,49.7609600,6.9975600
+
+931,-,Postbank,Bahnhofsweg 2,Unterhaching,82008,48.066,11.6114
+932,+,Postbank,Schulstraße 2,Unterhaching,82008,48.062449,11.614118
+933,-,Deutsche Bank,Jasmunder Straße 7,Binz,18609,54.40019,13.609045
+
+934,-,Shell Tankstelle,Nobelstr. 24,Ettlingen,76275,48.9352800,8.3767900
+
+935,-,Commerzbank,Neanderstr. 71-73,Erkrath,40699,51.2246,6.91085
+
+936,-,Shell Tankstelle,Adlergestell,Berlin,12439,52.44551,13.52694
+
+937,-,Shell Tankstelle,Würzburger Str. 1,Estenfeld,97230,49.8284400,9.9986800
+938,-,Shell Tankstelle,Wiesbadener Str. 56,Idstein,65510,50.2178600,8.2637900
+
+939,-,Shell Tankstelle,Freudenberger Str. 517,Siegen,57072,50.8843400,7.9624300
+
+940,-,Postbank,Max-von-Eyth-Str. 1,Ismaning,85737,48.2335,11.679
+
+941,-,Commerzbank,August-Krogmann-Str. 1b,Hamburg,22159,53.6064,10.1193
+
+942,-,Commerzbank,Hollandweg 24,Teltow,14513,52.3987,13.2634
+943,+,Commerzbank,Hollandweg 24,Teltow,14513,52.401676,13.258897
+944,-,Deutsche Bank,Kehrstr. 65,Nettetal,41334,51.3198,6.19818
+
+945,-,Commerzbank,Zeltinger Platz 2,Berlin,13465,52.6331,13.29
+
+946,-,Postbank,Andreasstr. 59,Berlin,10243,52.5156,13.4321
+
+947,-,Hypovereinsbank,Augsburger Str. 28,Augsburg-Pfers,86157,48.363,10.8708
+
+948,-,Hypovereinsbank,Schornbaumstr. 4,Nürnberg,90475,49.4077,11.1667
+
+949,-,Postbank,Dr.-Otto-Leich-Str. 8,Eckental,90542,49.5851,11.2387
+950,-,Hypovereinsbank,Luitpoldstr. 5,Ottobeuren,87724,47.9412,10.3009
+
+951,-,Shell Tankstelle,Moselring 11,Koblenz,56073,50.3592200,7.5882300
+952,+,Postbank,Lange Straße 40-42,Greifswald,17489,54.096146,13.375611
+
+953,-,Commerzbank,In den Blumentriften 52,Salzgitter,38226,52.155,10.3289
+
+954,-,Postbank,Hanna-Kuhner-Str. 22,Bremen,28199,53.0503,8.78275
+955,+,Postbank,Hanna-Kuhnath-Straße 22,Bremen,28199,53.0503,8.78274
+956,+,Postbank,Speyerer Straße 24,Schwegenheim,67365,49.275751,8.342092
+957,-,Shell Tankstelle,Marie Curie Str. 2-6,Emmerich,46446,51.8423200,6.2744600
+958,-,Postbank,Dornbühler Str. 9,Nürnberg,90449,49.4274,11.0059
+959,+,Postbank,Dombühler Str. 9,Nürnberg,90449,49.4274,11.0058
+
+960,+,Deutsche Bank,Jasmunder Straße 1,Binz,18609,54.399295,13.609949
+961,-,Hypovereinsbank,Münchener Str. 13,Haar,85540,48.1091,11.7226
+962,-,Shell Tankstelle,Weickmannshöhe 1,Landshut,84036,48.5256000,12.1648100
+963,-,Deutsche Bank,Detmolder Str. 167,Bad Lippspringe,33175,51.7833,8.82047
+
+964,+,Hypovereinsbank,Dorfstraße 23,Sankt Peter-Ording,25826,54.302624,8.638753
+965,+,Postbank,Nordergeest 5,Sankt Peter-Ording,25826,54.305824,8.647117
+
+966,-,Commerzbank,Maximilianstr. 7,Augsburg,86150,48.3683,10.8983
+
+967,-,Commerzbank,Wedeler Landstr. 34,Hamburg,22559,53.582,9.75744
+968,-,Postbank,Rathausstr. 5,Berlin,10178,52.5192,13.4112
+969,-,Hypovereinsbank,Egerstr. 8,Wunsiedel,95632,50.0389,12.0058
+970,-,Commerzbank,Berliner Platz 7,Oer-Erkenschwick,45739,51.6398,7.2604
+971,-,Postbank,Bismarckstr. 5,Lemgo,32657,52.0278,8.90824
+
+972,-,Deutsche Bank,Eichsfelder Str. 74,Hannover,30419,52.4097,9.66387
+973,-,Shell Tankstelle,Schwarzwaldstr. 90,Immendingen,78194,47.9338300,8.7045800
+974,-,Shell Tankstelle,Schwarzwaldstraße,Zimmern,78194,47.9348500,8.7192100
+
+975,-,Deutsche Bank,Schwartauer Allee 15a-c,Lübeck,23554,53.8722,10.6739
+976,-,Deutsche Bank,Ziegelstr. 39,Lübeck,23556,53.8684,10.6606
+977,-,Commerzbank,Verler Str.,Guetersloh,33330,51.8945,8.40888
+
+978,-,Hypovereinsbank,Möhrendorferstr. 51,Erlangen,91051,49.5994,10.9817
+979,+,Deutsche Bank,Fackenburger Allee 22,Lübeck,23554,53.870949,10.669055
+
+980,-,Postbank,Karl-Marx-Str. 66,Berlin,12043,52.4777,13.4415
+981,+,Postbank,Karl-Marx-Str. 66,Berlin,12043,52.482014,13.433407
+982,-,Hypovereinsbank,Helene-Mayer-Ring 17,München,80809,48.1816,11.5523
+983,-,Shell Tankstelle,Kölner Str. 112,Finnentrop,57413,51.1430700,8.0180600
+984,+,Shell Tankstelle,Kölner Str. 112,Lennestadt,57368,51.142453,8.017094
+985,+,Shell Tankstelle,Steinfurter Straße 65,Münster,48149,51.972156,7.608140
+986,-,Hypovereinsbank,Fürther Str. 38,Nürnberg,90429,49.4505,11.0578
+987,+,Shell Tankstelle,Friedberger Landstraße 152,Frankfurt am Main,60389,50.129953,8.694254
+
+988,+,Postbank,Schwedenkai 1,Kiel,24103,54.320148,10.139096
+
+989,-,Deutsche Bank,Pappelstr. 66-68,Bremen,28199,53.0685,8.79001
+990,-,Hypovereinsbank,Bahnhofstr. 15,Unterföhring,85774,48.1919,11.6452
+
+991,-,Postbank,Alzeyer Str.13,Rüsselsheim,65428,49.9833,8.39818
+
+992,+,Shell Tankstelle,Jülicher Str. 1,Berlin,13357,52.554899,13.391933
+993,-,Shell Tankstelle,Nürnberger Str. 59,Zirndorf,90513,49.4383800,10.9656600
+
+994,+,Deutsche Bank,Hohe Straße 102,Dortmund,44139,51.502126,7.458664
+995,-,Shell Tankstelle,Eichstätter Str. 5a,Beilngries,92339,49.0352500,11.4682100
+996,-,Hypovereinsbank,Bismarckstr.,Sonneberg,96515,50.3589,11.1674
+997,-,Hypovereinsbank,Bürgerplatz 5,Rödental,96472,50.2959,11.0429
+
+998,-,Shell Tankstelle,Gladbecker Str. 398a,Essen,45326,51.4864300,6.9991600
+999,+,Shell Tankstelle,Gutenbergstraße 2,Friedberg,61169,50.329374,8.749747
+1000,-,Hypovereinsbank,Stadelner Hauptstr. 94,Fürth,90765,49.513,10.975
+
+1001,-,Hypovereinsbank,Marktplatz 56,Velden,84149,48.3654,12.2548
+1002,-,Postbank,Bahnhofstr. 35,Friedberg,86316,48.353,10.9839
+1003,+,Postbank,Minnewitzstr. 29,München,81549,48.087724,11.599877
+1004,-,Hypovereinsbank,Implerstr. 49,München,81371,48.1191,11.5486
+1005,+,Shell Tankstelle,Halterner Str. 200,Dorsten,46284,51.672961,6.995888
+
+1006,-,Hypovereinsbank,Barfüßerstr. 7,Göttingen,37073,51.5336,9.93632
+
+1007,-,Deutsche Bank,Boschetsrieder Str. 118,München,81379,48.0991,11.5197
+1008,-,Hypovereinsbank,Ulmer Torstr. 18,Biberach,88400,48.0997,9.7919
+1009,+,Deutsche Bank,Pappelstraße 66-68,Bremen,28199,53.068607,8.789959
+1010,+,Postbank,Karlsruher Str. 5,Dresden,01189,51.018512,13.705689
+1011,-,Shell Tankstelle,Brunostr. 34,Konz,54329,49.7100900,6.5902400
+1012,-,Commerzbank,Weender Str. 80-82,Göttingen,37073,51.5363,9.93528
+
+1013,-,Commerzbank,Nove-Mesto-Platz 3c,Hilden,40721,51.1702,6.93334
+1014,-,Commerzbank,Hauptstr. 6,Düsseldorf,40597,51.1624,6.87397
+1015,-,Hypovereinsbank,Rosenheimer Str. 23,Kolbermoor,83059,47.8498,12.0673
+1016,-,Hypovereinsbank,Schleswiger Str. 77,Flensburg,24941,54.7705,9.4351
+
+1017,-,Bankhaus Neelmeyer,Breite Str. 10-11,Bremen,28757,53.1716,8.62069
+1018,-,Commerzbank,Zur Vegesacker Fähre 12,Bremen,28757,53.1697,8.62585
+1019,-,Postbank,Theodor-Heuss-Platz 1-3,Hannover,30175,52.3761,9.7689
+1020,-,Postbank,Kurfürstendamm 29,Berlin,10719,52.503,13.3266
+1021,-,Deutsche Bank,Hauptstr. 31a,Herdecke,58313,51.3994,7.43145
+1022,-,Berliner Bank,Argentinische Allee 2,Berlin,14163,52.4384,13.2323
+1023,-,Postbank,Am Heilbrunnen 47,Reutlingen,72766,48.5245,9.23451
+1024,-,Shell Tankstelle,Oberländer Str. 3,München,81371,48.1167300,11.5476900
+1025,-,Commerzbank,Am Westpark 8,München,81373,48.1241,11.533
+1026,-,Deutsche Bank,Alt-Moabit 109,Berlin,10559,52.5243,13.3506
+
+1027,-,Commerzbank,Neefestr. 199,Chemnitz,09117,50.8054,12.836
+1028,-,Commerzbank,Viktoriastr. 11,Itzehoe,25524,53.9234,9.51465
+1029,-,Postbank,Welserstr. 17,Nürnberg,90489,49.4573,11.0957
+1030,+,Postbank,Welserstr. 17,Nürnberg,90489,49.461684,11.104831
+1031,-,Hypovereinsbank,Frankfurter Str. 47,Würzburg/Zelle,97082,49.7939,9.90931
+1032,+,Shell Tankstelle,Westfalendamm 411,Dortmund,44287,51.508526,7.544685
+1033,-,Hypovereinsbank,Holtenauer Str. 113,Kiel,24118,54.3388,10.1337
+1034,-,Hypovereinsbank,Odeonsplatz 14,München,80539,48.1432,11.5784
+1035,-,Postbank,Georgstr. 11,Chemnitz,09111,50.8398,12.9234
+1036,-,Hypovereinsbank,Mittelstr. 55,Aschaffenburg,63741,49.9855,9.13667
+
+1037,-,Postbank,Heidelberger Str. 61,Seeheim-Jugenheim,64342,49.7667,8.64458
+
+1038,-,Shell Tankstelle,Seidnitzer Weg 2,Dresden,01237,51.0126500,13.7989400
+1039,-,Hypovereinsbank,Untere Hauptstr. 1,Au,84072,48.5574,11.7435
+
+1040,-,Shell Tankstelle,Dargersdorfer Str. 69a,Templin,17268,53.1128600,13.5142000
+

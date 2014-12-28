@@ -1,0 +1,1098 @@
+# DB update file for Supermarkt und Drogerie
+# 
+# remarks:
+#   * latest db version in code: 23
+#
+#
+
+# file version
+1
+
+# number of records 
+0
+
+24,-,Marktkauf,Huberstr. 25,Bielefeld,33607,52.0218682,8.553025
+25,+,Edeka,Huberstr. 25,Bielefeld,33607,52.0218682,8.553025
+26,-,Penny,Lange Herzogstr. 59,Wolfenbüttel,38300,52.16352,10.53528
+27,-,Aldi Nord,Goslarsche Str. 56,Wolfenbüttel,38304,52.15749,10.5318
+28,-,Penny,Leopoldstraße 10,Wolfenbüttel,38302,52.1647205,10.5497864
+29,-,Marktkauf,Am Rehmanger 10,Wolfenbüttel,38304,52.1587834,10.5071525
+30,+,Edeka,Am Rehmanger 10,Wolfenbüttel,38304,52.1587834,10.5071525
+
+31,-,Lidl,Stifterstraße 65,Konstanz/Wollmattingen,78467,47.6874,9.15628
+
+32,-,Rewe,Ansbacher Straße 44,Heilsbronn,91560,49.3341643,10.7808925
+33,+,Rewe,Ansbacher Straße 46,Heilsbronn,91560,49.334124,10.779196
+34,-,Netto Marken-Discount,Ansbacher Straße 34,Heilsbronn,91560,49.33495,10.78344
+35,+,Rossmann,Ansbacher Straße 34,Heilsbronn,91560,49.334617,10.783579
+36,+,Netto Marken-Discount,Nürnberger Straße 43,Heilsbronn,91560,49.34317,10.801856
+
+37,-,Hit Markt,Planckstr. 1,Lippstadt,59557,51.65526,8.34571
+38,+,Kaufland,Planckstr. 1,Lippstadt,59557,51.65526,8.34571
+39,+,Rossmann,Lange Straße 30,Lippstadt,59555,51.674656,8.346838
+40,+,Rossmann,Brauckstraße 5-7,Lippstadt,59556,51.709155,8.335865
+41,-,Aldi Nord,Triftweg 11,Lippstadt,59555,51.685106,8.3228241
+42,+,Aldi Nord,Cappeler Stiftsallee 72,Lippstadt,59555,51.685804,8.30981
+
+43,-,Aldi Süd,Recklinghäuser Damm,Haltern,45721,51.7375437,7.1899805
+44,-,Aldi Süd,Lohausstraße 21,Haltern,45721,51.7507,7.19423
+45,-,Aldi Süd,Münsterstr. 151,Dülmen,48249,51.84006,7.28803
+46,-,Aldi Süd,Hüttendyk 3,Dülmen,48249,51.82576,7.27199
+47,-,Aldi Süd,Hüttenweg 5,Dülmen,48249,51.8255,7.27181
+48,-,Aldi Süd,Kardinal-V.-Gahlen-Str. 4,Reken,48734,51.8273027,7.0479426
+49,-,Aldi Süd,Dorsten-Wulfen Wulfener Markt 350-356,Dorsten,46286,51.7255728,7.0289379
+50,-,Aldi Süd,Bahnhofstraße 119,Marl,45770,51.6670593,7.166833
+51,-,Aldi Süd,Zechenstr. 15,Marl,45772,51.6632398,7.0863899
+52,+,Aldi Nord,Recklinghäuser Damm,Haltern,45721,51.7375437,7.1899805
+53,+,Aldi Nord,Lohausstraße 21,Haltern,45721,51.7507,7.19423
+54,+,Aldi Nord,Münsterstr. 151,Dülmen,48249,51.84006,7.28803
+55,+,Aldi Nord,Hüttenweg 5,Dülmen,48249,51.8255,7.27181
+56,+,Aldi Nord,Kardinal-V.-Gahlen-Str. 4,Reken,48734,51.8273027,7.0479426
+57,+,Aldi Nord,Dorsten-Wulfen Wulfener Markt 350-356,Dorsten,46286,51.7255728,7.0289379
+58,+,Aldi Nord,Bahnhofstraße 119,Marl,45770,51.6670593,7.166833
+59,+,Aldi Nord,Zechenstr. 15,Marl,45772,51.6632398,7.0863899
+
+60,+,Lidl,Heibensweg 3,Seevetal,21220,53.392037,10.035028
+
+61,-,Lidl,Lindenstraße 18,Berlin,12555,52.45452,13.56837
+62,-,Aldi Nord,Kaulsdorfer Straße 307,Berlin,12555,52.46183,13.57856
+
+63,-,Aldi Nord,Gummersbach-Derschlag An der Mülwiese 11,Bergneustadt,51645,51.0106154,7.6238185
+64,+,Aldi Nord,An der Mülwiese 11,Bergneustadt,51645,51.0106154,7.6238185
+
+65,-,Aldi Nord,Kaulsdorfer Str. 209,Berlin,12555,52.46543,13.57529
+
+66,+,Aldi Süd,Römerstraße,Wittlich,54516,49.981704,6.889594
+
+67,+,Lidl,Am Güßgraben 2,Zellingen,97225,49.910604,9.815291
+
+68,+,Rewe,Josef-Jonas-Straße 5,Bad Münstereifel,53902,50.569833,6.76349
+
+69,+,Netto Marken-Discount,Schwartower Straße 47,Boizenburg/Elbe,19258,53.379127,10.725239
+70,+,Lidl,Sossenheimer Weg 67,Frankfurt-Unterliederbach,65929,50.114421,8.545308
+
+71,+,Rewe,Neuer Steinweg 18,Hamburg,20459,53.550491,9.977342
+72,+,Edeka,Neuer Steinweg 5,Hamburg,20459,53.550368,9.979192
+73,+,Edeka,Bahnhofstraße 31,Wedel,22880,53.577853,9.706291
+74,+,Aldi Nord,Feldstraße 5,Wedel,22880,53.57771,9.706914
+75,+,Rewe,Bahnhofstraße 36,Wedel,22880,53.577732,9.704867
+76,-,Penny,Bahnhofstr. 45,Wedel,22880,53.57693,9.70579
+77,+,Lidl,Heider Straße 6,Büsum,25761,54.137674,8.872521
+78,+,Edeka,Nordseestraße 16,Büsum,25761,54.13234,8.850044
+79,+,Edeka,Dorfstraße 25,Sankt Peter-Ording,25826,54.302446,8.640671
+
+80,+,Edeka,Süderstraße 65,Garding,25836,54.327123,8.778781
+81,+,Edeka,Enge Straße 16,Garding,25836,54.32925,8.781004
+
+82,-,Penny,Müllerstraße 123-125,Berlin,13349,52.55353,13.34599
+83,-,Norma,Hauptstraße 88,Berlin,12159,52.474953,13.3398011
+84,+,Edeka,Fregestraße 6,Berlin,12159,52.471356,13.337043
+
+85,-,Netto Marken-Discount,Rheinstraße 1,München,80803,48.1671892,11.5855472
+86,-,real,Hansastraße 236,Berlin,13051,52.56142,13.50343
+87,-,Netto Marken-Discount,Johannes-Kepler-Straße 28,Rostock,18069,54.0870993,12.0823287
+
+88,-,Aldi Nord,Möwenweg 42,Berlin,12359,52.44082,13.45943
+89,+,Netto Marken-Discount,Buckower Damm 106,Berlin,12349,52.434204,13.434932
+
+90,-,Aldi Süd,Am Kielsgraben,Monheim,40789,51.10606,6.89076
+91,+,Netto Marken-Discount,Pödeldorfer Str. 146,Bamberg,96050,49.901231,10.920635
+92,-,Netto Marken-Discount,Luisenstraße 62-65,Oberhausen,46049,51.4698917,6.8339925
+93,-,Netto Marken-Discount,Bogenstr. 92-94,Oberhausen,46045,51.46497,6.84645
+94,-,Penny,Wilmsstr. 81,Oberhausen,46049,51.4820169,6.834075
+95,-,Netto Marken-Discount,Seilerstr. 11,Oberhausen,46047,51.47368,6.87061
+96,-,Netto Marken-Discount,Moritzstraße 1,Mülheim,45476,51.4461141,6.8476393
+97,-,Netto Marken-Discount,Hermann-Albertz-Str. 113,Oberhausen,46045,51.46629,6.85421
+98,+,Rossmann,Britzer Damm 59,Berlin,12347,52.456957,13.436951
+99,+,Edeka,Fritz-Reuter-Allee 184,Berlin,12359,52.437427,13.446627
+
+100,-,Müller,Wölckernstraße 29,Nürnberg,90459,49.44107,11.0836
+101,+,Aldi Süd,Pödeldorfer Straße 1,Bamberg,96052,49.899102,10.903949
+102,+,Rewe,Pödeldorfer Straße 1,Bamberg,96052,49.898835,10.903874
+103,+,Netto Marken-Discount,Memmelsdorfer Straße 141,Bamberg,96052,49.909995,10.906147
+104,+,Edeka,Starkenfeldstraße 21,Bamberg,96050,49.900628,10.919208
+105,+,dm,Pödeldorfer Str. 136-138,Bamberg,96052,49.901399,10.918361
+
+106,+,Rewe,Ubstadter Straße 40,Ubstadt-Weiher,76698,49.171649,8.617559
+107,+,Lidl,Ubstadter Straße 38,Ubstadt-Weiher,76698,49.171882,8.617779
+108,-,Aldi Nord,Stresemannstraße 78,Berlin,10963,52.5042,13.38359
+
+109,+,Rewe,Bergstraße 1-9,Reinbek,21465,53.51123,10.250642
+110,+,Penny,Hermann-Körner-Straße 53,Reinbek,21465,53.523385,10.243906
+111,+,Edeka,Am Ladenzentrum 1,Reinbek,21465,53.511318,10.234258
+112,+,Edeka,Sachsenwaldstraße 20,Reinbek,21465,53.527978,10.251402
+113,+,Edeka,Hauptstraße 2-4,Wentorf bei Hamburg,21465,53.491493,10.252528
+
+114,-,Edeka,Ludwigstraße 2,Bamberg,96052,49.89914,10.90052
+115,-,Rewe,Grafensteinstr. 34a,Bamberg,96052,49.9039,10.90012
+
+116,-,Edeka,Pödeldorfer Straße 73,Bamberg,96052,49.9009557,10.9115799
+
+117,+,Edeka,Hansering 21-23,Lübeck,23558,53.85731,10.664471
+118,+,Lidl,Würzburger Straße 57,Bamberg,96049,49.875558,10.885654
+119,+,dm,Würzburger Straße 57a,Bamberg,96049,49.875596,10.885021
+
+120,+,Rewe,Universitätsstraße 14-22,Marburg,35037,50.80664,8.767666
+121,+,Lidl,Universitätsstraße 15,Marburg,35037,50.807594,8.768959
+122,-,Edeka,Cappeler Straße,Marburg,35039,50.79422,8.77113
+123,+,Edeka,Leopold-Lucas-Straße 77,Marburg,35037,50.79834,8.751541
+124,+,Edeka,Rosenstraße 2,Marburg,35037,50.817161,8.769651
+
+125,-,Aldi Nord,Hoher Weg 10,Nordenham,26954,53.50898,8.49556
+126,-,Aldi Nord,Mittelweg 40,Nordenham,26954,53.48304,8.47324
+127,-,Penny,Tongernstr. 3,Nordenham,26954,53.47667,8.47849
+128,+,Edeka,Hauptstraße 20a,Denkendorf,85095,48.928195,11.456012
+129,+,Rewe,Alemannenstraße 6,Denkendorf,85095,48.935131,11.461399
+130,+,Aldi Süd,Mühlweg 10,Denkendorf,85095,48.933926,11.460627
+131,+,Edeka,Eichstätter Straße 16,Kipfenberg,85110,48.947775,11.39058
+
+132,+,Penny,Deichgräfenstraße 15,Nordenham,26954,53.485739,8.487134
+
+133,-,Penny,Schulstr. 42,Seevetal,21220,53.3963521,10.04215
+
+134,+,Rossmann,Friedrich-Ebert-Straße 6,Nordenham,26954,53.485336,8.484548
+135,+,Rewe,Deichgräfenstraße 15a,Nordenham,26954,53.485674,8.487134
+136,+,Edeka,Atenser Allee 142,Nordenham,26954,53.504748,8.478371
+
+137,-,Netto,Oberweißbacher Straße 7,Berlin,12687,52.55714,13.57054
+
+138,+,dm,Bahnhofstr. 24,Wedel,22880,53.578615,9.704141
+
+139,+,Aldi Süd,Gartenstraße 102,Bonn,53225,50.750502,7.130748
+140,+,dm,Gartenstraße 102,Bonn,53225,50.750617,7.131157
+
+141,+,Rewe,Triftweg 1,Lippstadt,59555,51.682281,8.328752
+142,+,Lidl,Südertor 1,Lippstadt,59557,51.670127,8.345638
+143,+,Lidl,Wiedenbrücker Straße 50,Lippstadt,59555,51.686459,8.343448
+144,+,Lidl,Planckstraße 2,Lippstadt,59557,51.653788,8.344113
+145,+,Edeka,Am Nordbahnhof 12,Lippstadt,59555,51.680259,8.34201
+146,+,Edeka,Bruchstraße 2,Lippstadt,59558,51.695597,8.376299
+147,+,Edeka,Quellenstraße 17,Lippstadt,59556,51.709188,8.336989
+148,+,Edeka,Otto-Hahn-Straße 19,Lippstadt,59557,51.973619,8.541566
+149,+,Aldi Nord,Otto-Hahn-Straße 17,Lippstadt,59557,51.657173,8.330908
+150,-,Aldi Nord,Curiestr. 11,Lippstadt,59557,51.6589745,8.328785
+
+151,+,Rewe,Landauer Straße 8,Limburgerhof,67117,49.425098,8.394995
+
+152,+,Lidl,Friedensau 15,Limburgerhof,67117,49.426168,8.393962
+
+153,-,Aldi Süd,Industriestraße 10,Limburgerhof,67141,49.42077,8.4128
+154,+,Aldi Süd,Industriestraße 10,Neuhofen,67141,49.42077,8.4128
+155,+,Rossmann,Landauer Straße 4,Limburgerhof,67117,49.425924,8.395779
+156,+,Rossmann,Bahnhofstraße 6,Bad Rappenau,74906,49.238438,9.1024
+157,+,Rewe,Raiffeisenstraße 23,Bad Rappenau,74906,49.236599,9.098071
+158,+,Rewe,Brühlstraße 2,Bad Wimpfen,74206,49.22911,9.189525
+159,-,real,Industriestraße 6,Maintal,63477,50.1310584,8.8665482
+160,+,Globus,Industriestraße 6,Maintal,63477,50.1310584,8.8665482
+
+161,-,dm,Pfuhlgasse 19-23,Koblenz,56068,50.3595104,7.5943786
+162,+,dm,Zentralplatz 2,Koblenz,56068,50.357832,7.59568
+
+163,+,Hit Markt,Schlachthofstraße 66,Koblenz,56073,50.36332,7.574236
+
+164,-,Rewe,Pestalozzistr. 16,Koblentz,56073,50.3551323,7.5783221
+165,+,Rewe,Moselweißer Straße 107,Koblenz,56073,50.357773,7.576135
+166,+,Lidl,Schlachthofstraße 33,Koblenz,56073,50.363313,7.58219
+167,+,Lidl,Frankenstraße 1 -3,Koblenz,56068,50.34861,7.588757
+168,+,Lidl,Im Teichert 115,Koblenz,56076,50.357591,7.610815
+169,+,Lidl,Ernst-Abbe-Straße 1,Koblenz,56070,50.388657,7.555405
+170,+,Lidl,Wallersheimer Weg 46,Koblenz,56070,50.370978,7.598749
+171,+,Edeka,Hohenzollernstraße 132,Koblenz,56068,50.343927,7.587855
+172,+,Edeka,Andernacher Straße 238,Koblenz,56070,50.381597,7.577635
+173,+,Edeka,Rübenacher Straße 102,Koblenz,56072,50.369582,7.55348
+
+174,+,Lidl,Krummbogen 14,Marburg,35039,50.816321,8.776678
+175,+,Rewe,Erlenring 9,Marburg,35037,50.806726,8.777443
+176,+,Aldi Nord,Erlenring 9,Marburg,35037,50.807272,8.777437
+177,+,Rewe,Potsdamer Straße 6,Koblenz,56075,50.341968,7.570454
+
+178,-,Edeka,Seilerei 4,Kronshagen,24119,54.3308999,10.0867254
+179,+,Rossmann,Seilerei 4,Kronshagen,24119,54.3308999,10.0867253
+
+180,-,Müller,Thomas-Dehler-Straße 12,München,81737,48.09995,11.64507
+181,-,Aldi Nord,Hindenburgstr. 9,Beverstedt,27616,53.4328,8.81738
+182,+,Edeka,Logestraße 39,Beverstedt,27616,53.43261,8.823888
+
+183,-,Penny,Ohlmüllerstr. 19,München,81541,48.1253147,11.5799175
+184,-,Penny,Falkenstr. 28-32,München,81541,48.1218031,11.5787944
+
+185,-,Netto Marken-Discount,Hauptstr. 132,Berlin,10827,52.4845102,13.3535716
+186,-,Netto Marken-Discount,Hauptstr. 119,Berlin,10827,52.482582,13.349918
+187,-,Netto Marken-Discount,Hauptstr. 109,Berlin,10827,52.4811701,13.3478985
+188,+,Edeka,Kaiser-Wilhelm-Platz 1-2,Berlin,10827,52.486174,13.356687
+189,-,Rossmann,Hauptstraße 9,Berlin,10827,52.48926,13.35872
+190,+,Rossmann,Kaiser-Wilhelm-Platz 1,Berlin,10827,52.486197,13.356638
+191,+,Penny,Dominicusstraße 37,Berlin,10827,52.481052,13.350539
+192,+,Edeka,Hildegard-Knef-Platz 1,Berlin,10829,52.476354,13.364336
+193,-,Aldi Nord,Schöneberger Straße 28,Berlin,10963,52.50303,13.38014
+194,+,Aldi Nord,Schöneberger Straße 28,Berlin,12103,52.46843,13.374088
+195,-,dm,empelhofer Damm 227-235,Berlin,12099,52.4557,13.38422
+196,+,dm,Tempelhofer Damm 227,Berlin,12099,52.455591,13.384603
+197,-,Penny,Tempelhofer Damm 215,Berlin,12099,52.4570923,13.3842856
+198,+,Penny,Tempelhofer Damm 24-30,Berlin,12101,52.480663,13.385118
+
+199,-,Netto Marken-Discount,Wassermannstr. 97,Berlin,12489,52.43764,13.55488
+200,-,Netto,Lindenstraße 31,Berlin,12555,52.452469,13.5696085
+201,-,Edeka,Bahnhofstraße 1-1a,Berlin,12555,52.4529473,13.5749124
+
+202,-,Penny,Schweinheimer Straße 1,Forsthaus Jägerhaus,63739,49.9680294,9.1544288
+203,-,Aldi Nord,Jacobsonstr. 40,Seesen,38723,51.8906472,10.1790921
+204,+,Rewe,Braunschweiger Straße 36,Seesen,38723,51.897271,10.182713
+205,+,Netto Marken-Discount,Frankfurter Straße 5,Seesen,38723,51.887703,10.167491
+206,+,Edeka,Am Wilhelmsbad 5,Seesen,38723,51.888463,10.16529
+
+207,+,Aldi Nord,In der Maate 6,Emsbüren,48488,52.391538,7.296099
+208,+,Aldi Nord,Bahnhofstraße 92,Emsbüren,48488,52.398269,7.304446
+
+209,+,Netto Marken-Discount,Bahnhofstr. 98,Emsbüren,48488,52.398956,7.304115
+210,+,Lidl,Bahnhofstraße 25,Emsbüren,48488,52.395077,7.293961
+
+211,+,Penny,Neuherbergstraße 110,München,80937,48.209203,11.565642
+
+212,+,dm,Arnulfstraße 2,München,80335,48.141463,11.559985
+213,+,dm,Nymphenburger Str. 81,München,80636,48.150319,11.544635
+214,+,dm,Hackerbrücke 4,München,80335,48.143246,11.548999
+215,-,Penny,Blutenburgstr. 52,München,80636,48.1490061,11.5449069
+216,+,Rossmann,Sonnenstr. 12a,München,80331,48.137082,11.56433
+217,+,Rossmann,Seidlstraße 5,München,80335,48.143196,11.556361
+
+218,+,Rossmann,Schirnstraße 1,Bad Kötzting,93444,49.17662,12.855763
+219,-,Marktkauf,Sieh-Dich-Für-Weg 12,Roth,91154,49.2481723,11.0919905
+220,+,Netto Marken-Discount,Westring 2,Roth,91154,49.241047,11.071749
+
+221,-,Marktkauf,Kölner Str. 21,Nürnberg,90425,49.46747,11.05938
+
+222,+,Müller,Flughafen München,München,85356,48.35378,11.786111
+223,+,dm,Sendlinger Straße 12a,München,80331,48.136224,11.57287
+
+224,+,Rossmann,Fraunhoferstraße 10,München,80469,48.130562,11.57242
+225,+,dm,Dachauer Straße 92,München,80335,48.151484,11.558349
+
+226,-,Netto Marken-Discount,Alt-Tempelhof 17,Berlin,12099,52.4655254,13.3862061
+
+227,-,Penny,Otto-Dill-Straße 16,Neuhofen,67141,49.41926,8.42303
+228,+,Penny,Schlichtstraße 1a,Waldsee,67165,49.405696,8.435652
+229,+,Lidl,Im Steinach 20,Oberstdorf,87561,47.41368,10.280081
+230,+,Edeka,Wedeler Landstraße 52-56,Hamburg,22559,53.582162,9.754933
+231,+,Rewe,Wedeler Landstraße 16,Hamburg,22559,53.581716,9.759826
+232,+,Rossmann,Wedeler Landstraße 31,Hamburg,22559,53.581455,9.757736
+233,+,Rewe,Fuhlsbüttler Str. 334,Hamburg,22307,53.600865,10.041781
+234,+,Rewe,Fuhlsbüttler Str. 387,Hamburg,22307,53.601724,10.040305
+235,+,Rewe,Pasteurstr. 17-19,Berlin,10407,52.533154,13.434495
+236,+,Rewe,Ostseestraße 23,Berlin,10409,52.550315,13.433379
+237,+,Aldi Nord,Ostseestr. 25,Berlin,10409,52.550262,13.433572
+238,+,Lidl,Ludwigshafener Str. 52,Mutterstadt,67112,49.446979,8.360528
+239,+,Lidl,Waldseerstraße 106,Schifferstadt,67105,49.384929,8.391127
+240,+,Rewe,Fellhornstraße 1,Oberstdorf,87561,47.410701,10.269275
+
+241,+,Edeka,Fohlenhof 9,Windsbach,91575,49.249543,10.839716
+242,+,Norma,Ansbacher Straße 31,Windsbach,91575,49.250215,10.819975
+243,+,Norma,Pleinfelder Straße 68a,Georgensgmünd,91166,49.175293,11.011859
+244,+,Rewe,Pleinfelder Straße 68b,Georgensgmünd,91166,49.174634,11.011752
+245,+,Penny,Bahnhofstraße,Georgensgmünd,91166,49.18413,11.015681
+246,+,Netto Marken-Discount,Breite Straße 19,Georgensgmünd,91166,49.195798,11.019457
+247,+,Norma,Windsbacher Straße,Spalt,91174,49.177811,10.918037
+248,+,Edeka,Rother Straße 6,Spalt,91174,49.174578,10.931416
+249,+,Netto Marken-Discount,Bahnhofstraße 11a,Neuendettelsau,91564,49.28326,10.786207
+250,+,Norma,Schlauersbacher Straße 26,Neuendettelsau,91564,49.280362,10.772587
+251,+,Edeka,Reuther Straße 20,Neuendettelsau,91564,49.281356,10.799364
+252,+,Netto Marken-Discount,Gleizendorfer Straße 13,Petersaurach,91580,49.312478,10.745438
+
+253,+,Rewe,Zeil 106,Frankfurt am Main,60313,50.114304,8.681332
+254,+,Rewe,Hansaallee 70-90,Frankfurt am Main,60323,50.127952,8.671032
+255,+,Rewe,Leipziger Straße 67,Frankfurt am Main,60487,50.123054,8.64348
+256,+,Rewe,Arndtstraße 22,Frankfurt am Main,60325,50.11557,8.659788
+257,+,Rewe,Dreieichstraße 59,Frankfurt am Main,60594,50.103047,8.691681
+258,+,Rewe,Offenbacher Landstraße 311,Frankfurt am Main,60599,50.10046,8.721464
+259,+,Rewe,Riedbergplatz,Frankfurt am Main,60438,50.176857,8.628792
+260,+,Aldi Süd,Riedbergplatz 2,Frankfurt am Main,60438,50.17797,8.632399
+261,+,Netto Marken-Discount,Thomas-Mann-Straße 5,Frankfurt am Main,60439,50.162522,8.619629
+262,+,Rewe,Kreuzstraße 58,Frankfurt am Main,60435,50.155428,8.688848
+263,+,Rewe,Kurhessenstraße 95,Frankfurt am Main,60431,50.148403,8.656343
+264,+,Rewe,Porthstraße 11,Frankfurt am Main,60435,50.14361,8.684948
+265,+,Rossmann,Eckenheimer Landstraße 425,Frankfurt am Main,60435,50.146357,8.68216
+266,+,Edeka,Melibocusstraße 52,Frankfurt am Main,60528,50.083252,8.638489
+267,+,Edeka,Am Südpark 1,Kelsterbach,65451,50.053557,8.527233
+268,-,dm,Langer Kornweg 22,Kelsterbach,65451,50.0552007,8.5215183
+269,+,dm,Am Graf-de-Chardonnet-Platz,Kelsterbach,65451,50.059067,8.52165
+270,+,Lidl,Langer Kornweg 14,Kelsterbach,65451,50.05386,8.517273
+271,-,Aldi Süd,Langer Kornweg 10,Kelsterbach,65451,50.054,8.5162
+272,+,Aldi Süd,Am Graf-de-Chardonnet-Platz 3,Kelsterbach,65451,50.058434,8.521264
+273,+,Rewe,Am Graf-de-Chardonnet-Platz,Kelsterbach,65451,50.058461,8.519891
+274,+,Globus,Heddingheimer Straße 22,Hattersheim am Main,65795,50.071588,8.476593
+275,+,Rewe,Hattersheimer Straße 3-5,Kriftel,65830,50.077826,8.47037
+276,+,Rewe,Oberweidstraße 9,Kriftel,65830,50.082673,8.459534
+277,+,Aldi Süd,Große Friedberger Straße 23,Frankfurt am Main,60313,50.115718,8.68614
+
+278,+,Norma,Bonhoefferstraße 12,Nürnberg,90473,49.396366,11.139307
+
+279,+,Edeka,Imbuschstraße 61,Nürnberg,90473,49.401395,11.145557
+
+280,+,dm,Riedbergplatz,Frankfurt am Main,60438,50.177103,8.629615
+281,-,Aldi Süd,Riedbergplatz 2,Frankfurt am Main,60438,50.17797,8.632399
+282,+,Aldi Süd,Riedbergplatz,Frankfurt am Main,60438,50.176681,8.629051
+
+283,+,dm,Verdistraße 83,München,81247,48.164587,11.471083
+
+284,+,Rewe,Beckhausstraße 64,Bielefeld,33611,52.038482,8.544615
+
+285,+,Rewe,Luisenstraße 7,Mahlow,15831,52.361513,13.412193
+286,+,Lidl,Berliner Damm 159-161,Mahlow,15831,52.352731,13.405742
+287,-,Aldi Nord,Mahlow Mahlower Str. 179,Teltow,15831,52.36232,13.40153
+288,+,Aldi Nord,Mahlower Straße 179,Teltow,14513,52.391514,13.291429
+
+289,-,Penny,Waldstr. 78,Hamburg,22393,53.6549258,10.1289988
+
+290,-,Rossmann,Tempelhofer Damm 120,Berlin,12099,52.4690337,13.3852567
+
+291,-,Kaufland,Eppelheimer Str. 78,Heidelberg,69123,49.40375,8.64667
+292,+,Kaufland,Eppelheimer Str. 78,Heidelberg,69123,49.403722,8.645827
+
+293,+,Lidl,Hauptstraße 14-20,Waldbröl,51545,50.890983,7.648801
+294,+,Rewe,Gerberstraße 4,Waldbröl,51545,50.873229,7.615137
+295,+,Aldi Süd,Raabeweg 5,Waldbröl,51545,50.873548,7.607656
+296,+,Rewe,Raabeweg 1,Waldbröl,51545,50.872948,7.607992
+297,+,Norma,Otto-Eichhorn-Straße 2,Waldbröl,51545,50.879627,7.623731
+298,+,Netto Marken-Discount,Wiehler Straße 26,Waldbröl,51545,50.885815,7.635385
+299,+,Rewe,Lehnitzstraße 85,Oranienburg,16515,52.745556,13.253575
+
+300,+,Rossmann,Tempelhofer Damm 192,Berlin,12099,52.459625,13.384182
+
+301,-,Rewe,Mierendorffweg 1,Essen,45279,51.4343681,7.1100294
+
+302,+,Lidl,Goslarer Straße 12,Vienenburg,38690,51.95446,10.560476
+
+303,+,Penny,Luisenstrasse 4,Blankenfelde-Mahlow,15831,52.361908,13.409389
+304,-,Aldi Nord,Döbelner Straße 40,Hartha,04746,51.1034283,12.9773877
+305,-,Aldi Nord,Hauptstraße 76,Waldheim,04736,51.07962,13.00286
+306,-,Penny,Steinstraße 3,Diedenhain,04736,51.06898,13.03249
+307,-,Penny,Oschatzer Straße 2b,Kattnitz,04749,51.20327,13.16065
+308,-,Penny,Franz-Mehring-Straße 12,Haida,04769,51.2361465,13.0397794
+309,-,Aldi Nord,Düelner Str. 40,Hartha,04746,51.1016719,12.9772866
+
+310,+,Penny,Steinstraße 3,Waldheim,04736,51.06898,13.03249
+311,+,Penny,Oschatzer Straße 2b,Ostrau,04749,51.20327,13.16065
+312,+,Penny,Franz-Mehring-Straße 12,Mügeln,04769,51.2361465,13.0397794
+
+313,-,Aldi Nord,Grimmaische Straße 3,Döbeln,04720,51.1242565,13.1029277
+314,+,Aldi Nord,Grimmaische Straße 67,Döbeln,04720,51.1242565,13.1029277
+315,-,Aldi Nord,Bahnhofstr. 68-72,Waldheim,04736,51.0747223,13.0115845
+316,+,Edeka,Nordstr. 21,Hartha,04746,51.099584,12.9729
+
+317,-,Edeka,Potsdamer Str. 25-31,Teltow,14513,52.39979,13.25077
+318,+,Lidl,Elbestraße 1,Teltow,14513,52.400368,13.251956
+319,+,Lidl,Teltower Damm 295,Berlin,14167,52.406651,13.268011
+
+320,+,dm,Rotkreuzplatz 1,München,80634,48.152543,11.533724
+321,+,Rossmann,Augustenstraße 79,München,80333,48.150686,11.563802
+322,+,Edeka,Hauptstraße 37-43,Halstenbek,25469,53.635602,9.839490
+323,+,Rossmann,Poststraße 1,Halstenbek,25469,53.636364,9.840595
+324,+,Edeka,Kellerstraße 2a,Rellingen,25462,53.633639,9.871933
+
+325,+,dm,Friedenheimer Brücke 23,München,80639,48.145545,11.520089
+326,+,dm,Pasinger Bahnhofsplatz 5,München,81241,48.148911,11.462204
+327,+,dm,Heimburgstraße 9-15,München,81243,48.147406,11.443170
+328,+,Lidl,Heimburgstraße 9,München,81243,48.147753,11.443299
+329,+,Aldi Süd,Stockacher Straße 6,München,81243,48.149453,11.442121
+330,+,Rewe,Kaflerstraße 2,München,81241,48.149737,11.459194
+331,-,Rewe,Schmaedelstraße 23,Munich,81245,48.15151,11.473
+332,+,Rewe,Paul-Gerhardt-Allee 30-32,München,81245,48.152297,11.476090
+
+333,-,Netto,Gotlandstr. 6,Berlin,10439,52.5546691,13.4113964
+334,+,Netto Marken-Discount,Gotlandstr. 6,Berlin,10439,52.5546691,13.4113964
+
+335,+,Penny,Rosengrund,Rövershagen,18182,54.173438,12.238607
+336,+,Netto,Graal-Müritzer Straße 30,Rövershagen,18182,54.176555,12.233116
+337,+,Netto Marken-Discount,Rather Kreuzweg 91,Düsseldorf,40472,51.265047,6.802758
+338,+,Lidl,Marler Straße 4,Düsseldorf,40472,51.266356,6.799368
+
+339,+,dm,Lange Straße 33-35,Lippstadt,59555,51.674932,8.347071
+
+340,+,Biomarkt,Magazinstraße 2,Bamberg,96052,49.90176,10.88678
+341,+,Biomarkt,Hopfengasse 12,Arnsberg,59821,51.39685,8.07394
+342,+,Biomarkt,Ludwig-Thoma-Straße 32,Markt Indersdorf,85229,48.35796,11.38225
+343,+,Biomarkt,Moosstraße 93,Bamberg,96050,49.89448,10.92033
+344,+,Biomarkt,Hessestraße 3,Nürnberg,90443,49.44558,11.05794
+345,+,Biomarkt,Katzwanger Hauptstraße 51-53,Nürnberg,90453,49.36075,11.05074
+346,+,Biomarkt,Heideweg 52,Stadtlohn,48703,51.99058,6.87532
+347,+,Biomarkt,Saffiger Straße 65,Weißenthurm,56575,50.41202,7.45130
+348,+,Biomarkt,Endenicher Straße 365,Bonn,53121,50.72524,7.07012
+349,+,Biomarkt,Schleißheimer Straße 161,München,80797,48.16598,11.56464
+350,+,Biomarkt,Hildesheimer Straße 70,Hannover,30169,52.36135,9.74892
+351,+,Biomarkt,Buschhausener Weg 12,Schermbeck,46514,51.68991,6.88734
+352,+,Biomarkt,Weidenauer Straße 274,Siegen,57076,50.88902,8.02843
+353,+,Biomarkt,Harsdörfferstraße 32,Nürnberg,90478,49.44304,11.09644
+354,+,Biomarkt,Hauptkanal rechts 50,Papenburg,26871,53.08006,7.39204
+355,+,Biomarkt,Hagenbrücke 14,Braunschweig,38100,52.26670,10.52229
+356,+,Biomarkt,Erbprinzenstraße 26,Karlsruhe,76133,49.00890,8.39723
+357,+,Biomarkt,Am Mühlenwall 9,Erwitte,59597,51.62220,8.31047
+358,+,Biomarkt,Münsterstraße 66,Warendorf,48231,51.95412,7.98062
+359,+,Biomarkt,Lindenstraße 10,Köln,50674,50.93434,6.93812
+360,+,Biomarkt,Verdener Straße 4,Rotenburg (Wümme),27356,53.10325,9.39647
+361,+,Biomarkt,Neuen Bäue 16-17,Gießen,35390,50.58541,8.67677
+362,+,Biomarkt,Rüdesheimer Straße 2,Berlin,14197,52.47417,13.31445
+363,+,Biomarkt,Teltower Damm 8-12,Berlin,14169,52.43385,13.25981
+364,+,Biomarkt,Stiddienstraße 2,Braunschweig,38122,52.22490,10.45599
+365,+,Biomarkt,Schöngeisinger Straße 46,Fürstenfeldbruck,82256,48.17655,11.25162
+366,+,Biomarkt,Holzstraße 49-51,München,80469,48.12714,11.56750
+367,+,Biomarkt,Schönhauser Allee 8,Berlin,10119,52.53013,13.41074
+368,+,Biomarkt,Reichsstraße 9,Berlin,14052,52.51242,13.26751
+369,+,Biomarkt,Kirchenstraße 87,Pforzheim,75179,48.88706,8.66903
+370,+,Biomarkt,Industriestraße,Mainaschaff,63814,49.99092,9.08344
+371,+,Biomarkt,Hilpertstraße 18,Erlangen,91052,49.58677,11.00331
+372,+,Biomarkt,Koblenzer Straße 40,Siegen,57072,50.87259,8.01745
+373,+,Biomarkt,Kreuzweg 4,Brande-Hörnerkirchen,25364,53.85013,9.71888
+374,+,Biomarkt,Hans-Eham-Platz 2,Grafing,85567,48.04381,11.96528
+375,+,Biomarkt,Gutenbergstraße 33,Schwentinental,24223,54.28731,10.21540
+376,+,Biomarkt,Steinstraße 40,Unna,59425,51.54937,7.67581
+377,+,Biomarkt,Sutelstraße 73,Hannover,30659,52.40710,9.79996
+378,+,Biomarkt,Altdorfer Straße 19,Feucht,90537,49.37786,11.21753
+379,+,Biomarkt,Augustastraße 20,Herborn,35745,50.68449,8.30716
+380,+,Biomarkt,Flachslander Straße 20,Nürnberg,90431,49.44640,11.01412
+381,+,Biomarkt,Rosenheimer Straße 90,Raubling,83064,47.80580,12.12041
+382,+,Biomarkt,Lausitzer Straße 52,Berlin,10999,52.49920,13.43046
+383,+,Biomarkt,Ludgeristraße 104-105,Münster,48143,51.96034,7.62772
+384,+,Biomarkt,Friedrichstraße 96,Düsseldorf,40217,51.21196,6.77693
+385,+,Biomarkt,Horster Straße 45,Gelsenkirchen,45897,51.57581,7.04938
+386,+,Biomarkt,Vielbrunner Weg,Miltenberg,63897,49.69094,9.18642
+387,+,Biomarkt,Pasinger Straße 17,Gräfelfing,82166,48.11837,11.44234
+388,+,Biomarkt,Nürnberger Straße 29,Zirndorf,90513,49.44022,10.96110
+389,+,Biomarkt,Römerstraße 26,Gilching,82205,48.10885,11.30050
+390,+,Biomarkt,Johannettental 7,Detmold,32760,51.92652,8.89022
+391,+,Biomarkt,Lange Straße 124,Vlotho,32602,52.16641,8.86005
+392,+,Biomarkt,Podelwitzer Straße 2,Rackwitz,04519,51.43521,12.38147
+393,+,Biomarkt,Bornheimer Straße 30,Bornheim,53332,50.78001,7.03240
+394,+,Biomarkt,Hofweg 3,Westhausen,73463,48.88882,10.18800
+395,+,Biomarkt,Gronhorst 3B,Warendorf,48231,51.91353,7.94858
+396,+,Biomarkt,Die Bergner 4,Bamberg,96049,49.87760,10.86261
+397,+,Biomarkt,Robert-Bunsen-Straße 7,Freiburg im Breisgau,79108,48.03273,7.84944
+398,+,Biomarkt,Zu den Bergwiesen 2,Versmold,33775,52.02628,8.23806
+399,+,Biomarkt,Osnabrücker Straße 104D,Lübbecke,32312,52.30187,8.59360
+400,+,Biomarkt,Venner Straße 382,Mönchengladbach,41068,51.20735,6.38194
+401,+,Biomarkt,Witteringstraße 1-3,Essen,45130,51.44058,7.00669
+402,+,Biomarkt,Lengericher Landstraße,Osnabrück,49078,52.25488,7.99040
+403,+,Biomarkt,Gornauer Straße 101,Chemnitz,09125,50.79903,12.95855
+404,+,Biomarkt,Weddepoth 2,Dortmund,44137,51.51430,7.45793
+405,+,Biomarkt,Hallbergerallee 9,Tutzing,82327,47.90835,11.27859
+406,+,Biomarkt,Rahlstedter Bahnhofstraße 4a,Hamburg,22143,53.60445,10.15511
+407,+,Biomarkt,Westenriederstraße 33,München,80331,48.13506,11.57936
+408,+,Biomarkt,Steubenstraße 41,Heidelberg,69121,49.42540,8.68730
+409,+,Biomarkt,Westerstraße 5,Norden,26506,53.59438,7.20182
+410,+,Biomarkt,Schmalfelder Straße 5,Lentföhrden,24632,53.87347,9.88337
+411,+,Biomarkt,Sofienstraße 3,Kirchheim,73230,48.64744,9.45188
+412,+,Biomarkt,Warthestraße 5,München,81927,48.14622,11.63716
+413,+,Biomarkt,Jöckern 2,Wesel,46487,51.69481,6.49593
+414,+,Biomarkt,Gabelsbergerstraße 52,München,80333,48.14948,11.56127
+415,+,Biomarkt,Sanktjohanserstraße 84,Bad Wiessee,83707,47.70148,11.72769
+416,+,Biomarkt,Fritz-Frey-Straße 13,Heidelberg,69121,49.43539,8.68136
+417,+,Biomarkt,Am Mühlbach 3,Eurasburg,82547,47.85138,11.40534
+418,+,Biomarkt,Thalersdorf 27,Arnbruck,93471,49.13141,12.96732
+419,+,Biomarkt,Am Biberhaus 2a,Hersbruck,91217,49.50810,11.41133
+420,+,Biomarkt,Venloer Straße 47-53,Köln,50672,50.94273,6.93461
+421,+,Biomarkt,Helenenwallstraße 5,Köln,50679,50.93533,6.97576
+422,+,Biomarkt,Richtwiese 2,Wendelstein,90530,49.35099,11.16015
+423,+,Biomarkt,Jahnstraße 34,Köln,50676,50.93131,6.94105
+424,+,Biomarkt,Lange Straße 21,Halle (Westfalen),33790,52.06248,8.35839
+425,+,Biomarkt,Heinrich-Hertz-Straße 23,Ratzeburg,23909,53.70584,10.74150
+426,+,Biomarkt,Zerzabelshofer Hauptstraße 53,Nürnberg,90480,49.44480,11.12733
+427,+,Biomarkt,Am Sportplatz 6,Geiselbach,63826,50.12800,9.19409
+428,+,Biomarkt,Wigeystraße 10,Lennestadt,57368,51.10729,8.07449
+429,+,Biomarkt,Bonner Straße 126,Köln,50968,50.91467,6.96146
+430,+,Biomarkt,Schleswiger Straße 38,Dortmund,44145,51.52470,7.46753
+431,+,Biomarkt,Deutzer Freiheit 88,Köln,50679,50.93676,6.97495
+432,+,Biomarkt,Rüttenscheider Platz 5,Essen,45130,51.43775,7.00859
+433,+,Biomarkt,Lenßenhof 174,Mönchengladbach,41199,51.13285,6.46713
+434,+,Biomarkt,Werner-Heisenberg-Straße 1,Groß-Umstadt,64823,49.86452,8.91757
+435,+,Biomarkt,Markt 23,Greifswald,17489,54.09549,13.37979
+436,+,Biomarkt,Am Großmarkt 2,Landau in der Pfalz,76829,49.19984,8.11731
+437,+,Biomarkt,Scharlbarg 15,Hamburg,21149,53.46896,9.82861
+438,+,Biomarkt,Seidlstraße 3-5,München,80335,48.14359,11.55681
+439,+,Biomarkt,Herrnstraße 25,Fürth,90763,49.46388,10.98696
+440,+,Biomarkt,Hauptstraße 136,Berlin,10827,52.48513,13.35472
+441,+,Biomarkt,Skalitzer Straße 125,Berlin,10999,52.49921,13.42159
+442,+,Biomarkt,Nymphenburger Straße 85,München,80636,48.15025,11.54448
+443,+,Biomarkt,Klingenhofstraße 40,Nürnberg,90411,49.47610,11.11029
+444,+,Biomarkt,Kaulbachstraße 29,Nürnberg,90408,49.46320,11.07726
+445,+,Biomarkt,Endenicher Straße 371,Bonn,53121,50.72513,7.06997
+446,+,Biomarkt,Hopfenstraße 63,Kiel,24103,54.31789,10.13042
+447,+,Biomarkt,Voigtstraße 37,Berlin,10247,52.51606,13.46792
+448,+,Biomarkt,Pannierstraße 1,Berlin,12043,52.48556,13.43022
+449,+,Biomarkt,Moorfuhrtweg 17,Hamburg,22301,53.58526,10.00895
+450,+,Biomarkt,Am Festplatz 1,Heroldsberg,90562,49.53332,11.15353
+451,+,Biomarkt,Mühlthaler Straße 93B,München,81475,48.08696,11.47779
+452,+,Biomarkt,Karl-Liebknecht-Straße 30-32,Leipzig,04107,51.32751,12.37329
+453,+,Biomarkt,Schweinheimer Straße 145,Aschaffenburg,63743,49.95895,9.16526
+454,+,Biomarkt,Brüder-Walburger-Wallstraße 5,Soest,59494,51.57720,8.10452
+455,+,Biomarkt,Roonstraße 20-22,Nürnberg,90429,49.45244,11.06005
+456,+,Biomarkt,Novalisstraße 9-10,Berlin,10115,52.52916,13.38807
+457,+,Biomarkt,Windrather Straße 187,Velbert,42553,51.31838,7.13414
+458,+,Biomarkt,Bothfelder Straße 26,Isernhagen,30916,52.43144,9.85001
+459,+,Biomarkt,Warschauer Straße 64,Berlin,10243,52.51047,13.45188
+460,+,Biomarkt,Bundesallee 89,Berlin,12161,52.46798,13.32824
+461,+,Biomarkt,Pücklerstraße 32,Berlin,10997,52.50181,13.43025
+462,+,Biomarkt,Hausstockweg 57,Berlin,12107,52.43331,13.39220
+463,+,Biomarkt,Ulenburger Allee 65,Löhne,32584,52.21492,8.69351
+464,+,Biomarkt,Am Sportplatz 3,Geiselbach,63826,50.12724,9.19364
+465,+,Biomarkt,Krebsgasse 5,Köln,50667,50.93766,6.95021
+466,+,Biomarkt,Ottenser Hauptstraße 24,Hamburg,22765,53.55212,9.93026
+467,+,Biomarkt,Kaulbachstraße 4-6,Nürnberg,90408,49.46146,11.07735
+468,+,Biomarkt,Hindenburgdamm 98,Berlin,12203,52.43959,13.31602
+469,+,Biomarkt,Karlstraße 8,Zirndorf,90513,49.44106,10.96184
+470,+,Biomarkt,Rosenheimer Straße 14a,Miesbach,83714,47.78886,11.83671
+471,+,Biomarkt,Nordhang 2,Warstein,59581,51.45613,8.36075
+472,+,Biomarkt,Schiffbauergasse 6,Potsdam,14467,52.40371,13.07322
+473,+,Biomarkt,Adolfstraße 26,Osnabrück,49078,52.27303,8.03143
+474,+,Biomarkt,Klosterstraße 33-34,Berlin,13581,52.53211,13.19778
+475,+,Biomarkt,Mühlenstraße 26,Melle,49324,52.20383,8.34052
+476,+,Biomarkt,Nordstraße 5,Kamen,59174,51.59325,7.66498
+477,+,Biomarkt,Friedhofstraße 2,Aschaffenburg,63741,49.98426,9.13405
+478,+,Biomarkt,Schliemannstraße 1,Berlin,10437,52.54090,13.41682
+479,+,Biomarkt,Dürener Straße 160-162,Köln,50931,50.93047,6.91554
+480,+,Biomarkt,B1 2-5,Mannheim,68159,49.48588,8.46326
+481,+,Biomarkt,Mehringdamm 20,Berlin,10961,52.49563,13.38937
+482,+,Biomarkt,Bläsiberg 1a,Tübingen,72072,48.49189,9.07218
+483,+,Biomarkt,Münchener Straße,Düsseldorf,40597,51.16579,6.87420
+484,+,Biomarkt,Flachsmoor,Emstek,49685,52.86340,8.11142
+485,+,Biomarkt,Berliner Straße 33B,Waldkraiburg,84478,48.20540,12.40556
+486,+,Biomarkt,Allerheiligenstraße 7,Erfurt,99084,50.97861,11.02693
+487,+,Biomarkt,Am Gewerbepark 1,Röthenbach,90552,49.48062,11.22618
+488,+,Biomarkt,Fleischhauerstraße 24,Lippstadt,59555,51.67417,8.34396
+489,+,Biomarkt,Münchener Straße 67,Weilheim in Oberbayern,82362,47.85314,11.15057
+490,+,Biomarkt,Goethestraße 18,Pforzheim,75173,48.89178,8.69542
+491,+,Biomarkt,Dombühler Straße 2,Nürnberg-Röthenbach,90449,49.42150,11.03256
+492,+,Biomarkt,Nürnberger Straße 122,Hersbruck,91217,49.50855,11.41002
+493,+,Biomarkt,Hauptstraße 8b,Poing,85586,48.17077,11.81441
+494,+,Biomarkt,Potsdamer Straße 50a,Berlin,14163,52.43545,13.25784
+495,+,Biomarkt,Gliesmaroder Straße 26-27,Braunschweig,38106,52.27390,10.53929
+496,+,Biomarkt,Breite Straße 21a,Berlin,13187,52.56958,13.40298
+497,+,Biomarkt,Offenbacher Straße,Dietzenbach,63128,50.01163,8.77694
+498,+,Biomarkt,Brauhausstraße 5,Hamburg,22041,53.57150,10.06016
+499,+,Biomarkt,Schwabacher Straße 142,Fürth,90763,49.46371,10.98607
+500,+,Biomarkt,Richard-Strauss-Straße 36-38,München,81677,48.14129,11.61534
+501,+,Biomarkt,Sachsenplatz 4,Gera,07545,50.87059,12.07874
+502,+,Biomarkt,Alt-Tempelhof 35,Berlin,12103,52.46566,13.38282
+503,+,Biomarkt,Bahnhofsplatz 6,Wasserburg,83512,48.06201,12.22774
+504,+,Biomarkt,Harmsmühlenstraße 73a,Springe,31832,52.19648,9.56427
+505,+,Biomarkt,Pagodenburgstraße 2,München,81247,48.16454,11.48992
+506,+,Biomarkt,Unschlittplatz 2,Nürnberg,90403,49.45314,11.07232
+507,+,Biomarkt,Wulksfelder Damm 15,Tangstedt,22889,53.71426,10.10891
+508,+,Biomarkt,Löttringhauser Straße 1,Dortmund,44225,51.47566,7.44298
+509,+,Biomarkt,Hansestraße 30,Braunschweig,38112,52.31160,10.50264
+510,+,Biomarkt,Sülldorfer Kirchenweg 230,Hamburg,22589,53.58306,9.79477
+511,+,Biomarkt,Hauptstraße 3-5,Feucht,90537,49.37724,11.21146
+512,+,Biomarkt,Vogteistraße 12,Sottrum,27367,53.11605,9.22430
+513,+,Biomarkt,Bahnhofstraße 11,Petershausen,85238,48.41024,11.47023
+514,+,Biomarkt,B507,Lohmar,53797,50.84609,7.26647
+515,+,Biomarkt,Leher Heerstraße 21,Bremen,28359,53.09938,8.87197
+516,+,Biomarkt,Graßdorfer Straße 13,Taucha,04425,51.38222,12.49385
+517,+,Biomarkt,Arnulfstraße 166,München,80634,48.14769,11.52819
+518,+,Biomarkt,Sandinostraße 14,Berlin,13055,52.53684,13.48438
+519,+,Biomarkt,Pfälzer Straße 14,Erkner,15537,52.41256,13.75145
+520,+,Biomarkt,Aachener Straße 499,Köln,50933,50.93708,6.90070
+521,+,Biomarkt,Klein Kempen 100,Willich,47877,51.25779,6.52145
+522,+,Biomarkt,Gut Rothenhausen 4,Groß Schenkenberg,23860,53.80692,10.59975
+523,+,Biomarkt,Hauptstraße,Kaarst,41564,51.20590,6.60043
+524,+,Biomarkt,Friedrich-Wilhelm-Straße 39-40,Braunschweig,38100,52.26060,10.51992
+525,+,Biomarkt,Brettergartenstraße 90-97,Nürnberg,90427,49.47127,11.02295
+526,+,Biomarkt,Mergelteichstraße 39,Dortmund,44225,51.47326,7.46404
+527,+,Biomarkt,Rheinstraße 1,München,80803,48.16728,11.58611
+528,+,Biomarkt,Lübecker Straße 27,Schwerin,19053,53.62992,11.40770
+529,+,Biomarkt,Münchener Straße 27,Weilheim in Oberbayern,82362,47.84297,11.14314
+530,+,Biomarkt,Hammer Straße 126,Münster,48153,51.94513,7.62314
+531,+,Biomarkt,Haunstetter Straße 751/2,Königsbrunn,86343,48.28298,10.89412
+532,+,Biomarkt,Hallerstraße 31,Nürnberg,90419,49.46183,11.06538
+533,+,Biomarkt,Kemptener Straße 78,Nürnberg,90455,49.36431,11.07619
+534,+,Biomarkt,Vaitsgasse 1,Wertheim,97877,49.76021,9.51816
+535,+,Biomarkt,Hauptstege 6,Wesel,46485,51.65832,6.63611
+536,+,Biomarkt,Bült 11,Werne,59368,51.66336,7.63741
+537,+,Biomarkt,Königsplatz 23,Schwabach,91126,49.32878,11.02098
+538,+,Biomarkt,Kopstadtplatz 5,Essen,45127,51.45787,7.01286
+539,+,Biomarkt,Ölschlägern 37,Braunschweig,38100,52.26150,10.52703
+540,+,Biomarkt,Geraer Straße 11,Schleiz,07907,50.57942,11.80796
+541,+,Biomarkt,Bahnhofstraße 13-14,Delmenhorst,27749,53.05149,8.62988
+542,+,Biomarkt,Schleißheimer Straße 158,München,80797,48.16248,11.56425
+543,+,Biomarkt,Rentzelstraße 44,Hamburg,20146,53.56524,9.97803
+544,+,Biomarkt,Ludwigstraße 17,Augsburg,86152,48.37053,10.89358
+545,+,Biomarkt,Lutherstraße 2,Kiel,24114,54.31519,10.11760
+546,+,Biomarkt,Neustadter Straße 10,Dudenhofen,67373,49.31675,8.38958
+547,+,Biomarkt,Friedenstraße 11,Mülheim an der Ruhr,45470,51.41827,6.89652
+548,+,Biomarkt,Birkhuhnweg 3,Bochum,44892,51.46259,7.30697
+549,+,Biomarkt,L594,Nußloch,69226,49.33645,8.69558
+550,+,Biomarkt,Müllerstraße 29,Aschaffenburg,63741,49.98273,9.13537
+551,+,Biomarkt,Innere Münchener Straße 26,Landshut,84036,48.52931,12.14561
+552,+,Biomarkt,Hauptstraße 6,Nusse,23896,53.65857,10.57829
+553,+,Biomarkt,Lauterstraße 11-12,Berlin,12159,52.47282,13.33528
+554,+,Biomarkt,Jakobstraße 210,Aachen,52064,50.77044,6.07504
+555,+,Biomarkt,Untere Rathausgasse 3,Wendelstein,90530,49.35520,11.14270
+556,+,Biomarkt,Bönebütteler Damm 168,Bönebüttel,24620,54.08003,10.06000
+557,+,Biomarkt,Gasselstiege 115,Münster,48159,51.97813,7.60602
+558,+,Biomarkt,Hauptstraße 134-136,Bergisch Gladbach,51465,50.99029,7.12503
+559,+,Biomarkt,Passauerstraße 183,München,81369,48.10291,11.53015
+560,+,Biomarkt,Heßstraße 2,München,80799,48.15006,11.57256
+561,+,Biomarkt,Kirchdornberger Straße 85,Bielefeld,33619,52.04884,8.45201
+562,+,Biomarkt,Münchener Straße 99,Erding,85435,48.29866,11.89981
+563,+,Biomarkt,Höhestraße 63,Burscheid,51399,51.08458,7.13106
+564,+,Biomarkt,Loxtener Straße 5,Ankum,49577,52.54643,7.86631
+565,+,Biomarkt,Gangolfstraße 5-7,Bonn,53111,50.73267,7.09837
+566,+,Biomarkt,Obentrautstr. (Berlin),Berlin,10961,52.49561,13.38998
+567,+,Biomarkt,Bismarckstraße 13,Langgöns,35428,50.49901,8.66635
+568,+,Biomarkt,Werkstättenstraße 4,Dresden,01157,51.05372,13.68999
+569,+,Biomarkt,Bamberger Straße 15,Stegaurach,96135,49.86323,10.84549
+570,+,Biomarkt,Dorfstraße 2,Brachstedt,06188,51.56740,12.06473
+571,+,Biomarkt,Schloßplatz 1,Ebersberg,85560,48.07754,11.97102
+572,+,Biomarkt,Osterstraße 83,Hamburg,20259,53.57538,9.95461
+573,+,Biomarkt,Leipziger Straße 10,Frankfurt am Main,60487,50.12073,8.64932
+574,+,Biomarkt,Berger Straße 42,Frankfurt am Main,60316,50.12018,8.69555
+575,+,Biomarkt,Eckenheimer Landstraße 126-128,Frankfurt am Main,60318,50.12735,8.68527
+576,+,Biomarkt,Bahnhofstraße 15,Weingarten (Baden),76356,49.05224,8.52996
+577,+,Biomarkt,Karl-Zucker-Straße 12,Erlangen,91052,49.58258,11.00535
+578,+,Biomarkt,Kölner Straße 47-49,Attendorn,57439,51.12422,7.89924
+579,+,Biomarkt,Blandow 1,Lohme,18551,54.57790,13.58715
+580,+,Biomarkt,Kirchplatz 9-10,Ostercappeln,49179,52.34383,8.22407
+581,+,Biomarkt,L594,Nußloch,69226,49.33397,8.69598
+582,+,Biomarkt,Franz-Nißl-Straße 55,München,80999,48.19375,11.46190
+583,+,Biomarkt,Wielandstraße 14,Eching,85386,48.29850,11.62526
+584,+,Biomarkt,Nordpromenade 7,Erkelenz,41812,51.08214,6.31629
+585,+,Biomarkt,Badergasse 3,Aschaffenburg,63739,49.97514,9.14786
+586,+,Biomarkt,Bismarckstraße 16,Bremen,28203,53.07854,8.82743
+587,+,Biomarkt,Dr.-Henkel-Straße 2,Erding,85435,48.30575,11.91325
+588,+,Biomarkt,Heerdter Landstraße 243,Düsseldorf,40549,51.22913,6.70023
+589,+,Biomarkt,Weißdornweg 2,Köln,50997,50.88002,6.96397
+590,+,Biomarkt,Plaßkampweg 1,Detmold,32760,51.90692,8.86716
+591,+,Biomarkt,Ochsenwerder Landstraße 122,Hamburg,21037,53.48539,10.07194
+592,+,Biomarkt,Friedrichstraße 71-73,Düsseldorf,40217,51.21468,6.77678
+593,+,Biomarkt,Oraniendamm 43,Berlin,13469,52.61133,13.31800
+594,+,Biomarkt,Dorfstraße 17,Dresden,01156,51.09445,13.64254
+595,+,Biomarkt,Rathausplatz 13,Hemmingen,30966,52.32576,9.72566
+596,+,Biomarkt,In der Dodesheide 144,Osnabrück,49088,52.30586,8.08297
+597,+,Biomarkt,Theaterplatz 14,Aachen,52062,50.77260,6.08744
+598,+,Biomarkt,Forchheimer Straße 19,Baiersdorf,91083,49.66028,11.03416
+599,+,Biomarkt,Hans-Böckler-Straße 3-6,Bonn,53225,50.74111,7.12150
+600,+,Biomarkt,Ottobrunner Straße 138,München,81737,48.10118,11.62868
+601,+,Biomarkt,Augsburger Straße 70-72,Landsberg am Lech,86899,48.06421,10.86591
+602,+,Biomarkt,Grüne Straße 17-19,Ottersberg,28870,53.11110,9.14134
+603,+,Biomarkt,Bundesallee 201,Berlin,10717,52.49322,13.33105
+604,+,Biomarkt,Permoserstraße 88,Ingolstadt,85057,48.77063,11.39531
+605,+,Biomarkt,Färberstraße 11,Nürnberg,90402,49.44961,11.07268
+606,+,Biomarkt,B14,Nürnberg,90449,49.42103,11.03086
+607,+,Biomarkt,Sutelstraße 25,Hannover,30659,52.41484,9.79682
+608,+,Biomarkt,Alleestraße 3,Bielefeld,33649,52.00080,8.48294
+609,+,Biomarkt,Weißenburger Straße 3,München,81667,48.12865,11.59477
+610,+,Biomarkt,ABC-Straße 19,Wismar,23966,53.89417,11.46724
+611,+,Biomarkt,Hausdorffstraße 160,Bonn,53129,50.71228,7.10816
+612,+,Biomarkt,Schwetzinger Straße 52,Heidelberg,69124,49.37896,8.66918
+613,+,Biomarkt,Moselstraße 41-42,Ernst,56814,50.14492,7.22383
+614,+,Biomarkt,Zum Kalkofen 72,Troisdorf,53844,50.77942,7.09259
+615,+,Biomarkt,Lehrberger Straße 68-74,Nürnberg,90431,49.44780,11.02511
+616,+,Biomarkt,Libnow 7a,Murchin,17390,53.90421,13.76741
+617,+,Biomarkt,Bahnhofstraße 11-13,Neu Wulmstorf,21629,53.46451,9.79449
+618,+,Biomarkt,Bornkampsweg 41,Ahrensburg,22926,53.65954,10.19245
+619,+,Biomarkt,Unschlittplatz 5,Nürnberg,90403,49.45300,11.07229
+620,+,Biomarkt,Brettergartenstraße 94,Nürnberg,90427,49.47183,11.02185
+621,+,Biomarkt,Holtenauer Straße 50,Kiel,24105,54.33130,10.13197
+622,+,Biomarkt,Oewer De Hase 5,Osnabrück,49074,52.27386,8.04903
+623,+,Biomarkt,Im Bachele 2,Bonn,53175,50.69536,7.12298
+624,+,Biomarkt,Wörthstraße 13,Bruchsal,76646,49.12563,8.59457
+625,+,Biomarkt,Aussiger Platz 6-8,Nürnberg,90480,49.44393,11.12342
+626,+,Biomarkt,Berliner Straße 132,Berlin,10715,52.48641,13.32210
+627,+,Biomarkt,Karl-Zucker-Straße 1B,Erlangen,91052,49.58622,11.00458
+628,+,Biomarkt,Steubenstraße 92,Mannheim,68199,49.45494,8.48151
+629,+,Biomarkt,Dircksenstraße 142-145,Berlin,10178,52.52337,13.40451
+630,+,Biomarkt,Richard-Strauss-Straße 48,München,81677,48.14175,11.61538
+631,+,Biomarkt,Planegger Straße 9a,München,81241,48.14582,11.45901
+632,+,Biomarkt,Friesenstraße 27,Berlin,10965,52.48891,13.39445
+633,+,Biomarkt,Groten Hoff 3,Hamburg,22359,53.64711,10.16370
+634,+,Biomarkt,Kollwitzstraße 24,Berlin,10405,52.53319,13.41461
+635,+,Biomarkt,Kasinostraße 90,Darmstadt,64293,49.88240,8.64618
+636,+,Biomarkt,Wormser Straße 5-6,Speyer,67346,49.31836,8.43347
+637,+,Biomarkt,Sülldorfer Landstraße 11-13,Hamburg,22589,53.57678,9.82035
+638,+,Biomarkt,Ludwigstraße 22,Chemnitz,09113,50.84306,12.90681
+639,+,Biomarkt,Ludwigstraße 52,Gießen,35390,50.57928,8.67362
+640,+,Biomarkt,Telemannstraße,Bayreuth,95444,49.94451,11.58008
+641,+,Biomarkt,Schunterstraße 42,Braunschweig,38106,52.27370,10.54322
+642,+,Biomarkt,Schillerstraße 3-5,Cuxhaven,27472,53.86856,8.70304
+643,+,Biomarkt,Osterweide 11,Lübeck,23562,53.84188,10.70944
+644,+,Biomarkt,Drakestraße 50,Berlin,12205,52.44179,13.29798
+645,+,Biomarkt,Bahnstraße 12,Baesweiler,52499,50.92329,6.19906
+646,+,Biomarkt,Kampstraße 102,Dortmund,44137,51.51456,7.45763
+647,+,Biomarkt,B501,Schashagen,23730,54.12663,10.88899
+648,+,Biomarkt,Lutherstraße 15,Leinefelde-Worbis,37327,51.38760,10.32619
+649,+,Biomarkt,Dr.-Kurt-Schumacher-Straße 12,Nürnberg,90402,49.44960,11.07288
+650,+,Biomarkt,Hermann-Löns-Straße 18,Ronnenberg,30952,52.33152,9.63010
+651,+,Biomarkt,Solinger Straße 18,Langenfeld (Rheinland),40764,51.11028,6.95041
+652,+,Biomarkt,Aachener Straße 57,Düsseldorf,40223,51.20461,6.77329
+653,+,Biomarkt,Sägewerkstraße 12,Freilassing,83395,47.84299,12.96893
+654,+,Biomarkt,Klinkerweg 12,Stuhr,28816,53.00359,8.77208
+655,+,Biomarkt,Rockwinkeler Heerstraße 157,Bremen,28355,53.09966,8.90341
+656,+,Biomarkt,Allersberger Straße 185,Nürnberg,90461,49.43408,11.09722
+657,+,Biomarkt,Steinstraße 12,Herford,32052,52.11644,8.66468
+658,+,Biomarkt,Frundsbergstraße 17,München,80634,48.15547,11.53516
+659,+,Biomarkt,Wilhelmshavener Straße 4,Nürnberg,90425,49.48094,11.06204
+660,+,Biomarkt,Johannisgasse 2,Eisenberg,07607,50.96793,11.90336
+661,+,Biomarkt,Bundesallee 104,Berlin,12161,52.46515,13.32846
+662,+,Biomarkt,Kreuzstraße 26,Bocholt,46395,51.83510,6.61855
+663,+,Biomarkt,Lindwurmstraße 155,München,80337,48.12564,11.55056
+664,+,Biomarkt,Venloer Straße 256,Köln,50823,50.94754,6.92219
+665,+,Biomarkt,Alleestraße 45,Saarbrücken,66126,49.25961,6.91673
+666,+,Biomarkt,Lange Straße 61,Bad Salzuflen,32105,52.08600,8.74555
+667,+,Biomarkt,Saarner Straße 241,Mülheim an der Ruhr,45479,51.41917,6.85125
+668,+,Biomarkt,Franz-Mehring-Straße 6,Chemnitz,09112,50.83211,12.89755
+669,+,Biomarkt,Wilmersdorfer Straße 72,Berlin,10629,52.50371,13.30752
+670,+,Biomarkt,Sunderort 3,Stemwede,32351,52.42481,8.40344
+671,+,Biomarkt,Inselstraße 23,Wittdün,25946,54.62664,8.39415
+672,+,Biomarkt,Karlstraße 10,Blaubeuren,89143,48.41190,9.78458
+673,+,Biomarkt,Südstraße 15,Braunschweig,38100,52.26010,10.51696
+674,+,Biomarkt,Coppenbrügger Landstraße 33,Lauenau,31867,52.27111,9.36921
+675,+,Biomarkt,Dietzgenstraße 55,Berlin-Niederschönhausen,13156,52.58574,13.40253
+676,+,Biomarkt,Lindenstraße 14,Obernburg,63785,49.84244,9.14659
+677,+,Biomarkt,Roxeler Straße 416,Münster,48161,51.95727,7.57178
+678,+,Biomarkt,Belmer Straße 5,Belm,49191,52.30111,8.13927
+679,+,Biomarkt,Reichenberger Straße 154,Berlin,10999,52.49759,13.42391
+680,+,Biomarkt,Berrenrather Straße 201-203,Köln,50937,50.91872,6.92572
+681,+,Biomarkt,Hauptstraße 33,Eslohe (Sauerland),59889,51.25563,8.17180
+682,+,Biomarkt,Sulzbacher Straße 79,Nürnberg,90489,49.45929,11.09868
+683,+,Biomarkt,Schafgasse 1,Lichtenau,09244,50.90816,12.99989
+684,+,Biomarkt,Hamfelder Hof 2,Hamfelde,22929,53.60151,10.45188
+685,+,Biomarkt,Nordstraße 87,Düsseldorf,40477,51.23944,6.78083
+686,+,Biomarkt,Friedrichstraße 9,Olpe,57462,51.02830,7.85178
+687,+,Biomarkt,Zum Flughafen 8,Herzogenaurach,91074,49.56880,10.88502
+688,+,Biomarkt,Voigtstraße 38,Berlin,10247,52.51585,13.46812
+689,+,Biomarkt,Altdorfer Straße 2,Feucht,90537,49.37554,11.21466
+690,+,Biomarkt,Augustenstraße 62,München,80333,48.14915,11.56297
+691,+,Biomarkt,Landgrafenstraße 8-12,Frankfurt am Main,60486,50.12088,8.64716
+692,+,Biomarkt,Waldweg 3,Lünen,44534,51.62410,7.55811
+693,+,Biomarkt,Dom-Pedro-Straße 7-9,München,80637,48.15968,11.54486
+694,+,Biomarkt,Raabestraße 18,Hattingen,45525,51.39221,7.18344
+695,+,Biomarkt,Zum See 16,Franzburg,18461,54.18712,12.90098
+696,+,Biomarkt,Büdinger Straße,Bad Vilbel,61118,50.19243,8.75329
+697,+,Biomarkt,Bonner Straße 2,Meckenheim,53340,50.62557,7.01942
+698,+,Biomarkt,Drosselweg 4,Lehrte,31275,52.38399,9.96793
+699,+,Biomarkt,Liebknechtstraße 34,Magdeburg,39108,52.12384,11.61176
+700,+,Biomarkt,Pestalozzistraße 78,Berlin,10627,52.50789,13.30733
+701,+,Biomarkt,Alte Münsterstraße 1,Greven,48268,52.09182,7.61252
+702,+,Biomarkt,Erdinger Straße 24-26,Freising,85356,48.39604,11.75431
+703,+,Biomarkt,Friedrichstraße 75,Erkner,15537,52.42555,13.75156
+704,+,Biomarkt,Bahnhofstraße 31,Heidelberg,69115,49.40560,8.68851
+705,+,Biomarkt,Meitnerweg 6,Aschaffenburg,63741,49.98598,9.11456
+706,+,Biomarkt,Haus Neuenhoven 1,Jüchen,41363,51.13490,6.52553
+707,+,Biomarkt,Theenhausener Straße 4,Werther (Westfalen),33824,52.09257,8.37157
+708,+,Biomarkt,Engerstraße 28,Kempen,47906,51.36463,6.42362
+709,+,Biomarkt,Wilhelmshavener Straße 10,Nürnberg,90425,49.48014,11.06275
+710,+,Biomarkt,Breite Straße 27,Velten,16727,52.68940,13.18224
+711,+,Biomarkt,Alte Bahnhofstraße 2a,Pöcking,82343,47.96858,11.30201
+712,+,Biomarkt,Glattbacher Straße 4-6,Aschaffenburg,63741,49.98242,9.14786
+713,+,Biomarkt,Fiedelerstraße 22,Hannover,30519,52.34034,9.76358
+714,+,Biomarkt,Reichenbacher Straße 75,Schwabach,91126,49.32834,10.99829
+715,+,Biomarkt,Laufamholzstraße 41,Nürnberg,90482,49.46173,11.13642
+716,+,Biomarkt,Äußere Sulzbacher Straße 123,Nürnberg,90491,49.46488,11.11927
+717,+,Biomarkt,Oelmühlenstraße 50,Bielefeld,33604,52.01499,8.54748
+718,+,Biomarkt,Kaiserdamm 12,Berlin,14057,52.51060,13.28940
+719,+,Biomarkt,Am Markt 2,Braunschweig,38108,52.29970,10.59968
+720,+,Biomarkt,Adlerstraße 1-3,Heidelberg,69123,49.42533,8.64439
+721,+,Biomarkt,Räterstraße 11,Kirchheim,85551,48.16384,11.75585
+722,+,Biomarkt,Habermehlstraße,Pforzheim,75172,48.88714,8.67041
+723,+,Biomarkt,Osterfeld,Welver,59514,51.62592,7.93422
+724,+,Biomarkt,Boxhagener Straße 31,Berlin,10245,52.51248,13.45952
+725,+,Biomarkt,Bahnhofstraße 52,Voerde (Niederrhein),46562,51.59647,6.68108
+726,+,Biomarkt,Lüpertzender Straße 111,Mönchengladbach,41061,51.19214,6.43977
+727,+,Biomarkt,Schlingheide 2,Ostercappeln,49179,52.38738,8.13358
+728,+,Biomarkt,Am Hombruchsfeld 75,Dortmund,44225,51.47731,7.45144
+729,+,Biomarkt,Berger Straße 38-40,Frankfurt am Main,60316,50.12006,8.69521
+730,+,Biomarkt,Katzwanger Hauptstraße 58,Nürnberg,90453,49.36070,11.05088
+731,+,Biomarkt,Schönhauser Allee 107,Berlin,10439,52.55177,13.41396
+732,+,Biomarkt,Breitscheidstraße 6,Stuttgart,70174,48.77930,9.16805
+733,+,Biomarkt,Ferdinandstraße 3-4,Berlin,12209,52.42732,13.32844
+734,+,Biomarkt,Dörferweg 2,Lippstadt,59558,51.69074,8.44585
+735,+,Biomarkt,Grevener Straße 63-65,Münster,48149,51.97267,7.61238
+736,+,Biomarkt,Knesebeckstraße 58-59,Berlin,10719,52.50072,13.32167
+737,+,Biomarkt,Kerkerstraße 10,Schwäbisch Gmünd,73527,48.82024,9.84924
+738,+,Biomarkt,Kirchweg 149-151,Bremen,28201,53.05706,8.80028
+739,+,Biomarkt,Benrodestraße 44,Düsseldorf,40597,51.16354,6.86549
+740,+,Biomarkt,Greifswalder Straße 30,Berlin,10405,52.53265,13.42913
+741,+,Biomarkt,Marktallee 48,Münster,48165,51.90418,7.64503
+742,+,Biomarkt,Schmalfelder Straße 25,Lentföhrden,24632,53.87704,9.88327
+743,+,Biomarkt,Lindemannstraße 15,Dortmund,44137,51.50581,7.45105
+744,+,Biomarkt,Möhrendorfer Straße 1C,Erlangen,91056,49.60583,10.98331
+745,+,Biomarkt,Breisgauer Straße 18,Berlin,14129,52.43695,13.21616
+
+746,-,Rewe,Blumenstraße 5,Rossleben,06571,51.2945022,11.4384766
+747,+,Rewe,Richard-Hüttig-Platz 17,Roßleben,06571,51.294759,11.433571
+
+748,-,real,Goldene Meile Glasfabrik 19,Bad Breisig,53498,50.5338021,7.2721058
+749,-,Aldi Nord,Spielhagenstr. 46,Magdeburg,39110,52.12811,11.59876
+
+750,-,Lidl,Friedenstraße 7,Roßleben,06571,51.2963217,11.4367276
+751,+,Lidl,Friedenstraße 7,Roßleben,06571,51.297585,11.434398
+752,+,Aldi Nord,Schönfelder Straße 4,Artern,06556,51.363438,11.287678
+753,+,Rossmann,Schönfelder Straße 4a,Artern,06556,51.363405,11.288115
+754,+,Norma,Reinsdorfer Straße,Artern,06556,51.361109,11.289751
+755,+,Edeka,Kachstedter Straße 1,Artern,06556,51.374431,11.286929
+756,+,Lidl,Kachstedter Straße 4,Artern,06556,51.374430,11.286010
+
+757,-,Norma,Reinsdorfer Straße,Artern,06556,51.361109,11.289751
+758,+,Norma,Am Kalkfeld 1,Artern,06556,51.375760,11.284949
+
+759,+,Penny,Teichfeldweg 1,Roßleben,06571,51.292526,11.445102
+
+760,-,Aldi Nord,Richard-Wagner-Straße 3,Ahlen,59227,51.7635541,7.8826137
+761,+,Rewe,Hammer Straße 8,Ahlen,59227,51.762222,7.879978
+762,+,Aldi Nord,Kleiwellenfeld 27,Ahlen,59229,51.738896,7.880822
+763,-,Aldi Nord,Zeppelinstraße 61,Ahlen,59229,51.7610908,7.9038837
+764,+,Aldi Nord,Ostbredenstraße 77,Ahlen,59229,51.759960,7.908389
+765,+,Edeka,Ostbredenstraße 73,Ahlen,59229,51.760670,7.907555
+766,+,Rossmann,Ostbredenstraße 73,Ahlen,59229,51.760848,7.907491
+767,+,Rossmann,Oststraße 32,Ahlen,59227,51.763166,7.893489
+
+768,-,Aldi Süd,Rheinweg 156-158,Bonn-Kessenich,53129,50.71304,7.11025
+769,-,Penny,Hauptstr. 122,Warstein,59581,51.4398471,8.3523223
+
+770,+,Kaufland,Potsdamer Straße 8,Teltow,14523,52.396473,13.240969
+771,+,Kaufland,Am Lückefeld 97,Mahlow,15831,52.357407,13.432608
+772,+,Edeka,Ackerstr. 117,Berlin,13355,52.537755,13.384908
+773,+,Penny,Mühlenstraße 36,Himmelpforten,21709,53.613706,9.300760
+774,+,Rewe,Bahnhofstraße 9,Himmelpforten,21709,53.615289,9.305848
+
+775,+,Lidl,Grenzhöfer Straße 50,Eppelheim,69214,49.405713,8.619323
+776,+,Rewe,Eislebener Straße 1,Erfurt,99086,50.991898,11.027520
+777,+,Lidl,Eislebener Straße 4,Erfurt,99086,50.991868,11.028775
+
+778,+,Lidl,Schwetzinger Str. 23,Brühl,68782,49.394898,8.537017
+779,+,Lidl,August-Bebel-Str. 4-5,Woltersdorf,15569,52.449512,13.753228
+780,+,Rewe,Havemannstr. 12a,Berlin,12689,52.568665,13.568326
+
+781,+,Edeka,Bankstraße 6-8,Jevenstedt,24808,54.232911,9.667050
+
+782,-,Norma,Scherenbergweg 4,Bad Königshofen,97631,50.304584,10.4642516
+783,-,Netto Marken-Discount,Hoher Markstein 57,Bad Königshofen,97631,50.3058,10.465816
+784,-,Rewe,Hoher Markstein 14,Bad Königshofen,97631,50.3055463,10.463372
+785,-,Edeka,Hoher Markstein 6,Bad Königshofen,97631,50.3049774,10.4604862
+786,-,Lidl,Kaiser-Wilhelm-Straße 127,Berlin,10178,52.5257183,13.4143982
+787,+,Edeka,Kirchgasse 8,Sulzfeld,97633,50.261058,10.404127
+788,+,Lidl,Heurichstraße 27-29,Römhild,98631,50.400559,10.541420
+
+789,-,Marktkauf,Bahnhofstraße 11,Rinteln,31737,52.1954496,9.0803532
+790,-,Aldi Nord,Stoevesandtstr. 26,Rinteln,31737,52.1955957,9.0718248
+791,-,Marktkauf,Breite Str. 16,Rinteln,31737,52.1957828,9.0719717
+
+792,-,Netto,Oraniendamm 6,Berlin,13469,52.60792,13.32482
+
+793,-,Aldi Nord,Luckauer Chaussee 30,Dahme,15936,51.8622018,13.4456953
+
+794,-,Aldi Nord,Hamm-Wiescherhüen De-Wendel-Str. 4,Hamm,59077,51.64765,7.7626
+795,-,Aldi Nord,Grüstr. 102,Hamm,59063,51.6682996,7.8185196
+796,+,Aldi Nord,Grünstr. 102,Hamm,59063,51.6682996,7.8185196
+797,-,Marktkauf,Franz-Hegemann-Straße 1,Warstein,59581,51.4506699,8.3563301
+
+798,-,Aldi Nord,Ulzburger Str. 360,Norderstedt,22846,53.7196835,9.9987869
+
+799,-,Rewe,Meininger Str. 146,Suhl,98529,50.59998,10.65584
+
+800,-,Aldi Süd,Höhscheider Straße 103-105,Sollingen,42699,51.1511595,7.0201059
+
+801,-,Penny,Weyprechtstr. 2,München,80937,48.2045454,11.5645161
+802,-,Penny,Feuchtwangerstr. 4,München,80937,48.20685,11.56677
+803,-,Marktkauf,Lemkestr. 10,Hameln,31787,52.12294,9.34535
+804,+,Edeka,Lemkestr. 10,Hameln,31787,52.12294,9.34535
+
+805,+,Penny,Töpinger Straße 12,Bispingen,29646,53.079290,9.996795
+806,+,Aldi Nord,Große Diesdorfer Straße 41,Magdeburg,39110,52.129662,11.604157
+807,+,Lidl,Große Diesdorfer Straße 210,Magdeburg,39108,52.129672,11.607781
+808,-,Penny,Siedlungsweg 70,Dorfhain,01738,50.92281,13.51537
+
+809,+,Lidl,Große Diesdorfer Straße 210,Magdeburg,39108,52.129672,11.607781
+
+810,+,Lidl,Henry-Dunant-Straße 2,Lauf,91207,49.516467,11.292613
+
+811,-,Aldi Nord,Bükeburg Braustr. 7,Bückeburg,31675,52.2608961,9.0483889
+812,+,Edeka,In den Gernäckern 2,Frickenhausen,72636,48.583756,9.366669
+813,+,Rewe,Nürtinger Straße 63,Metzingen,72555,48.543972,9.289332
+814,+,Rewe,Paulusstraße 10,Neuffen,72639,48.556377,9.376198
+
+815,-,Netto Marken-Discount,Ribnitzer Straße 24,Berlin,13051,52.5699797,13.4961501
+816,+,Netto,Ribnitzer Straße 24,Berlin,13051,52.5699797,13.4961501
+
+817,-,Penny,Königsheide 1-3,Willich,47877,51.2424409,6.5394259
+
+818,+,Rewe,Iggelheimer Straße 16,Speyer,67346,49.332641,8.420030
+819,+,Lidl,Iggelheimer Straße 20,Speyer,67346,49.333662,8.418855
+
+820,+,Lidl,Nailastraße 21,München,81737,48.090572,11.633122
+821,-,Aldi Süd,Biberger Straße 86,Unterhaching,82008,48.0727794,11.6206913
+822,+,Netto Marken-Discount,Therese-Giehse-Allee 26,München,81739,48.094205,11.641995
+823,+,Netto Marken-Discount,Am Hachinger Bach,Neubiberg,85579,48.084114,11.624897
+824,-,Biomarkt,Alt-Tempelhof 35,Berlin,12103,52.46566,13.38282
+825,+,Edeka,Alt-Tempelhof 35,Berlin,12103,52.46566,13.38282
+
+826,-,Penny,Gundelsheimer Str. 51,Stuttgart,70437,48.83407,9.19805
+
+827,-,real,Viehmarktstraße 8,Landau,94405,48.67395,12.69528
+
+828,+,Aldi Süd,Wettersteinring 8,Dachau,85221,48.242270,11.447940
+829,+,Lidl,Wettersteinring 7,Dachau,85221,48.243635,11.449399
+830,+,Netto Marken-Discount,Wettersteinring 21,Dachau,85221,48.243581,11.449262
+
+831,-,Müller,Bahnhofsplatz 2,München,85521,48.0705,11.65689
+832,+,Müller,Bahnhofsplatz 2,Ottobrunn,85521,48.0705,11.65689
+
+833,+,Lidl,Kallmünzer Str. 16,Nürnberg,90478,49.433628,11.126685
+834,+,Lidl,Löwenberger Straße 151,Nürnberg,90475,49.412762,11.172490
+835,-,Aldi Nord,Müllerstraße 23-26,Berlin,13353,52.5454804,13.361314
+836,+,Netto Marken-Discount,Venloer Straße 11,Nettetal,41334,51.321380,6.196207
+
+837,+,Rossmann,Müllerstraße 40,Berlin,13353,52.549952,13.353331
+838,-,Lidl,Müllerstraße 40,Berlin,13353,52.55021,13.35318
+839,+,Penny,Müllerstraße 40,Berlin,13353,52.55021,13.35318
+840,+,Lidl,Müllerstraße 48,Berlin,13349,52.552395,13.350024
+841,+,Rewe,Hauptstraße 136,Sulzfeld,75056,49.108192,8.855598
+
+842,+,Netto Marken-Discount,Sögeler Straße 1,Lathen,49762,52.860855,7.323306
+
+843,+,Netto Marken-Discount,Wallinghausener Straße 1,Aurich,26603,53.468050,7.494715
+
+844,-,Netto Marken-Discount,Kistnerstr. 45,Bremerhaven,27576,53.55535,8.57738
+845,-,Netto Marken-Discount,Bürgermeister Smidt Str. 188,Bremerhaven,27568,53.55259,8.57124
+846,+,Netto Marken-Discount,Obere Bürger 26,Bremerhaven,27568,53.542304,8.577804
+847,-,Netto Marken-Discount,Rickmersstr. 63-65,Bremerhaven,27568,53.56046,8.57655
+848,+,Netto Marken-Discount,Rickmersstraße 107,Bremerhaven,27568,53.560309,8.569885
+849,-,Netto Marken-Discount,Rheinstr. 35,Bremerhaven,27570,53.5377416,8.5929532
+850,-,Netto Marken-Discount,Schillerstr. 52,Bremerhaven,27570,53.53161,8.59427
+
+851,+,Rewe,Altonaer Straße 67,Hamburg,20357,53.565415,9.965356
+852,-,real,Buchenallee 1,Salzwedel,29410,52.8443521,11.1689754
+853,+,Edeka,Buchenallee 1,Salzwedel,29410,52.8443521,11.1689754
+854,+,Netto Marken-Discount,Sögeler Straße 1,Lathen,49762,52.860869,7.323333
+855,-,Penny,Kranoldstr.,Battaune,04838,51.4566588,12.6376153
+856,+,Penny,Kranoldstr. 26,Eilenburg,04838,51.456000,12.636053
+
+857,+,Rewe,August-Kienzle-Straße 9,Maulbronn,75433,48.998235,8.799741
+
+858,-,Lidl,Große Straße 24,Lathen,49762,52.86061,7.31807
+859,+,Lidl,Große Straße 15,Lathen,49762,52.861481,7.318789
+860,-,Netto Marken-Discount,Sögeler Straße 1,Lathen,49762,52.860855,7.323306
+
+861,+,Netto Marken-Discount,Steinberg 21,Hechthausen,21755,53.642453,9.234070
+
+862,+,Netto Marken-Discount,Sögeler Straße 1,Lathen,49762,52.860869,7.323333
+
+863,-,Norma,Allersberger Straße 37,Roth,91154,49.2496,11.09652
+864,-,Edeka,Eckersmühlener Hauptstr. 7,Roth-Eckersmühlen,91154,49.21625,11.13777
+865,+,Norma,Willy-Supf-Platz,Roth,91154,49.248966,11.089815
+866,+,Norma,Münchener Straße 61,Roth,91154,49.233285,11.087373
+867,+,Penny,Allersberger Straße 13,Hilpoltstein,91161,49.196133,11.186979
+868,+,Lidl,Allersberger Straße 87,Roth,91154,49.245655,11.107067
+869,+,Rewe,Nürnberger Straße 41,Roth,91154,49.252474,11.086703
+870,+,Netto Marken-Discount,Spalter Straße 54,Abenberg,91183,49.236497,10.956803
+871,+,Netto Marken-Discount,Industriestraße 21,Hilpoltstein,91161,49.185969,11.186691
+872,-,Aldi Süd,Breitenloher Weg 10,Georgensgmünd,91166,49.17182,11.00614
+873,-,Norma,Neumarkter Str. 33,Allersberg,90584,49.25394,11.24426
+874,+,Aldi Nord,Beelener Straße 86,Herzebrock-Clarholz,33442,51.902932,8.191915
+875,+,Aldi Nord,Lilienweg 1,Beelen,48361,51.929158,8.125420
+876,-,Aldi Nord,Orkotten 5,Telgte,48291,51.9803539,7.7773671
+877,+,Aldi Nord,Orkotten 5,Telgte,48291,51.978442,7.783133
+878,-,Aldi Nord,Kardinal Von Galen Str. 4,Greven,48268,52.0954445,7.6092782
+879,+,Aldi Nord,Kardinal-von-Galen-Straße 4,Greven,48268,52.0954445,7.6092782
+880,+,Aldi Nord,Im Hagenkamp 1-5,Emsdetten,48282,52.174772,7.536662
+881,+,Aldi Nord,Pfarrer-Bergmannshoff-Platz 4,Rheine,48431,52.275610,7.426195
+882,+,Aldi Nord,Nienbergstraße 100,Rheine,48431,52.271671,7.412569
+883,-,Edeka,Neuenkirchener Straße 244,Rheine,48432,52.27248,7.41085
+884,+,Edeka,Felsenstraße 1,Rheine,48431,52.271615,7.411173
+885,+,Rewe,Beelener Straße 84,Herzebrock-Clarholz,33442,51.903050,8.192740
+886,-,Rewe,Debusstr. 9-15,Herzebrockclarholz,33442,51.882,8.24102
+887,+,Rewe,Debusstr. 9-15,Herzebrock-Clarholz,33442,51.882,8.24102
+888,+,dm,Beelener Straße 84,Herzebrock-Clarholz,33442,51.902748,8.192259
+889,-,dm,Große Straße 3-7,Ibbenbüren,49477,52.27687,7.71523
+890,+,dm,Große Straße 30,Ibbenbüren,49477,52.278261,7.715936
+891,+,Norma,Werner Straße 76-78,Bergkamen,59192,51.611698,7.660595
+892,+,Norma,Robert-Koch-Straße 80a,Kamen,59174,51.567556,7.610868
+
+893,+,Globus,Am Mondschein 24,Lippstadt,59557,51.675780,8.369995
+
+894,+,Aldi Süd,Pleinfelder Straße 66,Georgensgmünd,91166,49.177521,11.011439
+
+895,+,Rewe,Rother Straße 44,Rednitzhembach,91126,49.294955,11.081886
+896,-,Edeka,Waldstr. 101,Nürnberg,90469,49.39794,11.08492
+
+897,+,Müller,Hauptstraße 17,Roth,91154,49.246124,11.090442
+
+898,+,Edeka,Inselstraße 18,Wittdün,25946,54.626870,8.396117
+899,+,Edeka,Inselstraße 28,Wittdün,25946,54.626995,8.393160
+900,+,Edeka,Uasterstigh 16,Nebel,25946,54.651565,8.355475
+901,+,Edeka,Lunstruat 5,Norddorf,25946,54.679843,8.332555
+902,+,Edeka,Jaardenhuug 9,Utersum,25938,54.713076,8.406974
+
+903,+,Rewe,Marktstraße 16,Gröditz,01609,51.412114,13.445817
+
+904,+,Lidl,Strawinskystraße 42,Nürnberg,90455,49.345762,11.059486
+905,+,Lidl,Südliche Ringstraße 26,Schwabach,91126,49.327535,11.020938
+906,+,Lidl,Richtwiese 1,Wendelstein,90530,49.351289,11.160290
+907,+,Lidl,Am Igelsdorfer Berg 4,Rednitzbembach,91126,49.314472,11.056681
+
+908,+,Netto Marken-Discount,Höfener Weg 15,Heideck,91180,49.137485,11.139501
+909,+,Norma,Selingstädter Straße 1,Heideck,91180,49.132849,11.131218
+
+910,-,Aldi Nord,Wrangelstraße 125,Hamburg,20253,53.5846877,9.9646538
+911,-,Aldi Nord,Troplowitzstraße 8-13,Hamburg,22529,53.58477,9.96377
+
+912,+,Norma,Altenfeldener Straße 8,Allersberg,90584,49.258740,11.228344
+913,+,Edeka,Neumarkter Straße 14,Allersberg,90584,49.252473,11.240754
+914,+,Penny,Ellinger Straße 14,Pleinfeld,91785,49.102420,10.986089
+915,+,Netto Marken-Discount,Dieselstraße 1,Pleinfeld,91785,49.100513,10.971948
+916,+,Norma,Gewerbepark 2,Pleinfeld,91785,49.094982,10.992621
+
+917,-,dm,Sendlinger Straße 12a,München,80331,48.136224,11.57287
+
+918,+,Lidl,Schulhausstraße 16,Weißenburg in Bayern,91781,49.032388,10.968129
+
+919,+,Netto Marken-Discount,Hauptstraße 30,Illerkirchberg,89171,48.339051,9.998741
+
+920,+,Aldi Süd,Wiblinger Ring 100,Ulm,89079,48.351107,9.979531
+921,+,Rewe,Buchauer Straße 4,Ulm,89079,48.352070,9.973512
+922,+,Edeka,Pfullendorfer Straße 5,Ulm,89079,48.351218,9.973963
+923,+,Norma,Berliner Straße 17,Senden,89250,48.333813,10.038837
+
+924,-,real,Blaubeurer Straße 95,Ulm,89077,48.4009958,9.9585588
+
+925,-,Aldi Nord,Paul-Roosen-Str. 43,Hamburg,22767,53.5533471,9.9563487
+926,-,Aldi Nord,Neu-Koppel 2,Göhl,23758,54.28696,10.9434
+
+927,+,Edeka,Göhler Straße 7,Oldenburg in Holstein,23758,54.290698,10.892181
+
+928,+,Netto Marken-Discount,Max-Eyth-Straße 2,Illerrieden,89186,48.273576,10.059231
+
+929,-,Penny,Lange Straße 6,Kotschka,04910,51.45818,13.52197
+930,+,Penny,Lange Straße 6,Elsterwerda,04910,51.45818,13.52198
+931,-,Aldi Nord,Fischergasse,Koselitz,01609,51.3915523,13.4036666
+932,+,Aldi Nord,Hauptstraße 10,Gröditz,01609,51.409126,13.445356
+933,+,Rewe,Lauchhammerstraße 60,Elsterwerda,04910,51.464843,13.533560
+
+934,+,Lidl,Heinrich-Hammer-Straße 17,Erbach,89155,48.326346,9.897764
+935,+,dm,Daimlerstraße 1-7,Erbach,89155,48.328585,9.900286
+936,+,Rewe,Daimlerstraße 5,Erbach,89155,48.328586,9.900461
+
+937,-,Marktkauf,Bentheimer Straße 241,Nordhorn,48529,52.41708,7.08482
+938,+,Marktkauf,Stadtring 60,Nordhorn,48527,52.438121,7.065968
+939,-,Penny,Mittelstr. 66,Hamburg,20149,53.5791,9.99337
+940,+,dm,Platzstraße 22,Bad Saulgau,88348,48.009762,9.508501
+941,+,Norma,Fuchsgasse 3,Bad Saulgau,88348,48.018404,9.498829
+942,-,Penny,Karlstr. 7-9,Saulgau,88348,48.0141272,9.5012294
+943,+,Müller,Heinrich-Hammer-Straße 14,Erbach,89155,48.326209,9.896743
+
+944,+,Edeka,Landshuter Straße 20,Wallersdorf,94522,48.735119,12.743643
+945,+,Netto Marken-Discount,Landshuter Straße 24,Wallersdorf,94522,48.734701,12.742463
+946,+,real,Graflinger Straße 121,Deggendorf,94469,48.851213,12.957849
+
+947,-,Aldi Nord,Kladow Kladower Damm 362-364,Berlin,14089,52.45562,13.14545
+948,+,Biomarkt,Kladow Kladower Damm 362-364,Berlin,14089,52.45562,13.14545
+949,-,Penny,Hechtseestr. 62,München,81671,48.1179315,11.6292618
+
+950,-,Netto Marken-Discount,Adenauerallee 31,Bornheim,53332,50.75886,7.00515
+951,-,Edeka,Königsstr. 104,Bornheim,53332,50.7637,6.98863
+952,+,Edeka,Peter-Hausmann-Platz 1,Bornheim,53332,50.763648,6.988342
+953,+,Netto Marken-Discount,Königstraße 27,Bornheim,53332,50.761349,6.994725
+954,+,Rewe,Schumacherstraße 11,Bornheim,53332,50.757712,7.008062
+955,+,dm,Am Hellenkreuz 6,Bornheim,53332,50.763128,6.977641
+
+956,-,Rossmann,Wittenberger Straße 80,Berlin,12689,52.5655066,13.5711725
+
+957,-,Aldi Nord,Gewerbering 1,Gröditz,01609,51.4046141,13.4348763
+
