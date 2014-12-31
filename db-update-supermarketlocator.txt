@@ -1096,3 +1096,9 @@
 
 957,-,Aldi Nord,Gewerbering 1,Gröditz,01609,51.4046141,13.4348763
 
+958,-,Edeka,Hauptstraße 71,Angelbachtal,74918,49.23847,8.77148
+959,+,Netto Marken-Discount,Wilhelmstraße 79,Angelbachtal,74918,49.223134,8.786317
+960,+,Netto Marken-Discount,Justus-von-Liebig-Straße 2,Östringen,76684,49.215487,8.697746
+961,+,Kaufland,Thomas-Howie-Straße 1,Östringen,76684,49.213927,8.694994
+962,+,Kaufland,Martin-Luther-Straße 2,Sinsheim,74889,49.249504,8.865588
+

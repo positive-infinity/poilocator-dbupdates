@@ -1449,3 +1449,5 @@
 1043,-,Shell Tankstelle,Schlengstr. 8a,Bremen,28309,53.0508500,8.8942500
 1044,-,Deutsche Bank,Danziger Str. 125-127,Berlin,10407,52.5358,13.4342
 
+1045,-,Commerzbank,Burgstr. 10,Cottbus,03046,51.7591,14.3353
+
