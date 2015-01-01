@@ -1,0 +1,6 @@
+# DB update file for Fast Food Restaurants
+# 
+# remarks:
+#   * latest db version in code: 1046
+#
+#

@@ -1,0 +1,6 @@
+# DB update file for Supermarkt und Drogerie
+# 
+# remarks:
+#   * latest db version in code: 1046
+#
+#
