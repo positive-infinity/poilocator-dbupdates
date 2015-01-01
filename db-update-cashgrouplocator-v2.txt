@@ -5,4 +5,4 @@
 #
 #
 
-1047,+,Postbank,Eckendorfer Straﬂe 222,Bielefeld,33609,im OBI Markt; nur w‰hrend der ÷ffnungszeiten zug‰nglich,52.039631,8.600402
+1047,+,Postbank,Eckendorfer Stra√üe 222,Bielefeld,33609,im OBI Markt; nur w√§hrend der √ñffnungszeiten zug√§nglich,52.039631,8.600402
