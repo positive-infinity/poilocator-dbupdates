@@ -5,4 +5,4 @@
 #
 #
 
-1047,+,Postbank,Eckendorfer Straße 222,Bielefeld,33609,im OBI Markt; nur während der Öffnungszeiten zugänglich,52.039631,8.600402
+1047,+,Postbank,Eckendorfer Straße 222,Bielefeld,33609,im OBI Markt - ggf. nicht durchgängig erreichbar,52.039631,8.600402
