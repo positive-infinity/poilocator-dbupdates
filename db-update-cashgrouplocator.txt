@@ -1451,3 +1451,5 @@
 
 1045,-,Commerzbank,Burgstr. 10,Cottbus,03046,51.7591,14.3353
 
+1046,+,Shell Tankstelle,Dorfring 24,Tangstedt,22889,53.745387,10.063073
+1047,+,Shell Tankstelle,Frankfurter Straße 61,Wöllstadt,61206,50.276931,8.765587
