@@ -1,6 +1,6 @@
 # DB update file for Cash Group Automaten
 # 
 # remarks:
-#   * latest db version in code: 1046
+#   * latest db version in code: 1047
 #
 #
