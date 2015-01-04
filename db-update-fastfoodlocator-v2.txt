@@ -5,8 +5,8 @@
 #
 #
 
-1048;+;Burger King;Neust‰dter Straﬂe 54;Diespeck bei Neustadt;91456;;49.589079;10.623228
-1049;-;McDonalds;Dresdener Straﬂe;Kassel;34123;;51.31128;9.538880000000063
-1050;+;McDonalds;Gˆttinger Straﬂe 21;Kassel;34123;;51.309787;9.542493
+1048;+;Burger King;Neust√§dter Stra√üe 54;Diespeck bei Neustadt;91456;;49.589079;10.623228
+1049;-;McDonalds;Dresdener Stra√üe;Kassel;34123;;51.31128;9.538880000000063
+1050;+;McDonalds;G√∂ttinger Stra√üe 21;Kassel;34123;;51.309787;9.542493
 1051;+;Burger King;Brunautal 1;Bispingen;29646;;53.109746;9.981473
 1052;+;Imbiss;Torfkuhler Weg 2;Lippstadt;59555;;51.680662;8.326007
