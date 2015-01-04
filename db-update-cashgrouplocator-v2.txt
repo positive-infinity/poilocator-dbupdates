@@ -9,9 +9,9 @@
 1049;-;Shell Tankstelle;Nienburger Str. 45a;Wietze;29323;;52.6572000;9.8277500
 1050;-;Postbank;Bahnhofstr. 102;Ahaus;48683;;52.0936;6.93759
 1051;+;Postbank;Bahnhofstr. 102;Ahaus;48683;;52.082155;7.014669
-1052;+;Postbank;Dorfstraße 16;Ladbergen;49549;Mo-Fr 8:00-12:30, 14:30-18:00, Sa 8:00-12:30;52.133766;7.737617
+1052;+;Postbank;DorfstraÃŸe 16;Ladbergen;49549;Mo-Fr 8:00-12:30, 14:30-18:00, Sa 8:00-12:30;52.133766;7.737617
 1053;-;Deutsche Bank;Krayer Str. 207;Essen;45307;;51.4654;7.08004
 1054;-;Postbank;Bahnhofplatz 3;Sonthofen;87527;;47.5118;10.2783
-1055;+;Postbank;Königsbenden 39;Eschweiler;52249;im OBI, Mo-Sa 9-20 Uhr;50.818656;6.290555
-1056;-;Shell Tankstelle;Römerstr. 367;Brühl;50321;;50.8373900;6.8965500
+1055;+;Postbank;KÃ¶nigsbenden 39;Eschweiler;52249;im OBI, Mo-Sa 9-20 Uhr;50.818656;6.290555
+1056;-;Shell Tankstelle;RÃ¶merstr. 367;BrÃ¼hl;50321;;50.8373900;6.8965500
 
