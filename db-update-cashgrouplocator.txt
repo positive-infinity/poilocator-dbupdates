@@ -1460,3 +1460,5 @@
 1051,+,Postbank,Bahnhofstr. 102,Ahaus,48683,52.082155,7.014669
 1053,-,Deutsche Bank,Krayer Str. 207,Essen,45307,51.4654,7.08004
 1054,-,Postbank,Bahnhofplatz 3,Sonthofen,87527,47.5118,10.2783
+
+1056,-,Shell Tankstelle,Römerstr. 367,Brühl,50321,50.8373900,6.8965500
