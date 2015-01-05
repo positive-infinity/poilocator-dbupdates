@@ -1462,3 +1462,12 @@
 1054,-,Postbank,Bahnhofplatz 3,Sonthofen,87527,47.5118,10.2783
 
 1056,-,Shell Tankstelle,Römerstr. 367,Brühl,50321,50.8373900,6.8965500
+
+1057,-,Postbank,Markt 21,Heinsberg,52525,51.0584,6.09424
+1058,+,Postbank,Markt 21,Heinsberg,52525,51.063491,6.097168
+1059,-,Deutsche Bank,Hochstr. 129,Heinsberg,52525,51.0636,6.09619
+1060,+,Deutsche Bank,Apfelstraße 37,Heinsberg,52525,51.063249,6.093734
+1061,-,Shell Tankstelle,Alter Zollweg 132,Hamburg,22147,53.6081000,10.1376800
+1062,-,Postbank,Südstr. 19,Herzogenrath,52134,50.8332,6.08887
+1063,+,Postbank,Weststraße 25,Herzogenrath,52134,50.834400,6.086484
+
