@@ -23,3 +23,8 @@
 1062;-;Postbank;Südstr. 19;Herzogenrath;52134;;50.8332;6.08887
 1063;+;Postbank;Weststraße 25;Herzogenrath;52134;;50.834400;6.086484
 
+1064;-;Hypovereinsbank;Tegernseer Landstr. 135;München;81539;;48.1116;11.5768
+1065;-;Hypovereinsbank;Rosenheimer Str. 203;München;81671;;48.1165;11.6125
+1066;-;Hypovereinsbank;Anzingerstr. 1;München;81671;;48.1212;11.6065
+1067;+;Hypovereinsbank;Orleansplatz 3;München;81667;;48.128409;11.602567
+
