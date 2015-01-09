@@ -5,13 +5,13 @@
 #
 #
 
-1048;+;Rewe;Zeulsdorfer Straﬂe 85;Gera;07549;;50.844316;12.063012
-1049;+;dm;Zeulsdorfer Straﬂe 85;Gera;07549;;50.844398;12.062851
-1050;+;Aldi Nord;Otto-Rothe-Straﬂe 26;Gera;07549;;50.838573;12.064927
-1051;+;Netto Marken-Discount;Otto-Rothe-Straﬂe 26;Gera;07549;;50.838485;12.065208
-1052;-;Penny;Dreherstr. 159-161;D¸sseldorf;40625;;51.2310143;6.8496758
-1053;+;Lidl;Hofer Straﬂe 21;Plauen;08527;;50.491580;12.142136
+1048;+;Rewe;Zeulsdorfer Stra√üe 85;Gera;07549;;50.844316;12.063012
+1049;+;dm;Zeulsdorfer Stra√üe 85;Gera;07549;;50.844398;12.062851
+1050;+;Aldi Nord;Otto-Rothe-Stra√üe 26;Gera;07549;;50.838573;12.064927
+1051;+;Netto Marken-Discount;Otto-Rothe-Stra√üe 26;Gera;07549;;50.838485;12.065208
+1052;-;Penny;Dreherstr. 159-161;D√ºsseldorf;40625;;51.2310143;6.8496758
+1053;+;Lidl;Hofer Stra√üe 21;Plauen;08527;;50.491580;12.142136
 1054;-;Aldi Nord;Humboldstr. 86;Hamburg;22083;;53.5762449;10.0229826
-1055;+;Penny;Hamburger Straﬂe 19;Hamburg;22083;;53.572468;10.030595
+1055;+;Penny;Hamburger Stra√üe 19;Hamburg;22083;;53.572468;10.030595
 
 
