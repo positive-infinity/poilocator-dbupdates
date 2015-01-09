@@ -28,3 +28,8 @@
 1066;-;Hypovereinsbank;Anzingerstr. 1;München;81671;;48.1212;11.6065
 1067;+;Hypovereinsbank;Orleansplatz 3;München;81667;;48.128409;11.602567
 
+1068;+;Postbank;C.-F.-Venghauss-Platz 14;Werther (Westfalen);33824;Mo-Fr 9-13 Uhr, 14-18 Uhr, Sa 9-13 Uhr;50.120038;8.695501
+1069;-;Shell Tankstelle;Berrenratherstr. 574;Hürth;50354;;50.9011000;6.9021500
+1070;-;Postbank;Dachauer Str. 63-65;München;80335;;48.1489;11.5583
+1071;-;Hypovereinsbank;Briennerstr. 59;München;80333;;48.1469;11.5598
+

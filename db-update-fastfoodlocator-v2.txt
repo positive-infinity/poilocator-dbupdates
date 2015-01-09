@@ -10,3 +10,7 @@
 1050;+;McDonalds;Göttinger Straße 21;Kassel;34123;;51.309787;9.542493
 1051;+;Burger King;Brunautal 1;Bispingen;29646;;53.109746;9.981473
 1052;+;Imbiss;Torfkuhler Weg 2;Lippstadt;59555;;51.680662;8.326007
+
+1053;+;McDonalds;Stobwasserstraße 1;Braunschweig;38122;;52.247334;10.509107
+
+
