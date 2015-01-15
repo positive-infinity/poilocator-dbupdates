@@ -33,3 +33,12 @@
 1070;-;Postbank;Dachauer Str. 63-65;München;80335;;48.1489;11.5583
 1071;-;Hypovereinsbank;Briennerstr. 59;München;80333;;48.1469;11.5598
 
+1072;-;Postbank;Markt 29;Sankt Augustin;53757;;50.777345;7.186263
+1073;-;Shell Tankstelle;Viktoriastr. 50;Minden;32423;;52.2869600;8.9441200
+1074;+;Postbank;Wolfsberger Straße 15;Lüdinghausen;59348;;51.768630;7.443889
+1075;-;Postbank;Clara-Zetkin-Str. 9;Demmin;17109;;53.9061;13.0418
+1076;+;Postbank;Drönnewitzer Straße 1;Demmin;17109;im Kaufland, Mo-Sa 7-22 Uhr;53.905919;13.011279
+1077;-;Postbank;Reriker Straße 12;Kühlungsborn;18225;im Edeka, Mo-Sa 8-19 Uhr;54.144834;11.723214
+1078;-;Shell Tankstelle;Limburger Str. 185;Bad Camberg;65520;;50.3103600;8.2525500
+1079;+;Postbank;Landgrabenpark 1;Schwedt/Oder;16303;im Oder-Center, Mo-Sa 9:30-20:00 Uhr;53.064641;14.272586
+
