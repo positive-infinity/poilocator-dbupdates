@@ -42,3 +42,9 @@
 1078;-;Shell Tankstelle;Limburger Str. 185;Bad Camberg;65520;;50.3103600;8.2525500
 1079;+;Postbank;Landgrabenpark 1;Schwedt/Oder;16303;im Oder-Center, Mo-Sa 9:30-20:00 Uhr;53.064641;14.272586
 
+1080;+;Postbank;Diesterwegstraße 25a;Dargun;17159;im Edeka, Mo-Do 8-19 Uhr, Fr 8-20 Uhr, Sa 8-18 Uhr;53.902435;12.854524
+1081;+;Postbank;Schultetusstraße 24a;Stavenhagen;17153;im Edeka, Mo-Fr 7-19 Uhr, Sa 7-18 Uhr;53.701413;12.910312
+1082;+;Shell Tankstelle;Heidenkampsweg 54;Hamburg;20097;;53.548680;10.027296
+1083;+;Postbank;Hauptstraße 84;Mainz;55120;;50.021026;8.229461
+1084;+;Postbank;Otto-Schmidt-Straße 3;Wolfen;06766;;51.686105;12.251575
+

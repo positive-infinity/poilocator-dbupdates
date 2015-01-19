@@ -1487,3 +1487,7 @@
 1075,-,Postbank,Clara-Zetkin-Str. 9,Demmin,17109,53.9061,13.0418
 1078,-,Shell Tankstelle,Limburger Str. 185,Bad Camberg,65520,50.3103600,8.2525500
 
+1082,+,Shell Tankstelle,Heidenkampsweg 54,Hamburg,20097,53.548680,10.027296
+1083,+,Postbank,Hauptstraße 84,Mainz,55120,50.021026,8.229461
+1084,+,Postbank,Otto-Schmidt-Straße 3,Wolfen,06766,51.686105,12.251575
+
