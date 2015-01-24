@@ -48,3 +48,8 @@
 1083;+;Postbank;Hauptstraße 84;Mainz;55120;;50.021026;8.229461
 1084;+;Postbank;Otto-Schmidt-Straße 3;Wolfen;06766;;51.686105;12.251575
 
+1085;-;Hypovereinsbank;Bierweg 5;Nürnberg;90411;;49.4845;11.1059
+1086;+;Berliner Bank;Henriette-Herz-Platz 4;Berlin;10178;;52.522349;13.402842
+1087;-;Shell Tankstelle;Wismarsche Str. 392;Schwerin;19055;;53.6543100;11.4045600
+1088;-;Shell Tankstelle;Hubertusstr.;Wesseling;50389;;50.8299200;6.9658500
+
