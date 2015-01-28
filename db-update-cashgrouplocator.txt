@@ -1496,4 +1496,7 @@
 1087,-,Shell Tankstelle,Wismarsche Str. 392,Schwerin,19055,53.6543100,11.4045600
 1088,-,Shell Tankstelle,Hubertusstr.,Wesseling,50389,50.8299200,6.9658500
 
+1089,-,Shell Tankstelle,Basler Landstr. 47-49b,Freiburg,79111,47.9822900,7.8009100
+1090,-,Commerzbank,Friedrich-Ebert-Str. 41,Kassel,34117,51.3148,9.4828
+
 

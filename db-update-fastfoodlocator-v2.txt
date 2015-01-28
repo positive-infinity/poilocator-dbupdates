@@ -13,4 +13,6 @@
 
 1053;+;McDonalds;Stobwasserstraße 1;Braunschweig;38122;;52.247334;10.509107
 
+1054;-;McDonalds;Spitalgasse 18;Coburg;96450;;50.25947;10.965259999999944
+
 
