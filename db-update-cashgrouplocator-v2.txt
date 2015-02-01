@@ -56,3 +56,5 @@
 1089;-;Shell Tankstelle;Basler Landstr. 47-49b;Freiburg;79111;;47.9822900;7.8009100
 1090;-;Commerzbank;Friedrich-Ebert-Str. 41;Kassel;34117;;51.3148;9.4828
 
+1091;-;Shell Tankstelle;Röntgenstr. 10;Neustadt;96465;;50.3114100;11.1129700
+
