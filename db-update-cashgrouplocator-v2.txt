@@ -58,3 +58,5 @@
 
 1091;-;Shell Tankstelle;Röntgenstr. 10;Neustadt;96465;;50.3114100;11.1129700
 
+1092;+;Shell Tankstelle;An der Neuweide 34;Rheinberg;47495;;51.535433;6.606085
+
