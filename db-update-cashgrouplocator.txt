@@ -1512,3 +1512,8 @@
 1099,-,Postbank,Hindenburgstr. 9,Siegen,57072,50.8804,7.98446
 1100,+,Postbank,Hindenburgstr. 9,Siegen,57072,50.876596,8.019005
 
+1101,-,Hypovereinsbank,Weißenburger Str. 20,Aschaffenburg,63739,49.9776,9.14615
+1102,-,Hypovereinsbank,Weißenburger Str. 20-22,Aschaffenburg,63739,49.9776,9.14615
+1103,+,Hypovereinsbank,Weißenburger Str. 26,Aschaffenburg,63739,49.977733,9.145960
+1104,-,Hypovereinsbank,Bachstr. 13,Großostheim,63762,49.9195,9.07403
+
