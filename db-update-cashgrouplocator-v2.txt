@@ -74,3 +74,5 @@
 1103;+;Hypovereinsbank;Weißenburger Str. 26;Aschaffenburg;63739;;49.977733;9.145960
 1104;-;Hypovereinsbank;Bachstr. 13;Großostheim;63762;;49.9195;9.07403
 
+1105;-;Deutsche Bank;Holsterhauser Str. 55;Essen;45147;;51.4415;6.99719
+
