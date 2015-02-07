@@ -1113,3 +1113,10 @@
 
 1056,+,Rewe,Am Leukbach 2,Saarburg,54439,49.603376,6.542141
 
+1057,-,Edeka,Bahnhofstraße 1-3,Köln,51143,50.88399,7.05459
+1058,-,Penny,Hauptstr. 36,Köln,51143,50.862275,7.0361568
+1059,-,Netto Marken-Discount,Konrad-Adenauer-Str. 72-80,Köln,51149,50.89547,7.06388
+1060,+,Netto Marken-Discount,Theodor-Heuss-Straße 24,Köln,51149,50.896860,7.062644
+
+
+
