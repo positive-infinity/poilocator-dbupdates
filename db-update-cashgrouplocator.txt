@@ -1521,3 +1521,5 @@
 
 1106,-,Postbank,Baaderstr. 12,München,80469,48.1326,11.5806
 
+1109,-,Commerzbank,Koppenstr. 93,Berlin,10243,52.5122,13.4332
+

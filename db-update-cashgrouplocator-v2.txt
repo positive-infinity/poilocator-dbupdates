@@ -81,3 +81,5 @@
 1107;+;Postbank;Mindener Straße 81;Bissendorf;49143;im Edeka, Mo-Sa 7-21 Uhr;52.261562;8.210891
 1108;+;Postbank;Mindener Straße 378;Osnabrück;49086;im Edeka, nicht durchgehend geöffnet;52.266778;8.134218
 
+1109;-;Commerzbank;Koppenstr. 93;Berlin;10243;;52.5122;13.4332
+

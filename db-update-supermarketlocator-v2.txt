@@ -21,4 +21,6 @@
 1059;-;Netto Marken-Discount;Konrad-Adenauer-Str. 72-80;Köln;51149;;50.89547;7.06388
 1060;+;Netto Marken-Discount;Theodor-Heuss-Straße 24;Köln;51149;;50.896860;7.062644
 
+1061;-;Rewe;Ostpreussenstr. 2;Weilburg;35781;;50.48073;8.28008
+1062;+;Rewe;Auf Der Platte 3;Weilburg;35781;;50.479787;8.292635
 
