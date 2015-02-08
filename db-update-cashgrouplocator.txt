@@ -1519,3 +1519,5 @@
 
 1105,-,Deutsche Bank,Holsterhauser Str. 55,Essen,45147,51.4415,6.99719
 
+1106,-,Postbank,Baaderstr. 12,München,80469,48.1326,11.5806
+
