@@ -1523,3 +1523,5 @@
 
 1109,-,Commerzbank,Koppenstr. 93,Berlin,10243,52.5122,13.4332
 
+1110,-,Commerzbank,Eilenburger Str. 39,Delitzsch,04509,51.5241,12.34
+

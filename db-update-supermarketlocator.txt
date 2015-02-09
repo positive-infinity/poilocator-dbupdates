@@ -1121,3 +1121,7 @@
 1061,-,Rewe,Ostpreussenstr. 2,Weilburg,35781,50.48073,8.28008
 1062,+,Rewe,Auf Der Platte 3,Weilburg,35781,50.479787,8.292635
 
+1063,+,Rossmann,Ludwigsstraße 57,Ludwigshafen,67059,49.482329,8.449595
+1064,+,Rossmann,Edigheimer Straße 35,Ludwigshafen,67069,49.521588,8.404362
+1065,+,Rossmann,Schillerstraße 2,Ludwigshafen,67071,49.491830,8.375924
+
