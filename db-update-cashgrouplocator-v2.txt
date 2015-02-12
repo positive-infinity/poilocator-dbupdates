@@ -85,3 +85,5 @@
 
 1110;-;Commerzbank;Eilenburger Str. 39;Delitzsch;04509;;51.5241;12.34
 
+1111;-;Commerzbank;Bottroper Str. 2;Gladbeck;45964;;51.5732;6.98833
+
