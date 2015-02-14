@@ -1527,4 +1527,10 @@
 
 1111,-,Commerzbank,Bottroper Str. 2,Gladbeck,45964,51.5732,6.98833
 
+1112,-,Berliner Bank,Tempelhofer Damm 181,Berlin,12099,52.4606,13.385
+1113,-,Hypovereinsbank,Matterstockstr. 20,Würzburg,97080,49.8026,9.94559
+1114,-,Commerzbank,Jakobstr. 43,Görlitz,02826,51.1515,14.9863
+1115,-,Shell Tankstelle,Kielseng 1,Flensburg,24937,54.8012600,9.4425000
+1116,-,Postbank,Holm-Passage,Flensburg,24937,54.7849,9.4307
+1117,+,Postbank,Holm 39,Flensburg,24937,54.784146,9.437744
 
