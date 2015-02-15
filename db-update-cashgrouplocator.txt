@@ -1534,3 +1534,5 @@
 1116,-,Postbank,Holm-Passage,Flensburg,24937,54.7849,9.4307
 1117,+,Postbank,Holm 39,Flensburg,24937,54.784146,9.437744
 
+1118,-,Shell Tankstelle,Eglosheimer Str. 85,Asperg,71679,48.9046500,9.1452800
+
