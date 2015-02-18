@@ -30,3 +30,8 @@
 
 1066;-;Aldi Süd;Ohmstr. 13;Homberg-Ohm;35315;;50.73281;8.98861
 
+1067;+;Lidl;Bessemer Str. 17;Nürnberg;90411;;49.475451;11.105476
+1068;-;Norma;Kilianstr. 251;Nürnberg;90411;;49.47481;11.10216
+1069;-;real;Ulrichstraße 7;Erle;45891;;51.54996;7.08816
+1070;+;real;Emscherstraße 37;Gelsenkirchen;45891;;51.545269;7.076819
+

@@ -96,3 +96,8 @@
 
 1118;-;Shell Tankstelle;Eglosheimer Str. 85;Asperg;71679;;48.9046500;9.1452800
 
+1119;-;Hypovereinsbank;Rathausstr. 11;Bargteheide;22941;;53.7297;10.2648
+1120;-;Hypovereinsbank;Miesbacherstr. 2;Schliersee;83727;;47.736;11.8608
+1121;-;Commerzbank;Bahnhofstr. 1;Frankenthal;67227;;49.5354;8.35363
+1122;+;Hypovereinsbank;Bahnhofstr. 1;Frankenthal;67227;;49.5354;8.35363
+
