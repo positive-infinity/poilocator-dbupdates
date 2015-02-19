@@ -1541,4 +1541,5 @@
 1121,-,Commerzbank,Bahnhofstr. 1,Frankenthal,67227,49.5354,8.35363
 1122,+,Hypovereinsbank,Bahnhofstr. 1,Frankenthal,67227,49.5354,8.35363
 
+1123,+,Postbank,Steeler Straße 110,Essen,45139,51.452985,7.023967
 
