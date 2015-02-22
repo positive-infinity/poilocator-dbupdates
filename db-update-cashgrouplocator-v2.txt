@@ -106,3 +106,5 @@
 1124;-;Hypovereinsbank;Tegernseer Landstr. 15;München;81541;;48.1185;11.5832
 1125;+;Shell Tankstelle;Frankfurter Straße 175;Groß-Gerau;64521;;49.937507;8.495879
 
+1126;+;Shell Tankstelle;Wallstadter Straße 72;Mannheim-Feudenheim;68259;;49.489087;8.544496
+
