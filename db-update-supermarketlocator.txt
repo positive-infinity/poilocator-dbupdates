@@ -1132,3 +1132,35 @@
 1069,-,real,Ulrichstraße 7,Erle,45891,51.54996,7.08816
 1070,+,real,Emscherstraße 37,Gelsenkirchen,45891,51.545269,7.076819
 
+1071,+,Edeka,Hoheluftchaussee 52-54,Hamburg,20253,53.580869,9.97364
+1072,+,Edeka,Kaiser-Friedrich-Ufer 30,Hamburg,20253,53.577557,9.974837
+1073,+,Edeka,Osterstr. 86-90,Hamburg,20259,53.57575,9.954036
+1074,+,Edeka,Osterstr. 120,Hamburg,20255,53.57638,9.95099
+1075,+,Edeka,Eppendorfer Baum 35,Hamburg,20249,53.58428,9.98203
+1076,+,Edeka,Martinistraße 64,Hamburg,20251,53.588523,9.974818
+1077,+,Edeka,Grindelallee 126,Hamburg,20146,53.56837,9.98043
+1078,+,Edeka,Eimsbütteler Chaussee 17,Hamburg,20259,53.56616,9.95791
+1079,+,Edeka,Hallerstr. 78,Hamburg,20146,53.57235,9.98734
+1080,+,Edeka,Eppendorfer Landstr. 41,Hamburg,20249,53.58844,9.98522
+1081,+,Edeka,Milchstr. 1,Hamburg,20148,53.570806,9.99565
+1082,+,Edeka,Stresemannstr. 161,Hamburg,22769,53.562157,9.950067
+1083,+,Edeka,Eppendorfer Landstr. 108-110,Hamburg,20249,53.592518,9.988871
+1084,+,Edeka,Koppelstr. 47-49,Hamburg,22529,53.593209,9.944482
+1085,+,Edeka,Max Brauer Allee 163,Hamburg,22765,53.55929,9.950348
+1086,+,Edeka,Neuer Kamp 31,Hamburg,20359,53.556894,9.966574
+1087,+,Edeka,Paul-Roosen-Str. 8,Hamburg,22767,53.552771,9.959798
+1088,+,Edeka,Mühlenkamp 45,Hamburg,22303,53.5828,10.00993
+1089,+,Edeka,Poststr. 36,Hamburg,20354,53.554326,9.98803
+1090,+,Edeka,Hofweg 81,Hamburg,22085,53.576107,10.014824
+1091,+,Edeka,Große Bergstr. 156,Hamburg,22767,53.55164,9.943455
+1092,+,Edeka,Hofweg 2-4,Hamburg,22085,53.568912,10.018174
+1093,+,Edeka,Mozartstr. 16,Hamburg,22083,53.577514,10.020972
+1094,+,Edeka,Grosser Burstah 31,Hamburg,20457,53.548203,9.989215
+1095,+,Edeka,Ottenser Hauptstr. 10,Hamburg,22765,53.552348,9.932301
+1096,+,Edeka,Gasstr. 4,Hamburg,22761,53.561699,9.917371
+1097,+,Edeka,Lange Reihe 110,Hamburg,20099,53.559533,10.013945
+1098,+,Edeka,Glockengießerwall 8-10,Hamburg,20095,53.55297,10.00587
+1099,+,Edeka,Überseeboulevard 4-10,Hamburg,20457,53.542034,9.997638
+1100,+,Edeka,Tibarg 44-48,Hamburg,22459,53.62144,9.95246
+1101,+,Edeka,Conventstr. 8-10,Hamburg,22089,53.564261,10.038135
+
