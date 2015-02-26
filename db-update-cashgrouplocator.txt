@@ -1548,3 +1548,6 @@
 
 1126,+,Shell Tankstelle,Wallstadter Straße 72,Mannheim-Feudenheim,68259,49.489087,8.544496
 
+1127,-,Commerzbank,Reeperbahn 1,Hamburg,20359,53.5496,9.96809
+1128,+,Postbank,Marktplatz 16,Waldkirchen,94065,48.730375,13.601094
+
