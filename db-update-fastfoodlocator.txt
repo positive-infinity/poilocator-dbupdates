@@ -410,3 +410,5 @@
 
 1054,-,McDonalds,Spitalgasse 18,Coburg,96450,50.25947,10.965259999999944
 
+1055,+,Subway,Gaswerkstraße 2,Gera,07546,50.892592,12.077695
+
