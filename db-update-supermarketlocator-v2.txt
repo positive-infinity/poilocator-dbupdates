@@ -67,3 +67,11 @@
 1100;+;Edeka;Tibarg 44-48;Hamburg;22459;;53.62144;9.95246
 1101;+;Edeka;Conventstr. 8-10;Hamburg;22089;;53.564261;10.038135
 
+1102;-;Rewe;Westerwaldstr. 4;Weilburg;35781;;50.4961476;8.2493942
+1103;+;Rewe;Lindenstraße 42;Weilburg;35781;;50.498232;8.250082
+1104;-;Penny;Forsthausstraße 6;Weilburg;35792;;50.51247;8.268
+1105;+;Penny;Forsthausstraße 6;Löhnberg;35792;;50.51247;8.268
+1106;+;dm;Viehweg 12;Weilburg;35781;;50.481026;8.295305
+1107;+;Netto Marken-Discount;Weilburger Straße 26;Leun-Biskirchen;35638;;50.530392;8.306586
+1108;+;Rossmann;Am Bleidenbach 14;Weilmünster;35789;;50.433137;8.373321
+

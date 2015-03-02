@@ -111,3 +111,9 @@
 1127;-;Commerzbank;Reeperbahn 1;Hamburg;20359;;53.5496;9.96809
 1128;+;Postbank;Marktplatz 16;Waldkirchen;94065;in der Parfümerie Haller, nicht durchgehend geöffnet;48.730375;13.601094
 
+1129;+;Postbank;Oststraße 31;Ibbenbüren;49477;;52.273671;7.718253
+1130;-;Shell Tankstelle;Schussenstr. 10;Weingarten;88250;;47.8119800;9.6403700
+1131;-;Deutsche Bank;Celler Str. 26;Braunschweig;38114;;52.2722;10.5073
+1132;-;Postbank;Marktstr. 32;Berlin;13409;;52.5628;13.3644
+
+
