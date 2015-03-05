@@ -1172,3 +1172,14 @@
 1107,+,Netto Marken-Discount,Weilburger Straße 26,Leun-Biskirchen,35638,50.530392,8.306586
 1108,+,Rossmann,Am Bleidenbach 14,Weilmünster,35789,50.433137,8.373321
 
+1109,-,Aldi Nord,Marienbruchstr. 68-70,Salzgitter,38226,52.15409,10.33649
+1110,-,Aldi Nord,Lebenstedt Swindonstr. 28,Salzgitter,38226,52.14468,10.33541
+1111,-,Penny,Bodenstedter Weg 15,Lengede,38268,52.2055527,10.30786
+1112,+,Edeka,Barbecker Str. 2,Lengede,38268,52.191709,10.324085
+1113,-,Penny,Straße der Jugend 13,Beerendorf,50189,50.937215,6.5639242
+1114,-,Marktkauf,Am Jobberath 2,Bergheim,50126,50.9541205,6.6371482
+1115,-,Aldi Süd,Priamosstr. 5,Bergheim-Quadrath,50127,50.93423,6.67094
+1116,-,Toom Markt,Kerpener Str. 177,Kerpen,50170,50.89844,6.68318
+1117,-,Aldi Süd,Hauptstr. 61-67,Kerpen-Horrem,50169,50.91933,6.70844
+
+

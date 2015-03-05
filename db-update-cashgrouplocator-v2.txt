@@ -116,4 +116,10 @@
 1131;-;Deutsche Bank;Celler Str. 26;Braunschweig;38114;;52.2722;10.5073
 1132;-;Postbank;Marktstr. 32;Berlin;13409;;52.5628;13.3644
 
+1133;-;Berliner Bank;Haselhorster Damm 1;Berlin;13599;;52.543;13.2394
+1134;-;Shell Tankstelle;Hauptstr. 34;Bahlingen;79353;;48.1228700;7.7389300
+1135;-;Commerzbank;Frankfurter Str. 50;Wiesbaden;65187;;50.0736;8.2554
+1136;-;Commerzbank;Gustav-Stresemann-Ring 12-16;Wiesbaden;65187;;50.0722;8.25232
+1137;-;Deutsche Bank;Mönchhofstr. 37;Heidelberg;69120;;49.4174;8.68244
+
 
