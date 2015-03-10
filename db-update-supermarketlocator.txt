@@ -1182,4 +1182,9 @@
 1116,-,Toom Markt,Kerpener Str. 177,Kerpen,50170,50.89844,6.68318
 1117,-,Aldi Süd,Hauptstr. 61-67,Kerpen-Horrem,50169,50.91933,6.70844
 
+1118,-,Rewe,Lombardring 14,Quadrath,50127,50.9358,6.67019
+1119,+,Netto,Lombardring 14,Quadrath,50127,50.9358,6.67019
+1120,-,Rewe,Zievericher Str. 12,Bergheim,50126,50.9385698,6.6288648
+1121,-,Netto Marken-Discount,Fortuna-Nord-Straße 2,Bergheim,50129,50.98883,6.67335
+1122,+,Penny,Fortuna-Nord-Straße 2,Bergheim,50129,50.98883,6.67335
 

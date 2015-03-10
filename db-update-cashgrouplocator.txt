@@ -1562,4 +1562,11 @@
 1136,-,Commerzbank,Gustav-Stresemann-Ring 12-16,Wiesbaden,65187,50.0722,8.25232
 1137,-,Deutsche Bank,Mönchhofstr. 37,Heidelberg,69120,49.4174,8.68244
 
+1138,-,Hypovereinsbank,Bahnhofstr. 2,Leck,25917,54.7726,8.97298
+1139,-,Berliner Bank,Henriette-Herz-Platz 4,Berlin,10178,52.522349,13.402842
+1140,-,Hypovereinsbank,August-Exter-Str. 6A,München,81245,48.1512,11.463
+1141,-,Hypovereinsbank,Bayerstr. 16A.B,München,80335,48.1398,11.5556
+1142,-,Hypovereinsbank,Arabellastr. 12,München,81925,48.15,11.6176
+1143,-,Hypovereinsbank,Arabellastr. 6,München,81925,48.1511,11.6182
+1144,-,Hypovereinsbank,Wallstr. 71,Köthen,06366,51.75,11.972
 
