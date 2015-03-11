@@ -131,3 +131,9 @@
 1144;-;Hypovereinsbank;Wallstr. 71;Köthen;06366;;51.75;11.972
 1145;+;Postbank;Industriestr. 6-8;Spenge;32139;im Edeka, Mo-Sa 8-18 Uhr;52.144936;8.490685
 
+1146;-;Postbank;Postplatz 1;Görlitz / Neiße;02826;;51.5445;14.5301
+1147;+;Postbank;Postplatz 1;Görlitz;02826;;51.151722;14.986971
+1148;+;Deutsche Bank;Hauptstr. 173;Weißenthurm;56575;;50.4178;7.4529
+1149;-;Hypovereinsbank;An der Altmühl 11;Riedenburg;93339;;48.9622;11.6851
+1150;-;Hypovereinsbank;Hauptstr. 21;Beilngries;92339;;49.0344;11.4742
+
