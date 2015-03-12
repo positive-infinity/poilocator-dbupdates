@@ -137,3 +137,5 @@
 1149;-;Hypovereinsbank;An der Altmühl 11;Riedenburg;93339;;48.9622;11.6851
 1150;-;Hypovereinsbank;Hauptstr. 21;Beilngries;92339;;49.0344;11.4742
 
+1151;+;Postbank;Badstraße 4;Berlin;13357;im Gesundbrunnen-Center;52.549769;13.388268
+
