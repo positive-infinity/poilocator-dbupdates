@@ -25,3 +25,5 @@
 1059;-;KFC;Hohenzollernring 10;Köln;50672;;50.93674;6.939420000000041
 1060;+;KFC;Rudolfplatz 12;Köln;50674;;50.936756;6.939740
 
+1061;+;Subway;Willy-Brandt-Platz 12;Erfurt;99084;;50.972241;11.037514
+

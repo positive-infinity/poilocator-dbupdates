@@ -91,3 +91,7 @@
 1121;-;Netto Marken-Discount;Fortuna-Nord-Straße 2;Bergheim;50129;;50.98883;6.67335
 1122;+;Penny;Fortuna-Nord-Straße 2;Bergheim;50129;;50.98883;6.67335
 
+1123;-;Penny;Bielefelder Str. 15;Bad Laer;49196;;52.10212;8.09185
+1124;-;Aldi Nord;Versmold Knetterhauser Str. 30;Bad Laer;33775;;52.04279;8.14241
+1125;+;Lidl;Up De Heuchte 5;Bad Laer;49196;;52.100692;8.101404
+
