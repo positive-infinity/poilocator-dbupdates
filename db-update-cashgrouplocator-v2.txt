@@ -139,3 +139,5 @@
 
 1151;+;Postbank;Badstraße 4;Berlin;13357;im Gesundbrunnen-Center;52.549769;13.388268
 
+1152;-;Hypovereinsbank;Hegede 2-4;Wismar;23966;;53.8918;11.4651
+

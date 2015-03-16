@@ -1576,3 +1576,5 @@
 1149,-,Hypovereinsbank,An der Altmühl 11,Riedenburg,93339,48.9622,11.6851
 1150,-,Hypovereinsbank,Hauptstr. 21,Beilngries,92339,49.0344,11.4742
 
+1152,-,Hypovereinsbank,Hegede 2-4,Wismar,23966,53.8918,11.4651
+
