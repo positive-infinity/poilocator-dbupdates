@@ -141,3 +141,6 @@
 
 1152;-;Hypovereinsbank;Hegede 2-4;Wismar;23966;;53.8918;11.4651
 
+1153;-;Commerzbank;Müllerstr. 6;Berlin;13353;;52.5415;13.3683
+1154;-;Postbank;Willy-Brandt-Platz 13;Mannheim;68161;;49.4789;8.47167
+
