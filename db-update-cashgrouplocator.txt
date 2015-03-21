@@ -1581,3 +1581,5 @@
 1153,-,Commerzbank,Müllerstr. 6,Berlin,13353,52.5415,13.3683
 1154,-,Postbank,Willy-Brandt-Platz 13,Mannheim,68161,49.4789,8.47167
 
+1155,+,Shell Tankstelle,Ludwigsburger Str. 1,Asperg,71679,48.897018,9.154103
+
