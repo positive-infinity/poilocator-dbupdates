@@ -146,3 +146,5 @@
 
 1155;+;Shell Tankstelle;Ludwigsburger Str. 1;Asperg;71679;;48.897018;9.154103
 
+1156;-;Postbank;Proviantbachstr. 30;Augsburg;86153;;48.3656;10.9255
+
