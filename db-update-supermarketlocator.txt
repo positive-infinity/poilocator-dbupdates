@@ -1192,3 +1192,4 @@
 1124,-,Aldi Nord,Versmold Knetterhauser Str. 30,Bad Laer,33775,52.04279,8.14241
 1125,+,Lidl,Up De Heuchte 5,Bad Laer,49196,52.100692,8.101404
 
+1126,+,Aldi Süd,Südbahnhofstraße 9,Aschaffenburg,63739,49.968646,9.151865

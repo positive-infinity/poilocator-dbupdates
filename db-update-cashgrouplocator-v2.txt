@@ -148,3 +148,6 @@
 
 1156;-;Postbank;Proviantbachstr. 30;Augsburg;86153;;48.3656;10.9255
 
+1157;-;Hypovereinsbank;Ludwigstr. 4;Rehau;95111;;50.2482;12.0363
+1158;-;Postbank;Meglinger Str. 31;München;81477;;48.0907;11.5055
+
