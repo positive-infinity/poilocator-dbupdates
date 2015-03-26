@@ -151,3 +151,5 @@
 1157;-;Hypovereinsbank;Ludwigstr. 4;Rehau;95111;;50.2482;12.0363
 1158;-;Postbank;Meglinger Str. 31;München;81477;;48.0907;11.5055
 
+1159;-;Hypovereinsbank;Freischützstr. 98;München;81927;;48.1684;11.644
+
