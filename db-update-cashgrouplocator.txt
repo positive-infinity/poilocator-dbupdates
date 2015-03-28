@@ -1590,3 +1590,5 @@
 
 1159,-,Hypovereinsbank,Freischützstr. 98,München,81927,48.1684,11.644
 
+1160,-,Hypovereinsbank,Erdkampsweg 42,Hamburg,22335,53.6295,10.0231
+
