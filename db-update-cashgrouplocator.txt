@@ -1592,3 +1592,8 @@
 
 1160,-,Hypovereinsbank,Erdkampsweg 42,Hamburg,22335,53.6295,10.0231
 
+1161,-,Postbank,Bürgermeister-Raab-Str. 31,Thannhausen,86470,48.2841,10.4603
+1162,-,Commerzbank,Schloßstr. 30,Berlin,12163,52.512,13.2972
+1163,+,Commerzbank,Schloßstraße 104,Berlin,12163,52.460198,13.324002
+1164,-,Commerzbank,Schloßstr. 89,Berlin,12163,52.4578,13.3218
+
