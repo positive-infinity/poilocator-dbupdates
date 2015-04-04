@@ -1597,3 +1597,5 @@
 1163,+,Commerzbank,Schloßstraße 104,Berlin,12163,52.460198,13.324002
 1164,-,Commerzbank,Schloßstr. 89,Berlin,12163,52.4578,13.3218
 
+1165,-,Hypovereinsbank,Rechlinger Str.,Manching,85077,48.717,11.4933
+
