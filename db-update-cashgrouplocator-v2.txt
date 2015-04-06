@@ -162,3 +162,5 @@
 
 1165;-;Hypovereinsbank;Rechlinger Str.;Manching;85077;;48.717;11.4933
 
+1166;-;Postbank;Liebigstr. 28;München;80538;;48.1403;11.5928
+
