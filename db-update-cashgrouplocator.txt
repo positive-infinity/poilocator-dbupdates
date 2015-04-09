@@ -1601,3 +1601,5 @@
 
 1166,-,Postbank,Liebigstr. 28,München,80538,48.1403,11.5928
 
+1167,-,Hypovereinsbank,Werner-Heisenberg-Allee 2,München,80939,48.2083,11.6192
+
