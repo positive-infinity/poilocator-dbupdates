@@ -99,3 +99,5 @@
 
 1127;+;Edeka;Südbahnhofstr. 9;Aschaffenburg;63739;;49.967342;9.146357
 
+1128;+;Penny;Hauptstraße 67;Angelbachtal;74918;;49.238710;8.771644
+
