@@ -1603,3 +1603,6 @@
 
 1167,-,Hypovereinsbank,Werner-Heisenberg-Allee 2,München,80939,48.2083,11.6192
 
+1168,-,Shell Tankstelle,Düsseldorfer Str. 20,Grevenbroich,41515,51.0943000,6.5666700
+1169,-,Hypovereinsbank,Römerstr. 52,Gilching,82205,48.111,11.2975
+

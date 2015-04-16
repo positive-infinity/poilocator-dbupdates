@@ -97,3 +97,5 @@
 
 1126;+;Aldi Süd;Südbahnhofstraße 9;Aschaffenburg;63739;;49.968134;9.150056
 
+1127;+;Edeka;Südbahnhofstr. 9;Aschaffenburg;63739;;49.967342;9.146357
+

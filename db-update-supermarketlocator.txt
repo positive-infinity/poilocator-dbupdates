@@ -1193,3 +1193,6 @@
 1125,+,Lidl,Up De Heuchte 5,Bad Laer,49196,52.100692,8.101404
 
 1126,+,Aldi Süd,Südbahnhofstraße 9,Aschaffenburg,63739,49.968134,9.150056
+
+1127,+,Edeka,Südbahnhofstr. 9,Aschaffenburg,63739,49.967342,9.146357
+
