@@ -172,3 +172,5 @@
 1170;-;Postbank;Krahnstr. 25;Osnabrück;49074;;52.2756;8.04348
 1171;-;Hypovereinsbank;Spitalerstr. 7;Hamburg;20095;;53.5519;10.003
 
+1172;-;Hypovereinsbank;Hauptstr. 32;Halstenbek;25469;;53.6353;9.83989
+
