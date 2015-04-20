@@ -174,3 +174,5 @@
 
 1172;-;Hypovereinsbank;Hauptstr. 32;Halstenbek;25469;;53.6353;9.83989
 
+1173;+;Postbank;Karl-Liebknecht-Straße 37;Ludwigsfelde;14974;;52.304090;13.253193
+
