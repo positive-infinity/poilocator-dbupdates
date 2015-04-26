@@ -101,3 +101,5 @@
 
 1128;+;Penny;Hauptstraße 67;Angelbachtal;74918;;49.238710;8.771644
 
+1129;-;Netto Marken-Discount;Münchner Str. 17;Landsberg;86899;;48.05179;10.89277
+

@@ -1613,3 +1613,8 @@
 
 1173,+,Postbank,Karl-Liebknecht-Straße 37,Ludwigsfelde,14974,52.304090,13.253193
 
+1174,-,Hypovereinsbank,Lassallestr. 75,München,80995,48.1949,11.5344
+1175,-,Deutsche Bank,Brandenburgische Str. 84-85,Berlin,10713,52.4871,13.3193
+1176,-,Shell Tankstelle,Schutterwälder Str. 2,Offenburg,77656,48.4649300,7.9317100
+1177,-,Shell Tankstelle,Völksener Str. 46,Springe,31832,52.2103500,9.5674300
+

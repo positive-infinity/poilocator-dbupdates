@@ -27,3 +27,5 @@
 
 1061;+;Subway;Willy-Brandt-Platz 12;Erfurt;99084;;50.972241;11.037514
 
+1062;-;Subway;Harrenstätter Straße 5;Werlte;49757;;52.8538;7.673639999999978
+
