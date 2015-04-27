@@ -103,3 +103,7 @@
 
 1129;-;Netto Marken-Discount;Münchner Str. 17;Landsberg;86899;;48.05179;10.89277
 
+1130;-;Norma;Bänningerstr. 1;Reiskirchen;35447;;50.5970098;8.8236332
+1131;-;Rewe;Karlsbader Str. 11;Buseck;35418;;50.60634;8.79425
+1132;+;Rewe;Beuerner Weg 1;Buseck;35418;;50.609207;8.789492
+

@@ -1618,3 +1618,7 @@
 1176,-,Shell Tankstelle,Schutterwälder Str. 2,Offenburg,77656,48.4649300,7.9317100
 1177,-,Shell Tankstelle,Völksener Str. 46,Springe,31832,52.2103500,9.5674300
 
+1178,-,Hypovereinsbank,Stadenstr. 93,Nürnberg,90491,49.4837,11.1332
+1179,-,Hypovereinsbank,Stadenstr. 58,Nürnberg,90491,49.482,11.1361
+
+1180,-,Hypovereinsbank,Waisenhausstr. 46,München,80637,48.1625,11.5295
