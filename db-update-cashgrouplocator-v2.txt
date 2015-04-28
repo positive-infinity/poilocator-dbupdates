@@ -185,3 +185,7 @@
 1179;-;Hypovereinsbank;Stadenstr. 58;Nürnberg;90491;;49.482;11.1361
 
 1180;-;Hypovereinsbank;Waisenhausstr. 46;München;80637;;48.1625;11.5295
+
+1181;-;Hypovereinsbank;Hollesenstr. 28;Rendsburg;24768;;54.3076;9.65256
+1182;-;Postbank;Westendstr. 221;München;80686;;48.1303;11.5187
+
