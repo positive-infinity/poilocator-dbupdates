@@ -107,3 +107,14 @@
 1131;-;Rewe;Karlsbader Str. 11;Buseck;35418;;50.60634;8.79425
 1132;+;Rewe;Beuerner Weg 1;Buseck;35418;;50.609207;8.789492
 
+1133;-;Aldi Nord;Ostermoorer Straße 4;Brunsbüttel;25541;;53.8968134;9.1444489
+1134;-;Aldi Nord;Brunsbütel Max Planck Str. 9-11;Brunsbüttel;25541;;53.90023;9.12573
+1135;+;Aldi Nord;Max-Planck-Str. 1-7;Brunsbüttel;25541;;53.90023;9.12573
+1136;+;Edeka;Koogstraße 77;Brunsbüttel;25541;;53.896627;9.140903
+1137;+;Edeka;Kaufhausstraße 1;Brunsbüttel;25541;;53.898835;9.126390
+1138;+;Rossmann;Röntgenstraße 2;Brunsbüttel;25541;;53.898076;9.127964
+1139;-;dm;F 1-2/ Breite Straße;Mannheim;25704;;54.0927445;9.070276
+1140;+;dm;F 1-2, Marktplatz 2;Mannheim;68159;;49.488601;8.466704
+1141;-;Norma;H65 5-6;Mannheim;25704;;54.0947788;9.0449993
+1142;+;Norma;H 5 5-6;Mannheim;68159;;49.491492;8.464739
+

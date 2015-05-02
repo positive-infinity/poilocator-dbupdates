@@ -1625,3 +1625,9 @@
 
 1181,-,Hypovereinsbank,Hollesenstr. 28,Rendsburg,24768,54.3076,9.65256
 1182,-,Postbank,Westendstr. 221,München,80686,48.1303,11.5187
+
+1183,-,Hypovereinsbank,Kürbsweg 1,Seevetal,21217,53.4217,10.023
+1184,-,Shell Tankstelle,Wittenerstr. 361,Bochum,44803,51.4721200,7.2598000
+1185,+,Postbank,Baumschulenstraße 31,Berlin,12437,52.464078,13.485549
+1186,+,Postbank,Poststraße 36,Velten,16727,52.687137,13.178797
+
