@@ -1631,3 +1631,6 @@
 1185,+,Postbank,Baumschulenstraße 31,Berlin,12437,52.464078,13.485549
 1186,+,Postbank,Poststraße 36,Velten,16727,52.687137,13.178797
 
+1188,+,Shell Tankstelle,Spandauer Allee 7,Hennigsdorf,16761,52.621647,13.204408
+1189,+,Shell Tankstelle,Spandauer Straße 16,Falkensee,14612,52.564494,13.113774
+1190,+,Shell Tankstelle,Am Juliusturm 33,Berlin,13599,52.536645,13.221925
