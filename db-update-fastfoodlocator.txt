@@ -424,3 +424,4 @@
 
 1062,-,Subway,Harrenstätter Straße 5,Werlte,49757,52.8538,7.673639999999978
 
+1063,+,KFC,Heiligenhauser Str. 86,Velbert,42549,51.332399,7.019610

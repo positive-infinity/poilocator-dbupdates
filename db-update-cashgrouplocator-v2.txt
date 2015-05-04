@@ -200,3 +200,9 @@
 1190;+;Shell Tankstelle;Am Juliusturm 33;Berlin;13599;;52.536645;13.221925
 1191;+;Berliner Bank;Takustraße 39;Berlin;14195;im Seminaris CampusHotel (Zugang Innenhof);52.457252;13.293898
 
+1192;-;Hypovereinsbank;Logenstr. 8;Frankfurt(Oder;15230;;52.3421;14.5518
+1193;-;Shell Tankstelle;Berliner Chaussee 99;Frankfurt;15234;;52.3650100;14.5241300
+1194;-;Shell Tankstelle;Frankfurter Chaussee 9;Vogelsdorf;15370;;52.5003500;13.7358000
+1195;-;Hypovereinsbank;Ringstr. 1;Höchstadt;91315;;49.706;10.8062
+1196;-;Postbank;Marktstr. 26;Neckarsulm;74172;;49.1923;9.2251
+
