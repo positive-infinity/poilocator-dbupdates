@@ -206,3 +206,5 @@
 1195;-;Hypovereinsbank;Ringstr. 1;Höchstadt;91315;;49.706;10.8062
 1196;-;Postbank;Marktstr. 26;Neckarsulm;74172;;49.1923;9.2251
 
+1197;-;Hypovereinsbank;Dorfstr. 7;Schönkirchen;24232;;54.3347;10.225
+1198;+;Shell Tankstelle;Pforzheimer Straße 110-116;Ettlingen;76275;;48.935084;8.430106
