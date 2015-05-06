@@ -1643,3 +1643,6 @@
 
 1197,-,Hypovereinsbank,Dorfstr. 7,Schönkirchen,24232,54.3347,10.225
 1198,+,Shell Tankstelle,Pforzheimer Straße 110-116,Ettlingen,76275,48.935084,8.430106
+
+1199,-,Postbank,Am Eichgarten 2,Dessau,06842,51.8389,12.2452
+1200,+,Postbank,Am Eichengarten 2,Dessau,06842,51.819498,12.302945
