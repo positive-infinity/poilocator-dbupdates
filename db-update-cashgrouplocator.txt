@@ -1646,3 +1646,7 @@
 
 1199,-,Postbank,Am Eichgarten 2,Dessau,06842,51.8389,12.2452
 1200,+,Postbank,Am Eichengarten 2,Dessau,06842,51.819498,12.302945
+
+1201,-,Hypovereinsbank,Pferdemarkt 9,Hameln,31785,52.1051,9.35689
+1202,-,Hypovereinsbank,Taubenstr. 2-6,Ludwigshafen,67063,49.4973,8.42022
+
