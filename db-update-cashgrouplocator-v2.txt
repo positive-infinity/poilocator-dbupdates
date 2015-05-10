@@ -215,3 +215,5 @@
 1201;-;Hypovereinsbank;Pferdemarkt 9;Hameln;31785;;52.1051;9.35689
 1202;-;Hypovereinsbank;Taubenstr. 2-6;Ludwigshafen;67063;;49.4973;8.42022
 
+1203;-;Postbank;Luruper Hauptstr. 138-142;Hamburg;22547;;53.591537;9.873012
+
