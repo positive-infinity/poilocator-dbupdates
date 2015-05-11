@@ -217,3 +217,5 @@
 
 1203;-;Postbank;Luruper Hauptstr. 138-142;Hamburg;22547;;53.591537;9.873012
 
+1204;-;Hypovereinsbank;Am Markt 5;Barmstedt;25355;;53.7892;9.77015
+
