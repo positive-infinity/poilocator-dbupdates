@@ -219,3 +219,6 @@
 
 1204;-;Hypovereinsbank;Am Markt 5;Barmstedt;25355;;53.7892;9.77015
 
+1205;-;Commerzbank;Friedrich-Breuer-Str. 62;Bonn;53225;;50.739;7.1206
+1206;+;Postbank;Hauptstr. 9;Thalheim;09380;Postfiliale, nicht durchgängig erreichbar, Tel 0180-23333;50.702460;12.850875
+
