@@ -225,3 +225,8 @@
 1207;-;Hypovereinsbank;Obermarkt 30;Mittenwald;82481;;47.441;11.2601
 1208;-;Deutsche Bank;Lange Str. 8;Blankenburg;38889;;51.7661;10.9761
 
+1209;-;Postbank;Westfälische Str. 2a;Oberhausen;46117;;51.5033;6.88545
+1210;+;Postbank;Eichenstraße 17;Mammendorf;82291;Möbel Keser;48.206548;11.174734
+1211;-;Hypovereinsbank;Am Sand 2-4;Regen;94209;;48.9695;13.1264
+
+
