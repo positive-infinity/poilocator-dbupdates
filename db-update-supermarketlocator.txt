@@ -1215,3 +1215,12 @@
 1141,-,Norma,H65 5-6,Mannheim,25704,54.0947788,9.0449993
 1142,+,Norma,H 5 5-6,Mannheim,68159,49.491492,8.464739
 
+1143,-,Netto Marken-Discount,L837 Linderner Str.,Lastrup,49688,52.80465,7.8465
+1144,+,Netto Marken-Discount,Linderner Straße 4,Lastrup,49688,52.796443,7.860506
+1145,+,Lidl,Ladestraße 1,Lastrup,49688,52.795528,7.860369
+1146,+,Aldi Nord,Harrenstätter Straße 5,Werlte,49757,52.853376,7.672609
+1147,+,Netto Marken-Discount,Sögeler Straße 19,Werlte,49757,52.848222,7.664546
+1148,+,Rewe,Sögeler Straße 20,Werlte,49757,52.848913,7.664246
+1149,+,Rewe,Lindenallee 17,Löningen,49624,52.736200,7.761835
+1150,+,Netto Marken-Discount,Poststraße 15,Esterwegen,26897,52.990799,7.629275
+

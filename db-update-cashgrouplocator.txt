@@ -1661,3 +1661,5 @@
 
 1209,-,Postbank,Westfälische Str. 2a,Oberhausen,46117,51.5033,6.88545
 1211,-,Hypovereinsbank,Am Sand 2-4,Regen,94209,48.9695,13.1264
+
+1212,-,Postbank,Heufelder Str. 2,München,81671,48.1243,11.616
