@@ -231,4 +231,12 @@
 
 1212;-;Postbank;Heufelder Str. 2;München;81671;;48.1243;11.616
 
+1213;-;Hypovereinsbank;Mangfallplatz 6;München;81547;;48.0979;11.5822
+
+1214;-;Deutsche Bank;Airport / Flughafen;München;85356;;48.3599;11.7856
+1215;-;Hypovereinsbank;Flughafen;München;85356;;48.3536;11.7852
+1216;-;Hypovereinsbank;Terminalstr. Mitte 18;München;85356;;48.354;11.7816
+1217;+;Deutsche Bank;Flughafen (Terminal 1, Modul E);München;85356;;48.349915;11.785006
+1218;+;Deutsche Bank;Flughafen (Airport Center);München;85356;;48.353352;11.785264
+
 
