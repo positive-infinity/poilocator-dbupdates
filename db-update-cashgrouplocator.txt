@@ -1671,3 +1671,5 @@
 1216,-,Hypovereinsbank,Terminalstr. Mitte 18,München,85356,48.354,11.7816
 1217,+,Deutsche Bank,Flughafen (Terminal 1, Modul E),München,85356,48.349915,11.785006
 1218,+,Deutsche Bank,Flughafen (Airport Center),München,85356,48.353352,11.785264
+
+1219,+,Shell Tankstelle,Oesselser Straße 15,Laatzen,30880,52.274926,9.847709
