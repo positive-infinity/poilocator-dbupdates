@@ -245,3 +245,6 @@
 
 1221;-;Deutsche Bank;Hauptstr. 89-91;Bendorf;56170;;50.4236;7.57523
 1222;-;Hypovereinsbank;Schwanseestr. 71A;München;81549;;48.1042;11.5983
+
+1223;-;Postbank;Neidenburger Str. 1;Landshut;84030;;48.5541;12.1537
+1224;+;Postbank;Neidenburger Str. 1;Landshut;84030;im OBI, Mo-Sa 8-20 Uhr;48.5541;12.1537
