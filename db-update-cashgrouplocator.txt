@@ -1675,3 +1675,6 @@
 1219,+,Shell Tankstelle,Oesselser Straße 15,Laatzen,30880,52.274926,9.847709
 
 1220,-,Commerzbank,Breddestr. 15,Gelsenkirchen,45894,51.5762,7.05528
+
+1221,-,Deutsche Bank,Hauptstr. 89-91,Bendorf,56170,50.4236,7.57523
+1222,-,Hypovereinsbank,Schwanseestr. 71A,München,81549,48.1042,11.5983
