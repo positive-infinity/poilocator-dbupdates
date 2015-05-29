@@ -1678,3 +1678,7 @@
 
 1221,-,Deutsche Bank,Hauptstr. 89-91,Bendorf,56170,50.4236,7.57523
 1222,-,Hypovereinsbank,Schwanseestr. 71A,München,81549,48.1042,11.5983
+
+1225,-,Hypovereinsbank,Lüneburger Str. 8,Uelzen,29525,52.9657,10.5608
+1226,-,Postbank,Kastanienallee 4,Tostedt,21255,53.2815,9.71399
+1227,+,Shell Tankstelle,Hugo-Eckener-Straße 27a,Köln,50829,50.977328,6.895153

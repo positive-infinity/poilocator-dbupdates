@@ -248,3 +248,7 @@
 
 1223;-;Postbank;Neidenburger Str. 1;Landshut;84030;;48.5541;12.1537
 1224;+;Postbank;Neidenburger Str. 1;Landshut;84030;im OBI, Mo-Sa 8-20 Uhr;48.5541;12.1537
+
+1225;-;Hypovereinsbank;Lüneburger Str. 8;Uelzen;29525;;52.9657;10.5608
+1226;-;Postbank;Kastanienallee 4;Tostedt;21255;;53.2815;9.71399
+1227;+;Shell Tankstelle;Hugo-Eckener-Straße 27a;Köln;50829;;50.977328;6.895153
