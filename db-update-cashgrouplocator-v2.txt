@@ -252,3 +252,6 @@
 1225;-;Hypovereinsbank;Lüneburger Str. 8;Uelzen;29525;;52.9657;10.5608
 1226;-;Postbank;Kastanienallee 4;Tostedt;21255;;53.2815;9.71399
 1227;+;Shell Tankstelle;Hugo-Eckener-Straße 27a;Köln;50829;;50.977328;6.895153
+
+1228;+;Postbank;Bahnhofstraße 8;Geldern;47608;im Kaufland;51.516292;6.320024
+1229;-;Hypovereinsbank;Hauptstr. 67;Peißenberg;82380;;47.8001;11.0682
