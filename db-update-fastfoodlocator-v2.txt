@@ -34,3 +34,6 @@
 1064;-;Subway;Friedrichstraße 303;Velbert;42551;;51.33146;7.054970000000026
 1065;+;Imbiss;Friedrichstraße 303;Velbert;42551;;51.33146;7.054970000000027
 
+1066;-;Burger King;Breslauer Platz 4;Köln;50668;;50.94311;6.958509999999933
+1067;-;Subway;Hansaring 33;Köln;50670;;50.94666;6.945989999999938
+
