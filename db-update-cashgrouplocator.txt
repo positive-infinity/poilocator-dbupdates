@@ -1684,3 +1684,7 @@
 1227,+,Shell Tankstelle,Hugo-Eckener-Straße 27a,Köln,50829,50.977328,6.895153
 
 1229,-,Hypovereinsbank,Hauptstr. 67,Peißenberg,82380,47.8001,11.0682
+
+1230,-,Hypovereinsbank,Königsstr. 16,Oettingen,86732,48.9506,10.6027
+1231,-,Deutsche Bank,Theodor-Ludwig-Str. 24,Emmendingen,79312,48.1208,7.84991
+1232,-,Postbank,Bahnhofstr. 6,Emmendingen,79312,48.1197,7.86638
