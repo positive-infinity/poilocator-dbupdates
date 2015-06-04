@@ -1688,3 +1688,8 @@
 1230,-,Hypovereinsbank,Königsstr. 16,Oettingen,86732,48.9506,10.6027
 1231,-,Deutsche Bank,Theodor-Ludwig-Str. 24,Emmendingen,79312,48.1208,7.84991
 1232,-,Postbank,Bahnhofstr. 6,Emmendingen,79312,48.1197,7.86638
+
+1233,+,Commerzbank,Fürther Str. 212,Nürnberg,90429,49.458744,11.032992
+1234,+,Commerzbank,Nelkenstraße 1,Nürnberg,90439,49.439033,11.051855
+1235,+,Deutsche Bank,Hauptmarkt 7,Nürnberg,90403,49.453553,11.076717
+1236,-,Commerzbank,Rheinstr. 34,Darmstadt,64283,49.8719,8.64478

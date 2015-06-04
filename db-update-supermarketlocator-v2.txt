@@ -127,3 +127,6 @@
 1149;+;Rewe;Lindenallee 17;Löningen;49624;;52.736200;7.761835
 1150;+;Netto Marken-Discount;Poststraße 15;Esterwegen;26897;;52.990799;7.629275
 
+1151;+;Penny;Troplowitzstraße 7;Hamburg;22529;;53.584703;9.964935
+1152;+;dm;Kinzigbogen;Hanau;63452;;50.145819;8.931905
+
