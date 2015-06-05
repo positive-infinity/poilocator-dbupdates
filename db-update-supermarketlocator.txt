@@ -1226,3 +1226,20 @@
 
 1151,+,Penny,Troplowitzstraße 7,Hamburg,22529,53.584703,9.964935
 1152,+,dm,Kinzigbogen,Hanau,63452,50.145819,8.931905
+
+1153,+,Rewe,Konrad-Höhl-Straße 1,Maintal,63477,50.156020,8.842150
+1154,+,Rewe,Dörnigheimer Weg 22-24,Maintal,63477,50.148184,8.812785
+1155,+,Rewe,Burgallee 35,Hanau,63454,50.132164,8.889551
+1156,+,Kaufland,Am Steinheimer Tor 3,Hanau,63450,50.131112,8.911099
+1157,+,Rossmann,Kanaltorpl. 1,Hanau,63450,50.131665,8.910680
+1158,+,Rewe,Salzstraße 34,Hanau,63450,50.133204,8.918203
+1159,+,Lidl,Luise-Kisselbach-Str. 8,Hanau,63452,50.147730,8.932248
+1160,+,Penny,Lamboystraße 64,Hanau,63452,50.142661,8.941131
+1161,+,Rewe,Langendiebacher Str. 58,Erlensee,63526,50.161576,8.981674
+1162,+,Netto Marken-Discount,Auf der Beune 5,Erlensee,63526,50.168325,8.975473
+1163,+,Netto Marken-Discount,Lützelbuchener Str.,Hanau,63454,50.178876,8.895490
+1164,+,Rewe,Ufer Str. 1-5,Schöneck,61137,50.202104,8.839335
+1165,+,Lidl,Uferstraße 10,Schöneck,61137,50.203484,8.838267
+1166,+,Rossmann,Keltenstraße 18b,Bruchköbel,63486,50.178192,8.907664
+1167,+,Rossmann,Leipziger Str. 41,Erlensee,63526,50.156748,8.984525
+1168,+,Müller,Braubachstraße 18,Maintal,63477,50.141680,8.834976

@@ -264,3 +264,7 @@
 1234;+;Commerzbank;Nelkenstraße 1;Nürnberg;90439;;49.439033;11.051855
 1235;+;Deutsche Bank;Hauptmarkt 7;Nürnberg;90403;;49.453553;11.076717
 1236;-;Commerzbank;Rheinstr. 34;Darmstadt;64283;;49.8719;8.64478
+
+1237;-;Shell Tankstelle;Neustrelitzer Str. 126;Neubrandenburg;17033;;53.5243800;13.2608000
+1238;+;Shell Tankstelle;Frankfurter Chaussee 37;Fredersdorf-Vogelsdorf;15370;;52.500028;13.735850
+
