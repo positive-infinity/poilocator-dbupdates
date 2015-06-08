@@ -1243,3 +1243,5 @@
 1166,+,Rossmann,Keltenstraße 18b,Bruchköbel,63486,50.178192,8.907664
 1167,+,Rossmann,Leipziger Str. 41,Erlensee,63526,50.156748,8.984525
 1168,+,Müller,Braubachstraße 18,Maintal,63477,50.141680,8.834976
+
+1169,-,Penny,Benzingeröder Ch.8,Wernigerode,38855,51.8394382,10.8116873
