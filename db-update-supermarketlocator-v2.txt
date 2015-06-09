@@ -149,3 +149,18 @@
 
 1169;-;Penny;Benzingeröder Ch.8;Wernigerode;38855;;51.8394382;10.8116873
 
+1170;-;Penny;Küfnerstr. 3;München;81927;;48.1723;11.63777
+1171;-;Penny;Freischützstr. 92;München;81927;;48.1682019;11.6436869
+1172;-;Penny;Münchner Str. 26;Unterföhring;85774;;48.1850279;11.6342585
+1173;-;Penny;Herkomer Platz 2;München;81679;;48.1505554;11.6087294
+1174;+;Lidl;Freischützstraße 46;München;81927;;48.165253;11.645254
+1175;+;Rewe;Freischützstraße 13;München;81927;;48.157825;11.640992
+1176;+;Rewe;Daglfinger Str. 5;München;81929;;48.146827;11.641276
+1177;+;Netto Marken-Discount;Wasserburger Landstraße 8;München;81825;;48.120534;11.666008
+1178;+;Rewe;Eppendorfer Weg 192;Hamburg;20253;;53.581322;9.971011
+1179;+;Rewe;Hoheluftchaussee 23-25;Hamburg;20253;;53.579562;9.974108
+1180;+;Rewe;Dorotheenstr. 116-122;Hamburg;22301;;53.587634;10.007496
+1181;+;Rewe;Jarrestraße 44;Hamburg;22303;;53.585017;10.026076
+1182;+;Rewe;Hamburger Strasse 19-47;Hamburg;22083;;53.575204;10.034428
+1183;+;Lidl;Grindelberg 53;Hamburg;20144;;53.575824;9.977039
+
