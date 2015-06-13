@@ -164,3 +164,6 @@
 1182;+;Rewe;Hamburger Strasse 19-47;Hamburg;22083;;53.575204;10.034428
 1183;+;Lidl;Grindelberg 53;Hamburg;20144;;53.575824;9.977039
 
+1184;-;Aldi Nord;Lemfüde Hauptstr. 44;Hüde;49448;;52.470654;8.3743683
+1185;+;Aldi Nord;Burgstraße 18b;Lemförde;49448;;52.470550;8.373407
+
