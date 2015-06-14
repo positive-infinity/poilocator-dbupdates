@@ -1701,3 +1701,6 @@
 1240,-,Hypovereinsbank,Bahnhofstr. 32,Planegg,82152,48.1045,11.4177
 1241,-,Postbank,Allersberger Str. 130,Nürnberg,90461,49.4359,11.0914
 1242,+,Postbank,Allersberger Str. 185,Nürnberg,90461,49.433266,11.097522
+
+1243,-,Hypovereinsbank,Lauenburger Str. 3,Schwarzenbek,21493,53.5022,10.4805
+1244,-,Hypovereinsbank,Stummstr. 22,Dillingen,66763,49.3532,6.7262
