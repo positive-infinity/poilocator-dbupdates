@@ -1263,3 +1263,8 @@
 
 1184,-,Aldi Nord,Lemfüde Hauptstr. 44,Hüde,49448,52.470654,8.3743683
 1185,+,Aldi Nord,Burgstraße 18b,Lemförde,49448,52.470550,8.373407
+
+1186,+,Penny,Bielefelder Str. 15,Bad Laer,49196,52.102127,8.091681
+1187,+,Edeka,Fritz-Meyer-Weg 55,München,81925,48.173060,11.636093
+1188,+,Aldi Süd,Hochstiftsweg 4,München,81925,48.169248,11.631116
+1189,-,Penny,Freischützstr. 20,München,81927,48.15933,11.64339
