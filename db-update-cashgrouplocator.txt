@@ -1704,3 +1704,5 @@
 
 1243,-,Hypovereinsbank,Lauenburger Str. 3,Schwarzenbek,21493,53.5022,10.4805
 1244,-,Hypovereinsbank,Stummstr. 22,Dillingen,66763,49.3532,6.7262
+
+1245,-,Shell Tankstelle,Grüner Weg,Paderborn,33102,51.7067700,8.7294700
