@@ -281,3 +281,5 @@
 1246;-;Hypovereinsbank;Bahnhofstr. 1;Süderbrarup;24392;;54.6357;9.77236
 1247;-;Commerzbank;Am Schützeneck 6-8;München;81241;;48.1479;11.4613
 
+1248;-;Hypovereinsbank;Römerstr. 29;Obernburg;63785;;49.8407;9.1463
+
