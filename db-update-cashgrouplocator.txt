@@ -1711,3 +1711,6 @@
 1247,-,Commerzbank,Am Schützeneck 6-8,München,81241,48.1479,11.4613
 
 1248,-,Hypovereinsbank,Römerstr. 29,Obernburg,63785,49.8407,9.1463
+
+1249,-,Postbank,Bolzstr. 3,Stuttgart,70173,48.780093,9.177904
+1250,+,Postbank,Bolzstr. 3,Stuttgart,70173,48.779823,9.178068
