@@ -286,3 +286,5 @@
 1249;-;Postbank;Bolzstr. 3;Stuttgart;70173;;48.780093;9.177904
 1250;+;Postbank;Bolzstr. 3;Stuttgart;70173;;48.779823;9.178068
 
+1251;+;Postbank;Ringstraße 31;Chemnitz;09247;;50.866270;12.866952
+
