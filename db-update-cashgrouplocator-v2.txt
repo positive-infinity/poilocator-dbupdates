@@ -288,3 +288,12 @@
 
 1251;+;Postbank;Ringstraße 31;Chemnitz;09247;;50.866270;12.866952
 
+1252;-;Deutsche Bank;Schultesstr. 2;Schweinfurt;97421;;50.0429;10.2316
+1253;-;Hypovereinsbank;Schultesstr. 19A;Schweinfurt;97421;;50.0417;10.2299
+1254;-;Hypovereinsbank;Am Oberen Marienbach 14;Schweinfurt;97421;;50.0485;10.2361
+1255;-;Commerzbank;Albrecht-Dürer-Platz 4;Schweinfurt;97421;;50.0432;10.2313
+1256;+;Postbank;Am Markt 2;Emmelshausen;56281;;50.156633;7.559719
+1257;+;Shell Tankstelle;Oldentruper Str. 236;Bielefeld;33719;Mo-Do 8-22 Uhr, Fr,Sa 7-22 Uhr;52.011082;8.594019
+1258;+;Shell Tankstelle;Schubertstraße 1;Zwickau;08058;;50.750219;12.483702
+
+

@@ -1268,3 +1268,7 @@
 1187,+,Edeka,Fritz-Meyer-Weg 55,München,81925,48.173060,11.636093
 1188,+,Aldi Süd,Hochstiftsweg 4,München,81925,48.169248,11.631116
 1189,-,Penny,Freischützstr. 20,München,81927,48.15933,11.64339
+
+1190,-,Netto Marken-Discount,Vogteistraße 21,Lübeck/Travemünde,23570,53.9589748,10.8690341
+1191,-,Edeka,Gneversdorfer Weg 24,Lübeck/Travemünde,23570,53.96069,10.86121
+1192,+,Penny,Gneversdorfer Weg 24,Lübeck/Travemünde,23570,53.96069,10.86121
