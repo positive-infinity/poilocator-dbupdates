@@ -1724,3 +1724,5 @@
 1256,+,Postbank,Am Markt 2,Emmelshausen,56281,50.156633,7.559719
 1257,+,Shell Tankstelle,Oldentruper Str. 236,Bielefeld,33719,52.011082,8.594019
 1258,+,Shell Tankstelle,Schubertstraße 1,Zwickau,08058,50.750219,12.483702
+
+1259,-,Hypovereinsbank,Am Fleth 10,Glückstadt,25348,53.7872,9.42406
