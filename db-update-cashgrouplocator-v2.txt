@@ -298,4 +298,5 @@
 
 1259;-;Hypovereinsbank;Am Fleth 10;Glückstadt;25348;;53.7872;9.42406
 
+1260;+;Postbank;Annaberger Str. 106;Raschau-Markersbach;08352;Postfiliale, ggf. nicht durchgängig erreichbar;50.529600;12.821176
 
