@@ -300,3 +300,7 @@
 
 1260;+;Postbank;Annaberger Str. 106;Raschau-Markersbach;08352;Postfiliale, ggf. nicht durchgängig erreichbar;50.529600;12.821176
 
+1261;-;Hypovereinsbank;Wallensteinstr. 21;Hannover;30459;;52.342;9.71412
+1262;-;Hypovereinsbank;Am Pulverl 1;Ingolstadt;85051;;48.7439;11.433
+1263;-;Postbank;Berliner Str. 89;Oberursel;61440;;50.2072;8.57813
+
