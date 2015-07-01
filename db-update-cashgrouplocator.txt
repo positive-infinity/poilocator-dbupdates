@@ -1733,3 +1733,6 @@
 1262,-,Hypovereinsbank,Am Pulverl 1,Ingolstadt,85051,48.7439,11.433
 1263,-,Postbank,Berliner Str. 89,Oberursel,61440,50.2072,8.57813
 
+1264,+,Postbank,Adenauerallee 32,Oberursel,61440,50.200507,8.582958
+1265,-,Postbank,Susannenstr. 26,Hamburg,20357,53.563,9.96476
+

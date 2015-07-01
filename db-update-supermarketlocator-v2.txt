@@ -175,3 +175,7 @@
 1190;-;Netto Marken-Discount;Vogteistraße 21;Lübeck/Travemünde;23570;;53.9589748;10.8690341
 1191;-;Edeka;Gneversdorfer Weg 24;Lübeck/Travemünde;23570;;53.96069;10.86121
 1192;+;Penny;Gneversdorfer Weg 24;Lübeck/Travemünde;23570;;53.96069;10.86121
+
+1193;-;Marktkauf;Thüringerstr. 9;Emden;26723;;53.3614;7.17062
+1194;+;Edeka;Thüringerstr. 9;Emden;26723;;53.3614;7.17062
+
