@@ -1727,7 +1727,7 @@
 
 1259,-,Hypovereinsbank,Am Fleth 10,Glückstadt,25348,53.7872,9.42406
 
-1260,-,Postbank,Annaberger Str. 106,Raschau-Markersbach,08352,50.529600,12.821176
+1260,+,Postbank,Annaberger Str. 106,Raschau-Markersbach,08352,50.529600,12.821176
 
 1261,-,Hypovereinsbank,Wallensteinstr. 21,Hannover,30459,52.342,9.71412
 1262,-,Hypovereinsbank,Am Pulverl 1,Ingolstadt,85051,48.7439,11.433
