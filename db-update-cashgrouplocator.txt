@@ -1736,3 +1736,6 @@
 1264,+,Postbank,Adenauerallee 32,Oberursel,61440,50.200507,8.582958
 1265,-,Postbank,Susannenstr. 26,Hamburg,20357,53.563,9.96476
 
+1266,-,Hypovereinsbank,Rathausstr. 66-68,Viernheim,68519,49.5347,8.57583
+1267,-,Commerzbank,Kettelerstr. 1,Viernheim,68519,49.5385,8.578
+1268,-,Commerzbank,Ketteler Str. 8,Viernheim,68519,49.5384,8.57665
