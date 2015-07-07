@@ -1739,3 +1739,9 @@
 1266,-,Hypovereinsbank,Rathausstr. 66-68,Viernheim,68519,49.5347,8.57583
 1267,-,Commerzbank,Kettelerstr. 1,Viernheim,68519,49.5385,8.578
 1268,-,Commerzbank,Ketteler Str. 8,Viernheim,68519,49.5384,8.57665
+
+1269,-,Hypovereinsbank,Machtlfinger Str. 10,München,81379,48.0969,11.5134
+1270,-,Hypovereinsbank,Knöpflerstr. 1,München,81476,48.0946,11.4978
+1271,-,Hypovereinsbank,Schulstr. 25,Seevetal,21220,53.3944,10.0375
+1272,-,Hypovereinsbank,Unter Den Linden 5,Stelle,21435,53.3842,10.1103
+
