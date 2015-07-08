@@ -1275,3 +1275,5 @@
 
 1193,-,Marktkauf,Thüringerstr. 9,Emden,26723,53.3614,7.17062
 1194,+,Edeka,Thüringerstr. 9,Emden,26723,53.3614,7.17062
+
+1195,+,Netto Marken-Discount,Vogelberger Weg 1,Lüdenscheid,58507,51.227930,7.639610
