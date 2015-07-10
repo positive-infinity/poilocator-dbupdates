@@ -316,3 +316,5 @@
 1271;-;Hypovereinsbank;Schulstr. 25;Seevetal;21220;;53.3944;10.0375
 1272;-;Hypovereinsbank;Unter Den Linden 5;Stelle;21435;;53.3842;10.1103
 
+1273;-;Berliner Bank;Marzahner Promenade 20;Berlin;12679;;52.5429;13.5462
+
