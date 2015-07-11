@@ -321,3 +321,6 @@
 1274;-;Deutsche Bank;Bismarckstr. 3;Detmold;32756;;51.9376;8.87783
 1275;-;Shell Tankstelle;Schützenstr. 67;Bad Sassendorf;59505;;51.5788800;8.1583400
 
+1276;-;Postbank;Lagesche Str. 184;Detmold;32756;;51.9531;8.86286
+1276;+;Postbank;Lagesche Str. 184;Detmold;32756;Avia Tankstelle;51.9531;8.86286
+
