@@ -318,3 +318,6 @@
 
 1273;-;Berliner Bank;Marzahner Promenade 20;Berlin;12679;;52.5429;13.5462
 
+1274;-;Deutsche Bank;Bismarckstr. 3;Detmold;32756;;51.9376;8.87783
+1275;-;Shell Tankstelle;Schützenstr. 67;Bad Sassendorf;59505;;51.5788800;8.1583400
+
