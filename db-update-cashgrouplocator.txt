@@ -1749,3 +1749,6 @@
 
 1274,-,Deutsche Bank,Bismarckstr. 3,Detmold,32756,51.9376,8.87783
 1275,-,Shell Tankstelle,Schützenstr. 67,Bad Sassendorf,59505,51.5788800,8.1583400
+
+1277,-,Hypovereinsbank,Niederauerstr. 43,Meißen,01662,51.1678,13.5019
+1278,-,Deutsche Bank,Marktstr. 13,Boppard,56154,50.232,7.59233

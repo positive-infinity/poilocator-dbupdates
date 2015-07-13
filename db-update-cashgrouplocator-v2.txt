@@ -324,3 +324,6 @@
 1276;-;Postbank;Lagesche Str. 184;Detmold;32756;;51.9531;8.86286
 1276;+;Postbank;Lagesche Str. 184;Detmold;32756;Avia Tankstelle;51.9531;8.86286
 
+1277;-;Hypovereinsbank;Niederauerstr. 43;Meißen;01662;;51.1678;13.5019
+1278;-;Deutsche Bank;Marktstr. 13;Boppard;56154;;50.232;7.59233
+
