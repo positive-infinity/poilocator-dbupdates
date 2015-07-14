@@ -1752,3 +1752,8 @@
 
 1277,-,Hypovereinsbank,Niederauerstr. 43,Meißen,01662,51.1678,13.5019
 1278,-,Deutsche Bank,Marktstr. 13,Boppard,56154,50.232,7.59233
+
+1279,-,Postbank,Am Fischstein 33,Frankfurt,60488,50.1482,8.60623
+1280,+,Postbank,Am Fischstein 33,Frankfurt,60488,50.129637,8.624165
+1281,-,Hypovereinsbank,Marktstr. 6,Lenggries,83661,47.6817,11.577
+
