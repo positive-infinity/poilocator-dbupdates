@@ -1758,3 +1758,6 @@
 1281,-,Hypovereinsbank,Marktstr. 6,Lenggries,83661,47.6817,11.577
 
 1282,-,Shell Tankstelle,Winsener Str. 91,Hamburg,21077,53.4442300,9.9906600
+
+1283,-,Hypovereinsbank,Dorfstr. 15A,Heikendorf,24226,54.3702,10.2042
+
