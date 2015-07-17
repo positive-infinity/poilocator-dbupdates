@@ -335,3 +335,8 @@
 
 1283;-;Hypovereinsbank;Dorfstr. 15A;Heikendorf;24226;;54.3702;10.2042
 
+1284;-;Hypovereinsbank;Bahnhofstr. 14;Quickborn;25451;;53.7311;9.89853
+1285;-;Commerzbank;Schulstr. 16;Quickborn;25451;;53.7314;9.89832
+1286;-;Commerzbank;Neue Str. 5;Lingen;49808;;52.5209;7.3154
+1287;+;Postbank;Bahnhofstr. 11;Tostedt;21255;;53.280164;9.713855
+
