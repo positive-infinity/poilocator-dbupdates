@@ -181,3 +181,5 @@
 
 1195;+;Netto Marken-Discount;Vogelberger Weg 1;Lüdenscheid;58507;;51.227930;7.639610
 
+1196;-;Aldi Nord;Uhlandstr. 4;Plettenberg;58840;;51.2101058;7.8805697
+
