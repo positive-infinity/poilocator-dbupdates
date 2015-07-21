@@ -38,3 +38,6 @@
 1067;-;Subway;Hansaring 33;Köln;50670;;50.94666;6.945989999999938
 
 1068;+;McDonalds;Parkallee 1;Weilerswist;53919;;50.748145;6.852105
+
+1069;-;Burger King;Ida-Kellotat-Straße 1A;Teltow;14513;;52.40019;13.270009999999957
+1070;-;Burger King;F1 4;Mannheim;68159;;49.48877;8.466969999999947
