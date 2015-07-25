@@ -1769,3 +1769,5 @@
 1288,-,Hypovereinsbank,Münchner Str. 13,Haar,85540,48.1091,11.7226
 1289,+,Postbank,Leibstraße 15,Haar,85540,48.108917,11.732173
 
+1290,-,Hypovereinsbank,Lindenring 9,Taufkirchen,82024,48.0514,11.6052
+
