@@ -1771,3 +1771,5 @@
 
 1290,-,Hypovereinsbank,Lindenring 9,Taufkirchen,82024,48.0514,11.6052
 
+1291,-,Postbank,Schulstraße 36a,Kehl,77694,48.574766,7.810261
+
