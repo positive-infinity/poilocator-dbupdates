@@ -1773,3 +1773,6 @@
 
 1291,-,Postbank,Schulstraße 36a,Kehl,77694,48.574766,7.810261
 
+1292,-,Commerzbank,Badeniaplatz 1,Karlsruhe,76189,48.9823,8.36903
+1293,-,Deutsche Bank,Am Markt 26,Burg (Fehmarn),23769,54.4392,11.1974
+
