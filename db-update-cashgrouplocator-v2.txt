@@ -350,5 +350,5 @@
 1292;-;Commerzbank;Badeniaplatz 1;Karlsruhe;76189;;48.9823;8.36903
 1293;-;Deutsche Bank;Am Markt 26;Burg (Fehmarn);23769;;54.4392;11.1974
 
-1294;+;Postbank;Durlacher Allee 111;Karlsruhe;76137 ;Postfiliale im real, ggf. nicht durchgängig erreichbar;49.005146;8.449076
+1294;+;Postbank;Durlacher Allee 111;Karlsruhe;76137;Postfiliale im real, ggf. nicht durchgängig erreichbar;49.005146;8.449076
 
