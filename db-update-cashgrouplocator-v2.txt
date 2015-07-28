@@ -352,3 +352,6 @@
 
 1294;+;Postbank;Durlacher Allee 111;Karlsruhe;76137;Postfiliale im real, ggf. nicht durchgängig erreichbar;49.005146;8.449076
 
+1295;-;Postbank;Metallstr. 15;Velbert;42551;;51.34;7.05583
+1296;-;Hypovereinsbank;Hanauer Landstr. 5;Kahl;63796;;50.0696;9.00597
+
