@@ -355,3 +355,5 @@
 1295;-;Postbank;Metallstr. 15;Velbert;42551;;51.34;7.05583
 1296;-;Hypovereinsbank;Hanauer Landstr. 5;Kahl;63796;;50.0696;9.00597
 
+1297;+;Postbank;Clausthaler Str. 1a;Bad Grund;37539;Postfiliale, Mo-Sa 9:00-12:00, Di+Do 15:00-17:30;51.810173;10.237634
+
