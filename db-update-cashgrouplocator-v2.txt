@@ -357,3 +357,5 @@
 
 1297;+;Postbank;Clausthaler Str. 1a;Bad Grund;37539;Postfiliale, Mo-Sa 9:00-12:00, Di+Do 15:00-17:30;51.810173;10.237634
 
+1298;-;Hypovereinsbank;Ludwigsplatz 5;Worms;67847;;49.6329;8.36241
+

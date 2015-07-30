@@ -1779,3 +1779,5 @@
 1295,-,Postbank,Metallstr. 15,Velbert,42551,51.34,7.05583
 1296,-,Hypovereinsbank,Hanauer Landstr. 5,Kahl,63796,50.0696,9.00597
 
+1298,-,Hypovereinsbank,Ludwigsplatz 5,Worms,67847,49.6329,8.36241
+
