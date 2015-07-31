@@ -359,3 +359,6 @@
 
 1298;-;Hypovereinsbank;Ludwigsplatz 5;Worms;67847;;49.6329;8.36241
 
+1299;-;Hypovereinsbank;Cannstatter Str. 36;Fellbach;70734;;48.8087;9.27734
+1300;-;Hypovereinsbank;Canstatter Str. 36;Fellbach;70734;;48.8087;9.27734
+
