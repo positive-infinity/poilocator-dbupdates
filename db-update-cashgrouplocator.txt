@@ -1783,3 +1783,5 @@
 
 1299,-,Hypovereinsbank,Cannstatter Str. 36,Fellbach,70734,48.8087,9.27734
 1300,-,Hypovereinsbank,Canstatter Str. 36,Fellbach,70734,48.8087,9.27734
+
+1301,-,Commerzbank,Fuerstenplatz 1,Schneeberg,08289,50.5961,12.6404

@@ -183,3 +183,7 @@
 
 1196;-;Aldi Nord;Uhlandstr. 4;Plettenberg;58840;;51.2101058;7.8805697
 
+1197;-;Rossmann;Putbuser Weg 14;Dresden/Klotzsche;01109;;51.1235566;13.7823202
+1198;-;Aldi Nord;Sagarder Weg 1;Dresden;01109;;51.1228672;13.7848554
+1199;-;Aldi Nord;Hohenbuschmarkt 1;Dresden-Weixdorf;01108;;51.1403344;13.795467
+
