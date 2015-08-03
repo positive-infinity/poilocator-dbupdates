@@ -187,3 +187,6 @@
 1198;-;Aldi Nord;Sagarder Weg 1;Dresden;01109;;51.1228672;13.7848554
 1199;-;Aldi Nord;Hohenbuschmarkt 1;Dresden-Weixdorf;01108;;51.1403344;13.795467
 
+1200;-;Netto Marken-Discount;Waldshuter Str. 1;Jestetten;79798;;47.64939;8.56793
+1201;+;Penny;Waldshuter Str. 1;Jestetten;79798;;47.64939;8.56793
+
