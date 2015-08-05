@@ -364,3 +364,5 @@
 
 1301;-;Commerzbank;Fuerstenplatz 1;Schneeberg;08289;;50.5961;12.6404
 
+1302;-;Hypovereinsbank;Kornstr. 2-4;Bautzen;02625;;51.1815;14.4246
+

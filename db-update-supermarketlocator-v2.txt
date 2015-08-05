@@ -190,3 +190,5 @@
 1200;-;Netto Marken-Discount;Waldshuter Str. 1;Jestetten;79798;;47.64939;8.56793
 1201;+;Penny;Waldshuter Str. 1;Jestetten;79798;;47.64939;8.56793
 
+1202;+;Lidl;Industriestraße 36;Lottstetten;79807;;47.631123;8.578734
+
