@@ -366,3 +366,6 @@
 
 1302;-;Hypovereinsbank;Kornstr. 2-4;Bautzen;02625;;51.1815;14.4246
 
+1303;-;Hypovereinsbank;Rückersdorfer Str. 1;Röthenbach;90552;;49.4821;11.2386
+1304;-;Hypovereinsbank;Nürnberger Str. 2;Schwaig;90571;;49.4719;11.1993
+
