@@ -1790,3 +1790,5 @@
 
 1303,-,Hypovereinsbank,Rückersdorfer Str. 1,Röthenbach,90552,49.4821,11.2386
 1304,-,Hypovereinsbank,Nürnberger Str. 2,Schwaig,90571,49.4719,11.1993
+
+1305,-,Hypovereinsbank,Kulmbacher Str. 8,Burgkunstadt,96224,50.1404,11.2492
