@@ -376,3 +376,5 @@
 1308;+;Deutsche Bank;Albert-Schweitzer-Straße 1;Münster;48149;im Universitätsklinikum;51.960829;7.594706
 1309;-;Postbank;Berrenrather Str. 230;Köln;50939;;50.9189;6.92573
 1310;-;Shell Tankstelle;Adolf-Mertens-Str.;Oranienburg;16515;;52.7652100;13.2447400
+
+1311;+;Postbank;Germaniastraße 18;Lehrte;31275;im OBI, Mo-Sa 8-20 Uhr;52.374731;9.984136
