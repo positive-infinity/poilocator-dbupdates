@@ -1793,7 +1793,7 @@
 
 1305,-,Hypovereinsbank,Kulmbacher Str. 8,Burgkunstadt,96224,50.1404,11.2492
 
-1306;-;Commerzbank;Senefelderstr. 6;Bielefeld;33689;;51.9569;8.57922
-1307;+;Shell Tankstelle;Eidlerholzstraße 22;Erkheim;87746;;48.026118;10.327783
-1309;-;Postbank;Berrenrather Str. 230;Köln;50939;;50.9189;6.92573
-1310;-;Shell Tankstelle;Adolf-Mertens-Str.;Oranienburg;16515;;52.7652100;13.2447400
+1306,-,Commerzbank,Senefelderstr. 6,Bielefeld,33689,51.9569,8.57922
+1307,+,Shell Tankstelle,Eidlerholzstraße 22,Erkheim,87746,48.026118,10.327783
+1309,-,Postbank,Berrenrather Str. 230,Köln,50939,50.9189,6.92573
+1310,-,Shell Tankstelle,Adolf-Mertens-Str.,Oranienburg,16515,52.7652100,13.2447400
