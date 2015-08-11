@@ -1289,3 +1289,5 @@
 
 1202,+,Lidl,Industriestraße 36,Lottstetten,79807,47.631123,8.578734
 
+1203,+,Norma,Bundesstraße 1b,Stühlingen,79780,47.747606,8.452609
+1204,+,Norma,Berliner Str. 4,Waldshut-Tiengen,79761,47.632487,8.279471
