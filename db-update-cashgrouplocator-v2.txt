@@ -378,3 +378,8 @@
 1310;-;Shell Tankstelle;Adolf-Mertens-Str.;Oranienburg;16515;;52.7652100;13.2447400
 
 1311;+;Postbank;Germaniastraße 18;Lehrte;31275;im OBI, Mo-Sa 8-20 Uhr;52.374731;9.984136
+
+1312;-;Shell Tankstelle;Fröndenberger Str. 163;Menden;58708;;51.4579700;7.7758500
+1313;-;Postbank;Heidelbergerstr. 2/1;Sandhausen;69207;;49.344366;8.658777
+1314;+;Postbank;Hauptstraße 80/4;Sandhausen;69207;;49.340651;8.657598
+

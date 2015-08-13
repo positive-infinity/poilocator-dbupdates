@@ -1797,3 +1797,7 @@
 1307,+,Shell Tankstelle,Eidlerholzstraße 22,Erkheim,87746,48.026118,10.327783
 1309,-,Postbank,Berrenrather Str. 230,Köln,50939,50.9189,6.92573
 1310,-,Shell Tankstelle,Adolf-Mertens-Str.,Oranienburg,16515,52.7652100,13.2447400
+
+1312,-,Shell Tankstelle,Fröndenberger Str. 163,Menden,58708,51.4579700,7.7758500
+1313,-,Postbank,Heidelbergerstr. 2/1,Sandhausen,69207,49.344366,8.658777
+1314,+,Postbank,Hauptstraße 80/4,Sandhausen,69207,49.340651,8.657598
