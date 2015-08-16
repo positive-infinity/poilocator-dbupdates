@@ -1291,3 +1291,10 @@
 
 1203,+,Norma,Bundesstraße 1b,Stühlingen,79780,47.747606,8.452609
 1204,+,Norma,Berliner Str. 4,Waldshut-Tiengen,79761,47.632487,8.279471
+
+1205,+,Aldi Süd,Auf der Höhe 2,Gailingen,78262,47.697170,8.744813
+1206,+,Netto Marken-Discount,Gartenstraße 2a,Küssaberg,79790,47.612836,8.295534
+1207,+,Rossmann,Hauptstr. 30,Küssaberg,79790,47.612360,8.295963
+1208,+,Müller,Freiburger Str. 2-8,Emmendingen,79312,48.119026,7.849785
+1209,+,Lidl,Kollmarsreuter Str. 55/1,Emmendingen,79312,48.111421,7.865718
+1210,+,Norma,Am Elzdamm 6,Emmendingen,79312,48.113813,7.850679

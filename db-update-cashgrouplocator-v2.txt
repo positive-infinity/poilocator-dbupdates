@@ -383,3 +383,11 @@
 1313;-;Postbank;Heidelbergerstr. 2/1;Sandhausen;69207;;49.344366;8.658777
 1314;+;Postbank;Hauptstraße 80/4;Sandhausen;69207;;49.340651;8.657598
 
+1315;-;Deutsche Bank;Hohe Str. 58;Dortmund;44139;;51.5035;7.45876
+1316;-;Shell Tankstelle;Eberstädter Str. 131;Pfungstadt;64319;;49.8051900;8.6048600
+1317;+;Postbank;Steinstraße 59;Aachen;52080;;50.779399;6.155432
+1318;+;Shell Tankstelle;Von-Coels-Straße 11;Aachen;52080;;50.777850;6.143036
+1319;+;Postbank;Stadtring 60;Nordhorn;48527;im toom Baumarkt;52.437991;7.065654
+1320;-;Hypovereinsbank;Karl-Theodor-Str. 69;München;80803;;48.1668;11.576
+1321;-;Shell Tankstelle;Kreillerstr. 194;München;81825;;48.1225100;11.6607200
+
