@@ -391,3 +391,7 @@
 1320;-;Hypovereinsbank;Karl-Theodor-Str. 69;München;80803;;48.1668;11.576
 1321;-;Shell Tankstelle;Kreillerstr. 194;München;81825;;48.1225100;11.6607200
 
+1322;+;Shell Tankstelle;An der B246;Möckern;39291;;52.155949;11.944140
+1323;+;Postbank;Industriestraße 6-8;Spenge;32139;Postfiliale im Edeka, Mo-Sa 8-18 Uhr;52.144561;8.492215
+1324;+;Postbank;Ringstraße 33a;Enger;32130;Postfiliale im Edeka, Mo-Sa 8-18 Uhr;52.137407;8.551897
+

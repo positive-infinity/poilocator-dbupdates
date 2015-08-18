@@ -1808,3 +1808,5 @@
 1318,+,Shell Tankstelle,Von-Coels-Straße 11,Aachen,52080,50.777850,6.143036
 1320,-,Hypovereinsbank,Karl-Theodor-Str. 69,München,80803,48.1668,11.576
 1321,-,Shell Tankstelle,Kreillerstr. 194,München,81825,48.1225100,11.6607200
+
+1322,+,Shell Tankstelle,An der B246,Möckern,39291,52.155949,11.944140
