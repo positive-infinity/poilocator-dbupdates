@@ -1810,3 +1810,11 @@
 1321,-,Shell Tankstelle,Kreillerstr. 194,München,81825,48.1225100,11.6607200
 
 1322,+,Shell Tankstelle,An der B246,Möckern,39291,52.155949,11.944140
+
+1325,+,Shell Tankstelle,Richard-Sang-Straße 1,Haßloch,67454,49.378691,8.251626
+1328,+,Shell Tankstelle,Magdeburger Str. 18,Oebisfelde,39646,52.428940,10.993486
+1329,-,Postbank,Am Bahnhof 5,Zwickau,08056,50.7154,12.4788
+1332,-,Hypovereinsbank,Wallensteinstr. 34,Nürnberg,90431,49.4392,11.0358
+1333,-,Hypovereinsbank,Hollerstr. 96,Büdelsdorf,24782,54.316,9.68038
+1334,-,Hypovereinsbank,Johannisthaler Chausee 295,Berlin,12351,52.4306,13.4567
+1335,-,Hypovereinsbank,Bahnhofstr. 9,Oberstaufen,87534,47.5546,10.0241

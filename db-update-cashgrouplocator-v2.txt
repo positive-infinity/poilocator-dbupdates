@@ -395,3 +395,16 @@
 1323;+;Postbank;Industriestraße 6-8;Spenge;32139;Postfiliale im Edeka, Mo-Sa 8-18 Uhr;52.144561;8.492215
 1324;+;Postbank;Ringstraße 33a;Enger;32130;Postfiliale im Edeka, Mo-Sa 8-18 Uhr;52.137407;8.551897
 
+1325;+;Shell Tankstelle;Richard-Sang-Straße 1;Haßloch;67454;;49.378691;8.251626
+1326;-;Postbank;C.-F.-Venghauss-Platz 14;Werther (Westfalen);33824;Mo-Fr 9-13 Uhr, 14-18 Uhr, Sa 9-13 Uhr;50.120038;8.695501
+1327;+;Postbank;C.-F.-Venghauss-Platz 14;Werther (Westfalen);33824;Mo-Fr 9-13 Uhr, 14-18 Uhr, Sa 9-13 Uhr;52.073605;8.415136
+1328;+;Shell Tankstelle;Magdeburger Str. 18;Oebisfelde;39646;;52.428940;10.993486
+1329;-;Postbank;Am Bahnhof 5;Zwickau;08056;;50.7154;12.4788
+1330;+;Postbank;Bergstraße 13;Lengerich;49525;Mo-Fr 8:30-12:00 und 14:00-17:30, Sa 9:00-12:00;52.190631;7.852973
+1331;+;Postbank;Marktstraße 25;Saerbeck;48369;Mo-Fr 9:00-12:30 und 14:30-18:00, Sa 9:00-12:30;52.174047;7.633451
+1332;-;Hypovereinsbank;Wallensteinstr. 34;Nürnberg;90431;;49.4392;11.0358
+1333;-;Hypovereinsbank;Hollerstr. 96;Büdelsdorf;24782;;54.316;9.68038
+1334;-;Hypovereinsbank;Johannisthaler Chausee 295;Berlin;12351;;52.4306;13.4567
+1335;-;Hypovereinsbank;Bahnhofstr. 9;Oberstaufen;87534;;47.5546;10.0241
+
+
