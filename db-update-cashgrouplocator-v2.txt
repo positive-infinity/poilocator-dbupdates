@@ -407,4 +407,5 @@
 1334;-;Hypovereinsbank;Johannisthaler Chausee 295;Berlin;12351;;52.4306;13.4567
 1335;-;Hypovereinsbank;Bahnhofstr. 9;Oberstaufen;87534;;47.5546;10.0241
 
+1336;+;Deutsche Bank;Markt 14;Soest;59494;;51.572712;8.106736
 
