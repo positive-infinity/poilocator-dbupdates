@@ -409,3 +409,9 @@
 
 1336;+;Deutsche Bank;Markt 14;Soest;59494;;51.572712;8.106736
 
+1337;-;Deutsche Bank;Bahnhofstr. 66;Sonneberg;96515;;50.3563;11.1693
+1338;+;Postbank;Woerdener Str. 6;Steinhagen;33803;Mo-Fr 8:00-18:30, Sa 8:00-16:00;52.003900;8.411864
+1339;-;Hypovereinsbank;Allersberger Str. 85;Nürnberg;90461;;49.4403;11.0905
+1340;-;Commerzbank;Wölckernstr. 67a;Nürnberg;90459;;49.4413;11.0883
+1341;-;Hypovereinsbank;Schellingstr. 29;München;80799;;48.1502;11.5758
+
