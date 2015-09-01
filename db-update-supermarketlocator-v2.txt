@@ -204,3 +204,4 @@
 
 1211;-;Aldi Nord;Im Tal 29;Gummersbach;51643;;51.02114;7.52677
 
+1212;+;Netto Marken-Discount;Im Tal 29;Gummersbach;51643;;51.021297;7.526895
