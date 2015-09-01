@@ -1821,7 +1821,12 @@
 
 1336,+,Deutsche Bank,Markt 14,Soest,59494,51.572712,8.106736
 
-1337;-;Deutsche Bank;Bahnhofstr. 66;Sonneberg;96515;;50.3563;11.1693
-1339;-;Hypovereinsbank;Allersberger Str. 85;Nürnberg;90461;;49.4403;11.0905
-1340;-;Commerzbank;Wölckernstr. 67a;Nürnberg;90459;;49.4413;11.0883
-1341;-;Hypovereinsbank;Schellingstr. 29;München;80799;;48.1502;11.5758
+1337,-,Deutsche Bank,Bahnhofstr. 66,Sonneberg,96515,50.3563,11.1693
+1339,-,Hypovereinsbank,Allersberger Str. 85,Nürnberg,90461,49.4403,11.0905
+1340,-,Commerzbank,Wölckernstr. 67a,Nürnberg,90459,49.4413,11.0883
+1341,-,Hypovereinsbank,Schellingstr. 29,München,80799,48.1502,11.5758
+
+1342,-,Shell Tankstelle,Am Gnädigspark 1,Pasewalk,17309,53.5155900,14.0134000
+1343,-,Commerzbank,Marktstaette 8,Konstanz,78462,47.6605,9.17653
+1344,-,Postbank,Vetterstr. 1,Ansbach,91522,49.2631,10.5846
+1345,+,Shell Tankstelle,Bandelstraße 21,Ansbach,91522,49.294511,10.577205

@@ -202,3 +202,5 @@
 1209;+;Lidl;Kollmarsreuter Str. 55/1;Emmendingen;79312;;48.111421;7.865718
 1210;+;Norma;Am Elzdamm 6;Emmendingen;79312;;48.113813;7.850679
 
+1211;-;Aldi Nord;Im Tal 29;Gummersbach;51643;;51.02114;7.52677
+
