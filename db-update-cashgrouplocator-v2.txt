@@ -420,3 +420,4 @@
 1344;-;Postbank;Vetterstr. 1;Ansbach;91522;;49.2631;10.5846
 1345;+;Shell Tankstelle;Bandelstraße 21;Ansbach;91522;;49.294511;10.577205
 
+1346;+;Postbank;Eickumer Str. 61a;Bielefeld;33739;im Tabakladen Jittenmeier, Mo-Fr 8:00-19:00, Sa 8:00-13:00;52.098241;8.531067
