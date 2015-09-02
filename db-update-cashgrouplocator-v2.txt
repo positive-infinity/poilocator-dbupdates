@@ -421,3 +421,7 @@
 1345;+;Shell Tankstelle;Bandelstraße 21;Ansbach;91522;;49.294511;10.577205
 
 1346;+;Postbank;Eickumer Str. 61a;Bielefeld;33739;im Tabakladen Jittenmeier, Mo-Fr 8:00-19:00, Sa 8:00-13:00;52.098241;8.531067
+
+1347;-;Postbank;Holstenstr. 25-30;Lübeck;23552;;53.8663;10.6817
+1348;+;Shell Tankstelle;Berliner Str. 569;Gütersloh;33334;;51.943742;8.427737
+

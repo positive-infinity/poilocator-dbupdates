@@ -1830,3 +1830,6 @@
 1343,-,Commerzbank,Marktstaette 8,Konstanz,78462,47.6605,9.17653
 1344,-,Postbank,Vetterstr. 1,Ansbach,91522,49.2631,10.5846
 1345,+,Shell Tankstelle,Bandelstraße 21,Ansbach,91522,49.294511,10.577205
+
+1347,-,Postbank,Holstenstr. 25-30,Lübeck,23552,53.8663,10.6817
+1348,+,Shell Tankstelle,Berliner Str. 569,Gütersloh,33334,51.943742,8.427737
