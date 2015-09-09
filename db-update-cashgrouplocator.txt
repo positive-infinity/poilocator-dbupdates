@@ -1833,3 +1833,9 @@
 
 1347,-,Postbank,Holstenstr. 25-30,Lübeck,23552,53.8663,10.6817
 1348,+,Shell Tankstelle,Berliner Str. 569,Gütersloh,33334,51.943742,8.427737
+
+1350,+,Postbank,Brühl 8,Leipzig,04109,51.343625,12.374809
+1352,-,Hypovereinsbank,Saarbrückener Str. 2,Nürnberg,90469,49.4059,11.0956
+1353,-,Postbank,Friedrichstr. 69,Berlin,10117,52.5126,13.3896
+1354,-,Deutsche Bank,Steintor 8,Gronau,31028,52.084,9.78114
+1355,-,Commerzbank,Hansastr. 1,Ibbenbüren,49477,52.2734,7.74104

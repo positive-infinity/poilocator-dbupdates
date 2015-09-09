@@ -1304,3 +1304,5 @@
 1212,+,Netto Marken-Discount,Im Tal 29,Gummersbach,51643,51.021297,7.526895
 
 1213,-,Rewe,Bahnhofstraße 9,Himmelpforten,21709,53.615289,9.305848
+
+1214,-,Norma,Dorfstr. 58 Büchenbach,Erlangen,91056,49.5898057,10.9685418
