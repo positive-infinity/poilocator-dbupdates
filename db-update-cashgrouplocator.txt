@@ -1839,3 +1839,9 @@
 1353,-,Postbank,Friedrichstr. 69,Berlin,10117,52.5126,13.3896
 1354,-,Deutsche Bank,Steintor 8,Gronau,31028,52.084,9.78114
 1355,-,Commerzbank,Hansastr. 1,Ibbenbüren,49477,52.2734,7.74104
+
+1356,-,Hypovereinsbank,Friedberger Str. 134,Augsburg,86163,48.3548,10.9439
+1357,-,Commerzbank,Heckinghauser Str. 158,Wuppertal,42289,51.2711,7.22118
+1358,-,Deutsche Bank,Schulterblatt 58,Hamburg,20357,53.5613,9.96253
+1359,+,Deutsche Bank,Turmstraße 3,Kirchheim unter Teck,73230,48.648066,9.453433
+1360,+,Postbank,Bahnhofstraße 56,Bordesholm,24582,54.172952,10.039289
