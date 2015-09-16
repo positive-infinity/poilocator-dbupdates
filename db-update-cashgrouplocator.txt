@@ -1850,3 +1850,7 @@
 1362,-,Commerzbank,Waiblinger Str. 1-3,Stuttgart,70372,48.8035,9.21736
 1363,-,Deutsche Bank,Theodor-Heuss-Str. 1,Konstanz,78467,47.6684,9.18049
 1364,-,Hypovereinsbank,Marrensdamm 6,Flensburg,24944,54.8154,9.47261
+
+1365,-,Commerzbank,Rosenbergplatz 1,Stuttgart,70193,48.7784,9.15597
+1366,-,Postbank,Horner Heerstraße 29,Bremen,28359,53.096933,8.872106
+1367,-,Bankhaus Neelmeyer,Horner Heerstraße 29,Bremen,28359,53.096981,8.872229
