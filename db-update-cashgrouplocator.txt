@@ -1854,3 +1854,7 @@
 1365,-,Commerzbank,Rosenbergplatz 1,Stuttgart,70193,48.7784,9.15597
 1366,-,Postbank,Horner Heerstraße 29,Bremen,28359,53.096933,8.872106
 1367,-,Bankhaus Neelmeyer,Horner Heerstraße 29,Bremen,28359,53.096981,8.872229
+
+1368,-,Hypovereinsbank,Bahnhofstr. 22,Neu Wulmstorf,21629,53.4659,9.79383
+1369,-,Hypovereinsbank,Lange Zeile 59,Erlangen,91054,49.6011,11.0393
+1370,-,Postbank,Johannes-Daur-Str. 3,Korntal-Münchingen,70825,48.8309,9.12183

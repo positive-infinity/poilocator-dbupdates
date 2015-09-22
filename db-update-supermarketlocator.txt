@@ -1308,3 +1308,5 @@
 1214,-,Norma,Dorfstr. 58 Büchenbach,Erlangen,91056,49.5898057,10.9685418
 
 1215,+,Rewe,Ziegelstraße 7,Lübeck,23556,53.869915,10.667642
+
+1216,-,Penny,Leopoldstr. 23,Daun,54550,50.19957,6.82792
