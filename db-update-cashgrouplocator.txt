@@ -1858,3 +1858,8 @@
 1368,-,Hypovereinsbank,Bahnhofstr. 22,Neu Wulmstorf,21629,53.4659,9.79383
 1369,-,Hypovereinsbank,Lange Zeile 59,Erlangen,91054,49.6011,11.0393
 1370,-,Postbank,Johannes-Daur-Str. 3,Korntal-Münchingen,70825,48.8309,9.12183
+
+1372,+,Shell Tankstelle,Am Kemnitzgrund 1,Schmölln,04626,50.885316,12.350448
+1373,-,Shell Tankstelle,Hauptstr. 88,Meckenbeuren,88074,47.6934400,9.5595400
+1374,+,Berliner Bank,Gartenfelder Str. 119,Berlin,13599,52.541975,13.236693
+1375,-,Hypovereinsbank,Friedrichstr. 62,Schleswig,24837,54.5022,9.54275
