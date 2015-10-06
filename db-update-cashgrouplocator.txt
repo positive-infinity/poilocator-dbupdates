@@ -1863,3 +1863,12 @@
 1373,-,Shell Tankstelle,Hauptstr. 88,Meckenbeuren,88074,47.6934400,9.5595400
 1374,+,Berliner Bank,Gartenfelder Str. 119,Berlin,13599,52.541975,13.236693
 1375,-,Hypovereinsbank,Friedrichstr. 62,Schleswig,24837,54.5022,9.54275
+
+1376,-,Shell Tankstelle,Braunschweiger Heerstr. 58,Celle,29221,52.611228,10.097943
+1377,-,Postbank,Fritz-Haber-Str. 12,Karlsruhe,76185,49.0013,8.35928
+1378,-,Deutsche Bank,Rheinstr. 44,Karlsruhe,76185,49.0118,8.35868
+1379,-,Hypovereinsbank,Donaustr. 5,Vohburg,85088,48.7683,11.6191
+1380,-,Commerzbank,Dammstr. 23-25,Hildesheim,31134,52.1496,9.94225
+1381,-,Hypovereinsbank,Mathildenstr. 35,Flensburg,24937,54.7836,9.42206
+1382,-,Commerzbank,Hans-Brückmann-Str. 2-8,Düren,52351,50.8068,6.48384
+1383,+,Deutsche Bank,Am Hafenmarkt,Esslingen,73728,48.742155,9.308634

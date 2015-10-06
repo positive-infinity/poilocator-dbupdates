@@ -41,3 +41,6 @@
 
 1069;-;Burger King;Ida-Kellotat-Straße 1A;Teltow;14513;;52.40019;13.270009999999957
 1070;-;Burger King;F1 4;Mannheim;68159;;49.48877;8.466969999999947
+
+1071;-;Nordsee;Willy-Brand-Platz 15-17;Mannheim;68161;;49.487459;8.466039
+1072;+;Nordsee;Willy-Brandt-Platz 15-17;Mannheim;68161;im Bahnhof, Untergeschoss;49.479626;8.470062

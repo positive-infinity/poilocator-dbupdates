@@ -213,3 +213,5 @@
 1215;+;Rewe;Ziegelstraße 7;Lübeck;23556;;53.869915;10.667642
 
 1216;-;Penny;Leopoldstr. 23;Daun;54550;;50.19957;6.82792
+
+1217;-;Penny;Ludwig-Erhard-Str. 4;Gieboldehausen;37434;;51.60351;10.20489
