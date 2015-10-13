@@ -1872,3 +1872,10 @@
 1381,-,Hypovereinsbank,Mathildenstr. 35,Flensburg,24937,54.7836,9.42206
 1382,-,Commerzbank,Hans-Brückmann-Str. 2-8,Düren,52351,50.8068,6.48384
 1383,+,Deutsche Bank,Am Hafenmarkt,Esslingen,73728,48.742155,9.308634
+
+1384,-,Hypovereinsbank,Landauer Str. 6,Annweiler,76855,49.2027,7.96662
+1386,+,Shell Tankstelle,Werner Str. 120,Bergkamen,59192,51.616454,7.660522
+1387,-,Deutsche Bank,Zähringer Str. 361,Freiburg,79108,48.0237,7.85994
+1388,-,Hypovereinsbank,Schulstr. 6,Ebermannstadt,91320,49.7817,11.183
+1389,-,Postbank,Postdamer Platz 2,Berlin,10785,52.5097,13.3751
+1390,-,Hypovereinsbank,Bahnhofstr. 11,Pforzheim,75172,48.892716,8.700498
