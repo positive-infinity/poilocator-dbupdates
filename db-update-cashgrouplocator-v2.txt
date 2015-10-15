@@ -475,3 +475,5 @@
 1389;-;Postbank;Postdamer Platz 2;Berlin;10785;;52.5097;13.3751
 1390;-;Hypovereinsbank;Bahnhofstr. 11;Pforzheim;75172;;48.892716;8.700498
 
+1391;-;Hypovereinsbank;Dinkelsbühler Str. 2;Wassertrüdinge;91717;;49.0414;10.5971
+
