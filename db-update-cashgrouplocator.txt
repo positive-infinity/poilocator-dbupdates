@@ -1881,3 +1881,6 @@
 1390,-,Hypovereinsbank,Bahnhofstr. 11,Pforzheim,75172,48.892716,8.700498
 
 1391,-,Hypovereinsbank,Dinkelsbühler Str. 2,Wassertrüdinge,91717,49.0414,10.5971
+
+1392,-,Shell Tankstelle,Europastr. 1,Stolberg,52222,50.7708500,6.2258000
+1393,+,Commerzbank,Mülheimer Str. 129,Duisburg,47058,51.433260,6.791377
