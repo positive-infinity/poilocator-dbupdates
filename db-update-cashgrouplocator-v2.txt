@@ -479,3 +479,28 @@
 
 1392;-;Shell Tankstelle;Europastr. 1;Stolberg;52222;;50.7708500;6.2258000
 1393;+;Commerzbank;Mülheimer Str. 129;Duisburg;47058;;51.433260;6.791377
+
+1394;+;Postbank;Hauptstraße 24;Lienen;49536;Mo-Fr 8:00-12:30, 14:30-18:00, Sa 08:00-12:30;52.146217;7.974784
+1395;+;Postbank;Kolpingstraße 4;Glandorf;49219;Mo-Fr 8:00-12:30, 14:00-18:00, Sa 08:00-12:30;52.081021;8.001495
+1396;+;Postbank;Schulstraße 8;Ostbevern;48346;Mo-Fr 8:00-12:30, 14:30-18:00, Sa 09:00-13:00;52.034995;7.840367
+1397;+;Postbank;Gräfin-Anna-Straße 4;Tecklenburg;49545;Mo-Fr 15-17 Uhr, Sa 11-12:30;52.219075;7.815184
+1398;+;Postbank;Rosenstraße 58;Tecklenburg;49545;nicht durchgehend geöffnet;52.213790;7.894046
+1399;+;Postbank;Bahnhofstraße 24;Ibbenbüren;49477;Mo-Fr 08:00-18:30, Sa 09:00-14:00;52.276348;7.717565
+1400;+;Postbank;Rheiner Str. 66;Ibbenbüren;49477;Mo-Fr 08:00-18:00, Sa 08:00-13:00;52.292037;7.714536
+1401;+;Postbank;Geschwister-Voß-Straße 3;Mettingen;49497;Mo-Fr 08:00-13:00, 14:30-18:00, Sa 08:00-13:00;52.318210;7.780481
+1402;+;Postbank;Hauptstraße 3;Recke;49509;Mo-Fr 09:00-12:30, 14:00-18:00, Sa 09:00-12:30;52.369434;7.718895
+1403;+;Postbank;Bunte Str. 16;Hopsten;48496;Mo-Fr 08:00-18:00, Sa 08:00-13:00;52.381208;7.601319
+1404;+;Postbank;Halener Str. 1a;Lotte;49504;Mo-Fr 08:00-20:00, Sa 08:00-13:00;52.315401;7.941687
+1405;+;Postbank;Lengericher Str. 11;Hagen;49170;Mo-Fr 08:00-12:30, 13:30-18:00, Sa 08:00-13:00;52.209662;7.920792
+1406;+;Postbank;Tecklenburger Str. 47;Hasbergen;49205;Mo-Fr 08:30-13:00, 14:00-18:00, Sa 08:30-13:00;52.242724;7.958441
+1407;+;Postbank;Bonifatiusstraße 59c;Rheine;48429;Mo-Fr 08:30-12:30, 14:00-18:00, Sa 09:00-12:00;52.293003;7.444968
+1408;+;Postbank;Friedhofstraße 1;Preußisch Oldendorf;32361;im Edeka, nicht durchgehend geöffnet;52.306629;8.491259
+1409;+;Postbank;Hauptstraße 80;Hüllhorst;32609;Mo-Fr 08:00-18:30, Sa 08:00-16:00;52.280079;8.667958
+1410;+;Postbank;Lübbecker Str. 144;Löhne;32584;Mo-Fr 08:00-12:30, 15:00-18:00, Sa 09:00-13:00;52.222379;8.706030
+1411;+;Postbank;Lübbecker Str. 82;Kirchlengern;32278;Mo-Fr 08:00-18:30, Sa 08:00-13:00;52.201367;8.641554
+1412;+;Postbank;Weihestraße 43;Löhne;32584;Mo-Sa 9:00-13:00, Mo,Di,Do,Fr 15:00-18:00;52.196802;8.758819
+1413;+;Postbank;Löhner Str. 315;Hiddenhausen;32120;Mo-Fr 09:00-12:30, 14:30-18:00, Sa 09:00-12:30;52.167179;8.632772
+1414;+;Postbank;Am Rathauspl. 2;Hiddenhausen;32120;Mo-Fr 08:30-12:30, 15:00-18:00, Sa 09:00-12:00;52.152075;8.639079
+1415;+;Postbank;Kolpingstraße 4;Glandorf;49219;Mo-Fr 09:00-12:30, 14:00-18:00, Sa 09:00-12:30;52.080951;8.001489
+1416;+;Postbank;Bahnhofstraße 40;Bad Rothenfelde;49214;nicht durchgehend geöffnet;52.109557;8.169244
+1417;+;Postbank;Scheerenhof 1;Dissen;49201;nicht durchgehend geöffnet;52.115686;8.201401
