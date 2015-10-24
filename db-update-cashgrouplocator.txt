@@ -1884,3 +1884,6 @@
 
 1392,-,Shell Tankstelle,Europastr. 1,Stolberg,52222,50.7708500,6.2258000
 1393,+,Commerzbank,Mülheimer Str. 129,Duisburg,47058,51.433260,6.791377
+
+1418,-,Hypovereinsbank,Münchner Str. 8,Kirchseeon,85614,48.0723,11.8886
+1419,-,Hypovereinsbank,Marktplatz 12,Grafing,85567,48.0459,11.9675

@@ -504,3 +504,6 @@
 1415;+;Postbank;Kolpingstraße 4;Glandorf;49219;Mo-Fr 09:00-12:30, 14:00-18:00, Sa 09:00-12:30;52.080951;8.001489
 1416;+;Postbank;Bahnhofstraße 40;Bad Rothenfelde;49214;nicht durchgehend geöffnet;52.109557;8.169244
 1417;+;Postbank;Scheerenhof 1;Dissen;49201;nicht durchgehend geöffnet;52.115686;8.201401
+
+1418;-;Hypovereinsbank;Münchner Str. 8;Kirchseeon;85614;;48.0723;11.8886
+1419;-;Hypovereinsbank;Marktplatz 12;Grafing;85567;;48.0459;11.9675
