@@ -507,3 +507,5 @@
 
 1418;-;Hypovereinsbank;Münchner Str. 8;Kirchseeon;85614;;48.0723;11.8886
 1419;-;Hypovereinsbank;Marktplatz 12;Grafing;85567;;48.0459;11.9675
+
+1420;-;Deutsche Bank;Ollenhauerstr. 3;Berlin;13403;;52.5645;13.3283
