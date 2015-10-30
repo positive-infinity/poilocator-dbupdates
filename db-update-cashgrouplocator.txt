@@ -1889,3 +1889,7 @@
 1419,-,Hypovereinsbank,Marktplatz 12,Grafing,85567,48.0459,11.9675
 
 1420,-,Deutsche Bank,Ollenhauerstr. 3,Berlin,13403,52.5645,13.3283
+
+1421,-,Hypovereinsbank,Erdinger Str. 44,Freising,85356,48.3943,11.759
+1422,-,Hypovereinsbank,Stadtplatz 15,Abensberg,93326,48.8158,11.8464
+1424,-,Shell Tankstelle,Altglashütten,Feldberg,79868,47.8567800,8.1100600
