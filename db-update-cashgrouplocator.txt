@@ -1893,3 +1893,6 @@
 1421,-,Hypovereinsbank,Erdinger Str. 44,Freising,85356,48.3943,11.759
 1422,-,Hypovereinsbank,Stadtplatz 15,Abensberg,93326,48.8158,11.8464
 1424,-,Shell Tankstelle,Altglashütten,Feldberg,79868,47.8567800,8.1100600
+
+1426,-,Shell Tankstelle,Bahnhofstr.,Neu-Anspach,61267,50.2961400,8.5149000
+1427,-,Hypovereinsbank,Am Kirchplatz 6-8,Otterndorf,21762,53.808,8.89927

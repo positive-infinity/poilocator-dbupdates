@@ -516,3 +516,6 @@
 1424;-;Shell Tankstelle;Altglashütten;Feldberg;79868;;47.8567800;8.1100600
 1425;+;Postbank;Ernst-August-Platz 2;Hannover;30159;in der Ernst-August-Galerie;52.377202;9.737072
 
+1426;-;Shell Tankstelle;Bahnhofstr.;Neu-Anspach;61267;;50.2961400;8.5149000
+1427;-;Hypovereinsbank;Am Kirchplatz 6-8;Otterndorf;21762;;53.808;8.89927
+
