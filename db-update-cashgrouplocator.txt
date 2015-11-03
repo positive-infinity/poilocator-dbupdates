@@ -1896,3 +1896,5 @@
 
 1426,-,Shell Tankstelle,Bahnhofstr.,Neu-Anspach,61267,50.2961400,8.5149000
 1427,-,Hypovereinsbank,Am Kirchplatz 6-8,Otterndorf,21762,53.808,8.89927
+
+1428,-,Postbank,Hans-Bredow Str. 19,Bremen-Mahndorf,28307,53.0485,8.95774
