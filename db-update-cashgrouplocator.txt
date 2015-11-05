@@ -1898,3 +1898,5 @@
 1427,-,Hypovereinsbank,Am Kirchplatz 6-8,Otterndorf,21762,53.808,8.89927
 
 1428,-,Postbank,Hans-Bredow Str. 19,Bremen-Mahndorf,28307,53.0485,8.95774
+
+1429,-,Hypovereinsbank,Flößerstr. 11,Lechbruck,86983,47.6975,10.7973
