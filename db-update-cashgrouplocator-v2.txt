@@ -524,3 +524,6 @@
 1429;-;Hypovereinsbank;Flößerstr. 11;Lechbruck;86983;;47.6975;10.7973
 1430;+;Postbank;Pfortenstraße 11;Kölleda;99625;Postfiliale, ggf. nicht durchgängig erreichbar;51.190598;11.249603
 
+1431;-;Shell Tankstelle;Geisweider Str. 27;Siegen;57076;;50.9134000;8.0127300
+1432;-;Postbank;Lübecker Str. 23-25;Bad Oldesloe;23843;;53.8114;10.3781
+1433;-;Shell Tankstelle;Karthäuserstr.;Koblenz;56073;;50.3566200;7.5884700
