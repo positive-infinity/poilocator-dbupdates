@@ -220,3 +220,5 @@
 
 1219;-;Edeka;Knickgasse 13;Gieboldehausen;37434;;51.6115403;10.2121558
 1220;-;Rewe;Knickgasse 8;Gieboldehausen;37434;;51.61133;10.21249
+
+1221;-;Penny;Goebenstr. 36-38;Lübeck;23566;;53.8672309;10.7194487
