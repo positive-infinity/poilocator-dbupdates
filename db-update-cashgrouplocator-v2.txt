@@ -527,3 +527,7 @@
 1431;-;Shell Tankstelle;Geisweider Str. 27;Siegen;57076;;50.9134000;8.0127300
 1432;-;Postbank;Lübecker Str. 23-25;Bad Oldesloe;23843;;53.8114;10.3781
 1433;-;Shell Tankstelle;Karthäuserstr.;Koblenz;56073;;50.3566200;7.5884700
+
+1434;+;Postbank;Hermann-von-Mittnacht-Straße 10;Igersheim;97999;im Kaufland;49.486366;9.819912
+1435;-;Postbank;Poststr. 5;Bad Mergentheim;97980;;49.4935;9.773
+1436;+;Postbank;Poststr. 5;Bad Mergentheim;97980;Mo-Fr 09:00-12:30, 14:00-18:00;49.4935;9.773
