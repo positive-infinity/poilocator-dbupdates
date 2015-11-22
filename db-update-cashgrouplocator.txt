@@ -1909,3 +1909,11 @@
 1438,-,Postbank,Öjendorfer Damm 50,Hamburg,22043,53.5711,10.1359
 1439,-,Postbank,Dresdner Str. 8,Pirna,01796,50.958,13.9238
 1440,-,Hypovereinsbank,Landshuter Str. 5,Rottenburg,84056,48.7023,12.0268
+
+1441,-,Hypovereinsbank,Marktplatz 4,Ampfing,84539,48.2552,12.4159
+1442,-,Hypovereinsbank,Martin-Ofner-Str. 7,Burgkirchen,84508,48.1669,12.7307
+1443,-,Commerzbank,Nonnendammallee 89,Berlin,13629,52.537,13.271
+1444,-,Hypovereinsbank,Osterjork 7,Jork,21635,53.5326,9.6817
+1445,-,Hypovereinsbank,Mühlenstraße 56,Güstrow,18273,53.793755,12.177749
+1447,-,Postbank,Kasselerstr. 1,Bebra,36179,50.9715,9.7905
+
