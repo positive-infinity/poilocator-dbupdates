@@ -1917,3 +1917,8 @@
 1445,-,Hypovereinsbank,Mühlenstraße 56,Güstrow,18273,53.793755,12.177749
 1447,-,Postbank,Kasselerstr. 1,Bebra,36179,50.9715,9.7905
 
+1448,+,Shell Tankstelle,Schnötstraße 2,Dogern,79804,47.614292,8.182822
+1449,-,Postbank,Stuttgarter Allee 32,Leipzig,04209,51.318,12.2909
+1450,-,Postbank,Ganghoferstr. 1,Bad Wörishofen,86825,48.0028,10.6002
+1451,-,Hypovereinsbank,Bahnhofsplatz 4,Bad Wörishofen,86825,48.006,10.5974
+1452,-,Hypovereinsbank,Max-Philipp-Str. 24,Türkheim,86842,48.0611,10.64
