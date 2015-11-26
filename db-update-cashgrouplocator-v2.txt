@@ -553,3 +553,5 @@
 1453;+;Postbank;Römerstraße 120;Neuss;41462;im Kaufland;51.212882;6.682996
 
 1454;-;Hypovereinsbank;Flensburger Str. 61;Schleswig;24837;;54.5181;9.57035
+
+1455;-;Hypovereinsbank;Lochhauser Str. 14;Puchheim;82178;;48.1731;11.3549

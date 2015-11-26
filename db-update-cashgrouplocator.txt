@@ -1924,3 +1924,5 @@
 1452,-,Hypovereinsbank,Max-Philipp-Str. 24,Türkheim,86842,48.0611,10.64
 
 1454,-,Hypovereinsbank,Flensburger Str. 61,Schleswig,24837,54.5181,9.57035
+
+1455,-,Hypovereinsbank,Lochhauser Str. 14,Puchheim,82178,48.1731,11.3549
