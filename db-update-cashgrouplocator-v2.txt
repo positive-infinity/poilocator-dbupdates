@@ -551,3 +551,5 @@
 1451;-;Hypovereinsbank;Bahnhofsplatz 4;Bad Wörishofen;86825;;48.006;10.5974
 1452;-;Hypovereinsbank;Max-Philipp-Str. 24;Türkheim;86842;;48.0611;10.64
 1453;+;Postbank;Römerstraße 120;Neuss;41462;im Kaufland;51.212882;6.682996
+
+1454;-;Hypovereinsbank;Flensburger Str. 61;Schleswig;24837;;54.5181;9.57035
