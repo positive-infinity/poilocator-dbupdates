@@ -1926,3 +1926,10 @@
 1454,-,Hypovereinsbank,Flensburger Str. 61,Schleswig,24837,54.5181,9.57035
 
 1455,-,Hypovereinsbank,Lochhauser Str. 14,Puchheim,82178,48.1731,11.3549
+
+1456,+,Shell Tankstelle,An der B196,Sellin,18586,54.365326,13.703704
+1457,+,Shell Tankstelle,Hauptstraße 1,Kirchheim,36275,50.834202,9.573917
+1458,-,Shell Tankstelle,Möhnestr. 72-74,Warstein,59581,51.4899200,8.2837700
+1459,+,Shell Tankstelle,Lanfer 29,Warstein,59581,51.481183,8.334103
+1460,-,Hypovereinsbank,Alter Steinweg 5,Münster,48145,51.963,7.6294
+1462,-,Postbank,Wilhelmstr. 97,Berlin,10117,52.5089,13.3846

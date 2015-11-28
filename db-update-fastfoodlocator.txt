@@ -439,3 +439,5 @@
 
 1071,-,Nordsee,Willy-Brand-Platz 15-17,Mannheim,68161,49.487459,8.466039
 1072,+,Nordsee,Willy-Brandt-Platz 15-17,Mannheim,68161,49.479626,8.470062
+
+1073,+,McDonalds,Geiselbullacher Str. 3,Olching,82140,48.224766,11.333738
