@@ -563,3 +563,9 @@
 1460;-;Hypovereinsbank;Alter Steinweg 5;Münster;48145;;51.963;7.6294
 1461;-;Postbank;Am Stadtwege 2;Eisenach;99817;im OBI, Mo-Fr 8-20 Uhr, Sa 8-18 Uhr;51.000148;10.314505
 1462;-;Postbank;Wilhelmstr. 97;Berlin;10117;;52.5089;13.3846
+
+1463;-;Postbank;Seinsheimstr. 4;Würzburg;97074;;49.789;9.94678
+1464;-;Postbank;Joseph-Fraunhofer-Str. 21;Pfaffenhofen;85276;;48.5366;11.5134
+1465;-;Hypovereinsbank;Aschaffenburger Str. 54;Goldbach;63773;;49.9974;9.1815
+1466;-;Hypovereinsbank;Hofackerstr. 14;Augsburg-Hauns;86179;;48.3118;10.9053
+1467;-;Deutsche Bank;Weserstr. 32;Rinteln;31737;;52.1891;9.08088
