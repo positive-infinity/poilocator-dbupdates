@@ -569,3 +569,8 @@
 1465;-;Hypovereinsbank;Aschaffenburger Str. 54;Goldbach;63773;;49.9974;9.1815
 1466;-;Hypovereinsbank;Hofackerstr. 14;Augsburg-Hauns;86179;;48.3118;10.9053
 1467;-;Deutsche Bank;Weserstr. 32;Rinteln;31737;;52.1891;9.08088
+
+1468;-;Commerzbank;Bramfelder Str. 140;Hamburg;22305;;53.5918;10.0565
+1469;-;Shell Tankstelle;Gewerbegebiet Süd 2;Brand-Erbisdorf;09618;;50.85481;13.32085
+1470;-;Shell Tankstelle;Schwansenstr.;Damp;24351;;54.5690000;9.9528800
+1471;+;Deutsche Bank;Hamburger Str. 20;Henstedt-Ulzburg;24558;;53.792245;9.980640
