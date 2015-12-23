@@ -574,3 +574,21 @@
 1469;-;Shell Tankstelle;Gewerbegebiet Süd 2;Brand-Erbisdorf;09618;;50.85481;13.32085
 1470;-;Shell Tankstelle;Schwansenstr.;Damp;24351;;54.5690000;9.9528800
 1471;+;Deutsche Bank;Hamburger Str. 20;Henstedt-Ulzburg;24558;;53.792245;9.980640
+
+1472;+;Shell Tankstelle;Weimarsche Str.;Kölleda;99625;;51.183240;11.251376
+1473;-;Postbank;Weiherplatz 26;Wiehl;51674;;50.9515;7.54798
+1474;-;Deutsche Bank;Steinweg 25;Halle (Saale);06110;;51.4747;11.9703
+1475;-;Postbank;Prenzlauer Chaussee 183;Wandlitz;16348;Mo-Fr 9:00-18:00, Sa 9:00-12:00;52.758216;13.473812
+1476;-;Shell Tankstelle;Altensteiger Str. 20;Nagold;72202;;48.5490100;8.7146900
+1477;-;Shell Tankstelle;Klötzerstr.;Riesa;01587;;51.3053800;13.2975400
+1478;-;Hypovereinsbank;Hauptstr. 4;Trostberg;83308;;48.0279;12.5538
+1479;-;Shell Tankstelle;An der Bleiche 3;Simmern;55469;;49.9797100;7.5219400
+1480;-;Shell Tankstelle;Koblenzer Str. 103;Simmern;55469;;49.9921100;7.5277800
+1481;-;Commerzbank;Friedrich-Ebert-Platz;Peine;31226;;52.3167;10.23
+1482;-;Commerzbank;Dorstener Str. 177;Bochum;44809;;51.4922;7.19553
+1483;-;Commerzbank;Kampstr. 47;Dortmund;44137;;51.5151;7.45795
+1484;-;Commerzbank;Corneliusstr. 15;Düsseldorf;40215;;51.2159;6.78231
+1485;-;Hypovereinsbank;Marktplatz 24;Gersfeld;36129;;50.4506;9.91911
+1486;-;Postbank;Mecklenburger Str. 4-6;Schwerin;19053;;53.6295;11.4126
+1487;-;Hypovereinsbank;Ganghoferstr. 21;München;80339;;48.1349;11.5402
+1488;-;Hypovereinsbank;Bergmannstr. 35;München;80339;;48.1347;11.5371
