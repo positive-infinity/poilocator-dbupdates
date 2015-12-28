@@ -592,3 +592,6 @@
 1486;-;Postbank;Mecklenburger Str. 4-6;Schwerin;19053;;53.6295;11.4126
 1487;-;Hypovereinsbank;Ganghoferstr. 21;München;80339;;48.1349;11.5402
 1488;-;Hypovereinsbank;Bergmannstr. 35;München;80339;;48.1347;11.5371
+
+1489;-;Hypovereinsbank;Münchner Str. 31-33;Mering;86415;;48.2649;10.9864
+1490;-;Hypovereinsbank;Hauptstr. 20;Adelsdorf;91325;;49.7134;10.8967
