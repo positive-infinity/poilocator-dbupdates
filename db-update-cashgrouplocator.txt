@@ -1964,3 +1964,8 @@
 
 1489,-,Hypovereinsbank,Münchner Str. 31-33,Mering,86415,48.2649,10.9864
 1490,-,Hypovereinsbank,Hauptstr. 20,Adelsdorf,91325,49.7134,10.8967
+
+1491,-,Shell Tankstelle,Vörstetter Str. 33,March,79232,48.0681000,7.7788700
+1492,-,Commerzbank,Kurfürsten Anlage 47-51,Heidelberg,69115,49.4051,8.68311
+1493,-,Deutsche Bank,Markt 2,Herzberg,37412,51.6562,10.3412
+1494,-,Shell Tankstelle,Neusser Str. 2,Jüchen,41363,51.0988900,6.5122200

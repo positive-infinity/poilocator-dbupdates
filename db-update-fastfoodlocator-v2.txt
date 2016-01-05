@@ -48,3 +48,7 @@
 1073;+;McDonalds;Geiselbullacher Str. 3;Olching;82140;;48.224766;11.333738
 
 1074;+;McDonalds;Carl-Benz-Straße 10;Steinfurt;48565;;52.159573;7.319418
+
+1075;+;McDonalds;Reeperbahn 59;Hamburg;20359;;53.549816;9.963527
+1076;-;KFC;Theaterstraße 2;Würzburg;97070;;49.79744;9.933539999999994
+1077;-;Subway;Juliuspromenade 56;Würzburg;97070;;49.79684;9.930150000000026

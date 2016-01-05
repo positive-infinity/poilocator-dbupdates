@@ -1323,3 +1323,7 @@
 1222,-,Rewe,Friedenstr. 72,Genthin,39307,52.39474,12.15472
 1223,-,Penny,Bergzower Str. 4,Genthin,39307,52.4088236,12.1531601
 1224,-,Aldi Nord,W.-Pieck-Straße 33-35,Lauchhammer,01979,51.4942382,13.7535497
+
+1225,+,Penny,Hauptstraße 152,Denkingen,78588,48.118915,8.736479
+1226,-,Marktkauf,Hannoversche Str. 77,Seelze,30926,52.3920494,9.6114191
+1227,-,Penny,Am Kreuzweg 3,Seelze,30926,52.3961652,9.590473
