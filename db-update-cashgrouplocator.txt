@@ -1969,3 +1969,5 @@
 1492,-,Commerzbank,Kurfürsten Anlage 47-51,Heidelberg,69115,49.4051,8.68311
 1493,-,Deutsche Bank,Markt 2,Herzberg,37412,51.6562,10.3412
 1494,-,Shell Tankstelle,Neusser Str. 2,Jüchen,41363,51.0988900,6.5122200
+
+1496,-,Commerzbank,Zimmermannstr. 3,Zwickau,08060,50.7189,12.4601
