@@ -447,3 +447,5 @@
 1075,+,McDonalds,Reeperbahn 59,Hamburg,20359,53.549816,9.963527
 1076,-,KFC,Theaterstraße 2,Würzburg,97070,49.79744,9.933539999999994
 1077,-,Subway,Juliuspromenade 56,Würzburg,97070,49.79684,9.930150000000026
+
+1078,+,Burger King,Börnicker Chaussee 1-2,16321,29646,52.677720,13.596663
