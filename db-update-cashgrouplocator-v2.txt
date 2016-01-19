@@ -603,3 +603,17 @@
 
 1495;+;Postbank;Gottlieb-Daimler-Straße 15;Bad Wörishofen;86825;im V-Markt;48.021063;10.600578
 1496;-;Commerzbank;Zimmermannstr. 3;Zwickau;08060;;50.7189;12.4601
+
+1497;-;Hypovereinsbank;Neuer Graben 7-9;Osnabrück;49074;;52.2723;8.04734
+1498;+;Postbank;Lechtinger Kirchweg 3;Wallenhorst;49134;im Edeka, Mo-Sa 7-22 Uhr;52.345618;8.019445
+1499;-;Commerzbank;Markt 14;Sankt Augustin;53757;;50.7782;7.18587
+1500;+;Commerzbank;Bonner Str. 128;Sankt Augustin;53757;;50.779149;7.191615
+1501;-;Postbank;Ernst-Buchholz-Str. 17;Bremen;28279;;53.045;8.84856
+1502;-;Deutsche Bank;Am Seestern 1;Düsseldorf;40547;;51.241561;6.738293
+1503;-;Commerzbank;Ludwigsplatz 8a;Darmstadt;64283;;49.8705;8.65467
+1504;-;Hypovereinsbank;Brüderweg 13;Dortmund;44135;;51.515;7.47148
+1505;-;Postbank;Mindener Straße 81;Bissendorf;49143;im Edeka, Mo-Sa 7-21 Uhr;52.261562;8.210891
+1506;-;Commerzbank;Nobistor 18;Hamburg;22767;;53.55;9.95593
+1507;-;Deutsche Bank;Kleikstr. 1;Herzogenrath;52134;;50.8687;6.09629
+1508;-;Deutsche Bank;Elisabethstr. 51;Kiel;24143;;54.3126;10.147
+1509;-;Hypovereinsbank;Goetheplatz 5/6;Fürstenwalde;15517;;52.3598;14.0612
