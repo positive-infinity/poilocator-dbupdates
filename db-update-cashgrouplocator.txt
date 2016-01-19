@@ -1983,3 +1983,5 @@
 1507,-,Deutsche Bank,Kleikstr. 1,Herzogenrath,52134,50.8687,6.09629
 1508,-,Deutsche Bank,Elisabethstr. 51,Kiel,24143,54.3126,10.147
 1509,-,Hypovereinsbank,Goetheplatz 5/6,Fürstenwalde,15517,52.3598,14.0612
+
+1511,-,Commerzbank,Bautzner Landstr. 128,Dresden,01328,51.0608,13.9473

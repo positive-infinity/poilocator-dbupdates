@@ -619,3 +619,4 @@
 1509;-;Hypovereinsbank;Goetheplatz 5/6;Fürstenwalde;15517;;52.3598;14.0612
 
 1510;+;Commerzbank;Bautzner Landstraße 400;Dresden;01328;Eingangsbereich Helmholtz-Zentrum;51.062711;13.950831
+1511;-;Commerzbank;Bautzner Landstr. 128;Dresden;01328;;51.0608;13.9473
