@@ -230,3 +230,6 @@
 1225;+;Penny;Hauptstraße 152;Denkingen;78588;;48.118915;8.736479
 1226;-;Marktkauf;Hannoversche Str. 77;Seelze;30926;;52.3920494;9.6114191
 1227;-;Penny;Am Kreuzweg 3;Seelze;30926;;52.3961652;9.590473
+
+1228;-;Lidl;Allee der Kosmonauten 198;Berlin;12685;;52.54108;13.56368
+1229;-;Netto Marken-Discount;Alt-Marzahn 5;Berlin;12685;;52.5437361;13.5555444

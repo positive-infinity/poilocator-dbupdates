@@ -620,3 +620,6 @@
 
 1510;+;Commerzbank;Bautzner Landstraße 400;Dresden;01328;Eingangsbereich Helmholtz-Zentrum;51.062711;13.950831
 1511;-;Commerzbank;Bautzner Landstr. 128;Dresden;01328;;51.0608;13.9473
+
+1512;+;Hypovereinsbank;Bahnhofplatz 1;Bad Wörishofen;86825;im Bahnhof;48.005778;10.597704
+1513;+;Postbank;Raiffeisenstraße 3;Büchen;21514;Mo-Fr 9-12, 14-18, Sa 9-12;53.479805;10.619599

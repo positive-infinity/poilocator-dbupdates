@@ -1985,3 +1985,5 @@
 1509,-,Hypovereinsbank,Goetheplatz 5/6,Fürstenwalde,15517,52.3598,14.0612
 
 1511,-,Commerzbank,Bautzner Landstr. 128,Dresden,01328,51.0608,13.9473
+
+1512,+,Hypovereinsbank,Bahnhofplatz 1,Bad Wörishofen,86825,48.005778,10.597704
