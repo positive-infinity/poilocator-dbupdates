@@ -1989,3 +1989,6 @@
 1512,+,Hypovereinsbank,Bahnhofplatz 1,Bad Wörishofen,86825,48.005778,10.597704
 
 1514,-,Postbank,Poststr. 26,Radefeld,04509,51.4114,12.2914
+
+1515,-,Deutsche Bank,Lange Rötterstr. 102,Mannheim,68167,49.4967,8.48598
+1516,-,Hypovereinsbank,Müllerstr. 7,Kötzting,93444,49.1752,12.8574
