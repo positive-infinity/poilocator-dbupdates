@@ -1987,3 +1987,5 @@
 1511,-,Commerzbank,Bautzner Landstr. 128,Dresden,01328,51.0608,13.9473
 
 1512,+,Hypovereinsbank,Bahnhofplatz 1,Bad Wörishofen,86825,48.005778,10.597704
+
+1514,-,Postbank,Poststr. 26,Radefeld,04509,51.4114,12.2914

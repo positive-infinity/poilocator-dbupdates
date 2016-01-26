@@ -623,3 +623,5 @@
 
 1512;+;Hypovereinsbank;Bahnhofplatz 1;Bad Wörishofen;86825;im Bahnhof;48.005778;10.597704
 1513;+;Postbank;Raiffeisenstraße 3;Büchen;21514;Mo-Fr 9-12, 14-18, Sa 9-12;53.479805;10.619599
+
+1514;-;Postbank;Poststr. 26;Radefeld;04509;;51.4114;12.2914
