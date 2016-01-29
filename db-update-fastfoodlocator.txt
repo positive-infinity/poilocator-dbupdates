@@ -449,3 +449,5 @@
 1077,-,Subway,Juliuspromenade 56,Würzburg,97070,49.79684,9.930150000000026
 
 1078,+,Burger King,Börnicker Chaussee 1-2,Bernau,16321,52.677720,13.596663
+
+1079,-,Burger King,Autobahnring,Feldkirchen,85622,48.123175,11.759801

@@ -628,3 +628,6 @@
 
 1515;-;Deutsche Bank;Lange Rötterstr. 102;Mannheim;68167;;49.4967;8.48598
 1516;-;Hypovereinsbank;Müllerstr. 7;Kötzting;93444;;49.1752;12.8574
+
+1517;-;Deutsche Bank;Stuttgarter Str. 24;Vaihingen an der Enz;71665;;48.9312;8.95856
+1518;-;Deutsche Bank;Albert-Schweitzer-Str. 16;Magdeburg;39126;;52.1697;11.6285
