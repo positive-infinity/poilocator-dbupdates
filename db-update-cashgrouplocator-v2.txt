@@ -631,3 +631,10 @@
 
 1517;-;Deutsche Bank;Stuttgarter Str. 24;Vaihingen an der Enz;71665;;48.9312;8.95856
 1518;-;Deutsche Bank;Albert-Schweitzer-Str. 16;Magdeburg;39126;;52.1697;11.6285
+
+1519;-;Commerzbank;Markt 5;Marienberg;09496;;50.7194;13.1931
+1520;+;Commerzbank;Markt 5;Marienberg;09496;;50.651552;13.163428
+1521;-;Postbank;Poststr. 1;Marienberg;09496;;50.6489;13.1607
+1522;+;Postbank;Herzog-Heinrich-Straße 2;Marienberg;09496;;50.650429;13.164782
+1523;-;Commerzbank;Wilhelmstr. 7;Wiesbaden;65185;;50.0792;8.24621
+
