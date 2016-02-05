@@ -2001,3 +2001,6 @@
 1521,-,Postbank,Poststr. 1,Marienberg,09496,50.6489,13.1607
 1522,+,Postbank,Herzog-Heinrich-Straße 2,Marienberg,09496,50.650429,13.164782
 1523,-,Commerzbank,Wilhelmstr. 7,Wiesbaden,65185,50.0792,8.24621
+
+1524,-,Postbank,Rennbahnstr. 36,Frankfurt,60528,50.0857,8.64929
+1525,+,Postbank,Triftstraße 28,Frankfurt,60528,50.084595,8.646212
