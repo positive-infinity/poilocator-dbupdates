@@ -641,3 +641,5 @@
 1524;-;Postbank;Rennbahnstr. 36;Frankfurt;60528;;50.0857;8.64929
 1525;+;Postbank;Triftstraße 28;Frankfurt;60528;;50.084595;8.646212
 
+1526;-;Hypovereinsbank;Marienplatz 4;Schongau;86956;;47.8108;10.8976
+
