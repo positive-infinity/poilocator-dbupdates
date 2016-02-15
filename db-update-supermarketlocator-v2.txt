@@ -235,3 +235,7 @@
 1229;-;Netto Marken-Discount;Alt-Marzahn 5;Berlin;12685;;52.5437361;13.5555444
 
 1230;+;Aldi Nord;Landsberger Allee 494;Berlin;12681;;52.544394;13.565026
+
+1231;-;Penny;Forsthausstraße 6;Löhnberg;35792;;50.51247;8.268
+1232;+;Penny;Selbenhäuser Straße / Güldenstadt;Löhnberg;35792;;50.515489;8.264579
+1233;+;Rossmann;Selbenhäuser Straße / Güldenstadt;Löhnberg;35792;;50.514850;8.263813

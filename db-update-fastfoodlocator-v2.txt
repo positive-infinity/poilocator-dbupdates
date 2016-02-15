@@ -56,3 +56,5 @@
 1078;+;Burger King;Börnicker Chaussee 1-2;Bernau;16321;in der Bahnhofspassage;52.677720;13.596663
 
 1079;-;Burger King;Autobahnring;Feldkirchen;85622;;48.123175;11.759801
+
+1080;+;Burger King;Mindelheimer Str. 1;Türkheim;86842;;48.042944;10.620529

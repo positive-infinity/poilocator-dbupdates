@@ -2006,3 +2006,10 @@
 1525,+,Postbank,Triftstraße 28,Frankfurt,60528,50.084595,8.646212
 
 1526,-,Hypovereinsbank,Marienplatz 4,Schongau,86956,47.8108,10.8976
+
+1527,-,Deutsche Bank,Paul-Nevermann-Platz 5,Hamburg,22765,53.5515,9.93588
+1528,+,Deutsche Bank,Paul-Nevermann-Platz 5,Hamburg,22765,53.551470,9.935504
+1529,-,Commerzbank,Mariendorfer Damm 82,Berlin,12109,52.4455,13.3857
+1530,-,Postbank,Ginsterstr. 7,Dortmund,44225,51.456,7.53814
+1531,+,Postbank,Ginsterstr. 7,Dortmund,44225,51.476400,7.437802
+1532,-,Commerzbank,Rudolf-Breitscheid-Str. 7,Fürth,90762,49.4737,10.9897
