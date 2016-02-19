@@ -650,3 +650,5 @@
 1531;+;Postbank;Ginsterstr. 7;Dortmund;44225;;51.476400;7.437802
 1532;-;Commerzbank;Rudolf-Breitscheid-Str. 7;Fürth;90762;;49.4737;10.9897
 
+1533;-;Postbank;Osterstr. 42;Hannover;30159;;52.3701;9.73936
+
