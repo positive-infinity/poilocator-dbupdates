@@ -652,3 +652,7 @@
 
 1533;-;Postbank;Osterstr. 42;Hannover;30159;;52.3701;9.73936
 
+1534;-;Commerzbank;Adenauerring 7;München;81731;;48.1041;11.6386
+1535;-;Hypovereinsbank;Am Markt 2;Nortorf;24589;;54.1688;9.85537
+1536;+;Postbank;Timmasper Weg 4;Nortorf;24589;im famila-Markt;54.162870;9.856733
+
