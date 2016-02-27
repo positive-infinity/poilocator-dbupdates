@@ -2018,3 +2018,6 @@
 
 1534,-,Commerzbank,Adenauerring 7,München,81731,48.1041,11.6386
 1535,-,Hypovereinsbank,Am Markt 2,Nortorf,24589,54.1688,9.85537
+
+1537,-,Commerzbank,Königsbrücker Str. 37,Dresden,01099,51.0688,13.748
+1538,-,Shell Tankstelle,Lindenthalgürtel 100,Köln,50935,50.9275000,6.9093000

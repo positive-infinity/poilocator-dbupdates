@@ -656,3 +656,5 @@
 1535;-;Hypovereinsbank;Am Markt 2;Nortorf;24589;;54.1688;9.85537
 1536;+;Postbank;Timmasper Weg 4;Nortorf;24589;im famila-Markt;54.162870;9.856733
 
+1537;-;Commerzbank;Königsbrücker Str. 37;Dresden;01099;;51.0688;13.748
+1538;-;Shell Tankstelle;Lindenthalgürtel 100;Köln;50935;;50.9275000;6.9093000
