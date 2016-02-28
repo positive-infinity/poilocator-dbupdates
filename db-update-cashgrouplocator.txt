@@ -2021,3 +2021,9 @@
 
 1537,-,Commerzbank,Königsbrücker Str. 37,Dresden,01099,51.0688,13.748
 1538,-,Shell Tankstelle,Lindenthalgürtel 100,Köln,50935,50.9275000,6.9093000
+
+1539,-,Postbank,August-Fischer-Platz 1,Kempten,87435,47.7202,10.3113
+1540,+,Postbank,August-Fischer-Platz 1,Kempten,87435,47.719977,10.315732
+1542,-,Shell Tankstelle,Haller Str. 15,Crailsheim,74564,49.1413300,10.0598200
+1543,-,Deutsche Bank,Lange Str. 21-25,Crailsheim,74564,49.1359,10.0712
+1544,+,Deutsche Bank,Lange Str. 30,Crailsheim,74564,49.135968,10.070857
