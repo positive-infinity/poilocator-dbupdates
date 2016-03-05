@@ -2027,3 +2027,5 @@
 1542,-,Shell Tankstelle,Haller Str. 15,Crailsheim,74564,49.1413300,10.0598200
 1543,-,Deutsche Bank,Lange Str. 21-25,Crailsheim,74564,49.1359,10.0712
 1544,+,Deutsche Bank,Lange Str. 30,Crailsheim,74564,49.135968,10.070857
+
+1546,-,Berliner Bank,Königin-Luise-Str. 43,Berlin,14195,52.4582,13.2909
