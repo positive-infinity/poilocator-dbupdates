@@ -1336,3 +1336,6 @@
 1231,-,Penny,Forsthausstraße 6,Löhnberg,35792,50.51247,8.268
 1232,+,Penny,Selbenhäuser Straße / Güldenstadt,Löhnberg,35792,50.515489,8.264579
 1233,+,Rossmann,Selbenhäuser Straße / Güldenstadt,Löhnberg,35792,50.514850,8.263813
+
+1234,-,Rewe,Straße der Einheit 91,Uder,37318,51.36271,10.0684
+1235,+,Edeka,Dünzebacher Str. 2,Eschwege,37269,51.183644,10.064823
