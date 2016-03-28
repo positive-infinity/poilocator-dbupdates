@@ -242,3 +242,6 @@
 
 1234;-;Rewe;Straße der Einheit 91;Uder;37318;;51.36271;10.0684
 1235;+;Edeka;Dünzebacher Str. 2;Eschwege;37269;;51.183644;10.064823
+
+1236;+;Edeka;Hauptstraße 71;Beselich;65614;;50.462798;8.130732
+1237;+;Edeka;An der Backstania 1a;Weilburg;35781;;50.491233;8.254005

@@ -2035,3 +2035,8 @@
 1549,-,Berliner Bank,Prenzlauer Promenade 41-42,Berlin,13089,52.559618,13.4286
 1550,-,Commerzbank,Bahnhofstr. 38,Erfurt,99084,50.9742,11.0357
 1551,+,Commerzbank,Juri-Gagarin-Ring 86,Erfurt,99084,50.973028,11.033754
+
+1552,-,Hypovereinsbank,Friedrich-Ebert-Str. 72-76,Leipzig,04109,51.3412,12.3597
+1553,+,Hypovereinsbank,Bergmannstraße 35,München,80339,48.135734,11.537380
+1554,-,Postbank,Bahnhofstr. 27,Renningen,71272,48.769,8.93477
+1557,+,Postbank,Limmerstraße 15,Hannover,30451,52.371963,9.710853
