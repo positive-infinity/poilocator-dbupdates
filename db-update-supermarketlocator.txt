@@ -1342,3 +1342,7 @@
 
 1236,+,Edeka,Hauptstraße 71,Beselich,65614,50.462798,8.130732
 1237,+,Edeka,An der Backstania 1a,Weilburg,35781,50.491233,8.254005
+
+1238,-,Penny,Reppnersche Str. 7-9,Salzgitter,38226,52.1668869,10.3305784
+1239,+,Penny,Reppnersche Str. 1b,Salzgitter,38226,52.166111,10.329677
+1240,-,Penny,Albert-Schweitzer-Str. 18,Salzgitter,38226,52.15363,10.32998

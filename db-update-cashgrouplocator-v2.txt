@@ -682,3 +682,5 @@
 1556;+;Postbank;Torstr. 105-107;Berlin;10119;Filiale, Mo-Fr 9-19 Uhr, Sa 9-13 Uhr;52.53;13.403401
 1557;+;Postbank;Limmerstraße 15;Hannover;30451;;52.371963;9.710853
 
+1558;-;Hypovereinsbank;Landshuter Str. 4;Erding;85435;;48.3063;11.9089
+

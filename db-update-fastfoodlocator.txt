@@ -453,3 +453,5 @@
 1079,-,Burger King,Autobahnring,Feldkirchen,85622,48.123175,11.759801
 
 1080,+,Burger King,Mindelheimer Str. 1,Türkheim,86842,48.042944,10.620529
+
+1081,-,Burger King,Eberhard-von-Rochow-Straße,Oberursel,61440,50.08498,8.772089999999935

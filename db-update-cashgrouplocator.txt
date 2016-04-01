@@ -2040,3 +2040,5 @@
 1553,+,Hypovereinsbank,Bergmannstraße 35,München,80339,48.135734,11.537380
 1554,-,Postbank,Bahnhofstr. 27,Renningen,71272,48.769,8.93477
 1557,+,Postbank,Limmerstraße 15,Hannover,30451,52.371963,9.710853
+
+1558,-,Hypovereinsbank,Landshuter Str. 4,Erding,85435,48.3063,11.9089
