@@ -684,3 +684,6 @@
 
 1558;-;Hypovereinsbank;Landshuter Str. 4;Erding;85435;;48.3063;11.9089
 
+1559;+;Postbank;Strandstraße 8;Baabe;18586;Filiale im Einkaufsmarkt "Nah & Frisch";54.360498;13.707101
+1560;-;Shell Tankstelle;Kölner Str.;Köln;51149;;50.8977300;7.0368000
+1561;-;Postbank;Luitpoldstr. 79;Edenkoben;67480;;49.2861;8.13905
