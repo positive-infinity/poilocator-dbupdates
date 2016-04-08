@@ -2045,3 +2045,6 @@
 
 1560,-,Shell Tankstelle,Kölner Str.,Köln,51149,50.8977300,7.0368000
 1561,-,Postbank,Luitpoldstr. 79,Edenkoben,67480,49.2861,8.13905
+
+1562,-,Hypovereinsbank,Auf der Wies 5,Babenhausen,87727,48.1424,10.2506
+1563,-,Deutsche Bank,Frankfurter Str. 84,Eschborn,65760,50.1344,8.57169
