@@ -693,3 +693,6 @@
 1564;+;Postbank;Bahnhofstraße 2;Deißlingen;78652;Filiale im Schreibwarenshop;48.113618;8.606395
 1565;+;Postbank;Steigstraße 1a;Niedereschach;78078;Filiale im Schreibwarenshop;48.131810;8.527383
 
+1566;+;Postbank;Seestraße 1;Seebad Ahlbeck;17419;Postfiliale, u.U. nicht durchgängig geöffnet;53.939952;14.186644
+1567;+;Postbank;Möllner Landstraße 49;Hamburg;22111;;53.538958;10.109304
+
