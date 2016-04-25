@@ -60,3 +60,6 @@
 1080;+;Burger King;Mindelheimer Str. 1;Türkheim;86842;;48.042944;10.620529
 
 1081;-;Burger King;Eberhard-von-Rochow-Straße;Oberursel;61440;;50.08498;8.772089999999935
+
+1082;+;Burger King;Hauptstraße 203;Kappel-Grafenhausen;77966;Rasthof an der A5;48.280651;7.777180
+1083;+;Burger King;Rastanlage Mahlberg A5;Mahlberg;77972;;48.308948;7.788791

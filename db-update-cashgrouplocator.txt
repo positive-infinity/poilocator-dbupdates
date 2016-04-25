@@ -2050,3 +2050,14 @@
 1563,-,Deutsche Bank,Frankfurter Str. 84,Eschborn,65760,50.1344,8.57169
 
 1567,+,Postbank,Möllner Landstraße 49,Hamburg,22111,53.538958,10.109304
+
+1569,-,Postbank,Ludwigplatz 4,Rosenheim,83022,47.8504,12.0677
+1570,+,Postbank,Ludwigsplatz 4,Rosenheim,83022,47.855484,12.128513
+1571,-,Hypovereinsbank,Prielmayerstr. 2,München,80335,48.1401,11.5639
+1572,-,Deutsche Bank,Badergasse 17,Lichtenstein,09350,50.7553,12.6335
+1573,-,Commerzbank,Kaiserstr. 37,Bruchsal,76646,49.126,8.59642
+1574,-,Commerzbank,An der Beerweinschänke 2,Gera-Trebnitz,07554,50.8966,12.1278
+1575,-,Commerzbank,Gewerbegebiet Beerenweinschänke,Gera-Trebnitz,07554,50.8965,12.1272
+1576,-,Postbank,Harburger Ring 6,Hamburg,21073,53.4578,9.98483
+1578,-,Postbank,Feringastr. 6,Unterföhring,85774,48.1789,11.6333
+1580,-,Postbank,Lübecker Str. 113,Magdeburg,39124,52.156992,11.636533

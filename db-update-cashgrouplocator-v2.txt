@@ -696,3 +696,17 @@
 1566;+;Postbank;Seestraße 1;Seebad Ahlbeck;17419;Postfiliale, u.U. nicht durchgängig geöffnet;53.939952;14.186644
 1567;+;Postbank;Möllner Landstraße 49;Hamburg;22111;;53.538958;10.109304
 
+1568;+;Postbank;Krumenauerstraße;Ingolstadt;85049;im Edeka;48.770893;11.382366
+1569;-;Postbank;Ludwigplatz 4;Rosenheim;83022;;47.8504;12.0677
+1570;+;Postbank;Ludwigsplatz 4;Rosenheim;83022;;47.855484;12.128513
+1571;-;Hypovereinsbank;Prielmayerstr. 2;München;80335;;48.1401;11.5639
+1572;-;Deutsche Bank;Badergasse 17;Lichtenstein;09350;;50.7553;12.6335
+1573;-;Commerzbank;Kaiserstr. 37;Bruchsal;76646;;49.126;8.59642
+1574;-;Commerzbank;An der Beerweinschänke 2;Gera-Trebnitz;07554;;50.8966;12.1278
+1575;-;Commerzbank;Gewerbegebiet Beerenweinschänke;Gera-Trebnitz;07554;;50.8965;12.1272
+1576;-;Postbank;Harburger Ring 6;Hamburg;21073;;53.4578;9.98483
+1577;+;Postbank;Lüneburger Str. 39;Hamburg;21073;in den Harburg Arcaden;53.460166;9.981658
+1578;-;Postbank;Feringastr. 6;Unterföhring;85774;;48.1789;11.6333
+1579;+;Postbank;Feringastraße 16;Unterföhring;85774;im Marktkauf, Mo-Fr 8-20, Sa 8-13;48.177762;11.636448
+1580;-;Postbank;Lübecker Str. 113;Magdeburg;39124;;52.156992;11.636533
+
