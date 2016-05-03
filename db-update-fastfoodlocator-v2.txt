@@ -63,3 +63,6 @@
 
 1082;+;Burger King;Hauptstraße 203;Kappel-Grafenhausen;77966;Rasthof an der A5;48.280651;7.777180
 1083;+;Burger King;Rastanlage Mahlberg A5;Mahlberg;77972;;48.308948;7.788791
+
+1084;-;Starbucks;Feuerbachstraße 7;Berlin;12163;;52.4631;13.32696999999996
+1085;+;Starbucks;Schloßstraße 129;Berlin;12163;;52.464420;13.328352
