@@ -2066,3 +2066,5 @@
 1582,-,Shell Tankstelle,Goslarsche Str. 53,Hildesheim,31134,52.1496500,9.9613700
 1583,-,Shell Tankstelle,Alte Heerstr. 1,Hildesheim,31135,52.1614200,10.0084600
 1584,-,Hypovereinsbank,Bahnhofstr. 2,Staffelstein,96231,50.1019,10.9997
+
+1585,+,Deutsche Bank,Hermannstraße 256-258,Berlin,12049,52.486050,13.424512
