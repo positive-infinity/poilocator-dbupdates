@@ -2068,3 +2068,8 @@
 1584,-,Hypovereinsbank,Bahnhofstr. 2,Staffelstein,96231,50.1019,10.9997
 
 1585,+,Deutsche Bank,Hermannstraße 256-258,Berlin,12049,52.486050,13.424512
+
+1586,-,Hypovereinsbank,Sanktjohanserstr. 11,Bad Wiessee,83707,47.7106,11.7258
+1587,+,Berliner Bank,Stadtrandstraße 555,Berlin,13589,52.562522,13.157638
+1588,-,Hypovereinsbank,Dorfstraße 23,Sankt Peter-Ording,25826,54.302624,8.638753
+1589,-,Postbank,Allerheiligenstr. 14,Achern,77855,48.6264,8.07618
