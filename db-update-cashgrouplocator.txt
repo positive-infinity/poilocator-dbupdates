@@ -2073,3 +2073,11 @@
 1587,+,Berliner Bank,Stadtrandstraße 555,Berlin,13589,52.562522,13.157638
 1588,-,Hypovereinsbank,Dorfstraße 23,Sankt Peter-Ording,25826,54.302624,8.638753
 1589,-,Postbank,Allerheiligenstr. 14,Achern,77855,48.6264,8.07618
+
+1590,+,Deutsche Bank,Lufthansaring 1,Seeheim-Jugenheim,64342,49.759954,8.652422
+1591,+,Shell Tankstelle,Heidelberger Str. 41,Seeheim-Jugenheim,64342,49.769658,8.645135
+1592,-,Postbank,Seddiner Str. 8,Berlin-Friedrichsfelde,10315,52.5136,13.5214
+1593,-,Hypovereinsbank,Stadtplatz 11,Osterhofen,94486,48.7021,13.0191
+1594,-,Hypovereinsbank,Domhof 6,Osnabrück,49074,52.276752,8.043532
+1595,-,Deutsche Bank,Hauptstr. 26,Haslach im Kinzigtal,77716,48.2767,8.08775
+1596,-,Hypovereinsbank,Bahnhofstr. 12,Raisdorf,24223,54.2827,10.2394
