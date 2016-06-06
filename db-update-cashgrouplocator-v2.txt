@@ -729,3 +729,17 @@
 1594;+;Hypovereinsbank;Domhof 6;Osnabrück;49074;;52.276752;8.043532
 1595;-;Deutsche Bank;Hauptstr. 26;Haslach im Kinzigtal;77716;;48.2767;8.08775
 1596;-;Hypovereinsbank;Bahnhofstr. 12;Raisdorf;24223;;54.2827;10.2394
+
+1597;-;Commerzbank;Markt 19;Brühl;50321;;50.8288;6.90455
+1598;-;Hypovereinsbank;Herrenstr. 28;Wangen;88239;;47.6873;9.83383
+1599;+;Postbank;Bahnhofstraße 12;Grafenau;94481;im REWE Markt;48.855570;13.394253
+1600;-;Postbank;Eisenbahnstr. 9-11;Biberach;88400;;48.1004;9.79333
+1601;+;Postbank;Freiburger Str. 3;Biberach;88400;Postfiliale, u.U. nicht durchgehend geöffnet;48.100317;9.794775
+1602;-;Postbank;Junckerstr. 26;Neuruppin;16816;;52.9153;12.7899
+1603;+;Postbank;Junckerstr. 26;Neuruppin;16816;Eingang OBI Baumarkt;52.9153;12.7899
+1604;-;Hypovereinsbank;Leopoldstr. 21;München;80802;;48.1575;11.5843
+1605;-;Hypovereinsbank;Im Alten Dorfe 24;Hamburg;22359;;53.6487;10.1652
+1606;-;Postbank;Nordergeest 5;Sankt Peter-Ording;25826;;54.305824;8.647117
+1607;+;Hypovereinsbank;Dorfstraße 23;St. Peter-Ording;25826;;54.302560;8.638775
+1608;-;Hypovereinsbank;Schleißheimer Str. 263;München;80809;;48.1794;11.5671
+1609;+;Commerzbank;Kettelerstraße 1;Viernheim;68519;;49.538132;8.579143
