@@ -752,3 +752,6 @@
 1615;-;Commerzbank;Lintorfer Markt 2;Ratingen;40885;;51.3315;6.8315
 1616;+;Shell Tankstelle;Warburger Str. 45;Wolfhagen;34466;;51.402403;9.183255
 1617;+;Postbank;Holstenstraße 32;Schenefeld;25560;Postfiliale, u.U. nicht durchgängig geöffnet;54.047053;9.480851
+
+1618;+;Postbank;Ramskamp 102;Elmshorn;25337;im Marktkauf;53.742539;9.709716
+1619;+;Postbank;Ramskamp 104;Elmshorn;25337;im OBI Markt;53.743234;9.708216
