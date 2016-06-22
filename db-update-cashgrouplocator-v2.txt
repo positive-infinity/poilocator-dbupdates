@@ -743,3 +743,12 @@
 1607;+;Hypovereinsbank;Dorfstraße 23;St. Peter-Ording;25826;;54.302560;8.638775
 1608;-;Hypovereinsbank;Schleißheimer Str. 263;München;80809;;48.1794;11.5671
 1609;+;Commerzbank;Kettelerstraße 1;Viernheim;68519;;49.538132;8.579143
+
+1610;+;Postbank;Adlerplatz 9;Achern;77855;Filiale im Kaufhaus Peters;48.630334;8.070251
+1611;-;Commerzbank;Am Bollwerk 8-10;Euskirchen;53879;;50.6612;6.79131
+1612;-;Postbank;Turbinenstr.;Mannheim;68309;;49.5117;8.50004
+1613;-;Shell Tankstelle;Alleestr. 24;Montabaur;56410;;50.4404800;7.8255800
+1614;+;Postbank;Grellstraße 75;Berlin;10409;im Kaisers;52.545199;13.429909
+1615;-;Commerzbank;Lintorfer Markt 2;Ratingen;40885;;51.3315;6.8315
+1616;+;Shell Tankstelle;Warburger Str. 45;Wolfhagen;34466;;51.402403;9.183255
+1617;+;Postbank;Holstenstraße 32;Schenefeld;25560;Postfiliale, u.U. nicht durchgängig geöffnet;54.047053;9.480851

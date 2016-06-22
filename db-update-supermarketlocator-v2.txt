@@ -253,3 +253,6 @@
 1241;-;Aldi Nord;Manteuffelstr. 26;Berlin;12103;;52.4585783;13.3759362
 1242;-;Rossmann;Tempelhofer Damm 192;Berlin;12099;;52.459625;13.384182
 1243;+;Rossmann;Tempelhofer Damm 198-200;Berlin;12099;im T-Damm-Center;52.458821;13.384096
+
+1244;-;Penny;Vierlaender Damm 63a;Hamburg;20539;;53.53381;10.04647
+1245;+;Penny;Rothenburgsorter Marktplatz;Hamburg;20539;;53.533782;10.038918
