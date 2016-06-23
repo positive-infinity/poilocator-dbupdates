@@ -755,3 +755,7 @@
 
 1618;+;Postbank;Ramskamp 102;Elmshorn;25337;im Marktkauf;53.742539;9.709716
 1619;+;Postbank;Ramskamp 104;Elmshorn;25337;im OBI Markt;53.743234;9.708216
+
+1620;-;Postbank;Ramskamp 104;Elmshorn;25337;;53.7434;9.70877
+1621;-;Postbank;Ramskamp 102;Elmshorn;25337;;53.7424;9.70997
+1622;+;Postbank;Marktplatz 8;Barby (Elbe);39249;Postfiliale SSB Wiesner, u.U. nicht durchgängig geöffnet;51.966680;11.886505
