@@ -759,3 +759,6 @@
 1620;-;Postbank;Ramskamp 104;Elmshorn;25337;;53.7434;9.70877
 1621;-;Postbank;Ramskamp 102;Elmshorn;25337;;53.7424;9.70997
 1622;+;Postbank;Marktplatz 8;Barby (Elbe);39249;Postfiliale SSB Wiesner, u.U. nicht durchgängig geöffnet;51.966680;11.886505
+
+1623;+;Postbank;Deggendorfer Str. 14;Hengersberg;94491;Filiale im Edeka;48.774886;13.051239
+1624;-;Commerzbank;Berliner Str. 85;Gütersloh;33330;;51.9095;8.38096
