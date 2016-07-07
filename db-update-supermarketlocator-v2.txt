@@ -256,3 +256,6 @@
 
 1244;-;Penny;Vierlaender Damm 63a;Hamburg;20539;;53.53381;10.04647
 1245;+;Penny;Rothenburgsorter Marktplatz;Hamburg;20539;;53.533782;10.038918
+
+1246;-;Hit Markt;Thomas-Dehler-Straße 2;München;81737;;48.10316;11.64601
+1247;-;Hit Markt;Cincinnatistraße 65;München;81549;;48.0948373;11.5903599

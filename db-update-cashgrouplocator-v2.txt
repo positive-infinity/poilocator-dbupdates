@@ -762,3 +762,8 @@
 
 1623;+;Postbank;Deggendorfer Str. 14;Hengersberg;94491;Filiale im Edeka;48.774886;13.051239
 1624;-;Commerzbank;Berliner Str. 85;Gütersloh;33330;;51.9095;8.38096
+
+1625;-;Commerzbank;Königsplatz 27;Schwabach;91126;;49.3292;11.0209
+1626;-;Postbank;Bundesstr. 20;Oeversee;24988;;54.7033;9.43655
+1627;+;Postbank;Lindenstraße 12;Wustrow;18347;Mo-Fr 10:00-12:30, 15:00-18:00, Sa 10:00-12:30;54.347296;12.394670
+
