@@ -767,3 +767,6 @@
 1626;-;Postbank;Bundesstr. 20;Oeversee;24988;;54.7033;9.43655
 1627;+;Postbank;Lindenstraße 12;Wustrow;18347;Mo-Fr 10:00-12:30, 15:00-18:00, Sa 10:00-12:30;54.347296;12.394670
 
+1628;-;Deutsche Bank;Eupener Str. 2;Herne;44627;;51.539;7.25632
+1629;+;Hypovereinsbank;Graskeller 2;Hamburg;20457;;53.549099;9.987250
+

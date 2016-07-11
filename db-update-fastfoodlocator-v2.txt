@@ -72,3 +72,5 @@
 1088;+;KFC;Bolkerstraße 48;Düsseldorf;40213;;51.226373;6.775225
 
 1089;+;KFC;Provinzialstraße 246;Saarlouis;66740;;49.289974;6.759352
+
+1090;-;McDonalds;Max-Reger-Straße 9;Weiden;92637;;49.67436;12.157730000000015
