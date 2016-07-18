@@ -770,3 +770,10 @@
 1628;-;Deutsche Bank;Eupener Str. 2;Herne;44627;;51.539;7.25632
 1629;+;Hypovereinsbank;Graskeller 2;Hamburg;20457;;53.549099;9.987250
 
+1630;-;Postbank;Rittershauser Brücke 4;Wuppertal;42277;;51.2743;7.22308
+1631;-;Hypovereinsbank;Potsdamer Straße 105;Berlin;10785;;52.500167;13.363543
+1632;-;Commerzbank;Waldhofstr. 37;Mannheim;68169;;49.5004;8.47117
+1633;-;Shell Tankstelle;Lüneburger Str. 22;Amelinghausen;21385;;53.1306000;10.2182300
+1634;-;Deutsche Bank;Am Markt 3;Gilching;82205;;48.1086;11.2993
+1635;+;Postbank;Madlower Chaussee 4;Cottbus;03051;im Lausitz Park;51.715875;14.318512
+
