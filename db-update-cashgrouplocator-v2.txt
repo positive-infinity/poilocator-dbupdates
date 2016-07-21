@@ -777,3 +777,6 @@
 1634;-;Deutsche Bank;Am Markt 3;Gilching;82205;;48.1086;11.2993
 1635;+;Postbank;Madlower Chaussee 4;Cottbus;03051;im Lausitz Park;51.715875;14.318512
 
+1636;+;Postbank;Karl-Liebknecht-Straße 138;Potsdam;14482;Mo-Fr 9-13, 14-18, Sa 9-12;52.391529;13.090898
+1637;-;Deutsche Bank;Schloßstr. 75;Stuttgart;70176;;48.7762;9.16234
+
