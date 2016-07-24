@@ -780,3 +780,7 @@
 1636;+;Postbank;Karl-Liebknecht-Straße 138;Potsdam;14482;Mo-Fr 9-13, 14-18, Sa 9-12;52.391529;13.090898
 1637;-;Deutsche Bank;Schloßstr. 75;Stuttgart;70176;;48.7762;9.16234
 
+1638;-;Commerzbank;Warnitzer Str. 26;Berlin;13057;;52.5666;13.519
+1639;-;Hypovereinsbank;Roggenstr. 13;Meldorf;25704;;54.0896;9.07345
+1640;-;Deutsche Bank;Lützner Str.;Leipzig;04205;;51.3216;12.2838
+
