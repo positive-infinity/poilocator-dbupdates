@@ -784,3 +784,7 @@
 1639;-;Hypovereinsbank;Roggenstr. 13;Meldorf;25704;;54.0896;9.07345
 1640;-;Deutsche Bank;Lützner Str.;Leipzig;04205;;51.3216;12.2838
 
+1641;-;Shell Tankstelle;Coswiger Landstr. 37;Lutherstadt Wittenberg;06886;;51.8769000;12.5466800
+1642;-;Postbank;Bahnhofstraße 40;Bad Rothenfelde;49214;nicht durchgehend geöffnet;52.109557;8.169244
+1643;-;Postbank;Herzog-Wilhelm-Str. 96;Bad Harzburg;38667;;51.8777;10.5604
+
