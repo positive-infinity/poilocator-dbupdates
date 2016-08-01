@@ -788,3 +788,5 @@
 1642;-;Postbank;Bahnhofstraße 40;Bad Rothenfelde;49214;nicht durchgehend geöffnet;52.109557;8.169244
 1643;-;Postbank;Herzog-Wilhelm-Str. 96;Bad Harzburg;38667;;51.8777;10.5604
 
+1644;-;Commerzbank;Markt 25;Lutherstadt Wittenberg;06886;;51.8664;12.6428
+
