@@ -790,3 +790,5 @@
 
 1644;-;Commerzbank;Markt 25;Lutherstadt Wittenberg;06886;;51.8664;12.6428
 
+1645;-;Commerzbank;Saseler Markt 2;Hamburg;22393;;53.654;10.1114
+
