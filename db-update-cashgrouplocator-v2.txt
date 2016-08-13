@@ -793,3 +793,5 @@
 1645;-;Commerzbank;Saseler Markt 2;Hamburg;22393;;53.654;10.1114
 
 1646;-;Hypovereinsbank;Rindermarkt 14;München;80331;;48.1363;11.5743
+
+1647;-;Commerzbank;Schneiderstr. 10;Kaiserslautern;67655;;49.4445;7.76924
