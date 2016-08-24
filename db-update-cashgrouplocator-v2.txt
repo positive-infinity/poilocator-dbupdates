@@ -797,3 +797,12 @@
 1647;-;Commerzbank;Schneiderstr. 10;Kaiserslautern;67655;;49.4445;7.76924
 
 1648;-;Postbank;Hinter der Schießmauer 40;Dieburg;64807;;49.8959;8.83795
+
+1649;-;Postbank;Lange Str. 35-37;Barth;18356;;54.3671;12.7255
+1650;+;Postbank;Breite Str. 28;Bismark;39629;Postfiliale im Einzelhandel;52.661429;11.552375
+1651;+;Postbank;Unter der Schalksburg 3;Porta Westfalica;32457;;52.239721;8.919705
+1652;+;Postbank;Friedrich-List-Straße 5;Winnenden;71364;im OBI Markt, Mo-Sa 8-20 Uhr;48.872872;9.383336
+1653;-;Postbank;Ossietzkystr. 12;Würzburg-Heuchelhof;97084;;49.7315;9.9574
+1654;-;Hypovereinsbank;Rathausplatz 4;Würzburg;97084;;49.7645;9.94901
+1655;-;Postbank;Neurieder Str. 6;München;81475;;48.0871;11.4859
+1656;-;Shell Tankstelle;Kölner Str. 316;Kürten;51515;;51.0442800;7.2141000
