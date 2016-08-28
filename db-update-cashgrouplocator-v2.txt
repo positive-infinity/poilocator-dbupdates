@@ -806,3 +806,5 @@
 1654;-;Hypovereinsbank;Rathausplatz 4;Würzburg;97084;;49.7645;9.94901
 1655;-;Postbank;Neurieder Str. 6;München;81475;;48.0871;11.4859
 1656;-;Shell Tankstelle;Kölner Str. 316;Kürten;51515;;51.0442800;7.2141000
+
+1657;-;Commerzbank;Friedrich-Ebert-Str. 67;Dinslaken;46535;;51.5626;6.73495
