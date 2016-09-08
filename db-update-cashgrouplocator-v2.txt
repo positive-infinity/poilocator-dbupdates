@@ -812,3 +812,6 @@
 1658;-;Postbank;Feringastraße 16;Unterföhring;85774;im Marktkauf, Mo-Fr 8-20, Sa 8-13;48.177762;11.636448
 1659;+;Postbank;Feringastraße 16;Unterföhring;85774;Postfiliale im Marktkauf, Mo-Fr 8-20, Sa 8-13;48.177762;11.636448
 1660;-;Hypovereinsbank;Prinzregentenstr. 145;München;81677;;48.1384;11.6173
+
+1661;-;Commerzbank;Markt 45-47;Aachen;52062;;50.7767;6.08386
+1662;-;Commerzbank;Kölner Landstr. 115;Düsseldorf;40591;;51.1919;6.81504
