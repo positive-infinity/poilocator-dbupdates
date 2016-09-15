@@ -815,3 +815,7 @@
 
 1661;-;Commerzbank;Markt 45-47;Aachen;52062;;50.7767;6.08386
 1662;-;Commerzbank;Kölner Landstr. 115;Düsseldorf;40591;;51.1919;6.81504
+
+1663;-;Hypovereinsbank;Am Markt 5;Kaltenkirchen;24568;;53.8381;9.96258
+1664;-;Postbank;Platz der Republik;Berlin;10557;;52.5186;13.3749
+1665;-;Commerzbank;Neusser Str. 500;Köln;50737;;50.9761;6.94984
