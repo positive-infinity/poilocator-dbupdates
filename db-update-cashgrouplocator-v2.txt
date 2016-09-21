@@ -819,3 +819,5 @@
 1663;-;Hypovereinsbank;Am Markt 5;Kaltenkirchen;24568;;53.8381;9.96258
 1664;-;Postbank;Platz der Republik;Berlin;10557;;52.5186;13.3749
 1665;-;Commerzbank;Neusser Str. 500;Köln;50737;;50.9761;6.94984
+
+1666;-;Commerzbank;Friedrichstr. 130c;Berlin;10117;;52.5247;13.3874
