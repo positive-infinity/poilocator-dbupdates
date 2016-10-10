@@ -259,3 +259,8 @@
 
 1246;-;Hit Markt;Thomas-Dehler-Straße 2;München;81737;;48.10316;11.64601
 1247;-;Hit Markt;Cincinnatistraße 65;München;81549;;48.0948373;11.5903599
+
+1248;-;Edeka;Quellenstraße 17;Lippstadt;59556;;51.709188;8.336989
+1249;+;Rewe;Quellenstraße 17;Lippstadt;59556;;51.709188;8.336989
+1250;-;Edeka;Dreischenhoff;Wadersloh;59329;;51.7360919;8.2430899
+1251;+;Rewe;Mühlenfeldstraße 3;Wadersloh;59329;;51.7360919;8.2430899

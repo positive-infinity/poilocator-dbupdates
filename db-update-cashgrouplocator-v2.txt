@@ -823,3 +823,13 @@
 1666;-;Commerzbank;Friedrichstr. 130c;Berlin;10117;;52.5247;13.3874
 
 1667;-;Shell Tankstelle;Herrenhäuser Kirchweg 38;Hannover;30167;;52.3909100;9.7064300
+
+1668;+;Postbank;Ostmerheimer Str. 198;Köln;51109;im Kaufland,Mo-Sa 7-22 Uhr;50.942177;7.051257
+1669;-;Commerzbank;Obermarkt 27;Döbeln;04720;;51.122;13.1228
+1670;-;Postbank;Limmerstraße 15;Hannover;30451;;52.371963;9.710853
+1671;+;Commerzbank;Koppenstraße 95;Berlin;10243;;52.511903;13.433103
+1672;+;Postbank;Max-von-Eyth-Straße 1;Ismaning;85737;im Rewe,Mo-Sa 7-20 Uhr;48.233431;11.678941
+1673;-;Hypovereinsbank;Amsterdamstr. 4;Schweinfurt;97424;;50.0198;10.2171
+1674;-;Deutsche Bank;Bahnhofstr. 28;Wesseling;50389;;50.8242;6.98024
+1675;-;Commerzbank;Hollandweg 24;Teltow;14513;;52.401676;13.258897
+
