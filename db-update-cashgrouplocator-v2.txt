@@ -833,3 +833,4 @@
 1674;-;Deutsche Bank;Bahnhofstr. 28;Wesseling;50389;;50.8242;6.98024
 1675;-;Commerzbank;Hollandweg 24;Teltow;14513;;52.401676;13.258897
 
+1676;-;Commerzbank;Alte Holstenstr. 72;Hamburg;21029;;53.4893;10.2261
