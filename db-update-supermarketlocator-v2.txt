@@ -264,3 +264,5 @@
 1249;+;Rewe;Quellenstraße 17;Lippstadt;59556;;51.709188;8.336989
 1250;-;Edeka;Dreischenhoff;Wadersloh;59329;;51.7360919;8.2430899
 1251;+;Rewe;Mühlenfeldstraße 3;Wadersloh;59329;;51.7360919;8.2430899
+
+1252;+;Rewe;Hans-Böckler-Straße 1;Wiesbaden;65199;;50.068661;8.194059

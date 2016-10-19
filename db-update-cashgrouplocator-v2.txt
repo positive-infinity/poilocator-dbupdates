@@ -834,3 +834,5 @@
 1675;-;Commerzbank;Hollandweg 24;Teltow;14513;;52.401676;13.258897
 
 1676;-;Commerzbank;Alte Holstenstr. 72;Hamburg;21029;;53.4893;10.2261
+
+1677;-;Postbank;Mindener Straße 378;Osnabrück;49086;im Edeka, nicht durchgehend geöffnet;52.266778;8.134218
