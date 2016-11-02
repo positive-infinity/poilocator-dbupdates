@@ -836,3 +836,6 @@
 1676;-;Commerzbank;Alte Holstenstr. 72;Hamburg;21029;;53.4893;10.2261
 
 1677;-;Postbank;Mindener Straße 378;Osnabrück;49086;im Edeka, nicht durchgehend geöffnet;52.266778;8.134218
+
+1678;-;Commerzbank;Neue Str. 44;Ulm;89073;;48.3971;9.98805
+1679;-;Deutsche Bank;Pontwall 2;Aachen;52062;;50.7808;6.0761
