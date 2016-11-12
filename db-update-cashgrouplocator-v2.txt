@@ -839,3 +839,7 @@
 
 1678;-;Commerzbank;Neue Str. 44;Ulm;89073;;48.3971;9.98805
 1679;-;Deutsche Bank;Pontwall 2;Aachen;52062;;50.7808;6.0761
+1680;+;Shell Tankstelle;Frohlinder Str. 29;Dortmund;44379;;51.524944;7.369268
+1681;+;Postbank;Rathausstraße 5;Berlin;10178;;52.519693;13.411598
+1682;-;Shell Tankstelle;Kaiser-Wilhelm Platz 16;Siegburg;53721;;50.7921000;7.2074700
+1683;-;Commerzbank;Oranienburger Str. 196;Berlin;13437;;52.595;13.333
