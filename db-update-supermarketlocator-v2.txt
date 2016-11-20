@@ -266,3 +266,5 @@
 1251;+;Rewe;Mühlenfeldstraße 3;Wadersloh;59329;;51.7360919;8.2430899
 
 1252;+;Rewe;Hans-Böckler-Straße 1;Wiesbaden;65199;;50.068661;8.194059
+
+1253;-;Globus;Hohenfelder Straße 20;Koblenz;56068;;50.3592001;7.5920264

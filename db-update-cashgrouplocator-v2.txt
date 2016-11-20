@@ -843,3 +843,6 @@
 1681;+;Postbank;Rathausstraße 5;Berlin;10178;;52.519693;13.411598
 1682;-;Shell Tankstelle;Kaiser-Wilhelm Platz 16;Siegburg;53721;;50.7921000;7.2074700
 1683;-;Commerzbank;Oranienburger Str. 196;Berlin;13437;;52.595;13.333
+
+1684;-;Hypovereinsbank;Schleißheimer Str. 15A;Garching;85748;;48.2496;11.6475
+1685;-;Hypovereinsbank;Kochelseestr.+C524 14;München;81371;;48.1181;11.5524
