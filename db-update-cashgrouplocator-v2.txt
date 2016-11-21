@@ -846,3 +846,8 @@
 
 1684;-;Hypovereinsbank;Schleißheimer Str. 15A;Garching;85748;;48.2496;11.6475
 1685;-;Hypovereinsbank;Kochelseestr.+C524 14;München;81371;;48.1181;11.5524
+
+1686;-;Postbank;Schloßstr. 23;Grünwald;82031;;48.041;11.5247
+1687;-;Hypovereinsbank;Schloßstr. 23;Grünwald;82031;;48.041;11.5247
+1688;+;Postbank;Schloßstr. 23;Grünwald;82031;;48.041262;11.524888
+1689;+;Hypovereinsbank;Schloßstr. 23;Grünwald;82031;;48.041231;11.524839
