@@ -856,3 +856,6 @@
 1691;-;Commerzbank;Bahnhofstr. 13a;Unterföhring;85774;;48.1918;11.6444
 1692;-;Postbank;Feringastraße 16;Unterföhring;85774;Postfiliale im Marktkauf, Mo-Fr 8-20, Sa 8-13;48.177762;11.636448
 1693;-;Shell Tankstelle;Essenerstr. 345;Oberhausen;46047;;51.4815200;6.8944000
+
+1694;-;Postbank;Bergstraße 13;Lengerich;49525;Mo-Fr 8:30-12:00 und 14:00-17:30, Sa 9:00-12:00;52.190631;7.852973
+1695;+;Postbank;Bergstraße 13;Lengerich;49525;;52.190631;7.85297301
