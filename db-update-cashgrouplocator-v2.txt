@@ -851,3 +851,8 @@
 1687;-;Hypovereinsbank;Schloßstr. 23;Grünwald;82031;;48.041;11.5247
 1688;+;Postbank;Schloßstr. 23;Grünwald;82031;;48.041262;11.524888
 1689;+;Hypovereinsbank;Schloßstr. 23;Grünwald;82031;;48.041231;11.524839
+
+1690;-;Deutsche Bank;Am Sandbach 34;Ratingen;40878;;51.2954;6.82942
+1691;-;Commerzbank;Bahnhofstr. 13a;Unterföhring;85774;;48.1918;11.6444
+1692;-;Postbank;Feringastraße 16;Unterföhring;85774;Postfiliale im Marktkauf, Mo-Fr 8-20, Sa 8-13;48.177762;11.636448
+1693;-;Shell Tankstelle;Essenerstr. 345;Oberhausen;46047;;51.4815200;6.8944000
