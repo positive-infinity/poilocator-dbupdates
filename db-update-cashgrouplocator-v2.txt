@@ -859,3 +859,5 @@
 
 1694;-;Postbank;Bergstraße 13;Lengerich;49525;Mo-Fr 8:30-12:00 und 14:00-17:30, Sa 9:00-12:00;52.190631;7.852973
 1695;+;Postbank;Bergstraße 13;Lengerich;49525;;52.190631;7.85297301
+
+1696;-;Hypovereinsbank;Dörpfeldstr 30;Berlin;12489;;52.4371;13.5455
