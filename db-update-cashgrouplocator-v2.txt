@@ -861,3 +861,6 @@
 1695;+;Postbank;Bergstraße 13;Lengerich;49525;;52.190631;7.85297301
 
 1696;-;Hypovereinsbank;Dörpfeldstr 30;Berlin;12489;;52.4371;13.5455
+
+1697;-;Commerzbank;Domstr. 38;Würzburg;97070;;49.7934;9.931
+1698;+;Postbank;Meistersingerstraße 77;München;81927;;48.158457;11.640132
