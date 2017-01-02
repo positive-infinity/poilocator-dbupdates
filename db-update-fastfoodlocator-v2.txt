@@ -74,3 +74,6 @@
 1089;+;KFC;Provinzialstraße 246;Saarlouis;66740;;49.289974;6.759352
 
 1090;-;McDonalds;Max-Reger-Straße 9;Weiden;92637;;49.67436;12.157730000000015
+
+1091;+;Pizza Hut;Robert-Bosch-Straße 15;Dreieich;63303;;50.031833;8.703767
+1092;+;KFC;Robert-Bosch-Straße 15;Dreieich;63303;;50.031651;8.703311
