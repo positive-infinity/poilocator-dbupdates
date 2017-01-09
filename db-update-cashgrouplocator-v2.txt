@@ -868,3 +868,5 @@
 1699;-;Hypovereinsbank;Schloßstr. 23/24;Wittenberg;06886;;51.8664;12.6406
 1700;-;Hypovereinsbank;Bahnhofstr. 7;Kempten;87435;;47.7202;10.3113
 1701;+;Hypovereinsbank;Bahnhofstr. 7;Kempten;87435;;47.722815;10.315655
+
+1702;-;Hypovereinsbank;Rosenheimer Str. 6;Brannenburg;83098;;47.735;12.1076
