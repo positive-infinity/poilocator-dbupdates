@@ -870,3 +870,7 @@
 1701;+;Hypovereinsbank;Bahnhofstr. 7;Kempten;87435;;47.722815;10.315655
 
 1702;-;Hypovereinsbank;Rosenheimer Str. 6;Brannenburg;83098;;47.735;12.1076
+
+1703;-;Commerzbank;Markt 5;Quedlinburg;06484;;51.7889;11.1413
+1704;-;Deutsche Bank;Stettiner Str. 5-7;Prenzlau;17291;;53.3173;13.8626
+1705;+;Deutsche Bank;Marktberg 12;Prenzlau;17291;;53.313889;13.858320
