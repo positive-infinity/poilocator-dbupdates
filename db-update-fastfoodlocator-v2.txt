@@ -77,3 +77,5 @@
 
 1091;+;Pizza Hut;Robert-Bosch-Straße 15;Dreieich;63303;;50.031833;8.703767
 1092;+;KFC;Robert-Bosch-Straße 15;Dreieich;63303;;50.031651;8.703311
+
+1093;+;Burger King;Iggelsheimer Strasse 32;Speyer;67346;;49.335441;8.412349
