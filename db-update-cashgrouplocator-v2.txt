@@ -874,3 +874,5 @@
 1703;-;Commerzbank;Markt 5;Quedlinburg;06484;;51.7889;11.1413
 1704;-;Deutsche Bank;Stettiner Str. 5-7;Prenzlau;17291;;53.3173;13.8626
 1705;+;Deutsche Bank;Marktberg 12;Prenzlau;17291;;53.313889;13.858320
+
+1706;-;Postbank;Potsdamer Str. 136;Berlin;10783;;52.4986;13.3619
