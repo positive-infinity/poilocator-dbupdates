@@ -876,3 +876,5 @@
 1705;+;Deutsche Bank;Marktberg 12;Prenzlau;17291;;53.313889;13.858320
 
 1706;-;Postbank;Potsdamer Str. 136;Berlin;10783;;52.4986;13.3619
+
+1707;-;Postbank;Lange Straße 40-42;Greifswald;17489;;54.096146;13.375611
