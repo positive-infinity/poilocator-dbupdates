@@ -878,3 +878,7 @@
 1706;-;Postbank;Potsdamer Str. 136;Berlin;10783;;52.4986;13.3619
 
 1707;-;Postbank;Lange Straße 40-42;Greifswald;17489;;54.096146;13.375611
+
+1708;-;Shell Tankstelle;Lübecker Str. 46;Bargteheide;22941;;53.7363200;10.2625200
+1709;-;Commerzbank;Große Str. 41;Ahrensburg;22926;;53.6735;10.2394
+1710;+;Postbank;Potsdamer Platz;Berlin;10785;Filiale im 2. UG;52.508864;13.376304
