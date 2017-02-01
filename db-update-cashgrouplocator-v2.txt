@@ -882,3 +882,5 @@
 1708;-;Shell Tankstelle;Lübecker Str. 46;Bargteheide;22941;;53.7363200;10.2625200
 1709;-;Commerzbank;Große Str. 41;Ahrensburg;22926;;53.6735;10.2394
 1710;+;Postbank;Potsdamer Platz;Berlin;10785;Filiale im 2. UG;52.508864;13.376304
+
+1711;-;Hypovereinsbank;Goethestr. 59;Ingolstadt;85055;;48.7726;11.4435
