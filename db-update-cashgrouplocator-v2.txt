@@ -884,3 +884,6 @@
 1710;+;Postbank;Potsdamer Platz;Berlin;10785;Filiale im 2. UG;52.508864;13.376304
 
 1711;-;Hypovereinsbank;Goethestr. 59;Ingolstadt;85055;;48.7726;11.4435
+
+1712;-;Postbank;Ottenser Hauptstr.;Hamburg;22765;;53.5521;9.92974
+1713;-;Deutsche Bank;Richard-Paulick-Str.;Halle (Saale);06124;;51.4758;11.9293
