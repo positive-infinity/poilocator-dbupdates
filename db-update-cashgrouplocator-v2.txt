@@ -887,3 +887,5 @@
 
 1712;-;Postbank;Ottenser Hauptstr.;Hamburg;22765;;53.5521;9.92974
 1713;-;Deutsche Bank;Richard-Paulick-Str.;Halle (Saale);06124;;51.4758;11.9293
+
+1714;-;Commerzbank;Clayallee 356;Berlin;14169;;52.4354;13.2608
