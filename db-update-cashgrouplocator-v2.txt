@@ -889,3 +889,6 @@
 1713;-;Deutsche Bank;Richard-Paulick-Str.;Halle (Saale);06124;;51.4758;11.9293
 
 1714;-;Commerzbank;Clayallee 356;Berlin;14169;;52.4354;13.2608
+
+1715;-;Postbank;Landgrabenpark 1;Schwedt/Oder;16303;im Oder-Center, Mo-Sa 9:30-20:00 Uhr;53.064641;14.272586
+1716;+;Postbank;Landgrabenpark 1;Schwedt/Oder;16303;im Oder-Center, Mo-Sa 6:45-20:00 Uhr;53.064641;14.272586
