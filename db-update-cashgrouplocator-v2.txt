@@ -892,3 +892,5 @@
 
 1715;-;Postbank;Landgrabenpark 1;Schwedt/Oder;16303;im Oder-Center, Mo-Sa 9:30-20:00 Uhr;53.064641;14.272586
 1716;+;Postbank;Landgrabenpark 1;Schwedt/Oder;16303;im Oder-Center, Mo-Sa 6:45-20:00 Uhr;53.064641;14.272586
+
+1717;-;Postbank;Kolpingstraße 4;Glandorf;49219;Mo-Fr 8:00-12:30, 14:00-18:00, Sa 08:00-12:30;52.081021;8.001495
