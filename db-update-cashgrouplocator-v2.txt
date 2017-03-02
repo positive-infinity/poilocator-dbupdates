@@ -896,3 +896,6 @@
 1717;-;Postbank;Kolpingstraße 4;Glandorf;49219;Mo-Fr 8:00-12:30, 14:00-18:00, Sa 08:00-12:30;52.081021;8.001495
 
 1718;+;Postbank;Bahnhofsplatz 3;Sonthofen;87527;;47.512569;10.272797
+
+1719;-;Commerzbank;Breitenbachplatz 16;Berlin;14195;;52.4667;13.3073
+1720;-;Commerzbank;Breite Str. 25;Berlin;14199;;52.4754;13.2906
