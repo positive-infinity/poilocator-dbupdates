@@ -901,3 +901,10 @@
 1720;-;Commerzbank;Breite Str. 25;Berlin;14199;;52.4754;13.2906
 
 1721;-;Berliner Bank;Frankfurter Allee 106;Berlin;10247;;52.5135;13.4741
+
+1722;-;Postbank;Saarlandstr. 53-67;Dortmund;44139;;51.5055;7.4678
+1723;+;Commerzbank;Unterhachinger Str. 10;München;81737;in der OMV-Tankstelle;48.102612;11.625253
+1724;-;Deutsche Bank;Seckenheimer Hauptstr. 72;Mannheim;68239;;49.4656;8.56495
+1725;-;Postbank;Talstr. 1-7;Schriesheim;69198;;49.4749;8.71973
+1726;+;Postbank;Talstr. 1;Schriesheim;69198;;49.475827;8.660899
+1727;+;Postbank;Turbinenstraße 3-5;Mannheim;68309;in der Abgabestelle für Großkunden;49.511110;8.497428
