@@ -908,3 +908,9 @@
 1725;-;Postbank;Talstr. 1-7;Schriesheim;69198;;49.4749;8.71973
 1726;+;Postbank;Talstr. 1;Schriesheim;69198;;49.475827;8.660899
 1727;+;Postbank;Turbinenstraße 3-5;Mannheim;68309;in der Abgabestelle für Großkunden;49.511110;8.497428
+
+1728;-;Commerzbank;Grindelhof 37;Hamburg;20146;;53.5686;9.98311
+1729;-;Deutsche Bank;Jungfernstieg 49;Hamburg;20354;;53.5548;9.98992
+1730;-;Commerzbank;Gänsemarkt 43;Hamburg;20354;;53.5556;9.98789
+1731;-;Deutsche Bank;Kölner Str. 295;Düsseldorf;40227;;51.2129;6.80643
+1732;-;Deutsche Bank;Pappelstraße 66-68;Bremen;28199;;53.068607;8.789959
