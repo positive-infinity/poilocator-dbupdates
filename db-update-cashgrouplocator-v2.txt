@@ -914,3 +914,5 @@
 1730;-;Commerzbank;Gänsemarkt 43;Hamburg;20354;;53.5556;9.98789
 1731;-;Deutsche Bank;Kölner Str. 295;Düsseldorf;40227;;51.2129;6.80643
 1732;-;Deutsche Bank;Pappelstraße 66-68;Bremen;28199;;53.068607;8.789959
+
+1733;-;Shell Tankstelle;Kaiserring 37;Wesel;46483;;51.6606600;6.6242900
