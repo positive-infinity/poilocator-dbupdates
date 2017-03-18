@@ -916,3 +916,5 @@
 1732;-;Deutsche Bank;Pappelstraße 66-68;Bremen;28199;;53.068607;8.789959
 
 1733;-;Shell Tankstelle;Kaiserring 37;Wesel;46483;;51.6606600;6.6242900
+
+1734;-;Deutsche Bank;Zülpicher Str. 321;Köln;50937;;50.9231;6.92419
