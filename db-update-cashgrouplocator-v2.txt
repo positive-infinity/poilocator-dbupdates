@@ -918,3 +918,6 @@
 1733;-;Shell Tankstelle;Kaiserring 37;Wesel;46483;;51.6606600;6.6242900
 
 1734;-;Deutsche Bank;Zülpicher Str. 321;Köln;50937;;50.9231;6.92419
+
+1735;+;Postbank;Nordhäuser Str. 73t;Erfurt;99091;im Thüringen-Park;51.009317;10.991979
+1736;-;Deutsche Bank;Alter Markt 43-46;Mönchengladbach;41061;;51.195;6.43129
