@@ -921,3 +921,7 @@
 
 1735;+;Postbank;Nordhäuser Str. 73t;Erfurt;99091;im Thüringen-Park;51.009317;10.991979
 1736;-;Deutsche Bank;Alter Markt 43-46;Mönchengladbach;41061;;51.195;6.43129
+
+1737;-;Bankhaus Neelmeyer;Schwachhauser Heerstr. 189-193;Bremen;28211;;53.0851;8.84855
+1738;-;Bankhaus Neelmeyer;Am Alten Hafen 118;Bremerhaven;27568;;53.5449;8.57628
+1739;-;Bankhaus Neelmeyer;Am Markt 14-16;Bremen;28195;;53.0756;8.80692
