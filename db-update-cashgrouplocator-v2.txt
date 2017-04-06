@@ -925,3 +925,5 @@
 1737;-;Bankhaus Neelmeyer;Schwachhauser Heerstr. 189-193;Bremen;28211;;53.0851;8.84855
 1738;-;Bankhaus Neelmeyer;Am Alten Hafen 118;Bremerhaven;27568;;53.5449;8.57628
 1739;-;Bankhaus Neelmeyer;Am Markt 14-16;Bremen;28195;;53.0756;8.80692
+
+1740;-;Deutsche Bank;Gudesstr. 1;Uelzen;29525;;52.965;10.5607
