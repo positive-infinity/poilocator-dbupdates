@@ -927,3 +927,5 @@
 1739;-;Bankhaus Neelmeyer;Am Markt 14-16;Bremen;28195;;53.0756;8.80692
 
 1740;-;Deutsche Bank;Gudesstr. 1;Uelzen;29525;;52.965;10.5607
+
+1741;-;Deutsche Bank;Deichstr. 2;Cuxhaven;27472;;53.8627;8.69828
