@@ -929,3 +929,10 @@
 1740;-;Deutsche Bank;Gudesstr. 1;Uelzen;29525;;52.965;10.5607
 
 1741;-;Deutsche Bank;Deichstr. 2;Cuxhaven;27472;;53.8627;8.69828
+
+1742;-;Deutsche Bank;Bahnhofstr. 3;Geislingen;73312;;48.6162;9.84316
+1743;-;Postbank;Bahnhofstr. 37;Geislingen-Steige;73301;;48.6192;9.84078
+1744;-;Deutsche Bank;Zingster Str. 1;Berlin;13051;;52.5637;13.504
+1745;-;Shell Tankstelle;Waldhofstr. 62;Mannheim-Neckarstadt;68169;;49.50281;8.47054
+1746;-;Shell Tankstelle;Hans Böckler Str. 73;Bremen;28217;;53.0877100;8.7875400
+1747;-;Commerzbank;Rothenbaumchaussee 29;Hamburg;20148;;53.5662;9.98848
