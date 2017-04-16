@@ -936,3 +936,5 @@
 1745;-;Shell Tankstelle;Waldhofstr. 62;Mannheim-Neckarstadt;68169;;49.50281;8.47054
 1746;-;Shell Tankstelle;Hans Böckler Str. 73;Bremen;28217;;53.0877100;8.7875400
 1747;-;Commerzbank;Rothenbaumchaussee 29;Hamburg;20148;;53.5662;9.98848
+
+1748;-;Hypovereinsbank;Ansbacher Str. 8;Uffenheim;97215;;49.5435;10.2313
