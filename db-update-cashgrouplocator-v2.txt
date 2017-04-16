@@ -940,3 +940,5 @@
 1748;-;Hypovereinsbank;Ansbacher Str. 8;Uffenheim;97215;;49.5435;10.2313
 
 1749;-;Deutsche Bank;Bahnstr. 1;Traben-Trarbach;56841;;49.9518;7.11433
+
+1750;-;Commerzbank;Münchener Str. 66;Rosenheim;83022;;47.8527;12.1188
