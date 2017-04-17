@@ -942,3 +942,5 @@
 1749;-;Deutsche Bank;Bahnstr. 1;Traben-Trarbach;56841;;49.9518;7.11433
 
 1750;-;Commerzbank;Münchener Str. 66;Rosenheim;83022;;47.8527;12.1188
+
+1751;-;Shell Tankstelle;Rosenheimer Str. 124;München;81669;;48.1222700;11.6037300
