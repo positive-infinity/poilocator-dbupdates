@@ -944,3 +944,6 @@
 1750;-;Commerzbank;Münchener Str. 66;Rosenheim;83022;;47.8527;12.1188
 
 1751;-;Shell Tankstelle;Rosenheimer Str. 124;München;81669;;48.1222700;11.6037300
+
+1752;-;Hypovereinsbank;Friedrichstr. 60;Berlin Mitte;10117;;52.5106;13.3901
+1753;+;Deutsche Bank;Friedrichstraße 44;Berlin;10969;;52.507155;13.390648
