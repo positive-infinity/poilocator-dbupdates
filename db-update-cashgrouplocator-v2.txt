@@ -962,3 +962,5 @@
 1765;-;Deutsche Bank;Johannesstr. 37;Dillingen (Saar);66763;;49.3524;6.72952
 1766;-;Deutsche Bank;Schützenplatz 18;Salzgitter;38259;;52.0493;10.3744
 1767;-;Deutsche Bank;Heidelberger Landstr. 236;Darmstadt;64297;;49.8162;8.6444
+
+1768;-;Hypovereinsbank;Westerholmer Str. 1;Steinbergkirche;24972;;54.7542;9.76071
