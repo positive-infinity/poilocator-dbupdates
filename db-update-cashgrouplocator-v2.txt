@@ -947,3 +947,18 @@
 
 1752;-;Hypovereinsbank;Friedrichstr. 60;Berlin Mitte;10117;;52.5106;13.3901
 1753;+;Deutsche Bank;Friedrichstraße 44;Berlin;10969;;52.507155;13.390648
+
+1754;-;Hypovereinsbank;Marienstr. 3-5;Neu-Ulm;89231;;48.3947;9.99774
+1755;-;Deutsche Bank;Schloßgasse 20;Jena;07743;;50.9289;11.5893
+1756;+;Deutsche Bank;Leutragraben 1;Jena;07743;;50.928831;11.584156
+1757;-;Deutsche Bank;Rathausgasse 2/4;Jena;07743;;50.928309;11.586915
+1758;-;Deutsche Bank;Lübecker Str. 131;Hamburg;22087;;53.5632;10.0334
+1759;-;Hypovereinsbank;Reismühle 1;Hamburg;22087;;53.5621;10.0327
+1760;-;Commerzbank;Marktplatz 6;Lauf;91207;;49.5116;11.2801
+1761;+;Postbank;Untere Hauptstraße 26;Burkhardtsdorf;09235;Postagentur Elke Walther;50.733123;12.928150
+1762;-;Postbank;Am Bahnhof 4;Gilching;82205;;48.1157;11.264
+1763;+;Postbank;Am Bahnhof 4;Gilching;82205;im Edeka;48.107189;11.301057
+1764;-;Commerzbank;Franziskus-Festing-Str. 1;Pullach;82049;;48.0564;11.5142
+1765;-;Deutsche Bank;Johannesstr. 37;Dillingen (Saar);66763;;49.3524;6.72952
+1766;-;Deutsche Bank;Schützenplatz 18;Salzgitter;38259;;52.0493;10.3744
+1767;-;Deutsche Bank;Heidelberger Landstr. 236;Darmstadt;64297;;49.8162;8.6444
