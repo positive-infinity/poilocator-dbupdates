@@ -964,3 +964,10 @@
 1767;-;Deutsche Bank;Heidelberger Landstr. 236;Darmstadt;64297;;49.8162;8.6444
 
 1768;-;Hypovereinsbank;Westerholmer Str. 1;Steinbergkirche;24972;;54.7542;9.76071
+
+1769;-;Commerzbank;Rathausstr. 47;Wittenberge;19322;;52.9966;11.7571
+1770;-;Deutsche Bank;Bäckerstr. 32;Wittenberge;19322;;52.9956;11.7547
+1771;-;Postbank;Züricher Str. 11;Frankfurt;60437;;50.1946;8.65446
+1772;-;Deutsche Bank;Tituscorso 2-4;Frankfurt am Main;60439;;50.1586;8.6336
+1773;-;Commerzbank;Eschersheimer Landstr. 329;Frankfurt;60320;;50.1415;8.66892
+1774;-;Commerzbank;Eschersheimer Landstr. 55;Frankfurt;60322;;50.1218;8.6755
