@@ -974,3 +974,7 @@
 
 1775;-;Commerzbank;Unter Sachsenhausen 5-7;Köln;50667;;50.9424;6.95322
 1776;+;Commerzbank;Komödienstraße 26;Köln;50667;;50.941623;6.953210
+
+1777;-;Shell Tankstelle;Am Achernsee;Achern;77855;;48.6411000;8.0373800
+1778;-;Commerzbank;Schönhauser Allee 143;Berlin;10435;;52.5416;13.4118
+1779;-;Berliner Bank;Schönhauser Allee 144;Berlin;10435;;52.5413;13.4117
