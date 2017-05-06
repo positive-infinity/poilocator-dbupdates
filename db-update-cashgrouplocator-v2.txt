@@ -978,3 +978,5 @@
 1777;-;Shell Tankstelle;Am Achernsee;Achern;77855;;48.6411000;8.0373800
 1778;-;Commerzbank;Schönhauser Allee 143;Berlin;10435;;52.5416;13.4118
 1779;-;Berliner Bank;Schönhauser Allee 144;Berlin;10435;;52.5413;13.4117
+
+1780;-;Deutsche Bank;Havelpassage 14;Hennigsdorf;16761;;52.637;13.2005
