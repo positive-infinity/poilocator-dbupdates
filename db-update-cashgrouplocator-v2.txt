@@ -983,3 +983,5 @@
 
 1781;-;Postbank;Niemeyerst. 1;Hannover;30449;;52.3648;9.71532
 1782;-;Deutsche Bank;Falkenstr. 3;Hannover;30449;;52.3674;9.71922
+
+1783;-;Postbank;Alt-Kaulsdorf 64;Berlin;12621;;52.5048;13.5901
