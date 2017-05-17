@@ -982,3 +982,5 @@
 1783;-;Postbank;Alt-Kaulsdorf 64;Berlin;12621;;52.5048;13.5901
 
 1784;-;Deutsche Bank;Wettersteinplatz 1;München;81547;;48.1096;11.5754
+
+1785;+;Postbank;Kurfürstendamm 195;Berlin;10707;Ecke Bleibtreustraße;52.501082;13.319167
