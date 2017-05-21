@@ -984,3 +984,6 @@
 1784;-;Deutsche Bank;Wettersteinplatz 1;München;81547;;48.1096;11.5754
 
 1785;+;Postbank;Kurfürstendamm 195;Berlin;10707;Ecke Bleibtreustraße;52.501082;13.319167
+
+1786;-;Deutsche Bank;Grindelallee 153;Hamburg;20146;;53.5705;9.97857
+1787;-;Hypovereinsbank;Grindelallee 159;Hamburg;20146;;53.5708;9.9782
