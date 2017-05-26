@@ -987,3 +987,5 @@
 
 1786;-;Deutsche Bank;Grindelallee 153;Hamburg;20146;;53.5705;9.97857
 1787;-;Hypovereinsbank;Grindelallee 159;Hamburg;20146;;53.5708;9.9782
+
+1788;-;Deutsche Bank;Wasserburger Landstr. 235;München;81827;;48.1123;11.7056
