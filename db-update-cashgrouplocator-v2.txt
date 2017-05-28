@@ -989,3 +989,5 @@
 1787;-;Hypovereinsbank;Grindelallee 159;Hamburg;20146;;53.5708;9.9782
 
 1788;-;Deutsche Bank;Wasserburger Landstr. 235;München;81827;;48.1123;11.7056
+
+1789;-;Commerzbank;Oskar-Kühlen-Str. 2-4;Mönchengladbach;41061;;51.1937;6.44091
