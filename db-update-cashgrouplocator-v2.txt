@@ -991,3 +991,5 @@
 1788;-;Deutsche Bank;Wasserburger Landstr. 235;München;81827;;48.1123;11.7056
 
 1789;-;Commerzbank;Oskar-Kühlen-Str. 2-4;Mönchengladbach;41061;;51.1937;6.44091
+
+1790;-;Deutsche Bank;Kaiserswerther Str. 239;Düsseldorf;40474;;51.2503;6.76456
