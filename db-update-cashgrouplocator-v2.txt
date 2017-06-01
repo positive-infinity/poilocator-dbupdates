@@ -993,3 +993,5 @@
 1789;-;Commerzbank;Oskar-Kühlen-Str. 2-4;Mönchengladbach;41061;;51.1937;6.44091
 
 1790;-;Deutsche Bank;Kaiserswerther Str. 239;Düsseldorf;40474;;51.2503;6.76456
+
+1791;-;Deutsche Bank;Hauptstr. 113;Bad Neuenahr;53474;;50.5461;7.1371
