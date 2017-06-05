@@ -995,3 +995,6 @@
 1790;-;Deutsche Bank;Kaiserswerther Str. 239;Düsseldorf;40474;;51.2503;6.76456
 
 1791;-;Deutsche Bank;Hauptstr. 113;Bad Neuenahr;53474;;50.5461;7.1371
+
+1792;-;Postbank;Langenhorner Markt 14;Hamburg;22415;;53.6501;10.0126
+1793;+;Postbank;Krohnstieg 55;Hamburg;22415;;53.648175;10.010339
