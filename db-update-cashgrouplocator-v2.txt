@@ -998,3 +998,8 @@
 
 1792;-;Postbank;Langenhorner Markt 14;Hamburg;22415;;53.6501;10.0126
 1793;+;Postbank;Krohnstieg 55;Hamburg;22415;;53.648175;10.010339
+
+1794;-;Postbank;Moselstr. 1-5;Frankfurt;60329;;50.1064;8.66867
+1795;-;Postbank;Wissmannstr. 21-25;Düsseldorf;40219;;51.2113;6.76814
+1796;-;Deutsche Bank;Jacobistr. 1;Düsseldorf;40211;;51.2287;6.78727
+1797;+;Shell Tankstelle;A4 Dresden-Frankfurt;Krauthausen;99819;;51.007302;10.252631
