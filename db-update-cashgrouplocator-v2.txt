@@ -1003,3 +1003,6 @@
 1795;-;Postbank;Wissmannstr. 21-25;Düsseldorf;40219;;51.2113;6.76814
 1796;-;Deutsche Bank;Jacobistr. 1;Düsseldorf;40211;;51.2287;6.78727
 1797;+;Shell Tankstelle;A4 Dresden-Frankfurt;Krauthausen;99819;;51.007302;10.252631
+
+1798;+;Shell Tankstelle;Raiffeisenstraße 2;Rosbach vor der Höhe;61191;;50.295439;8.685872
+1799;-;Postbank;Schultetusstraße 24a;Stavenhagen;17153;im Edeka, Mo-Fr 7-19 Uhr, Sa 7-18 Uhr;53.701413;12.910312
