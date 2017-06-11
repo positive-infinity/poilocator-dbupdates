@@ -1006,3 +1006,5 @@
 
 1798;+;Shell Tankstelle;Raiffeisenstraße 2;Rosbach vor der Höhe;61191;;50.295439;8.685872
 1799;-;Postbank;Schultetusstraße 24a;Stavenhagen;17153;im Edeka, Mo-Fr 7-19 Uhr, Sa 7-18 Uhr;53.701413;12.910312
+
+1800;-;Deutsche Bank;Tempelhofer Damm 143;Berlin;12099;;52.4663;13.3857
