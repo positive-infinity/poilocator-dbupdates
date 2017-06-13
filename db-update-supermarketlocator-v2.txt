@@ -272,3 +272,5 @@
 1254;-;real;Am Bubenheimer Berg;Koblenz;56070;;50.3858694;7.5587044
 
 1255;-;Rewe;Neue Gasse 8;Weilburg;35792;;50.53923;8.25864
+
+1256;-;Aldi Nord;Langenfelder Damm 46;Hamburg;22525;;53.5812718;9.9381807
