@@ -1010,3 +1010,7 @@
 1800;-;Deutsche Bank;Tempelhofer Damm 143;Berlin;12099;;52.4663;13.3857
 
 1801;+;Postbank;Brauergasse 1;Ellwangen (Jagst);73479;;48.960597;10.129399
+
+1802;-;Postbank;Cautiusstr. 42;Berlin;13587;;52.562;13.206
+1803;-;Hypovereinsbank;Karl-Zeiss-Platz 1;Jena;07745;;50.9271;11.5808
+1804;+;Hypovereinsbank;Carl-Zeiss-Platz 1;Jena;07745;;50.9271;11.5808
