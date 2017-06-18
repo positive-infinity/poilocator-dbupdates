@@ -1014,3 +1014,5 @@
 1802;-;Postbank;Cautiusstr. 42;Berlin;13587;;52.562;13.206
 1803;-;Hypovereinsbank;Karl-Zeiss-Platz 1;Jena;07745;;50.9271;11.5808
 1804;+;Hypovereinsbank;Carl-Zeiss-Platz 1;Jena;07745;;50.9271;11.5808
+
+1805;-;Hypovereinsbank;Stadtstr. 7;Burgau;89331;;48.4318;10.4069
