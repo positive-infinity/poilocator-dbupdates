@@ -1018,3 +1018,5 @@
 1805;-;Hypovereinsbank;Stadtstr. 7;Burgau;89331;;48.4318;10.4069
 
 1806;-;Postbank;Poststr. 5;Walsrode;29664;;52.863;9.59253
+
+1807;-;Commerzbank;Bahnhofstr. 4;Siegen;57072;;50.8747;8.01851
