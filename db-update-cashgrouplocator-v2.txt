@@ -1020,3 +1020,7 @@
 1806;-;Postbank;Poststr. 5;Walsrode;29664;;52.863;9.59253
 
 1807;-;Commerzbank;Bahnhofstr. 4;Siegen;57072;;50.8747;8.01851
+
+1808;-;Postbank;Ritterstr. 6-7;Berlin;10969;;52.501;13.4124
+1809;-;Postbank;Hellersdorfer Str. 78;Berlin-Kaulsdorf;12619;;52.5243;13.5906
+1810;+;Postbank;Hellersdorfer Str. 78;Berlin-Kaulsdorf;12619;;52.521331;13.588335
