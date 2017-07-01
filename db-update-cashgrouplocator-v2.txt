@@ -1024,3 +1024,7 @@
 1808;-;Postbank;Ritterstr. 6-7;Berlin;10969;;52.501;13.4124
 1809;-;Postbank;Hellersdorfer Str. 78;Berlin-Kaulsdorf;12619;;52.5243;13.5906
 1810;+;Postbank;Hellersdorfer Str. 78;Berlin-Kaulsdorf;12619;;52.521331;13.588335
+
+1811;-;Deutsche Bank;Leerer Str. 14;Steinfurt;48565;;52.1473;7.33602
+1812;-;Postbank;Bismarkstr. 12;Steinfurt;48565;;52.1502;7.34383
+1813;+;Postbank;Bismarkstr. 12;Steinfurt;48565;;52.147985;7.333571
