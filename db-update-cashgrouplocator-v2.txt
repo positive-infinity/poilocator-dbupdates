@@ -1028,3 +1028,6 @@
 1811;-;Deutsche Bank;Leerer Str. 14;Steinfurt;48565;;52.1473;7.33602
 1812;-;Postbank;Bismarkstr. 12;Steinfurt;48565;;52.1502;7.34383
 1813;+;Postbank;Bismarkstr. 12;Steinfurt;48565;;52.147985;7.333571
+
+1814;-;Deutsche Bank;Steinweg 10;Brilon;59929;;51.3969;8.56844
+1815;-;Deutsche Bank;Kaiserstr. 60;Rastatt;76437;;48.8609;8.19958
