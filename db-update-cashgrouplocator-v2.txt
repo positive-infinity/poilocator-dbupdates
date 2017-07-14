@@ -1040,3 +1040,5 @@
 1821;-;Commerzbank;Eiffestr. 80;Hamburg;20537;;53.5525;10.0404
 
 1822;+;Deutsche Bank;Drakestraße 48a;Berlin;12205;;52.442121;13.297217
+
+1823;+;Commerzbank;Drakestr. 33;Berlin;12205;;52.442944;13.297106
