@@ -1042,3 +1042,5 @@
 1822;+;Deutsche Bank;Drakestraße 48a;Berlin;12205;;52.442121;13.297217
 
 1823;+;Commerzbank;Drakestr. 33;Berlin;12205;;52.442944;13.297106
+
+1824;-;Hypovereinsbank;Hauptstr. 15;Tegernsee;83684;;47.711;11.7528
