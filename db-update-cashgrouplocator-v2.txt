@@ -1044,3 +1044,9 @@
 1823;+;Commerzbank;Drakestr. 33;Berlin;12205;;52.442944;13.297106
 
 1824;-;Hypovereinsbank;Hauptstr. 15;Tegernsee;83684;;47.711;11.7528
+
+1825;-;Deutsche Bank;Marktallee 41;Münster;48165;;51.9041;7.64438
+1826;-;Postbank;Beusselstr. 59-60;Berlin;10553;;52.5299;13.3284
+1827;-;Postbank;Zum Kirchsteigfeld 2;Potsdam;14480;;52.374;13.127
+1828;-;Commerzbank;Kurt-Schumacher-Str. 26-28;Hannover;30159;;52.3768;9.73423
+1829;+;Commerzbank;Am Klagesmarkt 36b;Hannover;30159;;52.379205;9.729064
