@@ -1050,3 +1050,11 @@
 1827;-;Postbank;Zum Kirchsteigfeld 2;Potsdam;14480;;52.374;13.127
 1828;-;Commerzbank;Kurt-Schumacher-Str. 26-28;Hannover;30159;;52.3768;9.73423
 1829;+;Commerzbank;Am Klagesmarkt 36b;Hannover;30159;;52.379205;9.729064
+
+1830;-;Deutsche Bank;Holstenstr. 18;Kaltenkirchen;24568;;53.8372;9.96217
+
+1831;-;Berliner Bank;Reichsstr. 94;Berlin;14052;;52.5132;13.2653
+
+1832;-;Postbank;Seestraße 1;Seebad Ahlbeck;17419;Postfiliale, u.U. nicht durchgängig geöffnet;53.939952;14.186644
+
+1833;-;Deutsche Bank;Elbeallee 60;Bielefeld;33689;;51.947;8.58773
