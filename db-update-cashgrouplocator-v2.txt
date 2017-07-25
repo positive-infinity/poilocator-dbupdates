@@ -1058,3 +1058,6 @@
 1832;-;Postbank;Seestraße 1;Seebad Ahlbeck;17419;Postfiliale, u.U. nicht durchgängig geöffnet;53.939952;14.186644
 
 1833;-;Deutsche Bank;Elbeallee 60;Bielefeld;33689;;51.947;8.58773
+
+1834;-;Commerzbank;Sennestadtring 1;Bielefeld;33689;;51.9517;8.59917
+1835;+;Commerzbank;Sennestadtring 1;Bielefeld;33689;;51.945517;8.582075
