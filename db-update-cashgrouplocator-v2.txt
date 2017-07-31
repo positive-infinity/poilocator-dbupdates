@@ -1061,3 +1061,14 @@
 
 1834;-;Commerzbank;Sennestadtring 1;Bielefeld;33689;;51.9517;8.59917
 1835;+;Commerzbank;Sennestadtring 1;Bielefeld;33689;;51.945517;8.582075
+
+1836;-;Deutsche Bank;Seckenheimer Str. 48;Mannheim;68165;;49.4799;8.48041
+1837;-;Hypovereinsbank;Am Markt 5;Cadenberge;21781;;53.7718;9.05845
+
+1838;-;Commerzbank;Bahnhofstr. 44/45;Greifswald;17489;;54.0928;13.3743
+1839;+;Postbank;Bahnhofstr. 44;Greifswald;17489;;54.0928;13.3743
+1840;+;Postbank;Anklamer Landstraße 1;Greifswald;17491;;54.076908;13.431593
+1841;-;Postbank;Mühlenstr. 12;Greifswald;17489;;54.0897;13.3534
+1842;+;Postbank;Mühlenstr. 12;Greifswald;17489;;54.095380;13.382091
+1843;+;Deutsche Bank;Ernst-Thälmann-Ring 4c;Greifswald;17491;;54.079256;13.413236
+1844;+;Postbank;Nordhäuser Str. 73t;Erfurt;99091;im Thüringen-Park;51.009202;10.992217
