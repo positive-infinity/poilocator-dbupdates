@@ -1072,3 +1072,5 @@
 1842;+;Postbank;Mühlenstr. 12;Greifswald;17489;;54.095380;13.382091
 1843;+;Deutsche Bank;Ernst-Thälmann-Ring 4c;Greifswald;17491;;54.079256;13.413236
 1844;+;Postbank;Nordhäuser Str. 73t;Erfurt;99091;im Thüringen-Park;51.009202;10.992217
+
+1845;+;Commerzbank;Friedrichstraße 88-89;Berlin;10117;;52.517735;13.388876
