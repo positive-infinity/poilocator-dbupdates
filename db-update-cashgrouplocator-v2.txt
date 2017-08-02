@@ -1074,3 +1074,6 @@
 1844;+;Postbank;Nordhäuser Str. 73t;Erfurt;99091;im Thüringen-Park;51.009202;10.992217
 
 1845;+;Commerzbank;Friedrichstraße 88-89;Berlin;10117;;52.517735;13.388876
+
+1846;-;Postbank;Lauterburger Str. 13A;Kandel;76870;;49.0767;8.20231
+1847;-;Postbank;Lauterburger Str. 13a;Kandel;76870;;49.075;8.20255
