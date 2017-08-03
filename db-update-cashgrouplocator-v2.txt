@@ -1077,3 +1077,6 @@
 
 1846;-;Postbank;Lauterburger Str. 13A;Kandel;76870;;49.0767;8.20231
 1847;-;Postbank;Lauterburger Str. 13a;Kandel;76870;;49.075;8.20255
+
+1848;-;Berliner Bank;Am Kiesteich 63;Berlin;13589;;52.5504;13.1645
+1849;-;Hypovereinsbank;Hauptstr. 50;Mellrichstadt;97638;;50.4265;10.3008
