@@ -1080,3 +1080,5 @@
 
 1848;-;Berliner Bank;Am Kiesteich 63;Berlin;13589;;52.5504;13.1645
 1849;-;Hypovereinsbank;Hauptstr. 50;Mellrichstadt;97638;;50.4265;10.3008
+
+1850;-;Deutsche Bank;Berliner Allee 47;Berlin;13088;;52.5488;13.4526
