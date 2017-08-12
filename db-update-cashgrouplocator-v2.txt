@@ -1084,3 +1084,7 @@
 1850;-;Deutsche Bank;Berliner Allee 47;Berlin;13088;;52.5488;13.4526
 
 1851;-;Deutsche Bank;Steglitzer Damm 26;Berlin;12169;;52.4507;13.3406
+
+1852;-;Commerzbank;Maximiliansplatz 19;München;80333;;48.1414;11.5707
+1853;-;Postbank;Weststraße 25;Herzogenrath;52134;;50.834400;6.086484
+1854;-;Postbank;D;Iserlohn;58636;;51.3818;7.72185
