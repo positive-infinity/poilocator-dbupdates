@@ -1088,3 +1088,27 @@
 1852;-;Commerzbank;Maximiliansplatz 19;München;80333;;48.1414;11.5707
 1853;-;Postbank;Weststraße 25;Herzogenrath;52134;;50.834400;6.086484
 1854;-;Postbank;D;Iserlohn;58636;;51.3818;7.72185
+
+1855;-;Postbank;Neuhofer Str. 1;Mannheim;68219;;49.4344;8.5229
+1856;-;Berliner Bank;Breite Str. 33-34;Berlin;13187;;52.5701;13.4077
+1857;-;Postbank;Berliner Str. 12;Berlin-Pankow;13187;;52.5683;13.4117
+1858;-;Postbank;Posthuisstr. 5-7;Germersheim;76726;;49.2092;8.37425
+1859;-;Hypovereinsbank;Bismarckstr. 10;Germersheim;76726;;49.2181;8.37273
+1860;-;Deutsche Bank;Dorotheenstr. 1;Düsseldorf;40235;;51.2317;6.80875
+1861;-;Postbank;Überseering 17;Hamburg;22297;;53.6032;10.0246
+1862;-;Postbank;König-Wilhelm-Str. 35;Laupheim;88471;;48.2325;9.87899
+1863;-;Postbank;Am Drosselberg 47;Erfurt;99097;;50.9486;11.078
+
+1864;-;Deutsche Bank;Wilhelmstr. 167-168;Berlin;13595;;52.529;13.1958
+1865;-;Deutsche Bank;Markt 5;Berlin;13597;;52.537;13.2053
+1866;-;Commerzbank;Moritzstr. 9;Berlin;13597;;52.5381;13.2021
+1867;+;Commerzbank;Moritzstr. 9;Berlin;13597;;52.538313;13.201847
+
+1868;-;Commerzbank;Brüderstr. 19;Angermünde;16278;;53.0175;14.004
+1869;+;Commerzbank;Brüderstr. 19;Angermünde;16278;Geschlossen von 22-6 Uhr;53.0175;14.004
+1870;-;Deutsche Bank;Karthausstr. 12;Schwedt;16303;;53.0576;14.2845
+1871;+;Deutsche Bank;Karthausstr. 12;Schwedt;16303;Geschlossen von 22-6 Uhr;53.0576;14.2845
+1872;-;Shell Tankstelle;Kölner Str. 37;Altenkirchen;57610;;50.6871200;7.6326100
+1873;-;Shell Tankstelle;Rheinstraße;Flammersfeld;57632;;50.6482200;7.5271100
+1874;-;Deutsche Bank;Lange Str. 11;Lübbecke;32312;;52.3035;8.61574
+1875;-;Berliner Bank;Prinzenallee 89-90;Berlin;13357;;52.553;13.3817
