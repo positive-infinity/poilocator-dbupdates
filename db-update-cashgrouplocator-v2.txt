@@ -1112,3 +1112,6 @@
 1873;-;Shell Tankstelle;Rheinstraße;Flammersfeld;57632;;50.6482200;7.5271100
 1874;-;Deutsche Bank;Lange Str. 11;Lübbecke;32312;;52.3035;8.61574
 1875;-;Berliner Bank;Prinzenallee 89-90;Berlin;13357;;52.553;13.3817
+
+1876;-;Commerzbank;Bahnhofstr. 20-24;Wetzlar;35576;;50.5633;8.50316
+1877;+;Postbank;Am Forum 1;Wetzlar;35576;im Eingangsbereich von Kaufland (Einkaufszentrum Forum);50.564535;8.505847
