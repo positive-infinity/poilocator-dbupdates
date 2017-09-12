@@ -1115,3 +1115,7 @@
 
 1876;-;Commerzbank;Bahnhofstr. 20-24;Wetzlar;35576;;50.5633;8.50316
 1877;+;Postbank;Am Forum 1;Wetzlar;35576;im Eingangsbereich von Kaufland (Einkaufszentrum Forum);50.564535;8.505847
+
+1878;-;Deutsche Bank;Am Rodelberg 10;Mainz;55131;;49.981337;8.26841
+1879;-;Deutsche Bank;Obernstr. 4;Stadthagen;31655;;52.3231;9.20584
+1880;-;Deutsche Bank;Maximilianstr. 8-10;Ansbach;91522;;49.3004;10.5715
