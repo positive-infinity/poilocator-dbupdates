@@ -1119,3 +1119,9 @@
 1878;-;Deutsche Bank;Am Rodelberg 10;Mainz;55131;;49.981337;8.26841
 1879;-;Deutsche Bank;Obernstr. 4;Stadthagen;31655;;52.3231;9.20584
 1880;-;Deutsche Bank;Maximilianstr. 8-10;Ansbach;91522;;49.3004;10.5715
+
+1881;-;Hypovereinsbank;Stadtplatz 55;Tittmoning;84529;;48.0636;12.7663
+1882;+;Postbank;Badstraße 35;Berlin;13357;Mo-Fr 10-18 Uhr, Sa 10-14 Uhr;52.553176;13.379190
+1883;+;Shell Tankstelle;Prinzenallee 20;Berlin;13357;;52.555173;13.384346
+
+1884;+;Deutsche Bank;Westenfelder Str. 203;Bochum;44867;;51.464796;7.151700
