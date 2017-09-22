@@ -1125,3 +1125,9 @@
 1883;+;Shell Tankstelle;Prinzenallee 20;Berlin;13357;;52.555173;13.384346
 
 1884;+;Deutsche Bank;Westenfelder Str. 203;Bochum;44867;;51.464796;7.151700
+
+1885;+;Commerzbank;Uleweg 33;Maasholm;24404;;54.683406;9.992925
+1886;+;Postbank;Wilhelm-Leuschner-Straße 4;Mainz;55130;im Einzelhandel, u.U. nicht durchgängig geöffnet;49.961439;8.312085
+1887;-;Berliner Bank;Alt-Moabit 98;Berlin;10559;;52.524584;13.346339
+1888;+;Postbank;Erbeweg 22;Porta Westfalica;32457;im OBI Markt;52.263783;8.899259
+1889;-;Hypovereinsbank;Altdorfer Str. 1;Landshut;84032;;48.5505;12.1389
