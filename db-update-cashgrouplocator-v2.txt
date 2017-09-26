@@ -1131,3 +1131,9 @@
 1887;-;Berliner Bank;Alt-Moabit 98;Berlin;10559;;52.524584;13.346339
 1888;+;Postbank;Erbeweg 22;Porta Westfalica;32457;im OBI Markt;52.263783;8.899259
 1889;-;Hypovereinsbank;Altdorfer Str. 1;Landshut;84032;;48.5505;12.1389
+
+1890;-;Hypovereinsbank;Süderstr. 81;Harrislee;24955;;54.8045;9.37921
+1891;+;Postbank;Bundesstraße 20;Oeversee;24988;an der Karo-Tankstelle;54.693618;9.431611
+1892;+;Shell Tankstelle;Heerstraße 326-328;Berlin;13593;;52.517088;13.178843
+1893;-;Commerzbank;Kottbusser Str. 1;Berlin;10999;;52.4983;13.4185
+1894;-;Berliner Bank;Skalitzer Str. 137;Berlin;10999;;52.4996;13.4184
