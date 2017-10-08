@@ -1150,8 +1150,7 @@ DB update file for Cash Group Automaten
 1903;-;Postbank;Berg-am-Laim-Str. 99;München;81673;;48.1299;11.6227
 1904;-;Shell Tankstelle;Prenzlauer Str.;Angermünde;16278;;53.0285200;13.9943100
 1905;+;Shell Tankstelle;Prenzlauer Str.;Angermünde;16278;6-22 Uhr;53.0285200;13.9943100
-1906;-;Postbank;Marktstraße 25;Saerbeck;48369;Mo-Fr 9:00-12:30 und 14:30-18:00, Sa 9:00-12:30;52.174047;7.633451
-1907;-;Deutsche Bank;Lister Meile 76;Hannover;30161;;52.3878;9.74938
-1908;-;Berliner Bank;Kurfürstendamm 62;Berlin;10707;;52.5008;13.3119
-1909;+;Deutsche Bank;Kurfürstendamm 62;Berlin;10707;;52.5008;13.3119
-1910;-;Deutsche Bank;Kurfürstendamm 182-183;Berlin;10707;;52.5006;13.3134
+1906;-;Deutsche Bank;Lister Meile 76;Hannover;30161;;52.3878;9.74938
+1907;-;Berliner Bank;Kurfürstendamm 62;Berlin;10707;;52.5008;13.3119
+1908;+;Deutsche Bank;Kurfürstendamm 62;Berlin;10707;;52.5008;13.3119
+1909;-;Deutsche Bank;Kurfürstendamm 182-183;Berlin;10707;;52.5006;13.3134
