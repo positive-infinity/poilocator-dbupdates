@@ -1155,3 +1155,5 @@
 1908;-;Berliner Bank;Kurfürstendamm 62;Berlin;10707;;52.5008;13.3119
 1909;+;Deutsche Bank;Kurfürstendamm 62;Berlin;10707;;52.5008;13.3119
 1910;-;Deutsche Bank;Kurfürstendamm 182-183;Berlin;10707;;52.5006;13.3134
+
+1911;-;Postbank;Im Breitspiel 20;Heidelberg;69126;;49.3601;8.68618
