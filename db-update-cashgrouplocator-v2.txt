@@ -1159,3 +1159,10 @@
 1911;-;Postbank;Im Breitspiel 20;Heidelberg;69126;;49.3601;8.68618
 
 1912;-;Shell Tankstelle;Am Römerstein 16;Gilching;82205;;48.1062000;11.3046000
+
+1913;-;Deutsche Bank;Königstraße 2;Wittstock;16909;;53.1633;12.486
+1914;-;Commerzbank;Friedrichstraße 88-89;Berlin;10117;;52.517735;13.388876
+1915;-;Postbank;H.-H.-Meier-Allee 40;Bremen;28213;;53.0923;8.84569
+1916;-;Deutsche Bank;Frintroper Str. 457;Essen;45359;;51.4761;6.91141
+1917;-;Hypovereinsbank;Säbener Str. 51;München;81547;;48.1019;11.5727
+1918;+;Postbank;Rheiner Str. 114;Lingen;49809;im OBI Markt, Mo-Fr 8:30-20 Uhr, Sa 8:30-18 Uhr;52.505360;7.323102
