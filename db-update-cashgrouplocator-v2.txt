@@ -1166,3 +1166,16 @@
 1916;-;Deutsche Bank;Frintroper Str. 457;Essen;45359;;51.4761;6.91141
 1917;-;Hypovereinsbank;Säbener Str. 51;München;81547;;48.1019;11.5727
 1918;+;Postbank;Rheiner Str. 114;Lingen;49809;im OBI Markt, Mo-Fr 8:30-20 Uhr, Sa 8:30-18 Uhr;52.505360;7.323102
+
+1919;-;Hypovereinsbank;Vahrenwalder Str. 140;Hannover;30165;;52.3986;9.73658
+1920;-;Deutsche Bank;Friedrichstr. 30;Neustadt an der Weinstraße;67433;;49.3537;8.1394
+1921;-;Commerzbank;Hauptstr. 93-95;Neustadt;67433;;49.3539;8.13689
+1922;-;Shell Tankstelle;Eichstr.;Neustadt;67433;;49.3284300;8.1274300
+1923;+;Deutsche Bank;Friedrichstraße 30;Neustadt a.d.W.;67433;;49.353648;8.139566
+1924;-;Deutsche Bank;Karl-Marx-Str. 163;Berlin;12043;;52.4754;13.4398
+1925;-;Shell Tankstelle;Rheiner Str. 46;Lingen;49809;;52.5128100;7.3185200
+1926;+;Postbank;Breite Str. 20;Berlin;13187;im Rathaus-Center;52.569991;13.403510
+1927;+;Shell Tankstelle;Damerowstraße 22;Berlin;13187;;52.572888;13.421035
+1928;+;Postbank;Blankenburger Str. 86-92;Berlin;13156;im OBI;52.583380;13.419045
+1929;+;Shell Tankstelle;Eschengraben 83;Berlin;13189;;52.556303;13.415001
+1930;-;Postbank;Bahnhofstr. 17;Bad Aibling;83043;;47.8621;12.0051
