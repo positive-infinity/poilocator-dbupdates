@@ -1179,3 +1179,10 @@
 1928;+;Postbank;Blankenburger Str. 86-92;Berlin;13156;im OBI;52.583380;13.419045
 1929;+;Shell Tankstelle;Eschengraben 83;Berlin;13189;;52.556303;13.415001
 1930;-;Postbank;Bahnhofstr. 17;Bad Aibling;83043;;47.8621;12.0051
+
+1931;-;Postbank;Berenbosteler Str. 74-76;Garbsen;30823;;52.4226;9.59331
+1932;+;Postbank;Hauptstraße 131;Wiesmoor;26639;im Combi;53.419549;7.743852
+1933;-;Deutsche Bank;Waltroper Str. 14;Lünen;44536;;51.5964;7.43892
+1934;-;Deutsche Bank;Evinger Str. 188;Dortmund;44339;;51.5488;7.4622
+1935;-;Deutsche Bank;Hagelstr. 4;Waltrop;45731;;51.6244;7.39607
+
