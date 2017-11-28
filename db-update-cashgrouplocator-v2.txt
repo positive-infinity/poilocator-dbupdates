@@ -1188,3 +1188,7 @@
 
 1936;-;Deutsche Bank;Longericher Str. 441;Köln;50739;;50.9962;6.91371
 
+1937;-;Postbank;Im Bungert 6-8;Bergisch Gladbach;51429;;50.9672;7.15592
+1938;-;Postbank;Schloßstr. 109-110a;Berlin;12163;;52.4615;13.3241
+1939;+;Postbank;Schloßstraße 21;Berlin;12163;;52.460267;13.323650
+1940;-;Deutsche Bank;Kirchhuchtinger Landstr. 85a;Bremen;28259;;53.0487;8.73939
