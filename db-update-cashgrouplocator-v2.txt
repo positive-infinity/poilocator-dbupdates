@@ -1192,3 +1192,7 @@
 1938;-;Postbank;Schloßstr. 109-110a;Berlin;12163;;52.4615;13.3241
 1939;+;Postbank;Schloßstraße 21;Berlin;12163;;52.460267;13.323650
 1940;-;Deutsche Bank;Kirchhuchtinger Landstr. 85a;Bremen;28259;;53.0487;8.73939
+
+1941;-;Commerzbank;Lotter Str. 122;Osnabrück;49078;;52.275;8.03515
+1942;-;Deutsche Bank;Deutzer Freiheit 53;Köln;50679;;50.9369;6.972
+1943;+;Postbank;Schillerstraße 8;Lingen;49811;im Combi;52.541978;7.346125
