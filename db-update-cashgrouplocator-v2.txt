@@ -1196,3 +1196,14 @@
 1941;-;Commerzbank;Lotter Str. 122;Osnabrück;49078;;52.275;8.03515
 1942;-;Deutsche Bank;Deutzer Freiheit 53;Köln;50679;;50.9369;6.972
 1943;+;Postbank;Schillerstraße 8;Lingen;49811;im Combi;52.541978;7.346125
+
+1944;-;Hypovereinsbank;Am SchloßPark 2;Glücksburg;24960;;54.8335;9.54775
+
+1945;-;Berliner Bank;Nonnendammallee 95-96;Berlin;13629;;52.537;13.268
+1946;-;Deutsche Bank;Am Stadtgraben 1;Günzburg;89312;;48.4542;10.2772
+
+1947;-;Postbank;Frauenlobplatz 2;Mainz;55128;;50.008;8.26335
+
+1948;-;Postbank;Poststraße 36;Velten;16727;;52.687137;13.178797
+
+1949;-;Commerzbank;Hindenburgstr. 68;Leonberg;71229;;48.7951;9.00864
