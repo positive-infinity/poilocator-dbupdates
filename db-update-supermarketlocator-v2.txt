@@ -274,3 +274,5 @@
 1255;-;Rewe;Neue Gasse 8;Weilburg;35792;;50.53923;8.25864
 
 1256;-;Aldi Nord;Langenfelder Damm 46;Hamburg;22525;;53.5812718;9.9381807
+
+1257;-;Rewe;Robert-Gerwig-Straße 11;Waldshut-Tiengen;79761;;47.620231;8.221387
