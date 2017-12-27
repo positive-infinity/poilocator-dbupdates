@@ -1207,3 +1207,5 @@
 1948;-;Postbank;Poststraße 36;Velten;16727;;52.687137;13.178797
 
 1949;-;Commerzbank;Hindenburgstr. 68;Leonberg;71229;;48.7951;9.00864
+
+1950;-;Deutsche Bank;Harkortstr. 66;Dortmund;44225;;51.4756;7.43869
