@@ -1209,3 +1209,10 @@
 1949;-;Commerzbank;Hindenburgstr. 68;Leonberg;71229;;48.7951;9.00864
 
 1950;-;Deutsche Bank;Harkortstr. 66;Dortmund;44225;;51.4756;7.43869
+
+1951;-;Deutsche Bank;Hardenbergstr. 29d;Berlin;10623;;52.5062;13.3327
+1952;-;Commerzbank;Kurfürstendamm 59;Berlin;10707;;52.5008;13.3137
+1953;+;Deutsche Bank;Kurfürstendamm 59;Berlin;10707;;52.5008;13.3137
+1954;-;Deutsche Bank;Kurfürstendamm 62;Berlin;10707;;52.5008;13.3119
+1955;-;Deutsche Bank;Bismarckplatz 14;Krefeld;47799;;51.3397;6.57553
+1956;-;Deutsche Bank;Ebertplatz 15-17;Köln;50668;;50.951;6.95816
