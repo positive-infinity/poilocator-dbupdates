@@ -1216,3 +1216,5 @@
 1954;-;Deutsche Bank;Kurfürstendamm 62;Berlin;10707;;52.5008;13.3119
 1955;-;Deutsche Bank;Bismarckplatz 14;Krefeld;47799;;51.3397;6.57553
 1956;-;Deutsche Bank;Ebertplatz 15-17;Köln;50668;;50.951;6.95816
+
+1957;-;Hypovereinsbank;Aachener Str. 300;Köln;50993;;50.9377;6.90769
