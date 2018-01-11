@@ -1218,3 +1218,5 @@
 1956;-;Deutsche Bank;Ebertplatz 15-17;Köln;50668;;50.951;6.95816
 
 1957;-;Hypovereinsbank;Aachener Str. 300;Köln;50993;;50.9377;6.90769
+
+1958;+;Commerzbank;Warener Str. 7;Berlin;12683;im Unfallkrankenhaus an der Information;52.519058;13.567669
