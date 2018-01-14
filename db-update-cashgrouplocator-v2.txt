@@ -1220,3 +1220,6 @@
 1957;-;Hypovereinsbank;Aachener Str. 300;Köln;50993;;50.9377;6.90769
 
 1958;+;Commerzbank;Warener Str. 7;Berlin;12683;im Unfallkrankenhaus an der Information;52.519058;13.567669
+
+1959;-;Deutsche Bank;Speestr. 16;Ratingen;40885;;51.3347;6.83277
+1960;-;Deutsche Bank;Hohenzollernstr. 49;München;80801;;48.1603;11.5753
