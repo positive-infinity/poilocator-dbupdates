@@ -1223,3 +1223,14 @@
 
 1959;-;Deutsche Bank;Speestr. 16;Ratingen;40885;;51.3347;6.83277
 1960;-;Deutsche Bank;Hohenzollernstr. 49;München;80801;;48.1603;11.5753
+
+1961;-;Berliner Bank;Uhlandstr. 97;Berlin;10715;;52.4863;13.3224
+1962;+;Deutsche Bank;Uhlandstr. 97;Berlin;10715;;52.4863;13.3224
+1963;-;Deutsche Bank;Tauentzienstr. 1;Berlin;10789;;52.5023;13.3418
+1964;-;Deutsche Bank;Bentheimer Str. 4;Nordhorn;48529;;52.4337;7.06957
+
+1965;-;Berliner Bank;Alt-Rudow 13;Berlin;12357;;52.4212;13.4909
+1966;-;Berliner Bank;Johannisthaler Chaussee 295;Berlin;12351;;52.43;13.4576
+1967;-;Berliner Bank;Karl-Marx-Str. 91;Berlin;12043;;52.4805;13.4362
+1968;-;Deutsche Bank;Mehringdamm 35;Berlin;10961;;52.493246;13.388306
+1969;-;Deutsche Bank;Hoffmann-Allee 2;Kleve;47533;;51.7823;6.13069
