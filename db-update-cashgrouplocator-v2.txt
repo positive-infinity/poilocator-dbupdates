@@ -1234,3 +1234,5 @@
 1967;-;Berliner Bank;Karl-Marx-Str. 91;Berlin;12043;;52.4805;13.4362
 1968;-;Deutsche Bank;Mehringdamm 35;Berlin;10961;;52.493246;13.388306
 1969;-;Deutsche Bank;Hoffmann-Allee 2;Kleve;47533;;51.7823;6.13069
+
+1970;-;Postbank;Mainzer Str. 4;Germersheim;76726;;49.2279;8.36913
