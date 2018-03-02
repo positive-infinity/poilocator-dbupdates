@@ -1236,3 +1236,9 @@
 1969;-;Deutsche Bank;Hoffmann-Allee 2;Kleve;47533;;51.7823;6.13069
 
 1970;-;Postbank;Mainzer Str. 4;Germersheim;76726;;49.2279;8.36913
+
+1971;-;Postbank;Nahariyastr. 1;Bielefeld;33602;;52.0298;8.53615
+1972;+;Postbank;Herforder Str. 20;Bielefeld;33602;;52.026014;8.535415
+
+1973;-;Postbank;Heimbrügge 5-7;Dortmund;44359;;51.5699;7.3815
+1974;-;Shell Tankstelle;Dorfring 24;Tangstedt;22889;;53.745387;10.063073
