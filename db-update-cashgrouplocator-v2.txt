@@ -1242,3 +1242,9 @@
 
 1973;-;Postbank;Heimbrügge 5-7;Dortmund;44359;;51.5699;7.3815
 1974;-;Shell Tankstelle;Dorfring 24;Tangstedt;22889;;53.745387;10.063073
+
+1975;-;Shell Tankstelle;Heidenäckerstr. 36;Sandhausen;69207;;49.3522000;8.6573100
+
+1976;-;Deutsche Bank;Hans-Albers-Str. 1;Potsdam;14480;;52.37;13.1391
+1977;-;Hypovereinsbank;Nuthestr./Sternstr.;Potsdam;14480;;52.369;13.1361
+1978;-;Postbank;Hanna-Kuhnath-Straße 22;Bremen;28199;;53.0503;8.78274
