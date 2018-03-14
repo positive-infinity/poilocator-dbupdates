@@ -1248,3 +1248,7 @@
 1976;-;Deutsche Bank;Hans-Albers-Str. 1;Potsdam;14480;;52.37;13.1391
 1977;-;Hypovereinsbank;Nuthestr./Sternstr.;Potsdam;14480;;52.369;13.1361
 1978;-;Postbank;Hanna-Kuhnath-Straße 22;Bremen;28199;;53.0503;8.78274
+
+1979;-;Deutsche Bank;Orchheimer Str. 9;Bad Münstereifel;53902;;50.5532;6.76342
+1980;-;Postbank;Detlev-Bremer-Str. 45;Hamburg;20359;;53.5504;9.96501
+1981;+;Postbank;Münchner Str. 7;Bad Aibling;83043;;47.864555;12.008139
