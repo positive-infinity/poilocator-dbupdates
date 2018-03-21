@@ -1252,3 +1252,6 @@
 1979;-;Deutsche Bank;Orchheimer Str. 9;Bad Münstereifel;53902;;50.5532;6.76342
 1980;-;Postbank;Detlev-Bremer-Str. 45;Hamburg;20359;;53.5504;9.96501
 1981;+;Postbank;Münchner Str. 7;Bad Aibling;83043;;47.864555;12.008139
+
+1982;-;Deutsche Bank;Fuhlsbüttler Str. 3-7;Hamburg;22305;;53.585;10.047
+1983;-;Postbank;Volksdorfer Str. 5;Hamburg-Barmbek;21035;;53.5767;10.0392
