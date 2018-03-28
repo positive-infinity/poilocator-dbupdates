@@ -1260,3 +1260,5 @@
 1985;+;Deutsche Bank;Schloßstr. 114;Berlin;12163;;52.46210;13.32590
 1986;-;Deutsche Bank;Radilostr. 33;Frankfurt am Main;60489;;50.1241;8.60822
 1987;+;Postbank;Westerstraße 9;Dornum;26553;im Edeka, Mo-Sa 8:00-18:30 Uhr;53.646957;7.425865
+
+1988;-;Postbank;Uhlandstr. 20;Stuttgart;70182;;48.7749;9.18774
