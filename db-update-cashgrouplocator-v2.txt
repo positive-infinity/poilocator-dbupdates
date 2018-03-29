@@ -1262,3 +1262,5 @@
 1987;+;Postbank;Westerstraße 9;Dornum;26553;im Edeka, Mo-Sa 8:00-18:30 Uhr;53.646957;7.425865
 
 1988;-;Postbank;Uhlandstr. 20;Stuttgart;70182;;48.7749;9.18774
+
+1989;-;Hypovereinsbank;Moltkestr. 13-31;Fulda;36039;;50.5644;9.68415
