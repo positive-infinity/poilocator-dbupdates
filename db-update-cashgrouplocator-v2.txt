@@ -1264,3 +1264,6 @@
 1988;-;Postbank;Uhlandstr. 20;Stuttgart;70182;;48.7749;9.18774
 
 1989;-;Hypovereinsbank;Moltkestr. 13-31;Fulda;36039;;50.5644;9.68415
+
+1990;-;Postbank;Bahnhofstr. 12-14;Schwalmstadt-Treysa;34613;;50.9112;9.18677
+1991;+;Postbank;Bahnhofstr. 12-14;Schwalmstadt-Treysa;34613;Postfiliale, Mo-Fr 03:30-12:00, 14:30-18:00, Sa 08:30-12:00;50.9112;9.18677
