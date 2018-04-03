@@ -1267,3 +1267,6 @@
 
 1990;-;Postbank;Bahnhofstr. 12-14;Schwalmstadt-Treysa;34613;;50.9112;9.18677
 1991;+;Postbank;Bahnhofstr. 12-14;Schwalmstadt-Treysa;34613;Postfiliale, Mo-Fr 03:30-12:00, 14:30-18:00, Sa 08:30-12:00;50.9112;9.18677
+
+1992;-;Postbank;Herzogstr. 3;Herne;44651;;51.5152;7.16
+1993;+;Postbank;Herzogstr. 2;Herne;44651;;51.514249;7.180016
