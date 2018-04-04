@@ -1270,3 +1270,7 @@
 
 1992;-;Postbank;Herzogstr. 3;Herne;44651;;51.5152;7.16
 1993;+;Postbank;Herzogstr. 2;Herne;44651;;51.514249;7.180016
+
+1994;+;Postbank;Augustusburger Str. 189;Chemnitz;09127;;50.831566;12.953758
+1995;-;Commerzbank;Burgstr. 2;Salzwedel;29410;;52.8529;11.1528
+1996;-;Postbank;Breite Str. 34;Salzwedel;06584;;52.8546;11.1549
