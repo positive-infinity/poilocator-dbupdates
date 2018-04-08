@@ -1274,3 +1274,13 @@
 1994;+;Postbank;Augustusburger Str. 189;Chemnitz;09127;;50.831566;12.953758
 1995;-;Commerzbank;Burgstr. 2;Salzwedel;29410;;52.8529;11.1528
 1996;-;Postbank;Breite Str. 34;Salzwedel;06584;;52.8546;11.1549
+
+1997;-;Hypovereinsbank;Siemensstr. 18;Mühldorf;84453;;48.2502;12.4947
+1998;+;Hypovereinsbank;Bernauer Str. 5;Prien am Chiemsee;83209;;47.854710;12.344919
+1999;+;Deutsche Bank;Steinweg 25;Halle (Saale);06110;;51.474521;11.970187
+
+2000;+;Postbank;Seestraße 1;Heringsdorf;17419;Postfiliale, u.U. nicht durchgehend geöffnet;53.939766;14.186552
+2001;+;Postbank;Seestraße 80;Heringsdorf;17429;Postfiliale, u.U. nicht durchgehend geöffnet;53.971365;14.143070
+2002;+;Postbank;Hauptstraße 122;Koserow;17459;Postfiliale, u.U. nicht durchgehend geöffnet;54.045284;14.002897
+2003;+;Postbank;Strandstraße 22;Karlshagen;17449;Postfiliale, u.U. nicht durchgehend geöffnet;54.119754;13.836377
+2004;+;Postbank;Bäderstraße 30;Usedom;17406;Postfiliale, u.U. nicht durchgehend geöffnet;53.877202;13.923730
