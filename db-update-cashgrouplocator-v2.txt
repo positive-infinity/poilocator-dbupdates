@@ -1284,3 +1284,5 @@
 2002;+;Postbank;Hauptstraße 122;Koserow;17459;Postfiliale, u.U. nicht durchgehend geöffnet;54.045284;14.002897
 2003;+;Postbank;Strandstraße 22;Karlshagen;17449;Postfiliale, u.U. nicht durchgehend geöffnet;54.119754;13.836377
 2004;+;Postbank;Bäderstraße 30;Usedom;17406;Postfiliale, u.U. nicht durchgehend geöffnet;53.877202;13.923730
+
+2005;-;Postbank;Bahnhofstr. 34;Markt-Schwaben;85570;;48.1934;11.8624
