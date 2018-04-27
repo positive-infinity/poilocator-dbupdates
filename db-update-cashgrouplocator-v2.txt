@@ -1289,3 +1289,5 @@
 
 2006;-;Deutsche Bank;Barer Str. 62;München;80799;;48.1509;11.5732
 2007;-;Postbank;Bahnhofstr. 12;Pfullendorf;88630;;47.925172;9.252457
+
+2008;-;Hypovereinsbank;Ringstr. 1;Wesselburen;25764;;54.2114;8.92098
