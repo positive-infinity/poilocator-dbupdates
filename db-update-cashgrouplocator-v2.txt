@@ -1286,3 +1286,6 @@
 2004;+;Postbank;Bäderstraße 30;Usedom;17406;Postfiliale, u.U. nicht durchgehend geöffnet;53.877202;13.923730
 
 2005;-;Postbank;Bahnhofstr. 34;Markt-Schwaben;85570;;48.1934;11.8624
+
+2006;-;Deutsche Bank;Barer Str. 62;München;80799;;48.1509;11.5732
+2007;-;Postbank;Bahnhofstr. 12;Pfullendorf;88630;;47.925172;9.252457
