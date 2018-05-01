@@ -1291,3 +1291,5 @@
 2007;-;Postbank;Bahnhofstr. 12;Pfullendorf;88630;;47.925172;9.252457
 
 2008;-;Hypovereinsbank;Ringstr. 1;Wesselburen;25764;;54.2114;8.92098
+
+2009;-;Commerzbank;Potsdamer Str. 125;Berlin;10783;;52.4981;13.3622
