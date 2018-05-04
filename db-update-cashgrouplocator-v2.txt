@@ -1293,3 +1293,5 @@
 2008;-;Hypovereinsbank;Ringstr. 1;Wesselburen;25764;;54.2114;8.92098
 
 2009;-;Commerzbank;Potsdamer Str. 125;Berlin;10783;;52.4981;13.3622
+
+2010;-;Hypovereinsbank;Marktplatz 2;Waging;83329;;47.9336;12.7341
