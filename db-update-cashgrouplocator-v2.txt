@@ -1295,3 +1295,6 @@
 2009;-;Commerzbank;Potsdamer Str. 125;Berlin;10783;;52.4981;13.3622
 
 2010;-;Hypovereinsbank;Marktplatz 2;Waging;83329;;47.9336;12.7341
+
+2011;-;Shell Tankstelle;Neustädterstr. 29;Emskirchen;91448;;49.5530300;10.7030500
+2012;-;Commerzbank;Maximilianstr. 12;Bonn;53111;;50.7322;7.09944
