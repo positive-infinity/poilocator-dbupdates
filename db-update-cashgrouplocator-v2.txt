@@ -1298,3 +1298,6 @@
 
 2011;-;Shell Tankstelle;Neustädterstr. 29;Emskirchen;91448;;49.5530300;10.7030500
 2012;-;Commerzbank;Maximilianstr. 12;Bonn;53111;;50.7322;7.09944
+
+2013;+;Postbank;Andreasstraße 59;Berlin;10243;;52.514940;13.431635
+2014;-;Postbank;Münchener Str. 18;Haar;85540;;48.1089;11.7216
