@@ -1301,3 +1301,5 @@
 
 2013;+;Postbank;Andreasstraße 59;Berlin;10243;;52.514940;13.431635
 2014;-;Postbank;Münchener Str. 18;Haar;85540;;48.1089;11.7216
+
+2015;+;Postbank;Grunerstraße 20;Berlin;10179;;52.518602;13.416206
