@@ -1377,3 +1377,5 @@
 2085;+;Deutsche Bank;Breite Str. 26;Berlin;14199;;52.4751;13.2908
 2086;+;Deutsche Bank;Brandenburger Str. 48;Potsdam;14467;;52.4006;13.0556
 2087;+;Deutsche Bank;Augustenburger Platz 1;Berlin;13353;;52.54234;13.34827
+
+2088;+;Postbank;Carl-Thiersch-Straße 4;Erlangen;91052;im Kaufland, Mo-Sa 7-20 Uhr;49.593527;11.025821
