@@ -1381,3 +1381,5 @@
 2088;+;Postbank;Carl-Thiersch-Straße 4;Erlangen;91052;im Kaufland, Mo-Sa 7-20 Uhr;49.593527;11.025821
 
 2089;-;Shell Tankstelle;Bliestalstr. 81;Gersheim;66453;;49.1508800;7.2360600
+
+2090;-;Deutsche Bank;Schloßstr. 88;Berlin;12163;;52.4575;13.3214
