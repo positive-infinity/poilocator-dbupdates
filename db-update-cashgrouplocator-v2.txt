@@ -1383,3 +1383,5 @@
 2089;-;Shell Tankstelle;Bliestalstr. 81;Gersheim;66453;;49.1508800;7.2360600
 
 2090;-;Deutsche Bank;Schloßstr. 88;Berlin;12163;;52.4575;13.3214
+
+2091;-;Commerzbank;Bahnhofstr. 2;Marburg;35037;;50.816;8.76866
