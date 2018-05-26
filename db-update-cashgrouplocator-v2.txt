@@ -1385,3 +1385,5 @@
 2090;-;Deutsche Bank;Schloßstr. 88;Berlin;12163;;52.4575;13.3214
 
 2091;-;Commerzbank;Bahnhofstr. 2;Marburg;35037;;50.816;8.76866
+
+2092;-;Deutsche Bank;Potsdamer Str. 48-50;Teltow;14513;;52.4022;13.2575
