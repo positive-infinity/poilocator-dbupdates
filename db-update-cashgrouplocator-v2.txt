@@ -1391,3 +1391,5 @@
 2093;+;Postbank;Chausseestraße 25;Berlin;10115;;52.531464;13.382255
 
 2094;+;Postbank;Bahnhofstraße 29;Coburg;96450;;50.262918;10.960228
+
+2095;-;Postbank;Saarbrücker Str. 292-294;Saarbrücken-Dudweiler;66125;;49.2784;7.0375
