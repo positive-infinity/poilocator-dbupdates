@@ -1393,3 +1393,5 @@
 2094;+;Postbank;Bahnhofstraße 29;Coburg;96450;;50.262918;10.960228
 
 2095;-;Postbank;Saarbrücker Str. 292-294;Saarbrücken-Dudweiler;66125;;49.2784;7.0375
+
+2096;-;Deutsche Bank;Friedrichstr. 185-190;Berlin;10117;;52.5117;13.3895
