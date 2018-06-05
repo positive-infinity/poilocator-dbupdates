@@ -1395,3 +1395,7 @@
 2095;-;Postbank;Saarbrücker Str. 292-294;Saarbrücken-Dudweiler;66125;;49.2784;7.0375
 
 2096;-;Deutsche Bank;Friedrichstr. 185-190;Berlin;10117;;52.5117;13.3895
+
+2097;+;Postbank;Feringastraße 5;Unterföhring;85774;;48.178431;11.633491
+2098;-;Commerzbank;Lyoner Str. 11;Frankfurt;60528;;50.0832;8.62978
+2099;+;Commerzbank;Lyoner Str. 12;Frankfurt;60528;;50.083685;8.629081
