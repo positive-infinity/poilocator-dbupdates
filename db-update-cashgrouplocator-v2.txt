@@ -1399,3 +1399,5 @@
 2097;+;Postbank;Feringastraße 5;Unterföhring;85774;;48.178431;11.633491
 2098;-;Commerzbank;Lyoner Str. 11;Frankfurt;60528;;50.0832;8.62978
 2099;+;Commerzbank;Lyoner Str. 12;Frankfurt;60528;;50.083685;8.629081
+
+2100;-;Deutsche Bank;Diakonissenstr. 1;Karlsruhe;76199;;48.9724;8.40496
