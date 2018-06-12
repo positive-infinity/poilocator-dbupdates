@@ -1401,3 +1401,6 @@
 2099;+;Commerzbank;Lyoner Str. 12;Frankfurt;60528;;50.083685;8.629081
 
 2100;-;Deutsche Bank;Diakonissenstr. 1;Karlsruhe;76199;;48.9724;8.40496
+
+2101;-;Postbank;Palmstr. 23;Lörrach;79539;;47.6139;7.66353
+2102;+;Postbank;Wallbrunnstraße 24;Lörrach;79540;;47.610800;7.663618
