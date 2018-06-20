@@ -1404,3 +1404,9 @@
 
 2101;-;Postbank;Palmstr. 23;Lörrach;79539;;47.6139;7.66353
 2102;+;Postbank;Wallbrunnstraße 24;Lörrach;79540;;47.610800;7.663618
+
+2103;-;Deutsche Bank;Frankfurter Str. 85;Rodgau;63110;;50.0005;8.86612
+2104;-;Postbank;Mainzer Str. 16;Berlin;10715;;52.48;13.3269
+2105;-;Shell Tankstelle;Bremervörder Str. 150;Stade;21682;;53.5959000;9.4388600
+
+2106;-;Postbank;Königstr. 44-46;Lübeck;23552;;53.8685;10.6883
