@@ -1410,3 +1410,5 @@
 2105;-;Shell Tankstelle;Bremervörder Str. 150;Stade;21682;;53.5959000;9.4388600
 
 2106;-;Postbank;Königstr. 44-46;Lübeck;23552;;53.8685;10.6883
+
+2107;-;Postbank;Lübecker Str. 1-2;Berlin;10559;;52.5264;13.3458
