@@ -1412,3 +1412,5 @@
 2106;-;Postbank;Königstr. 44-46;Lübeck;23552;;53.8685;10.6883
 
 2107;-;Postbank;Lübecker Str. 1-2;Berlin;10559;;52.5264;13.3458
+
+2108;-;Postbank;Holzlandstr. 1;Erfurt-Süd;99099;;50.973;11.0638
