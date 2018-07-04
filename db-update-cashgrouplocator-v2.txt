@@ -1414,3 +1414,6 @@
 2107;-;Postbank;Lübecker Str. 1-2;Berlin;10559;;52.5264;13.3458
 
 2108;-;Postbank;Holzlandstr. 1;Erfurt-Süd;99099;;50.973;11.0638
+
+2109;+;Postbank;Meglingerstraße 31;München;81477;im Hagebaumarkt, Mo-Sa 8-20 Uhr;48.090610;11.507359
+2110;-;Shell Tankstelle;Weidhäuser Str. 53;Sonnefeld;96242;;50.2162500;11.1438800
