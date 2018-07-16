@@ -1422,3 +1422,5 @@
 2112;+;Postbank;Drachenburgstraße 14;Bonn;53179;im HIT, Mo-Sa 8-22 Uhr;50.667922;7.178917
 2113;-;Deutsche Bank;Rathausstr. 46-48;Stolberg;52222;;50.7719;6.22727
 2114;-;Postbank;Rosenallee 28;Eschweiler;52249;;50.8158;6.26394
+
+2115;-;Postbank;Hallesches Ufer 60;Berlin;10963;;52.4996;13.3832
