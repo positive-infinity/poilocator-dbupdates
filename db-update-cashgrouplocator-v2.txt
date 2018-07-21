@@ -1424,3 +1424,7 @@
 2114;-;Postbank;Rosenallee 28;Eschweiler;52249;;50.8158;6.26394
 
 2115;-;Postbank;Hallesches Ufer 60;Berlin;10963;;52.4996;13.3832
+
+2116;-;Postbank;Neuer Markt 20;Kaufbeuren-Neugablonz;87600;;47.9129;10.6358
+2117;-;Commerzbank;Amalienstr. 93;Karlsruhe;76133;;49.0102;8.38758
+2118;-;Shell Tankstelle;Traunsteiner Str. 2;Waging;83329;;47.9323700;12.7295200
