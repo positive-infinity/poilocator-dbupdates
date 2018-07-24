@@ -1428,3 +1428,6 @@
 2116;-;Postbank;Neuer Markt 20;Kaufbeuren-Neugablonz;87600;;47.9129;10.6358
 2117;-;Commerzbank;Amalienstr. 93;Karlsruhe;76133;;49.0102;8.38758
 2118;-;Shell Tankstelle;Traunsteiner Str. 2;Waging;83329;;47.9323700;12.7295200
+
+2119;-;Postbank;Lüneburger Str. 24;Laatzen;30880;;52.2966;9.82611
+2120;+;Postbank;Lüneburger Str. 24;Laatzen;30880;im OBI, Mo-Sa 8-20 Uhr;52.2966;9.82611
