@@ -1431,3 +1431,5 @@
 
 2119;-;Postbank;Lüneburger Str. 24;Laatzen;30880;;52.2966;9.82611
 2120;+;Postbank;Lüneburger Str. 24;Laatzen;30880;im OBI, Mo-Sa 8-20 Uhr;52.2966;9.82611
+
+2121;-;Deutsche Bank;Oranienburger Str. 88;Berlin;13437;;52.5959;13.3333
