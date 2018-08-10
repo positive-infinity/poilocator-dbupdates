@@ -1435,3 +1435,7 @@
 2121;-;Deutsche Bank;Oranienburger Str. 88;Berlin;13437;;52.5959;13.3333
 
 2122;-;Postbank;Poststr. 5;Heide;25746;;54.1983;9.0877
+
+2123;-;Postbank;Am Rathaus 6;Oberasbach;90522;;49.431;10.969
+2124;-;Commerzbank;Am Markt 7;Stadtallendorf;35260;;50.8274;9.0154
+2125;+;Commerzbank;Am Markt 7;Stadtallendorf;35260;Mo-So 6-23 Uhr;50.8274;9.0154
