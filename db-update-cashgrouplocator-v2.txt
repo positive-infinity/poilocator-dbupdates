@@ -1439,3 +1439,19 @@
 2123;-;Postbank;Am Rathaus 6;Oberasbach;90522;;49.431;10.969
 2124;-;Commerzbank;Am Markt 7;Stadtallendorf;35260;;50.8274;9.0154
 2125;+;Commerzbank;Am Markt 7;Stadtallendorf;35260;Mo-So 6-23 Uhr;50.8274;9.0154
+
+2126;-;Hypovereinsbank;Kieler Str. 40;Schacht-Audorf;24790;;54.3139;9.72127
+
+2127;-;Deutsche Bank;Wilmersdorfer Str. 138-140;Berlin;10585;;52.5121;13.3055
+2128;-;Postbank;Hauptstr. 9-10;Berlin-Hohenschönhausen;13055;;52.5486;13.5043
+
+2129;-;Deutsche Bank;Kirchheimer Str. 60;Stuttgart;70619;;48.7449;9.21251
+
+2130;+;Hypovereinsbank;Berghamer Str. 8;Erding;85435;;48.275242;11.896840
+
+2131;-;Hypovereinsbank;Mainzer Landstr. 23;Frankfurt/Main;60329;;50.1114;8.66604
+2132;-;Shell Tankstelle;Kanaltunnel Süd;Westerrönfeld;24784;;54.2804200;9.6589700
+2133;+;Shell Tankstelle;Lindenallee 31;Westerrönfeld;24784;;54.278735;9.654483
+
+2134;-;Commerzbank;Vierradener Str. 37-39;Schwedt;16303;;53.0568;14.2862
+2135;+;Commerzbank;Vierradener Str. 37-39;Schwedt;16303;Mo-So 5-23 Uhr;53.0568;14.2862
