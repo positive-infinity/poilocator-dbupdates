@@ -1455,3 +1455,6 @@
 
 2134;-;Commerzbank;Vierradener Str. 37-39;Schwedt;16303;;53.0568;14.2862
 2135;+;Commerzbank;Vierradener Str. 37-39;Schwedt;16303;Mo-So 5-23 Uhr;53.0568;14.2862
+
+2136;-;Deutsche Bank;Alter Markt 3;Emden;26721;;53.3669;7.20527
+2137;+;Postbank;Debyestraße 20;Aachen;52078;im OBI, Mo-Sa 8-20 Uhr;50.757680;6.152539
