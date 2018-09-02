@@ -1458,3 +1458,5 @@
 
 2136;-;Deutsche Bank;Alter Markt 3;Emden;26721;;53.3669;7.20527
 2137;+;Postbank;Debyestraße 20;Aachen;52078;im OBI, Mo-Sa 8-20 Uhr;50.757680;6.152539
+
+2138;-;Deutsche Bank;Kirchgasse 6;Wiesbaden;65183;;50.078845;8.237752
