@@ -1460,3 +1460,9 @@
 2137;+;Postbank;Debyestraße 20;Aachen;52078;im OBI, Mo-Sa 8-20 Uhr;50.757680;6.152539
 
 2138;-;Deutsche Bank;Kirchgasse 6;Wiesbaden;65183;;50.078845;8.237752
+
+2139;+;Postbank;Friesenstraße 27;Juist;26571;bei Elektro Abel;53.678183;6.995254
+2140;-;Commerzbank;Berger Str. 124B;Frankfurt;60316;;50.1228;8.70099
+2141;-;Deutsche Bank;Berger Str. 130;Frankfurt am Main;60385;;50.1233;8.70199
+2142;-;Postbank;Chausseestraße 25;Berlin;10115;;52.531464;13.382255
+
