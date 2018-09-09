@@ -1470,3 +1470,5 @@
 
 2144;-;Postbank;Maria-Probst-Str. 3;München;80939;;48.1928;11.5852
 
+2145;-;Commerzbank;Weststr. 120;Ahlen;59227;;51.7633;7.88269
+
