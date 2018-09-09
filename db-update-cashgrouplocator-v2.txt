@@ -1466,3 +1466,5 @@
 2141;-;Deutsche Bank;Berger Str. 130;Frankfurt am Main;60385;;50.1233;8.70199
 2142;-;Postbank;Chausseestraße 25;Berlin;10115;;52.531464;13.382255
 
+2143;-;Deutsche Bank;Müllerstr. 34a;Berlin;13353;;52.5487;13.3552
+
