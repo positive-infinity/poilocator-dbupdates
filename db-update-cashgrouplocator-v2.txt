@@ -1468,3 +1468,5 @@
 
 2143;-;Deutsche Bank;Müllerstr. 34a;Berlin;13353;;52.5487;13.3552
 
+2144;-;Postbank;Maria-Probst-Str. 3;München;80939;;48.1928;11.5852
+
