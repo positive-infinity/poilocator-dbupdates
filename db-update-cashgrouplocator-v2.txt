@@ -1472,3 +1472,5 @@
 
 2145;-;Commerzbank;Weststr. 120;Ahlen;59227;;51.7633;7.88269
 
+2146;-;Postbank;Hindenburgstr. 27;Langenau;89129;;48.4961;10.1198
+
