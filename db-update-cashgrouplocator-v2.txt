@@ -1476,3 +1476,8 @@
 
 2147;-;Hypovereinsbank;Markt 14;Plön;24306;;54.1583;10.4163
 
+2148;-;Deutsche Bank;Kaiser-Wilhelm-Platz 3;Berlin;10827;;52.4864;13.3571
+2149;-;Deutsche Bank;Kaiser-Wilhelm-Platz 1-2;Berlin;10827;;52.486;13.3564
+2150;-;Postbank;Hindenburgstr. 20;Gummersbach;51643;;51.025;7.56745
+2151;+;Postbank;Steinmüllerallee 5;Gummersbach;51643;im Forum Gummersbach;51.024752;7.565879
+
