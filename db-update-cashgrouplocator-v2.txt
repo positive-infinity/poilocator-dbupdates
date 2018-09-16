@@ -1474,3 +1474,5 @@
 
 2146;-;Postbank;Hindenburgstr. 27;Langenau;89129;;48.4961;10.1198
 
+2147;-;Hypovereinsbank;Markt 14;Plön;24306;;54.1583;10.4163
+
