@@ -1481,3 +1481,5 @@
 2150;-;Postbank;Hindenburgstr. 20;Gummersbach;51643;;51.025;7.56745
 2151;+;Postbank;Steinmüllerallee 5;Gummersbach;51643;im Forum Gummersbach;51.024752;7.565879
 
+2152;-;Deutsche Bank;Koogstr. 8;Brunsbüttel;25541;;53.8976;9.12956
+
