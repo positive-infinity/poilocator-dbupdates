@@ -1483,3 +1483,6 @@
 
 2152;-;Deutsche Bank;Koogstr. 8;Brunsbüttel;25541;;53.8976;9.12956
 
+2153;-;Postbank;Kaiserstr. 39;Wuppertal-Vohwinkel;42329;;51.2328;7.07367
+2154;-;Deutsche Bank;Döringstr. 8;Wuppertal;42115;;51.2512;7.10471
+
