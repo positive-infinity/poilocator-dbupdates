@@ -1486,3 +1486,10 @@
 2153;-;Postbank;Kaiserstr. 39;Wuppertal-Vohwinkel;42329;;51.2328;7.07367
 2154;-;Deutsche Bank;Döringstr. 8;Wuppertal;42115;;51.2512;7.10471
 
+2155;+;Hypovereinsbank;Wallensteinstraße 34;Nürnberg;90431;;49.439177;11.035849
+2156;-;Commerzbank;Vohwinkeler Str. 1;Wuppertal;42329;;51.2308;7.06973
+2157;-;Commerzbank;Kemmannstr. 6;Wuppertal;42349;;51.2054;7.13094
+2158;-;Commerzbank;Mühlenstr. 1-3;Mettmann;40822;;51.2507;6.97801
+2159;-;Deutsche Bank;Friedrich-Ebert-Str. 101;Solingen;42719;;51.1845;7.04437
+2160;-;Postbank;Kaiserstr. 26-30;Haan;42781;;51.1922;7.01094
+
