@@ -1493,3 +1493,7 @@
 2159;-;Deutsche Bank;Friedrich-Ebert-Str. 101;Solingen;42719;;51.1845;7.04437
 2160;-;Postbank;Kaiserstr. 26-30;Haan;42781;;51.1922;7.01094
 
+2161;-;Postbank;Bahnhofstr. 3;Senden;89250;;48.3199;10.0496
+2162;-;Postbank;Mühlhauser Str. 51b;Augsburg;86169;;48.4125;10.9133
+2163;+;Postbank;Schloßplatz 7;Eisleben;06295;;51.529483;11.549170
+
