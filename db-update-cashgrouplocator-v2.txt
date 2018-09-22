@@ -1497,3 +1497,5 @@
 2162;-;Postbank;Mühlhauser Str. 51b;Augsburg;86169;;48.4125;10.9133
 2163;+;Postbank;Schloßplatz 7;Eisleben;06295;;51.529483;11.549170
 
+2164;-;Postbank;Darmcher Weg 1;Meinerzhagen;58540;;51.0986;7.67522
+
