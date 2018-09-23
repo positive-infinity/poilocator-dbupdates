@@ -1499,3 +1499,5 @@
 
 2164;-;Postbank;Darmcher Weg 1;Meinerzhagen;58540;;51.0986;7.67522
 
+2165;-;Hypovereinsbank;Steinstr. 7;Recklinghausen;45657;;51.6136;7.19494
+
