@@ -1499,4 +1499,3 @@
 
 2164;-;Postbank;Darmcher Weg 1;Meinerzhagen;58540;;51.0986;7.67522
 
-
