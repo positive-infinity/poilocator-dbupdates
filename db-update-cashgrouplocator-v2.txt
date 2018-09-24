@@ -1501,3 +1501,5 @@
 
 2165;-;Hypovereinsbank;Steinstr. 7;Recklinghausen;45657;;51.6136;7.19494
 
+2166;-;Hypovereinsbank;Schmiedestr. 5;Wilster;25554;;53.9217;9.37569
+
