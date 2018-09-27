@@ -1503,3 +1503,5 @@
 
 2166;-;Hypovereinsbank;Schmiedestr. 5;Wilster;25554;;53.9217;9.37569
 
+2167;-;Deutsche Bank;Georgstr. 2a;Bad Zwischenahn;26160;;53.1831;8.00904
+
