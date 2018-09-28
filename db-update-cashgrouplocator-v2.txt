@@ -1505,3 +1505,6 @@
 
 2167;-;Deutsche Bank;Georgstr. 2a;Bad Zwischenahn;26160;;53.1831;8.00904
 
+2168;-;Deutsche Bank;Salzufler Str. 12;Bielefeld;33719;;52.0317;8.60521
+2169;-;Postbank;Wittener Str. 2;Bochum;44787;;51.4787;7.22584
+
