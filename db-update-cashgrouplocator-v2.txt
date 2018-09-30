@@ -1508,3 +1508,5 @@
 2168;-;Deutsche Bank;Salzufler Str. 12;Bielefeld;33719;;52.0317;8.60521
 2169;-;Postbank;Wittener Str. 2;Bochum;44787;;51.4787;7.22584
 
+2170;+;Postbank;Graumannsweg 75;Hamburg;22087;Uhland Shop;53.564406;10.023893
+
