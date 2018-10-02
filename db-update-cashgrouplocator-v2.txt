@@ -1512,3 +1512,10 @@
 
 2171;-;Postbank;Am Haselbusch 16;Köln;50827;;50.9618;6.89919
 
+2172;-;Deutsche Bank;Berliner Platz 1;Schwerin;19063;;53.5972;11.4493
+2173;-;Deutsche Bank;Burgstr. 49;Wittlich;54516;;49.9866;6.88937
+2174;-;Deutsche Bank;Barlstr. 10;Zell;56856;;50.027;7.16382
+2175;-;Commerzbank;Burgstr. 59;Wittlich;54516;;49.9871;6.8904
+2176;+;Commerzbank;Kurfürstenstraße 11;Wittlich;54516;;49.985414;6.891975
+2177;-;Postbank;Im Viertheil 25;Bernkastel-Kues;54470;;49.9156;7.06727
+
