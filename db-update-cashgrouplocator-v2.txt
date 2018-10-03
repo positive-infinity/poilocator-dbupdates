@@ -1519,3 +1519,5 @@
 2176;+;Commerzbank;Kurfürstenstraße 11;Wittlich;54516;;49.985414;6.891975
 2177;-;Postbank;Im Viertheil 25;Bernkastel-Kues;54470;;49.9156;7.06727
 
+2178;-;Commerzbank;Weimarische Str. 17;Erfurt;99198;;50.9768;11.0772
+
