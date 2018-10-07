@@ -1523,3 +1523,5 @@
 
 2179;+;Postbank;Eschenauer Hauptstraße 22;Eckental;90542;;49.574168;11.197626
 
+2180;-;Commerzbank;Am Schlachtensee 2;Berlin;14163;;52.438;13.2315
+
