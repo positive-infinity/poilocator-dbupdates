@@ -1521,3 +1521,5 @@
 
 2178;-;Commerzbank;Weimarische Str. 17;Erfurt;99198;;50.9768;11.0772
 
+2179;+;Postbank;Eschenauer Hauptstraße 22;Eckental;90542;;49.574168;11.197626
+
