@@ -1527,3 +1527,5 @@
 
 2181;-;Deutsche Bank;Teltower Damm 29;Berlin;14169;;52.4324;13.2593
 
+2182;-;Postbank;Torstr. 105-107;Berlin;10119;Filiale, Mo-Fr 9-19 Uhr, Sa 9-13 Uhr;52.53;13.403401
+
