@@ -1529,3 +1529,5 @@
 
 2182;-;Postbank;Torstr. 105-107;Berlin;10119;Filiale, Mo-Fr 9-19 Uhr, Sa 9-13 Uhr;52.53;13.403401
 
+2183;-;Commerzbank;Domshof 8-9;Bremen;28195;;53.0757;8.80995
+
