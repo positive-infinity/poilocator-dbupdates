@@ -1532,3 +1532,6 @@
 2183;-;Commerzbank;Domshof 8-9;Bremen;28195;;53.0757;8.80995
 
 2184;-;Shell Tankstelle;Frauenberger Str. 127;Euskirchen;53879;;50.6654400;6.7789700
+
+2185;-;Postbank;Robert-Schumann-Str. 1;Viernheim;68519;;49.5267;8.56648
+
