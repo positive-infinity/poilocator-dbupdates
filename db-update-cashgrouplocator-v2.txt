@@ -1536,3 +1536,6 @@
 2185;-;Postbank;Robert-Schumann-Str. 1;Viernheim;68519;;49.5267;8.56648
 
 2186;+;Postbank;Neue Welt Straße 24;Laupheim;88471;im Globus, Mo-Fr 8-20 Uhr, Sa 8-19 Uhr;48.241434;9.865314
+
+2187;-;Shell Tankstelle;Industriestr. 5;Bad Oldesloe;23843;;53.8013400;10.3969100
+2188;+;Shell Tankstelle;Industriestr. 5;Bad Oldesloe;23843;;53.802270;10.385961
