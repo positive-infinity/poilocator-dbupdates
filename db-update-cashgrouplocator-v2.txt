@@ -1539,3 +1539,6 @@
 
 2187;-;Shell Tankstelle;Industriestr. 5;Bad Oldesloe;23843;;53.8013400;10.3969100
 2188;+;Shell Tankstelle;Industriestr. 5;Bad Oldesloe;23843;;53.802270;10.385961
+
+2189;-;Postbank;Schlachthofstr. 66;Koblenz;56073;;50.3633;7.57551
+2190;-;Commerzbank;Valentinskamp 91;Hamburg;20354;;53.556;9.98676
