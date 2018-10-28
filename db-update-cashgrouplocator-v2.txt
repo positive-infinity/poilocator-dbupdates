@@ -1544,3 +1544,5 @@
 2190;-;Commerzbank;Valentinskamp 91;Hamburg;20354;;53.556;9.98676
 
 2191;-;Postbank;Universitätsplatz 11;Magdeburg;39104;;52.1384;11.6391
+
+2192;+;Postbank;Elsa-Brändström-Straße 108;Halle;06130;;51.453991;11.972320
