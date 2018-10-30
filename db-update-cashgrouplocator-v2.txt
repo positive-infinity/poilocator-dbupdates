@@ -1546,3 +1546,5 @@
 2191;-;Postbank;Universitätsplatz 11;Magdeburg;39104;;52.1384;11.6391
 
 2192;+;Postbank;Elsa-Brändström-Straße 108;Halle;06130;;51.453991;11.972320
+
+2193;-;Deutsche Bank;Friedrichstraße 44;Berlin;10969;;52.507155;13.390648
