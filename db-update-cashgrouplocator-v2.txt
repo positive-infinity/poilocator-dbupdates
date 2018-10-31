@@ -1548,3 +1548,6 @@
 2192;+;Postbank;Elsa-Brändström-Straße 108;Halle;06130;;51.453991;11.972320
 
 2193;-;Deutsche Bank;Friedrichstraße 44;Berlin;10969;;52.507155;13.390648
+
+2194;-;Deutsche Bank;Hagenring 71-72;Braunschweig;38106;;52.2723;10.5375
+2195;+;Postbank;Mommstraße 15;St. Wendel;66606;;49.466450;7.166120
