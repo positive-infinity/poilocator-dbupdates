@@ -1551,3 +1551,5 @@
 
 2194;-;Deutsche Bank;Hagenring 71-72;Braunschweig;38106;;52.2723;10.5375
 2195;+;Postbank;Mommstraße 15;St. Wendel;66606;;49.466450;7.166120
+
+2196;-;Hypovereinsbank;Süderstr. 7;Albersdorf;25767;;54.1459;9.2842
