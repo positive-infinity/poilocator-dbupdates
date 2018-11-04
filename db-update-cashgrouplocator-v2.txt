@@ -1553,3 +1553,5 @@
 2195;+;Postbank;Mommstraße 15;St. Wendel;66606;;49.466450;7.166120
 
 2196;-;Hypovereinsbank;Süderstr. 7;Albersdorf;25767;;54.1459;9.2842
+
+2197;-;Postbank;Schifferstr. 16-18;Bremerhaven;27568;;53.5464;8.57452
