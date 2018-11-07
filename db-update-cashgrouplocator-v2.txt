@@ -1555,3 +1555,6 @@
 2196;-;Hypovereinsbank;Süderstr. 7;Albersdorf;25767;;54.1459;9.2842
 
 2197;-;Postbank;Schifferstr. 16-18;Bremerhaven;27568;;53.5464;8.57452
+
+2198;+;Postbank;Tamara-Danz-Straße;Berlin;10243;;52.506055;13.446885
+2199;-;Postbank;Poststr. 2;Wertheim;97877;;49.7621;9.51177
