@@ -1558,3 +1558,5 @@
 
 2198;+;Postbank;Tamara-Danz-Straße;Berlin;10243;;52.506055;13.446885
 2199;-;Postbank;Poststr. 2;Wertheim;97877;;49.7621;9.51177
+
+2200;-;Postbank;Am Neumarkt 40;Hamburg;22041;;53.575;10.0928
