@@ -1560,3 +1560,5 @@
 2199;-;Postbank;Poststr. 2;Wertheim;97877;;49.7621;9.51177
 
 2200;-;Postbank;Am Neumarkt 40;Hamburg;22041;;53.575;10.0928
+
+2201;-;Hypovereinsbank;Luitpoldstr. 9;Helmbrechts;95233;;50.2386;11.7164
