@@ -1562,3 +1562,5 @@
 2200;-;Postbank;Am Neumarkt 40;Hamburg;22041;;53.575;10.0928
 
 2201;-;Hypovereinsbank;Luitpoldstr. 9;Helmbrechts;95233;;50.2386;11.7164
+
+2202;+;Deutsche Bank;Am Rodelberg 10;Mainz;55131;;49.981391;8.268413
