@@ -1566,3 +1566,6 @@
 2202;+;Deutsche Bank;Am Rodelberg 10;Mainz;55131;;49.981391;8.268413
 
 2203;+;Postbank;Valentinskamp 89;Hamburg;20354;;53.555880;9.985453
+
+2204;-;Postbank;Valentinskamp 89;Hamburg;20354;;53.555880;9.985453
+2205;+;Postbank;Valentinskamp 88;Hamburg;20354;;53.555863;9.984977
