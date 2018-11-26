@@ -1569,3 +1569,5 @@
 
 2204;-;Postbank;Valentinskamp 89;Hamburg;20354;;53.555880;9.985453
 2205;+;Postbank;Valentinskamp 88;Hamburg;20354;;53.555863;9.984977
+
+2206;-;Deutsche Bank;Alte Münsterstr. 1-3;Greven;48268;;52.0921;7.61224
