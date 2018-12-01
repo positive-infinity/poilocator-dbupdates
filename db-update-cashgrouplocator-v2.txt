@@ -1573,3 +1573,6 @@
 2206;-;Deutsche Bank;Alte Münsterstr. 1-3;Greven;48268;;52.0921;7.61224
 
 2207;-;Commerzbank;Olgastr. 32;Stuttgart;70182;;48.7743;9.18532
+
+2208;-;Postbank;Heinrich-von-Bibra-Platz 5-7;Fulda;36067;;50.5557;9.68038
+2209;+;Postbank;Lauterburger Str. 11;Kandel;76870;im Edeka, Mo-Sa 8-21 Uhr;49.077683;8.204132
