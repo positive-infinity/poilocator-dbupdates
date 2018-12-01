@@ -1576,3 +1576,5 @@
 
 2208;-;Postbank;Heinrich-von-Bibra-Platz 5-7;Fulda;36067;;50.5557;9.68038
 2209;+;Postbank;Lauterburger Str. 11;Kandel;76870;im Edeka, Mo-Sa 8-21 Uhr;49.077683;8.204132
+
+2210;-;Postbank;Im Woog 2;Maximiliansau;76744;;49.039;8.29
