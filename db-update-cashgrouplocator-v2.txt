@@ -1582,3 +1582,7 @@
 2211;-;Postbank;Steinstraße 59;Aachen;52080;;50.779399;6.155432
 
 2212;-;Shell Tankstelle;Stolberger Str. 46;Aachen;52068;;50.7760100;6.1120400
+
+2213;-;Deutsche Bank;Breite Str. 41;Mainz;55124;;50.0031;8.21146
+2214;-;Postbank;Bahnhofstr. 27;Wesseling;50389;;50.824;6.98023
+2215;-;Deutsche Bank;Wilhelmshöher Allee 259;Kassel;34131;;51.3136;9.44397
