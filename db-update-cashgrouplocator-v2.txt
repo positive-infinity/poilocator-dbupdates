@@ -1586,3 +1586,7 @@
 2213;-;Deutsche Bank;Breite Str. 41;Mainz;55124;;50.0031;8.21146
 2214;-;Postbank;Bahnhofstr. 27;Wesseling;50389;;50.824;6.98023
 2215;-;Deutsche Bank;Wilhelmshöher Allee 259;Kassel;34131;;51.3136;9.44397
+
+2216;-;Shell Tankstelle;Mercedesstr. 41;Stuttgart;70372;;48.79597;9.22209
+2217;+;Postbank;Robert-Schuman-Straße 8a;Viernheim;68519;im Rhein-Neckar-Zentrum;49.526652;8.565686
+2218;-;Postbank;Velburger Str. 1;Nürnberg;90478;;49.4436;11.1058
