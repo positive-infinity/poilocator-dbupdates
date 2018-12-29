@@ -1597,3 +1597,5 @@
 
 2222;+;Postbank;Alt-Moabit 98;Berlin;10559;;52.524282;13.346325
 
+2223;-;Hypovereinsbank;Hüttenstr. 2-4;Kaufbeuren;87600;;47.9125;10.6348
+
