@@ -1590,3 +1590,8 @@
 2216;-;Shell Tankstelle;Mercedesstr. 41;Stuttgart;70372;;48.79597;9.22209
 2217;+;Postbank;Robert-Schuman-Straße 8a;Viernheim;68519;im Rhein-Neckar-Zentrum;49.526652;8.565686
 2218;-;Postbank;Velburger Str. 1;Nürnberg;90478;;49.4436;11.1058
+
+2219;-;Deutsche Bank;Willy-Brandt-Platz;Leipzig;04109;;51.3438;12.381
+2220;+;Deutsche Bank;Willy-Brandt-Platz 3;Leipzig;04109;;51.344409;12.381662
+2221;+;Commerzbank;Willy-Brandt-Platz 5;Leipzig;04109;;51.344076;12.381348
+
