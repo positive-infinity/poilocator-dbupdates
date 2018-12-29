@@ -1595,3 +1595,5 @@
 2220;+;Deutsche Bank;Willy-Brandt-Platz 3;Leipzig;04109;;51.344409;12.381662
 2221;+;Commerzbank;Willy-Brandt-Platz 5;Leipzig;04109;;51.344076;12.381348
 
+2222;+;Postbank;Alt-Moabit 98;Berlin;10559;;52.524282;13.346325
+
