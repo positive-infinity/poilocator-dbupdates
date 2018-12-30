@@ -1599,3 +1599,5 @@
 
 2223;-;Hypovereinsbank;Hüttenstr. 2-4;Kaufbeuren;87600;;47.9125;10.6348
 
+2224;+;Postbank;Eupener Str. 169;Aachen;52066;;50.752464;6.086129
+
