@@ -1601,3 +1601,6 @@
 
 2224;+;Postbank;Eupener Str. 169;Aachen;52066;;50.752464;6.086129
 
+2225;-;Postbank;Eupener Str. 169;Aachen;52066;;50.752464;6.086129
+2226;+;Postbank;Eupener Str. 169;Aachen;52066;08:30-13:30 & 14:30-18:00, Di+Sa nur 08:30-13:00, So geschlossen;50.752464;6.086129
+
