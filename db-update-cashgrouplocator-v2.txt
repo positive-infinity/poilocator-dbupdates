@@ -1606,3 +1606,5 @@
 
 2227;-;Commerzbank;Homberger Str. 49;Moers;47441;;51.4502;6.63479
 
+2228;-;Postbank;Bahnhofstr. 30;Bad Nenndorf;31542;;52.3384;9.37458
+
