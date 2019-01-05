@@ -1608,3 +1608,5 @@
 
 2228;-;Postbank;Bahnhofstr. 30;Bad Nenndorf;31542;;52.3384;9.37458
 
+2229;-;Deutsche Bank;Bismarckstr. 22;Öhringen;74613;;49.2019;9.50294
+
