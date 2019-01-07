@@ -1610,3 +1610,6 @@
 
 2229;-;Deutsche Bank;Bismarckstr. 22;Öhringen;74613;;49.2019;9.50294
 
+2230;-;Hypovereinsbank;Duracherstr. 35;Kempten - St. Mang;87437;;47.7126;10.3288
+2231;+;Commerzbank;An der Passage 1;Leipzig;04356;im Globus SB-Warenhaus;51.401017;12.395321
+
