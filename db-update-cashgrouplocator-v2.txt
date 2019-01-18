@@ -1613,3 +1613,9 @@
 2230;-;Hypovereinsbank;Duracherstr. 35;Kempten - St. Mang;87437;;47.7126;10.3288
 2231;+;Commerzbank;An der Passage 1;Leipzig;04356;im Globus SB-Warenhaus;51.401017;12.395321
 
+2232;-;Postbank;Marienplatz 7;Dorfen;84405;;48.2722;12.1492
+2233;-;Postbank;Großenhainer Str. 78b;Dresden;01129;;51.0814;13.7312
+2234;-;Postbank;Breite Str. 6-26;Köln;50667;;50.9397;6.95297
+2235;+;Postbank;Breite Str. 6-26;Köln;50667;Zugang über "Auf der Ruhr", ggü. Hotel Arde;50.9397;6.95297
+2236;+;Deutsche Bank;Neumarkt 2-4;Köln;50667;in der Neumarkt Galerie;50.937027;6.948074
+
