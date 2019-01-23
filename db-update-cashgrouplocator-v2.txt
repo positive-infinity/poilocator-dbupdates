@@ -1619,3 +1619,5 @@
 2235;+;Postbank;Breite Str. 6-26;Köln;50667;Zugang über "Auf der Ruhr", ggü. Hotel Arde;50.9397;6.95297
 2236;+;Deutsche Bank;Neumarkt 2-4;Köln;50667;in der Neumarkt Galerie;50.937027;6.948074
 
+2237;-;Deutsche Bank;Am Sandböhl 2;Groß-Gerau;64521;;49.9208;8.48328
+
