@@ -1621,3 +1621,10 @@
 
 2237;-;Deutsche Bank;Am Sandböhl 2;Groß-Gerau;64521;;49.9208;8.48328
 
+2238;-;Postbank;Rathausplatz 4;Bad Friedrichshall;74177;;49.228700;9.209934
+2239;-;Hypovereinsbank;Ludwigsplatz 8;Darmstadt;64283;;49.8705;8.65445
+2240;-;Postbank;Pontdriesch 4;Aachen;52062;;50.7795;6.08215
+2241;+;Postbank;Pontdriesch 4;Aachen;52062;Mo-Fr 09:30-18:00, Sa 09:30-14:00;50.7795;6.08215
+2242;-;Deutsche Bank;Osterstr. 5;Hamburg;20259;;53.5737;9.96202
+2243;-;Deutsche Bank;Wilhelm-Leuschner-Str. 15;Griesheim;64347;;49.8599;8.5578
+
