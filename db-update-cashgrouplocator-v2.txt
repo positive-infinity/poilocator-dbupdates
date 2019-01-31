@@ -1628,3 +1628,5 @@
 2242;-;Deutsche Bank;Osterstr. 5;Hamburg;20259;;53.5737;9.96202
 2243;-;Deutsche Bank;Wilhelm-Leuschner-Str. 15;Griesheim;64347;;49.8599;8.5578
 
+2244;-;Postbank;Lassallestr. 95;München;80995;;48.1979;11.5345
+
