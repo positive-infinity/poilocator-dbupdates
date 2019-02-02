@@ -1630,3 +1630,5 @@
 
 2244;-;Postbank;Lassallestr. 95;München;80995;;48.1979;11.5345
 
+2245;-;Deutsche Bank;Derschlager Str. 16;Meinerzhagen;58540;;51.1056;7.63897
+2246;+;Postbank;Lindenallee 26;Oberkrämer;16727;im Lottoladen, Mo-Fr 8-18 Uhr, Sa 8-12 Uhr;52.718064;13.100592
