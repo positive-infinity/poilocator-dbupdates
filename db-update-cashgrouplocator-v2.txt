@@ -1634,3 +1634,7 @@
 2246;+;Postbank;Lindenallee 26;Oberkrämer;16727;im Lottoladen, Mo-Fr 8-18 Uhr, Sa 8-12 Uhr;52.718064;13.100592
 
 2247;+;Commerzbank;Erfurter Str. 72;Erfurt;99095;;51.035214;11.003916
+
+2248;-;Hypovereinsbank;Hauptstr. 18;Jesteburg;21266;;53.3074;9.95478
+2249;-;Commerzbank;Zentralplatz;Koblenz;56068;;50.3583;7.59625
+2250;+;Commerzbank;Altlöhrtor 13-15;Koblenz;56068;;50.358748;7.594104
