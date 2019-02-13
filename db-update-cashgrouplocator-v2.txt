@@ -1638,3 +1638,8 @@
 2248;-;Hypovereinsbank;Hauptstr. 18;Jesteburg;21266;;53.3074;9.95478
 2249;-;Commerzbank;Zentralplatz;Koblenz;56068;;50.3583;7.59625
 2250;+;Commerzbank;Altlöhrtor 13-15;Koblenz;56068;;50.358748;7.594104
+
+2251;-;Commerzbank;Überseering 7;Hamburg;22297;;53.6024;10.0242
+2252;-;Postbank;Wilhelmstr. 35-37;Beckum;59269;;51.7569;8.04419
+2253;-;Commerzbank;Darmstädter Landstr. 7-9;Frankfurt;60594;;50.1034;8.69048
+2254;-;Deutsche Bank;Dreieichstr. 59;Frankfurt am Main;60594;;50.103;8.69079
