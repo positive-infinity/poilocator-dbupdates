@@ -1643,3 +1643,5 @@
 2252;-;Postbank;Wilhelmstr. 35-37;Beckum;59269;;51.7569;8.04419
 2253;-;Commerzbank;Darmstädter Landstr. 7-9;Frankfurt;60594;;50.1034;8.69048
 2254;-;Deutsche Bank;Dreieichstr. 59;Frankfurt am Main;60594;;50.103;8.69079
+
+2255;+;Postbank;Bodenbacher Str. 81a;Dresden;01277;im OBI-Markt;52.718064;13.100592
