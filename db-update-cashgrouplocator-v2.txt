@@ -1645,3 +1645,5 @@
 2254;-;Deutsche Bank;Dreieichstr. 59;Frankfurt am Main;60594;;50.103;8.69079
 
 2255;+;Postbank;Bodenbacher Str. 81a;Dresden;01277;im OBI-Markt;52.718064;13.100592
+
+2256;-;Deutsche Bank;Am Bahnhof 7;Erding;85435;;48.3041;11.9123
