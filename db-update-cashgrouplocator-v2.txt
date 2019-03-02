@@ -1652,3 +1652,5 @@
 2258;+;Deutsche Bank;Komödienstraße 8;Köln;50667;;50.941673;6.954099
 2259;-;Deutsche Bank;Oststr. 115;Duisburg;47057;;51.4281;6.78624
 2260;-;Commerzbank;Mülheimer Str. 129;Duisburg;47058;;51.433260;6.791377
+
+2261;-;Postbank;Bürgerm.-Henn-Straße 2;Hardheim;74736;nicht durchgehend geöffnet;49.610480;9.472864
