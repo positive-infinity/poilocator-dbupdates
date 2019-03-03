@@ -1654,3 +1654,5 @@
 2260;-;Commerzbank;Mülheimer Str. 129;Duisburg;47058;;51.433260;6.791377
 
 2261;-;Postbank;Bürgerm.-Henn-Straße 2;Hardheim;74736;nicht durchgehend geöffnet;49.610480;9.472864
+
+2262;+;Postbank;Haager Str. 48a;Dorfen;84405;in der Shell Tankstelle;48.267377;12.155045
