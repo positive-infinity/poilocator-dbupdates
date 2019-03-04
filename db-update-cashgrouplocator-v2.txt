@@ -1656,3 +1656,5 @@
 2261;-;Postbank;Bürgerm.-Henn-Straße 2;Hardheim;74736;nicht durchgehend geöffnet;49.610480;9.472864
 
 2262;+;Postbank;Haager Str. 48a;Dorfen;84405;in der Shell Tankstelle;48.267377;12.155045
+
+2263;-;Postbank;Sankt-Josefs-Kirchplatz 4;Münster;48153;;51.949648;7.62567
