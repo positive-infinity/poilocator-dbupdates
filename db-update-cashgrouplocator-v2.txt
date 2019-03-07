@@ -1661,3 +1661,5 @@
 
 2264;-;Postbank;Schulstraße 36a;Kehl;77694;;48.574766;7.810261
 2265;+;Postbank;Hauptstraße 95;Kehl;77694;;48.571934;7.814914
+
+2266;-;Deutsche Bank;Doberaner Platz;Rostock;18057;;54.0884;12.123
