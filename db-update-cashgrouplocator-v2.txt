@@ -1663,3 +1663,5 @@
 2265;+;Postbank;Hauptstraße 95;Kehl;77694;;48.571934;7.814914
 
 2266;-;Deutsche Bank;Doberaner Platz;Rostock;18057;;54.0884;12.123
+
+2267;-;Postbank;Pfarrer-Casper-Mayr-Platz 4;Kirchheim;85551;;48.1766;11.756
