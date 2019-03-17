@@ -1665,3 +1665,5 @@
 2266;-;Deutsche Bank;Doberaner Platz;Rostock;18057;;54.0884;12.123
 
 2267;-;Postbank;Pfarrer-Casper-Mayr-Platz 4;Kirchheim;85551;;48.1766;11.756
+
+2268;-;Hypovereinsbank;Neuerbstr. 54;Bamberg;96052;;49.9033;10.9063
