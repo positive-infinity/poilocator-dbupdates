@@ -1671,3 +1671,5 @@
 2269;-;Postbank;Bahnhofstr. 102;Ahaus;48683;;52.082155;7.014669
 
 2270;-;Postbank;Neuffenstr. 2;Wendlingen;73240;;48.6709;9.37832
+
+2271;-;Hypovereinsbank;Johannisstr. 7;Altenburg;04600;;50.9865;12.4332
