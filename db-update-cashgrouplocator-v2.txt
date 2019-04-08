@@ -1673,3 +1673,5 @@
 2270;-;Postbank;Neuffenstr. 2;Wendlingen;73240;;48.6709;9.37832
 
 2271;-;Hypovereinsbank;Johannisstr. 7;Altenburg;04600;;50.9865;12.4332
+
+2272;-;Postbank;Breiter Weg 128;Magdeburg;39104;;52.1318;11.6354
