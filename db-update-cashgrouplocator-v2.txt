@@ -1675,3 +1675,6 @@
 2271;-;Hypovereinsbank;Johannisstr. 7;Altenburg;04600;;50.9865;12.4332
 
 2272;-;Postbank;Breiter Weg 128;Magdeburg;39104;;52.1318;11.6354
+
+2273;-;Deutsche Bank;Friedrich-Breuer-Str. 86;Bonn;53225;;50.7398;7.12217
+2274;+;Shell Tankstelle;Mendener Str. 1;Menden;58710;;51.417279;7.828664
