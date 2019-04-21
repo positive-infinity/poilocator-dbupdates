@@ -1682,3 +1682,5 @@
 2275;-;Postbank;Karlsruher Str. 5;Dresden;01189;;51.018512;13.705689
 
 2276;-;Hypovereinsbank;Karl-Marx-Str. 9;Berlin;12149;;52.4857;13.4257
+
+2277;-;Postbank;Königstr. 68;Bad Bergzabern;76887;;49.1027;8.00061
