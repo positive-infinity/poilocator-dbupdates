@@ -1684,3 +1684,5 @@
 2276;-;Hypovereinsbank;Karl-Marx-Str. 9;Berlin;12149;;52.4857;13.4257
 
 2277;-;Postbank;Königstr. 68;Bad Bergzabern;76887;;49.1027;8.00061
+
+2278;-;Deutsche Bank;Ungererstr. 169;München;80805;;48.1775;11.6016
