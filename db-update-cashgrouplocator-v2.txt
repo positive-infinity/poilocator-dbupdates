@@ -1686,3 +1686,7 @@
 2277;-;Postbank;Königstr. 68;Bad Bergzabern;76887;;49.1027;8.00061
 
 2278;-;Deutsche Bank;Ungererstr. 169;München;80805;;48.1775;11.6016
+
+2279;-;Postbank;Industriestraße 6-8;Spenge;32139;Postfiliale im Edeka, Mo-Sa 8-18 Uhr;52.144561;8.492215
+2280;-;Deutsche Bank;Lange Str. 49;Spenge;32139;;52.1424;8.48291
+2281;-;Postbank;Hochzoller Str. 5;Augsburg;86163;;48.3541;10.9451
