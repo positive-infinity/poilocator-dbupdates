@@ -1692,3 +1692,5 @@
 2281;-;Postbank;Hochzoller Str. 5;Augsburg;86163;;48.3541;10.9451
 
 2282;-;Hypovereinsbank;Am Münchner Tor 1;München;80805;;48.1754;11.5894
+
+2283;-;Postbank;Fackenburger Allee 31;Lübeck;23554;;53.8713;10.6673
