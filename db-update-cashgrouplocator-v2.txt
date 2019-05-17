@@ -1694,3 +1694,7 @@
 2282;-;Hypovereinsbank;Am Münchner Tor 1;München;80805;;48.1754;11.5894
 
 2283;-;Postbank;Fackenburger Allee 31;Lübeck;23554;;53.8713;10.6673
+
+2284;+;Postbank;Hauptstraße 92;Tamm;71732;Mo-Fr 08:30-12:30, 14:30-18:00, Sa 08:30-12:30;48.921506;9.121807
+2285;+;Postbank;Dieringhauser Str. 149;Gummersbach;51645;im OBI-Markt;50.983572;7.519163
+2286;+;Postbank;Weiher-Passage 7;Wiehl;51674;;50.950491;7.548729
