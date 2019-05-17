@@ -1698,3 +1698,5 @@
 2284;+;Postbank;Hauptstraße 92;Tamm;71732;Mo-Fr 08:30-12:30, 14:30-18:00, Sa 08:30-12:30;48.921506;9.121807
 2285;+;Postbank;Dieringhauser Str. 149;Gummersbach;51645;im OBI-Markt;50.983572;7.519163
 2286;+;Postbank;Weiher-Passage 7;Wiehl;51674;;50.950491;7.548729
+
+2287;+;Postbank;Bissinger Str. 10;Tamm;71732;im EDEKA, Mo-Sa 8-22;48.922806;9.122747
