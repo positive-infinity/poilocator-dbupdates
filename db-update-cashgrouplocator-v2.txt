@@ -1700,3 +1700,8 @@
 2286;+;Postbank;Weiher-Passage 7;Wiehl;51674;;50.950491;7.548729
 
 2287;+;Postbank;Bissinger Str. 10;Tamm;71732;im EDEKA, Mo-Sa 8-22;48.922806;9.122747
+
+2288;-;Deutsche Bank;Marktstr. 23;Lohne;49393;;52.6656;8.23555
+2289;-;Postbank;Küstermeyerstr. 2-4;Lohne;49393;;52.6661;8.2329
+2290;-;Postbank;Weitlingstraße 36;Berlin;10317;nicht durchgehend geöffnet;52.507878;13.496774
+2291;-;Postbank;Weitlingstraße 36;Berlin;10317;;52.507756;13.496718
