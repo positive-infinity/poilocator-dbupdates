@@ -1705,3 +1705,6 @@
 2289;-;Postbank;Küstermeyerstr. 2-4;Lohne;49393;;52.6661;8.2329
 2290;-;Postbank;Weitlingstraße 36;Berlin;10317;nicht durchgehend geöffnet;52.507878;13.496774
 2291;-;Postbank;Weitlingstraße 36;Berlin;10317;;52.507756;13.496718
+
+2292;-;Postbank;Derschlager Str. 14;Meinerzhagen;58540;;51.1062;7.63862
+2293;-;Deutsche Bank;An der Spinnerei 8;Freital;01705;;50.9769;13.6232
