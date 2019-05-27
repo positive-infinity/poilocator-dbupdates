@@ -1708,3 +1708,6 @@
 
 2292;-;Postbank;Derschlager Str. 14;Meinerzhagen;58540;;51.1062;7.63862
 2293;-;Deutsche Bank;An der Spinnerei 8;Freital;01705;;50.9769;13.6232
+
+2294;-;Postbank;Max-Säume-Str. 33;Bremen;28327;;53.0737;8.926
+2295;-;Postbank;Gottesweg 19;Köln;50969;;50.9137;6.93378
