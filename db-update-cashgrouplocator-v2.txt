@@ -1713,3 +1713,5 @@
 2295;-;Postbank;Gottesweg 19;Köln;50969;;50.9137;6.93378
 
 2296;-;Deutsche Bank;Fischemäkerstraße 13;Goslar;38640;;51.906962;10.428417
+
+2297;-;Deutsche Bank;Badenstedter Str. 215;Hannover;30455;;52.3556;9.67143
