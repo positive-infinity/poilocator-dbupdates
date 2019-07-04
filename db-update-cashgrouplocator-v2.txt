@@ -1715,3 +1715,14 @@
 2296;-;Deutsche Bank;Fischemäkerstraße 13;Goslar;38640;;51.906962;10.428417
 
 2297;-;Deutsche Bank;Badenstedter Str. 215;Hannover;30455;;52.3556;9.67143
+
+2298;-;Deutsche Bank;Sundgauallee 116;Freiburg;79110;;48.012;7.80941
+2299;-;Commerzbank;Alte Elbgaustr. 14;Hamburg;22523;;53.6071;9.90325
+2300;-;Postbank;Poststr. 15;Rottenburg;72108;;48.4728;8.93557
+2301;-;Postbank;Hemmstr. 212-240;Bremen;28215;;53.0959;8.80977
+2302;-;Shell Tankstelle;Georgswerder Bogen 2;Hamburg;21109;;53.5186900;10.0168500
+2303;+;Commerzbank;Hofweg 96;Hamburg;22085;;53.577938;10.014624
+2304;-;Postbank;Ehrenfelsstr. 42-44;Berlin;10318;;52.482195;13.527037
+2305;-;Commerzbank;Lorscher Str. 8;Frankfurt;60489;;50.1259;8.6108
+2306;+;Commerzbank;Radilostraße 17;Frankfurt;60489;;50.124686;8.609918
+2307;-;Postbank;Lessing Str. 34;Saarbrücken;66121;;49.2292;7.0103
