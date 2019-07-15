@@ -1728,3 +1728,5 @@
 2307;-;Postbank;Lessing Str. 34;Saarbrücken;66121;;49.2292;7.0103
 
 2308;-;Postbank;Augustusplatz 1-5;Leipzig;04109;;51.339;12.3806
+
+2309;-;Postbank;Obere Marktstr. 6;Rodgau-Niederrode;63110;;49.9987;8.86631
