@@ -1730,3 +1730,33 @@
 2308;-;Postbank;Augustusplatz 1-5;Leipzig;04109;;51.339;12.3806
 
 2309;-;Postbank;Obere Marktstr. 6;Rodgau-Niederrode;63110;;49.9987;8.86631
+
+2310;-;Deutsche Bank;Bertold-Brecht-Str. 8;Cottbus;03050;;51.7285;14.3282
+2311;-;Postbank;Feilenstr. 10-12;Bielefeld;33602;;52.027461;8.5319
+2312;-;Postbank;Niehler Str. 276;Köln-Niehl;50735;;50.9731;6.96042
+2313;-;Postbank;Lehrer-Götz-Weg 2;München;81825;;48.123352;11.668465
+2314;+;Postbank;Kreillerstr. 210;München;81825;;48.121761;11.662265
+2315;-;Postbank;Wolfsberger Straße 15;Lüdinghausen;59348;;51.768630;7.443889
+2316;-;Postbank;Elsa-Brändström-Straße 108;Halle;06130;;51.453991;11.972320
+2317;-;Deutsche Bank;Steinweg 25;Halle (Saale);06110;;51.474521;11.970187
+2318;-;Postbank;Gabelsberger Str. 16;Hannover;30163;;52.3906;9.74674
+2319;-;Deutsche Bank;Saarbrückenstr. 54;Kiel;24114;;54.3118;10.1095
+2320;-;Deutsche Bank;Mühlendamm 1;Kiel;24113;;54.313647;10.100764
+2321;-;Shell Tankstelle;Kleverstr. 23;Moers;47441;;51.4534900;6.6377600
+2322;-;Commerzbank;Erlanger Str. 38;Fürth;90765;;49.4819;10.9989
+2323;-;Shell Tankstelle;Essener Str. 345;Oberhausen;46047;;51.4869400;6.8766200
+2324;-;Hypovereinsbank;Orleansplatz 3;München;81667;;48.128409;11.602567
+2325;-;Hypovereinsbank;Orleansplatz 3;München;81667;;48.1284;11.6025
+2326;-;Postbank;Am Marktplatz 9-10;Tauberbischofsheim;97941;;49.6232;9.6631
+2327;-;Deutsche Bank;Potsdamer Platz 11;Berlin;10785;;52.5088;13.3764
+2328;-;Commerzbank;Nordstr. 51;Beckum;59269;;51.758;8.04106
+2329;-;Deutsche Bank;Kaiserstr. 42 - 44;Landstuhl;66849;;49.4122;7.56945
+2330;-;Postbank;Gorsemannstr. 22;Bremen;28277;;53.0353;8.8262
+2331;-;Deutsche Bank;Rheinstr. 45-46;Berlin;12161;;52.4664;13.3302
+2332;-;Postbank;Andreas-Bräm-Str. 8;Neukirchen-Vluyn;47506;;51.4478;6.57849
+2333;-;Postbank;Hindenburgplatz 16;Hildesheim;31134;;52.1497;9.95463
+2334;-;Shell Tankstelle;Sudenhofer Straße 2 ;Hagenow;19230;;53.44386;11.21256
+2335;-;Postbank;Philipp-Schnell-Straße 45;Frankfurt am Main;60437;Mo-Fr 07:00-13:00, 14:30-18:00, Sa: 07:00-13:00;50.182830;8.690787
+2336;-;Postbank;Hindenburgdamm 1;Berlin;12203;;52.4314;13.3102
+2337;-;Deutsche Bank;Takustraße 39;Berlin;14195;im Seminaris CampusHotel (Zugang Innenhof);52.457252;13.293898
+2338;-;Deutsche Bank;Karl-Liebknecht-Str. 11-13;Potsdam;14482;;52.3929;13.0922
