@@ -1760,3 +1760,6 @@
 2336;-;Postbank;Hindenburgdamm 1;Berlin;12203;;52.4314;13.3102
 2337;-;Deutsche Bank;Takustraße 39;Berlin;14195;im Seminaris CampusHotel (Zugang Innenhof);52.457252;13.293898
 2338;-;Deutsche Bank;Karl-Liebknecht-Str. 11-13;Potsdam;14482;;52.3929;13.0922
+
+2339;-;Deutsche Bank;Nicolaistr. 2;Gardelegen;39638;;52.5267;11.392
+2340;-;Postbank;Lankumer Ring 15-17;Cloppenburg;49661;;52.8386;8.06683
