@@ -1763,3 +1763,5 @@
 
 2339;-;Deutsche Bank;Nicolaistr. 2;Gardelegen;39638;;52.5267;11.392
 2340;-;Postbank;Lankumer Ring 15-17;Cloppenburg;49661;;52.8386;8.06683
+
+2341;-;Postbank;Marktplatz 8;Barby (Elbe);39249;Postfiliale SSB Wiesner, u.U. nicht durchgängig geöffnet;51.966680;11.886505
