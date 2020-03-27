@@ -1769,3 +1769,7 @@
 2342;-;Shell Tankstelle;Stuttgarter Str. 71;Vaihingen;71665;;48.9281900;8.9639100
 2343;-;Commerzbank;Bahnhofstr. 90;Mühlacker;75417;;48.9515;8.84326
 2344;+;Commerzbank;Bahnhofstr. 118;Mühlacker;75417;;48.952311;8.845683
+
+2345;-;Postbank;Isaac-Bürger-Str. 1;Siegburg;53721;;50.7993;7.18601
+2346;-;Shell Tankstelle;St. Augustiner Str. 118;Bonn;53225;;50.7466600;7.1241600
+2347;+;Shell Tankstelle;St. Augustiner Str. 118;Bonn;53225;;50.745800;7.124365
