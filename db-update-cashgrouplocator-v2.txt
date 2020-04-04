@@ -1773,3 +1773,6 @@
 2345;-;Postbank;Isaac-Bürger-Str. 1;Siegburg;53721;;50.7993;7.18601
 2346;-;Shell Tankstelle;St. Augustiner Str. 118;Bonn;53225;;50.7466600;7.1241600
 2347;+;Shell Tankstelle;St. Augustiner Str. 118;Bonn;53225;;50.745800;7.124365
+
+2348;-;Deutsche Bank;Feidikstr. 1;Hamm;59065;;51.6758;7.82154
+2349;+;Postbank;Richard-Matthaei-Platz 1;Hamm;59065;;51.681420;7.811816
