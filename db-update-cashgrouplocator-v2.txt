@@ -1776,3 +1776,5 @@
 
 2348;-;Deutsche Bank;Feidikstr. 1;Hamm;59065;;51.6758;7.82154
 2349;+;Postbank;Richard-Matthaei-Platz 1;Hamm;59065;;51.681420;7.811816
+
+2350;-;Deutsche Bank;Ahlener Str. 103d;Hamm;59073;;51.7062;7.83132
