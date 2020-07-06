@@ -1778,3 +1778,9 @@
 2349;+;Postbank;Richard-Matthaei-Platz 1;Hamm;59065;;51.681420;7.811816
 
 2350;-;Deutsche Bank;Ahlener Str. 103d;Hamm;59073;;51.7062;7.83132
+
+2351;-;Postbank;Sachsenweg 22;Hamm-Heessen;59073;;51.7032;7.81721
+2352;-;Deutsche Bank;Alter Markt 17;Jever;26441;;53.5734;7.90437
+2353;-;Postbank;Joh.-Friedrich-A.-Borsig-Str.;Bernau;16321;;52.6859;13.5643
+2354;-;Deutsche Bank;Königsbrücker Landstr. 21;Dresden;01109;;51.1106;13.7757
+2355;-;Deutsche Bank;Neustädter Straße 1;Grömitz;23743;;54.151746;10.955333
