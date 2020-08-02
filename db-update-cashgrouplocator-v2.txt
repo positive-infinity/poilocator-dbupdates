@@ -1784,3 +1784,8 @@
 2353;-;Postbank;Joh.-Friedrich-A.-Borsig-Str.;Bernau;16321;;52.6859;13.5643
 2354;-;Deutsche Bank;Königsbrücker Landstr. 21;Dresden;01109;;51.1106;13.7757
 2355;-;Deutsche Bank;Neustädter Straße 1;Grömitz;23743;;54.151746;10.955333
+
+2356;-;Deutsche Bank;Königsbrunner Str. 75;Augsburg;86179;;48.2982;10.9004
+2357;-;Postbank;Bahnhofsplatz 1;Oranienburg;16515;;52.7541;13.2484
+2358;+;Postbank;Bernauer Str. 51;Oranienburg;16515;;52.756397;13.245138
+2359;-;Postbank;Hansastr. 131;Krefeld;47798;;51.3258;6.56601
