@@ -1789,3 +1789,8 @@
 2357;-;Postbank;Bahnhofsplatz 1;Oranienburg;16515;;52.7541;13.2484
 2358;+;Postbank;Bernauer Str. 51;Oranienburg;16515;;52.756397;13.245138
 2359;-;Postbank;Hansastr. 131;Krefeld;47798;;51.3258;6.56601
+
+2360;-;Deutsche Bank;Bahnhofstr. 5;Neumarkt i. d. OPf.;92318;;49.2764;11.4598
+2361;-;Shell Tankstelle;Richard-Boljahn Allee 2;Bremen;28329;;53.0825100;8.8770200
+2362;-;Shell Tankstelle;Richard-Boljahn Allee 1;Bremen;28329;;53.0820900;8.8769500
+2363;-;Commerzbank;Am Leipziger Turm 7;Halle;06108;;51.4794;11.9762
