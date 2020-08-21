@@ -1794,3 +1794,5 @@
 2361;-;Shell Tankstelle;Richard-Boljahn Allee 2;Bremen;28329;;53.0825100;8.8770200
 2362;-;Shell Tankstelle;Richard-Boljahn Allee 1;Bremen;28329;;53.0820900;8.8769500
 2363;-;Commerzbank;Am Leipziger Turm 7;Halle;06108;;51.4794;11.9762
+
+2364;-;Commerzbank;Waisenhausring 16;Halle;06108;;51.4802;11.9761
