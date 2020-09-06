@@ -1796,3 +1796,5 @@
 2363;-;Commerzbank;Am Leipziger Turm 7;Halle;06108;;51.4794;11.9762
 
 2364;-;Commerzbank;Waisenhausring 16;Halle;06108;;51.4802;11.9761
+
+2365;-;Deutsche Bank;Güntterstr. 21;Marbach;71672;;48.9406;9.26246
