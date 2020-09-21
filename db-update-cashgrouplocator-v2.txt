@@ -1798,3 +1798,5 @@
 2364;-;Commerzbank;Waisenhausring 16;Halle;06108;;51.4802;11.9761
 
 2365;-;Deutsche Bank;Güntterstr. 21;Marbach;71672;;48.9406;9.26246
+
+2366;-;Shell Tankstelle;Müllheimer Str. 19;Neuenburg;79395;;47.8131100;7.5645300
