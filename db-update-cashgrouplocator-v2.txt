@@ -1802,3 +1802,5 @@
 2366;-;Shell Tankstelle;Müllheimer Str. 19;Neuenburg;79395;;47.8131100;7.5645300
 
 2367;-;Postbank;Georg-Schumann-Straße 227;Leipzig;04159;in der Postfiliale, ggf. nicht durchgängig erreichbar;51.367203;12.344335
+
+2368;-;Commerzbank;Hoheluftchaussee 76;Hamburg;20253;;53.5829;9.97106
