@@ -1804,3 +1804,8 @@
 2367;-;Postbank;Georg-Schumann-Straße 227;Leipzig;04159;in der Postfiliale, ggf. nicht durchgängig erreichbar;51.367203;12.344335
 
 2368;-;Commerzbank;Hoheluftchaussee 76;Hamburg;20253;;53.5829;9.97106
+
+2369;-;Postbank;Debyestraße 20;Aachen;52078;im OBI, Mo-Sa 8-20 Uhr;50.757680;6.152539
+2370;-;Commerzbank;Hauptstr. 67;Eppelheim;69214;;49.4012;8.63047
+2371;-;Commerzbank;Berliner Str. 25;Hennigsdorf;16761;;52.6424;13.2059
+2372;-;Hypovereinsbank;Markt 15;Friedrichstadt;25840;;54.3758;9.08781
