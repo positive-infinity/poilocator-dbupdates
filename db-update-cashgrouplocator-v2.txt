@@ -1811,3 +1811,5 @@
 2372;-;Hypovereinsbank;Markt 15;Friedrichstadt;25840;;54.3758;9.08781
 
 2373;-;Hypovereinsbank;Östliche Promenade 2-4;Weißenhorn;89264;;48.3052;10.1593
+
+2374;-;Shell Tankstelle;Wilhelmstr. 3;Freiburg;79098;;47.9930600;7.8428400
