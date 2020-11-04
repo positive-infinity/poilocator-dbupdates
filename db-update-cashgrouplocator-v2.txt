@@ -1813,3 +1813,10 @@
 2373;-;Hypovereinsbank;Östliche Promenade 2-4;Weißenhorn;89264;;48.3052;10.1593
 
 2374;-;Shell Tankstelle;Wilhelmstr. 3;Freiburg;79098;;47.9930600;7.8428400
+
+2375;-;Shell Tankstelle;Hans-Böckler-Straße;Gütersloh;33334;;51.88847;8.35846
+2376;-;Commerzbank;Holtenauer Str. 94;Kiel;24105;;54.3344;10.1333
+2377;-;Postbank;Wrangelstr. 54;Kiel;24105;;54.3394;10.1358
+2378;-;Postbank;Prinz-Heinrich-Str. 20;Kiel;24106;;54.3618;10.1272
+2379;+;Postbank;Prinz-Heinrich-Str. 20;Kiel;24106;Mo-Sa 7-22 Uhr;54.3618;10.1272
+2380;-;Hypovereinsbank;Utzschneiderstr. 7;München;80469;;48.1339;11.576
