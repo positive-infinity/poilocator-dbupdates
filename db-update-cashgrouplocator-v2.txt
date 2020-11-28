@@ -1820,3 +1820,5 @@
 2378;-;Postbank;Prinz-Heinrich-Str. 20;Kiel;24106;;54.3618;10.1272
 2379;+;Postbank;Prinz-Heinrich-Str. 20;Kiel;24106;Mo-Sa 7-22 Uhr;54.3618;10.1272
 2380;-;Hypovereinsbank;Utzschneiderstr. 7;München;80469;;48.1339;11.576
+
+2381;-;Postbank;Ernst-Thälmann-Str. 4-5;Rostock;18069;;54.0988;12.0788
