@@ -1822,3 +1822,6 @@
 2380;-;Hypovereinsbank;Utzschneiderstr. 7;München;80469;;48.1339;11.576
 
 2381;-;Postbank;Ernst-Thälmann-Str. 4-5;Rostock;18069;;54.0988;12.0788
+
+2382;-;Postbank;Germaniastraße 18;Lehrte;31275;im OBI, Mo-Sa 8-20 Uhr;52.374731;9.984136
+2383;-;Commerzbank;Burgdorfer Str. 10b;Lehrte;31275;;52.3769;9.97612
