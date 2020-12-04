@@ -1825,3 +1825,6 @@
 
 2382;-;Postbank;Germaniastraße 18;Lehrte;31275;im OBI, Mo-Sa 8-20 Uhr;52.374731;9.984136
 2383;-;Commerzbank;Burgdorfer Str. 10b;Lehrte;31275;;52.3769;9.97612
+
+2384;-;Postbank;Oranienburger Str. 80;Berlin;13437;;52.5935;13.3337
+2385;-;Commerzbank;Marktplatz 5;Langenhagen;30853;;52.4383;9.73951
