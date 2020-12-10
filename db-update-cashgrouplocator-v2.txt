@@ -1828,3 +1828,5 @@
 
 2384;-;Postbank;Oranienburger Str. 80;Berlin;13437;;52.5935;13.3337
 2385;-;Commerzbank;Marktplatz 5;Langenhagen;30853;;52.4383;9.73951
+
+2386;-;Commerzbank;Sennestadtring 1;Bielefeld;33689;;51.945517;8.582075
