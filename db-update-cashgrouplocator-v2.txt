@@ -1830,3 +1830,5 @@
 2385;-;Commerzbank;Marktplatz 5;Langenhagen;30853;;52.4383;9.73951
 
 2386;-;Commerzbank;Sennestadtring 1;Bielefeld;33689;;51.945517;8.582075
+
+2387;-;Commerzbank;Friedrichstr. 7;Bühl;77815;;48.6976;8.13493
