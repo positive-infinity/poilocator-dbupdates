@@ -1836,3 +1836,5 @@
 2388;-;Postbank;Wollgrasweg 17;Stuttgart-Hohenheim;70599;;48.7101;9.20233
 
 2389;-;Postbank;Jakobstr. 57;Bergisch Gladbach;51465;;50.9919;7.12075
+
+2390;-;Commerzbank;Kemnader Str. 331-333;Bochum;44797;;51.4288;7.24512
