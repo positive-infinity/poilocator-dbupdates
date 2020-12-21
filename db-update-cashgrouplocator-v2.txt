@@ -1832,3 +1832,5 @@
 2386;-;Commerzbank;Sennestadtring 1;Bielefeld;33689;;51.945517;8.582075
 
 2387;-;Commerzbank;Friedrichstr. 7;Bühl;77815;;48.6976;8.13493
+
+2388;-;Postbank;Wollgrasweg 17;Stuttgart-Hohenheim;70599;;48.7101;9.20233
