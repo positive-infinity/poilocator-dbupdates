@@ -1838,3 +1838,9 @@
 2389;-;Postbank;Jakobstr. 57;Bergisch Gladbach;51465;;50.9919;7.12075
 
 2390;-;Commerzbank;Kemnader Str. 331-333;Bochum;44797;;51.4288;7.24512
+
+2391;-;Postbank;Bahnhofplatz 1;Schweinfurt;97424;;50.0197;10.2785
+2392;-;Postbank;Bürgermeister-Weigand-Str. 6;Gerolzhofen;97447;;49.901;10.3473
+2393;-;Hypovereinsbank;Eversbuschstr. 87;München;80999;;48.1883;11.4605
+2394;-;Commerzbank;Düsseldorfer Landstr. 171-173;Duisburg;47249;;51.3769;6.75933
+2395;-;Commerzbank;Brückstr. 18;Essen;45239;;51.388;7.0014
