@@ -1844,3 +1844,5 @@
 2393;-;Hypovereinsbank;Eversbuschstr. 87;München;80999;;48.1883;11.4605
 2394;-;Commerzbank;Düsseldorfer Landstr. 171-173;Duisburg;47249;;51.3769;6.75933
 2395;-;Commerzbank;Brückstr. 18;Essen;45239;;51.388;7.0014
+
+2396;-;Commerzbank;Langemarckstr. 131-133;Bremen;28199;;53.0715;8.78959
