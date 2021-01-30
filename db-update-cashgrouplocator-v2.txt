@@ -1846,3 +1846,6 @@
 2395;-;Commerzbank;Brückstr. 18;Essen;45239;;51.388;7.0014
 
 2396;-;Commerzbank;Langemarckstr. 131-133;Bremen;28199;;53.0715;8.78959
+
+2397;-;Commerzbank;Hugenottenstr. 88;Friedrichsdorf;61381;;50.2567;8.64125
+2398;-;Commerzbank;Römerstr. 84;Bad Ems;56130;;50.3341;7.7153
