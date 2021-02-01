@@ -1849,3 +1849,5 @@
 
 2397;-;Commerzbank;Hugenottenstr. 88;Friedrichsdorf;61381;;50.2567;8.64125
 2398;-;Commerzbank;Römerstr. 84;Bad Ems;56130;;50.3341;7.7153
+
+2399;-;Postbank;Hauptstr. 28a;Neubiberg;85579;;48.0751;11.6655
