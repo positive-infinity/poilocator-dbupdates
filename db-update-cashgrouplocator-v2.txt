@@ -1851,3 +1851,5 @@
 2398;-;Commerzbank;Römerstr. 84;Bad Ems;56130;;50.3341;7.7153
 
 2399;-;Postbank;Hauptstr. 28a;Neubiberg;85579;;48.0751;11.6655
+
+2400;-;Postbank;Unterstr. 14;Bochum;44892;;51.4737;7.32255
