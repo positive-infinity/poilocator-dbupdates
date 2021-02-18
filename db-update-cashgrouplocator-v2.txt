@@ -1853,3 +1853,6 @@
 2399;-;Postbank;Hauptstr. 28a;Neubiberg;85579;;48.0751;11.6655
 
 2400;-;Postbank;Unterstr. 14;Bochum;44892;;51.4737;7.32255
+
+2401;-;Postbank;Julius-Leber-Ring 5a;Erfurt;99087;;51.0172;11.0213
+2402;+;Postbank;Bundesallee 104-105;Berlin;12161;im basic Supermarkt;52.46563390933288;13.328708813307799
