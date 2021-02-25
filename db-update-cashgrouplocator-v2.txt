@@ -1856,3 +1856,5 @@
 
 2401;-;Postbank;Julius-Leber-Ring 5a;Erfurt;99087;;51.0172;11.0213
 2402;+;Postbank;Bundesallee 104-105;Berlin;12161;im basic Supermarkt;52.46563390933288;13.328708813307799
+
+2403;-;Commerzbank;Wartburgstr. 1;Bremen;28217;;53.0936;8.78919
